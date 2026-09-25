@@ -5,7 +5,7 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **20 verified examples**, with sources reviewed through **2026-09-25**. Items are shown in editorial order without preset categories.
+The collection currently contains **32 verified examples**, with sources reviewed through **2026-09-25**. Items are shown in editorial order without preset categories.
 
 <a id="midnight-seoul-fashion-film"></a>
 
@@ -425,6 +425,597 @@ An interactive world pipeline turns each autonomous decision into video, produci
 **Shared by:** [gokaygokay](<https://x.com/gokayfem>)
 
 [Original post on X](<https://x.com/gokayfem/status/2101022590722810271>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#city-on-a-whale-decision-game>)
+
+<a id="billboard-paint-city-flight"></a>
+
+## Billboard Paint City Flight
+
+[![Billboard paint forms flying through a cinematic city video preview](<https://pbs.twimg.com/amplify_video_thumb/2101177717991542784/img/OeCygLAXPaxVoOQu.jpg>)](<https://x.com/ai_lifehack55/status/2101177915849539729>)
+
+Three heavy paint forms leave a billboard, race through a city, then restore the original printed design in six timed shots.
+
+**Model:** MiniMax H3
+
+```text
+[REFERENCE]
+Reference Image: image1
+この画像を唯一のビジュアルアンカーとして使用する。
+MAIN_BILLBOARD：画面中央寄りにある、最も大きな全身人物の縦型広告。
+BILLBOARD_PRINT：MAIN_BILLBOARDに平面印刷された人物、衣装、背景ペイントを含む広告図柄全体。
+REAL_PERSON：作業台に実在している人物。BILLBOARD_PRINTの人物と同一人物だが、現実空間に存在する別の姿。
+SIDE_ADS：MAIN_BILLBOARD以外の左右および遠景の広告。
+
+[CONDITION]
+実写映画のようなフォトリアル映像。人物、衣装、都市、広告、作業台、照明、色調、画風は参照画像に従う。
+アスペクト比1:1、長さ15秒。
+REAL_PERSON、作業台、SIDE_ADS、都市構造は全15秒を通して維持する。BILLBOARD_PRINTだけはShot 2で一時的に消失し、Shot 5で復元する。消失前と復元後の人物、衣装、背景デザインは参照画像から変更しない。
+夕焼けから夜へ移る直前の時間帯を維持し、車のライト、ビルの窓、店舗照明、街路灯は最初から点灯している。
+ペイントの色はBILLBOARD_PRINTに実際に含まれる配色から抽出する。
+主役は、厚み、面積、重量感を持つ3つの幅広い高粘度液体ペイント。濡れた顔料の光沢を持ち、最大時には画面の4分の1から半分を占める。液体の塊、厚いブラシ面、大きな円弧、立体的な回転形状へ連続変形する。
+最初の1フレームは参照画像と同じ構図から開始する。最後は参照画像に近い全景へ戻る。
+
+[SHOT FLOW]
+
+[Shot 1] At 0.0〜1.2秒
+START：最初のフレームは参照画像と同じカメラ位置、画角、構図、遠近感から開始する。人物と各広告の位置、大きさ、顔、髪、衣装、ポーズ、都市構造を変更しない。
+MAIN EVENT：その固定された構図から、カメラがMAIN_BILLBOARDへ向かってごくわずかに直進する。左右移動、回り込み、引き、別角度への再構成は行わない。
+END：MAIN_BILLBOARD全体、BILLBOARD_PRINT、REAL_PERSON、作業台、SIDE_ADS、大通りの位置関係を保ったまま、開始時よりわずかにMAIN_BILLBOARDへ近づく。
+
+[Shot 2] At 1.2〜3.5秒
+START：BILLBOARD_PRINTの人物と背景は、MAIN_BILLBOARDの平面上にある静止した印刷のまま存在する。REAL_PERSONは作業台で自然に立ち、スプレー缶を下げて持つ。
+MAIN EVENT：MAIN_BILLBOARDの矩形内だけで、BILLBOARD_PRINT全体が平面的な顔料となって高速で渦を巻く。人物、顔、髪、衣装、背景は個別の物体にならず、平面画像のまま渦へ溶け込む。渦は白い下地を露出しながら広告面から立体的にせり出す。平面的な女性像を含む最後の図柄が消えるのと同時に、ペイントと広告面の接点が完全に離れる。その瞬間にMAIN_BILLBOARD全面が無地の白となり、分離したペイントが3つの厚く幅広い液体の塊へ分かれて都市側へ一気に飛び出す。
+END：3つのペイントは都市側へ放出され、背後には人物像も背景図柄も残っていない、全面が無地の白いMAIN_BILLBOARDが明確に見える。
+
+[Shot 3] At 3.5〜6.3秒
+START：3つの幅広いペイントが、白くなったMAIN_BILLBOARDから都市へ向かって高速で進む。
+MAIN EVENT：カメラは一本を後方から追い続けず、ペイントの下をくぐり、色面の間を突破してから大通り上空へ急降下する。街灯や車の少し上を高速で駆け抜け、3つのペイントが左右へ切り返しながらSIDE_ADSとビル間空間をかすめる。通過した広告、窓、店舗照明、街路灯の光沢と明るさが進行方向へ連鎖的に強まる。
+END：カメラとペイントはMAIN_BILLBOARDへ戻らず、高層ビル壁面へ向かう。
+
+[Shot 4] At 6.3〜8.7秒
+START：3つのペイントが高層ビル壁面の直前へ到達する。
+MAIN EVENT：ペイントが重力に逆らって壁面を一気に駆け上がり、カメラも壁面すれすれを高速で垂直上昇する。ビル上部で約90度バンクして角を鋭く回り込み、その先で3つの厚いペイントが互いに回転しながら、ビル間いっぱいに広がる巨大な立体回転構造を形成する。中央には明確な通過空間があり、カメラは減速せず、その中心へ正面から突入して完全に突破する。
+END：カメラが立体回転構造の中心を抜け、都市上空にMAIN_BILLBOARDへ戻る進行方向が開く。
+
+[Shot 5] At 8.7〜12.8秒
+START：同じ進行方向を維持したまま、一度だけ少し近い画角へ切り替える。遠方を巡った3つのペイントがMAIN_BILLBOARD前方へ高速で戻る。
+MAIN EVENT：3つの厚いペイントが大きく広がり、立体交差と巨大な円弧を作りながら、無地の白いMAIN_BILLBOARDへ同時に激突する。衝突したペイントが広告面全体へ勢いよく広がり、BILLBOARD_PRINTの背景、衣装、人物像を平面的な印刷として連続的に再構成する。
+END：MAIN_BILLBOARDが参照画像の完成した広告図柄へ戻る。BILLBOARD_PRINTの人物は平面的な静止広告として完成し、動かない。
+
+[Shot 6] At 12.8〜15.0秒
+START：復元されたMAIN_BILLBOARDと作業台のREAL_PERSONを同じ画面内に見せる。
+MAIN EVENT：REAL_PERSONは立ち位置と姿勢を保ったまま、復元されたMAIN_BILLBOARDへ顔と視線を自然に向ける。髪と衣装だけが残った風圧でわずかに揺れる。カメラは参照画像の構図へ近づく方向に、ゆっくりわずかに引く。
+END：MAIN_BILLBOARD、REAL_PERSON、作業台、SIDE_ADS、右奥へ続く大通り、点灯した夕方の都市を一画面に収める。ペイントは広告面へ完全に定着し、微細な顔料粒子だけを残して、完成全景を約0.8秒保持する。
+
+[SOUND]
+最初から最後まで音量を大きく変えない、重量感のあるシネマティックBGM。低いベースパルスと簡潔なパーカッションを使用する。
+厚い絵の具が渦を巻く流体音、重量感のあるwhoosh、低空ラッシュの風切り音、壁面急上昇音、立体回転構造の内部音、突破と広告衝突の衝撃音、都市照明の微細な電子音、最後の顔料粒子のきらめきを加える。効果音はBGMより小さくする。
+歌、セリフ、ナレーションなし。
+
+[NEGATIVE]
+ペイントを布、衣装、花びら、リボン、細い糸、ひも、ワイヤー、コード、発光帯、煙だけの表現にせず、一本の細い形を長く追跡しない。
+BILLBOARD_PRINTの人物や衣装を立体化して広告外へ出さない。REAL_PERSONは全15秒間作業台に留まり、ペイントを発生させず、スプレー噴射、ダンス、激しい身振りを行わない。
+MAIN_BILLBOARDをフェード、暗転、瞬間的な置換で白化・復元しない。人物像や図柄が残ったままペイントを外へ出さない。
+顔や都市を無秩序な飛沫で覆わず、文字、ロゴ、字幕、透かし、新しい人物、工事用重機を追加しない。
+```
+
+### How to adapt it
+
+Replace image1 with a billboard scene that clearly separates the printed figure, real person and surrounding ads. Keep the six-shot disappearance, city flight and restoration arc.
+
+**Shared by:** [AIライフハック](<https://x.com/ai_lifehack55>)
+
+[Original post on X](<https://x.com/ai_lifehack55/status/2101177915849539729>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#billboard-paint-city-flight>)
+
+<a id="character-fast-cut-montage"></a>
+
+## Character Fast Cut Montage
+
+[![Character Fast Cut Montage video preview](<https://pbs.twimg.com/amplify_video_thumb/2101236031156625408/img/solNt5zugLiJKP2w.jpg>)](<https://x.com/aimikoda/status/2101236672725757958>)
+
+Thirty-plus hard cuts carry one character action across detail, portrait and full-body angles while preserving identity and momentum.
+
+**Model:** MiniMax H3
+
+```text
+Create a fast, densely cut character edit using the character in @[character ref]. Preserve their identity, proportions, outfit, and original rendering style. Let their appearance and attitude determine the setting, movement, lighting, and music. Open with their strongest gesture already underway. Build around one distinctive action, carrying its motion across cuts so each new angle advances it. Snap between extreme details, expressive close-ups, and full-body movement. Use at least 30 hard cuts in accelerating bursts, sudden changes in framing, and whip pans that land directly on the next action. Match movement direction across shots to keep the character readable at speed. Synchronize cuts with driving percussion, sharp sound accents, and sounds drawn from the character’s materials. Keep momentum continuous through the payoff, ending sharply on the strongest pose without lingering. Avoid unrelated props, invented powers, and costume changes.
+```
+
+### How to adapt it
+
+Supply an original or licensed character reference, choose one signature action and let the character's materials determine the sound accents. Preserve movement direction across the cuts.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2101236672725757958>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-fast-cut-montage>)
+
+<a id="sangre-seca-impossible-wildlife"></a>
+
+## Sangre Seca Impossible Wildlife
+
+[![Sangre Seca impossible wildlife video preview](<https://pbs.twimg.com/amplify_video_thumb/2101589624615485440/img/wGZC1kTMoQf3kr8k.jpg>)](<https://x.com/MrDasCreates/status/2101589965557911907>)
+
+Four structured JSON prompts build a coherent wildlife reel of invented animals sharing one photoreal pink salt-lagoon habitat.
+
+**Model:** MiniMax H3
+
+### Saltmantle Titan · `en`
+
+```text
+{
+  "archetype": "Cinematic Narrative",
+  "duration": "5s",
+  "prompt": {
+    "concept": {
+      "title": "SANGRE SECA — Saltmantle Titan",
+      "description": "Photoreal 5-second wildlife shot. A saltmantle titan, a low heavy tortoise the size of a small car, crawls the wet crust at the pink lagoon edge. Shell is a living gypsum plate field, pale and cracked, with thin pink algal veins in the sutures. Four pillar legs leave deep wet prints. It pauses and a sheet of brine sheets off the shell. Medium-wide, shell and weight readable. White dune behind. Natural algal pink like Las Coloradas, not neon.",
+      "duration": "5-second lateral crawl"
+    },
+    "camera_direction": {
+      "shot_type": "Continuous medium-wide low lateral track",
+      "forbidden": ["No cuts", "No extreme face close-up", "No orbit spin", "No scene change"],
+      "camera_journey": "Start three-quarter rear as the titan crawls left to right on wet crust. Track two slow steps. Hold as brine sheets off the shell."
+    },
+    "sound": {
+      "music": false,
+      "only_diegetic_ambience": true,
+      "bed": "Heavy plates grinding crust, wet slosh, one slow exhale. No music, no score."
+    },
+    "visual_style": {
+      "overall": "IMAX wildlife, hard sun, 35mm grain. Creature photographed in a real pigment lake.",
+      "inspired_by": ["Galapagos tortoise", "salt pan crust", "Las Coloradas"],
+      "color_palette": ["pale gypsum shell", "algal pink veins", "wet dark legs", "white dune"],
+      "materials_and_texture": "Cracked mineral plates, wet mud on claws, real drip, film grain."
+    },
+    "storyboard": {
+      "beats": [
+        {"id": "01", "time": "0-2.5s", "description": "Titan crawls two steps. Shell plates and pink suture veins readable."},
+        {"id": "02", "time": "2.5-5s", "description": "Brine sheets off the shell. Camera holds medium-wide."}
+      ]
+    },
+    "negative_prompt": ["music", "soundtrack", "score", "dragon", "unicorn", "cartoon turtle", "extreme facial close-up", "deformed face", "extra eyes", "wings", "neon pink paint", "people", "text", "subtitles", "watermark", "logo", "plastic CGI shell"]
+  }
+}
+```
+
+### Duneharrier · `en`
+
+```text
+{
+  "archetype": "Cinematic Narrative",
+  "duration": "5s",
+  "prompt": {
+    "concept": {
+      "title": "SANGRE SECA — Duneharrier",
+      "description": "Photoreal 5-second wildlife shot. A duneharrier, a pale long-winged raptor with salt-dusted primaries, skims the crest of a white gypsum dune. Underside washed faint rose from reflected lagoon light. It banks once and a puff of fine sand peels off the wingtips. Medium-wide, wingspan readable, not a face close-up. Slice of pink water far below. Natural algal pink like Las Coloradas, not neon.",
+      "duration": "5-second crest track"
+    },
+    "camera_direction": {
+      "shot_type": "Continuous medium-wide lateral track along the crest",
+      "forbidden": ["No cuts", "No extreme face close-up", "No orbit spin", "No scene change"],
+      "camera_journey": "Track beside the bird as it skims the ridge left to right. Hold through the bank and sand puff."
+    },
+    "sound": {
+      "music": false,
+      "only_diegetic_ambience": true,
+      "bed": "Wind hiss, one wingbeat slap, sand hiss. No music, no score."
+    },
+    "visual_style": {
+      "overall": "IMAX bird documentary, hard sun, 35mm grain.",
+      "inspired_by": ["harrier skim", "White Sands", "salt-dusted feathers"],
+      "color_palette": ["pale gypsum plumage", "faint rose underside", "hot sky", "pink sliver below"],
+      "materials_and_texture": "Dusty primaries, blowing sand, sharp crest, film grain."
+    },
+    "storyboard": {
+      "beats": [
+        {"id": "01", "time": "0-2.5s", "description": "Duneharrier skims the white crest. Wingspan and salt dust readable."},
+        {"id": "02", "time": "2.5-5s", "description": "Bank. Sand peels off wingtips. Pink water visible below."}
+      ]
+    },
+    "negative_prompt": ["music", "soundtrack", "score", "dragon", "phoenix", "cartoon eagle", "extreme facial close-up", "people", "text", "subtitles", "watermark", "logo", "neon birds", "Iceland moss"]
+  }
+}
+```
+
+### Brineleaper · `en`
+
+```text
+{
+  "archetype": "Cinematic Narrative",
+  "duration": "5s",
+  "prompt": {
+    "concept": {
+      "title": "SANGRE SECA — Brineleaper",
+      "description": "Photoreal 5-second wildlife shot. A brineleaper, a thick-legged amphibian the size of a hare, with soot-dark wet skin and a pale salt-crusted dorsal ridge, launches from wet crust into shallow pink water. Webbed hind feet slap, then it surfaces with a spray. Low medium shot, body readable. White dune behind. Natural algal pink like Las Coloradas, not neon.",
+      "duration": "5-second ground-to-water leap"
+    },
+    "camera_direction": {
+      "shot_type": "Very low continuous track",
+      "forbidden": ["No cuts", "No extreme face close-up", "No orbit", "No scene change"],
+      "camera_journey": "Hold on the crouched animal, follow the leap into pink water, hold on the splash and surface."
+    },
+    "sound": {
+      "music": false,
+      "only_diegetic_ambience": true,
+      "bed": "Crust crack, wet slap, splash, one croak. No music, no score."
+    },
+    "visual_style": {
+      "overall": "Macro-to-medium amphibian documentary, hard sun, 35mm grain.",
+      "inspired_by": ["horned frog", "salt-pan toad", "Las Coloradas"],
+      "color_palette": ["soot-dark wet skin", "pale salt ridge", "algal pink water", "white crust"],
+      "materials_and_texture": "Wet granular skin, salt flakes, real splash, film grain."
+    },
+    "storyboard": {
+      "beats": [
+        {"id": "01", "time": "0-2s", "description": "Brineleaper crouched on crust. Salt ridge and webbed feet readable."},
+        {"id": "02", "time": "2-5s", "description": "Leap into pink water. Spray, then head breaks surface."}
+      ]
+    },
+    "negative_prompt": ["music", "soundtrack", "score", "dragon", "cartoon frog", "extreme facial close-up", "deformed face", "extra eyes", "wings", "neon pink paint", "people", "text", "subtitles", "watermark", "logo", "plastic CGI skin"]
+  }
+}
+```
+
+### Needlefin School · `en`
+
+```text
+{
+  "archetype": "Cinematic Narrative",
+  "duration": "5s",
+  "prompt": {
+    "concept": {
+      "title": "SANGRE SECA — Needlefin School",
+      "description": "Photoreal 5-second wildlife shot. A tight school of needlefins, long silver-pale fish with rose-stained pectoral fins, cuts the surface of the shocking-pink lagoon in a single turning ribbon. Dorsal needles break the water in a glittering line. Low water-level track. White gypsum shore in the background. Natural algal pink like Las Coloradas, not neon.",
+      "duration": "5-second surface track"
+    },
+    "camera_direction": {
+      "shot_type": "Low continuous water-level lateral track",
+      "forbidden": ["No cuts", "No orbit spin", "No scene change"],
+      "camera_journey": "Track the turning ribbon of fish left to right at surface height. Hold as needles glitter and the school tightens."
+    },
+    "sound": {
+      "music": false,
+      "only_diegetic_ambience": true,
+      "bed": "Soft surface ripple, faint fin slap, dry wind. No music, no score."
+    },
+    "visual_style": {
+      "overall": "IMAX aquatic documentary, hard sun, 35mm grain.",
+      "inspired_by": ["needlefish school", "salt lagoon surface", "Las Coloradas"],
+      "color_palette": ["silver-pale bodies", "rose-stained fins", "algal pink water", "white shore"],
+      "materials_and_texture": "Wet scales, surface glitter, real ripples, film grain."
+    },
+    "storyboard": {
+      "beats": [
+        {"id": "01", "time": "0-2.5s", "description": "School cuts the pink surface in a long line. Needles break water."},
+        {"id": "02", "time": "2.5-5s", "description": "Tight turn. Rose fins flash. White shore readable behind."}
+      ]
+    },
+    "negative_prompt": ["music", "soundtrack", "score", "dolphins", "sharks with extra fins", "cartoon fish", "people", "text", "subtitles", "watermark", "logo", "neon paint water", "CGI chrome"]
+  }
+}
+```
+
+### How to adapt it
+
+Keep one habitat palette and documentary grammar across the set. For each invented species, define readable anatomy, one short action, a restrained camera path, diegetic sound and species-specific negatives.
+
+**Shared by:** [Mr Das](<https://x.com/MrDasCreates>)
+
+[Original post on X](<https://x.com/MrDasCreates/status/2101589965557911907>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sangre-seca-impossible-wildlife>)
+
+<a id="persona-walk-r2v-motion-transfer"></a>
+
+## Character Walk R2V Motion Transfer
+
+[![Character Walk R2V Motion Transfer video preview](<https://pbs.twimg.com/amplify_video_thumb/2102013679072067584/img/ph65TovW3hKXIRCA.jpg>)](<https://x.com/fumanfuku/status/2102016602975981780>)
+
+A reference walking video transfers runway motion to a consistent stylized character in a 15-second vertical R2V result.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use an original or licensed standing character image with a clean walking reference whose framing and body proportions are compatible. Compare R2V against a simpler I2V prompt before committing to the longer workflow.
+
+**Shared by:** [不満福](<https://x.com/fumanfuku>)
+
+[Original post on X](<https://x.com/fumanfuku/status/2102016602975981780>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#persona-walk-r2v-motion-transfer>)
+
+<a id="reference-video-clay-model-conversion"></a>
+
+## Reference Video Clay Model Conversion
+
+[![Reference Video Clay Model Conversion preview](<https://pbs.twimg.com/amplify_video_thumb/2102983852423831552/img/s4qnY1zIkRXlpnh0.jpg>)](<https://x.com/GeekCatX/status/2102984305924559272>)
+
+A video reference is converted into seamless matte-gray clay models while preserving every subject, action, beat and camera move.
+
+**Model:** MiniMax H3
+
+```text
+请以我上传的参考视频<Video 1>为唯一动作来源，将【转换主体】转换为3D白模，完美复刻原视频中每个主体的位置、动作、节奏卡点、运动轨迹和镜头构图。
+
+【白模形象】
+白模是3D动画制作中未上色的基础雕塑模型，像一尊哑光浅灰白色（接近#E6E6E6）的一体成型黏土雕塑：
+- 形体有机、完整、连续：表面平滑无接缝，身体各部分自然过渡，关节位置只通过自然的解剖形态体现，不画分段线；
+- 去掉的是表面细节：眼睛、五官、毛发、羽毛、鳞片、服装、花纹、颜色、纹理；
+- 保留的是形体本身：主体原有的轮廓、比例、体态和肌肉起伏，一眼能认出是什么主体，是哪个品种或什么体型；
+- 主体的数量、种类和大小与原视频一一对应。
+
+【不同主体的处理】（只套用画面中实际存在的类型）
+- 人物：光滑的人形雕塑，无脸、无头发、无衣物、无性别特征，保留自然的肩颈、腰背和四肢线条；
+- 猫、狗等有毛动物：保留毛发撑出的外轮廓体积，只去掉毛发纹理，让动物看起来像一尊圆润柔和的雕塑，而不是被剃光毛的样子；耳朵、尾巴、口鼻和爪子的形状保持自然；
+- 鸟类：翅膀和尾羽是一整片柔和的雕塑形体，展开和收拢时的形态与原视频一致；
+- 鱼、蛇、爬行动物：身体是连续柔顺的曲面，摆动时自然弯曲；
+- 卡通角色：保留原有的夸张比例，用同样的有机雕塑质感；
+- 道具：保留外形，使用同一种材质。
+
+【动作要求】
+- 每一帧的姿态、朝向、重心，以及四肢、尾巴、翅膀和头部的位置，都与原视频同一时刻一致；
+- 保留原视频动作的柔韧性和生命感：脊柱弯曲、身体伸展和收缩、落地缓冲、尾巴甩动、肌肉挤压形变都要自然连贯；
+- 节奏卡点与原视频完全重合，不加动作、不省动作、不改幅度；
+- 每个主体的位置、移动路线和速度，以及主体之间的接触、牵引和遮挡关系，都与原视频一致。
+
+【镜头与画面】
+机位、景别、镜头运动和构图与原视频逐帧一致，画幅比例、时长和帧率与原视频相同。背景为无缝的中性浅灰摄影棚，用柔和均匀的棚拍光，只保留主体下方淡淡的接触阴影。
+
+【音频要求】
+完整保留参考视频的原始音频（音乐、人声、动物叫声、音效、环境声），不替换、不重新生成，与画面严格同步，时长一致。
+
+【禁止】
+不得出现机械关节、球形关节、拼接缝、分段结构、螺丝、铰链、金属感或塑料感，也不能有机器人、木偶、人偶、玩具或低多边形的感觉；动作不能僵硬，不能像部件各自转动；不得出现眼睛、五官、毛发纹理、衣物、颜色、文字；不得增减主体，也不得改变动作、速度或镜头运动。
+```
+
+### How to adapt it
+
+Replace Video 1 with a motion reference you may use. Keep the subject-count mapping, frame-accurate motion rules and neutral studio material constraints; edit the subject-specific sections to match the footage.
+
+**Shared by:** [知识猫AI实验室](<https://x.com/GeekCatX>)
+
+[Original post on X](<https://x.com/GeekCatX/status/2102984305924559272>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#reference-video-clay-model-conversion>)
+
+<a id="continuous-ribbon-character-reveal"></a>
+
+## Continuous Ribbon Character Reveal
+
+[![Continuous Ribbon Character Reveal video preview](<https://pbs.twimg.com/amplify_video_thumb/2103333690919038976/img/_aaRFa-hiFqAbVVb.jpg>)](<https://x.com/aimikoda/status/2103334215597097346>)
+
+One luminous ribbon and an uninterrupted orbit reveal a character from feet to face before a colorful full-body hero payoff.
+
+**Model:** MiniMax H3
+
+```text
+Create a high-impact single-take transformation-style character PV using  @[character ref]. Preserve identity, proportions, outfit and original rendering style exactly. Let the character determine the full visual language: palette, lighting, effect design, motion style and music. Treat the sequence as a spectacular stylized reveal of the existing character design, not a redesign or costume change.
+
+The entire PV must be one continuous shot with no cuts. Use one flowing camera move that travels around the character in a stylish, dynamic way: smooth orbiting, rising motion, push-ins, slight reframes, parallax shifts and elegant angle changes, all within a single uninterrupted take. The movement should feel premium, controlled and cinematic, gradually building energy.
+
+Use one continuous luminous ribbon as the main effect. The ribbon should remain alive for the whole sequence, never disappearing, constantly flowing around the character like a single uninterrupted stream of energy. It should travel across and around the body, tracing the silhouette, wrapping the legs, circling the waist, sliding past the torso, orbiting the shoulders and rising toward the face. Its path should feel intentional and graceful, as if it is guiding the viewer through the reveal.
+
+Let the ribbon function as the reveal mechanism. As it passes each body region, it illuminates and reveals details in sequence: feet, legs, hips, waist, torso, shoulders, neck, jawline, eyes, then the full figure. The ribbon should leave behind glowing contour accents, colored reflections, spark trails and brief graphic echoes, creating a chain of revealed detail as it moves upward. Make the effect feel continuous and elegant, not fragmented.
+
+Push the visual richness with more color and more light play. The ribbon should shift through layered colors that suit the character, such as vivid pinks, cyans, golds, violets, reds, teals or other fitting tones. Add dynamic lighting interactions throughout: sweeping highlights, moving reflections, lens flares, glossy gleams, rim-light pulses, flare streaks, refracted sparkles and soft color blooms. Let the light dance across skin, fabric, hair and accessories in a way that constantly refreshes the image.
+
+Keep the character subtly active within the shot. Use confident body language and small elegant movements: a slight step, a turn of the hips, a hand gesture, a shoulder roll, a head turn, a lift of the chin, hair and fabric reacting with graceful follow-through. The ribbon should respond to these motions, tightening, whipping, looping or widening as the character moves. Make the effect feel driven by the character’s presence.
+
+Build steadily toward the face. As the ribbon rises, let the camera move closer and the lighting become more intense. Around the eyes and face, increase sparkle density, glow intensity and color layering. This should feel like the emotional peak of the reveal before the final payoff.
+
+At the end of the shot, pull or arc outward just enough to reveal the first full head-to-toe hero view. The ribbon completes one final elegant loop around the full body, then detonates into a spectacular colorful burst of light: expanding ribbons, flare bursts, sparkling fragments, radiant arcs, glowing rings and a brilliant energy bloom. This final explosion should be the visual climax, but the full figure must remain clearly readable inside it. After the burst, briefly hold the completed hero image.
+
+Sync the entire take to a rising, glittering, high-energy musical build with layered whooshes, shimmering accents, bright flare sounds and one huge final impact. Keep the aesthetic graphic, luminous, colorful and stylized rather than realistic fire, smoke or destruction.
+
+No cuts, no text, no typography, no captions, no logos, no redesign, no outfit replacement, no unrelated props.
+```
+
+### How to adapt it
+
+Use an original or licensed character reference and derive the ribbon palette, light behavior and music from that design. Preserve the no-cut camera path and ordered feet-to-face reveal.
+
+**Shared by:** [Kōda](<https://x.com/aimikoda>)
+
+[Original post on X](<https://x.com/aimikoda/status/2103334215597097346>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#continuous-ribbon-character-reveal>)
+
+<a id="ref2va-surprise-guitar-performance"></a>
+
+## Ref2VA Surprise Guitar Performance
+
+[![Ref2VA Surprise Guitar Performance video preview](<https://pbs.twimg.com/amplify_video_thumb/2103039633374531584/img/tIlmZAr8xu8oKqWt.jpg>)](<https://x.com/IsekaiBardGuild/status/2103039651179278504>)
+
+A standing character retrieves an electric guitar, sings supplied Japanese audio and performs with synchronized mouth movement.
+
+**Model:** MiniMax H3
+
+```text
+subject_definitions:
+<Picture 1> is the exact first frame of [Shot 1] at 00:00.000.
+
+retention_analysis:
+THe character (S1) is a human in <Picture 1>: fully_preserved, preserve the complete opening composition, framing, perspective, colors, materials, clothing, accessories, lighting, and background before motion.
+<Audio 1>: fully_copy - <Audio 1> is reused 1:1 as the target video's complete final audio track, (S1) sings a song and play her guiter on the stage
+
+detailed_description:
+[Shot 1] The shot begins from <Picture 1> as the exact first frame at 00:00.000. Keep the background and llighting in <Picture 1>
+After 00:00.500. (S1) takes a guitar from the outside of the view or from backside of the character, the guiter has skyblue and near-white body with a deep blue frame.
+After 00:01.500. (S1) sings a song and play her guiter.
+<Audio 1> is the Japanese song with the lyrics <d>[Japanese]"ここに歌わせたい歌詞を書いてください"</d>. The mouth of (S1) movements are precisely synchronized with the Japanese lyrics. She sings while she plays her exact same electric guitar.
+
+overall_soundscape:
+<Audio 1> only, copied exactly as the complete final audio track. No additional speech, ambience, crowd noise, instrument sound, or sound effects.
+
+non_diegetic_music:
+<Audio 1> only.
+```
+
+### How to adapt it
+
+Use a front-facing standing character image and a song clip with roughly one second before the vocal begins. Replace the lyric placeholder and guitar colors while keeping Audio 1 as the only final soundtrack.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2103039651179278504>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ref2va-surprise-guitar-performance>)
+
+<a id="alchemy-potion-accident"></a>
+
+## Alchemy Potion Accident
+
+[![Alchemy Potion Accident video preview](<https://pbs.twimg.com/amplify_video_thumb/2101690945570000897/img/Oh5RPNOfBH0-KHxD.jpg>)](<https://x.com/ou_zhen599/status/2101691337838104675>)
+
+A single-room 15-second scene escalates a potion mistake through precise acting, viscous fluid physics, camera limits and dialogue.
+
+**Model:** MiniMax H3
+
+```text
+integrated_multimodal_description
+
+Use <Picture 1> as the exact first frame and exact anchor for identity, room geometry, tabletop layout, black cauldron position, open ancient book position, and warm candlelit atmosphere. Create a 15-second, 16:9 single-space continuous shot in the same old alchemy room only. Preserve the same adult young witch, same face, hairstyle, costume, table, cauldron, book, and spatial axis. No exterior, no extra characters, no room change, no axis break. Tone: sensual, delicate, real, restrained. Emotional arc: focused concentration -> subtle pride -> first unease -> rushed correction -> embarrassed annoyed surrender. All acting must start in the eyes, then travel into brow center, mouth corners, jaw, throat, shoulders, and breathing. No frozen posing.
+
+Fixed staging: @A half-kneels on the left-middle of the tabletop, left knee on the table, right leg opened for balance, body leaning toward the black cauldron at right-front center. The ancient book stays rear-left. The green bottle is in her right hand; the purple bottle and spare vial remain nearby. Continuous action chain: lean in and pour -> move closer to the cauldron rim -> pull back and turn left to check the book -> return and add one corrective drop -> throw the spare vial -> brace both hands on the cauldron rim and recoil. She stays in continuous responsive motion as the accident escalates.
+
+Visual grammar uses only four camera behaviors: a slow medium-close push, one smooth rack focus from her side profile and collarbone to the cauldron mouth, one lateral hand-follow connecting page-checking and correction, and one fixed static framing for the strongest loss of control. No orbiting, no overhead plunge, no frantic handheld, no axis reversal, no flashy push-pull.
+
+Lighting remains internally consistent. Base light is warm candle and oil-lamp light: amber, dusty gold, soft and layered. The potion is the second and emotional light source. At first it glows clean luminous green, softly lifting her side face, collarbone, lip edge, and fabric folds. When the reaction turns abnormal, it clouds into sickly yellow-green and murky white-green, producing dirty unstable reflections on face, throat, hands, and cauldron rim. In the final loss of control, the cauldron mouth becomes the brightest local source, lighting only nearby face, arms, cloth, steam, and rim, never the whole room. Light dust and thin smoke are edged by candlelight and cauldron glow.
+
+All VFX obey physical source and path logic. Source: unstable potion inside the cauldron. Material: semi-transparent viscous slurry with tiny bubbles, sticky strings, swelling bulges, edge rupture, localized splashes, thin hot vapor, and attached residue. Motion pattern: form -> swell -> roll upward -> lunge to the rim -> splash outward -> suspend briefly under inertia and stickiness -> fall back. The fluid obeys gravity, hangs from the rim, leaves wet reflective traces on wood and bottles, and never becomes abstract magic energy. Steam stays close to the rim, rises warm, then tears apart in cooler indoor air. One flame tremor only. Hair, sleeves, chest fabric, and body recoil obey natural inertia.
+
+[00:00-00:03] Medium close from side-front, eye-level with a slight low angle, slowly pushing in. @A half-kneels and pours the green liquid into the cauldron. Her left hand hovers with the purple bottle ready. Brow relaxed, eyes fixed on the surface, breathing shallow and steady, lips slightly parted. The pour seems correct; a tiny brightness appears in her eyes and the mouth corners lift almost invisibly with private satisfaction. Bright clean green bubbles rise inside the cauldron. The glow lights her chin, lips, collarbone, and chest fabric from below. Background flame stays steady. She murmurs softly: <d>[English] There you go.</d>
+
+[00:03-00:05] Closer shot from a side-front 35-degree angle. Focus begins on her side face, eyes, lips, and collarbone, then racks smoothly to the cauldron mouth. She leans half an inch closer. Eyelids lift slightly, pupil focus sharpens, nostrils open a little, and pride is still present. Then unease begins in the eyes: brow center gathers, lower lids tighten, mouth corners stop rising. As focus reaches the rim, the green rapidly clouds. Foam swells into sticky bulges, micro-bubbles pop densely, and wet vapor begins rolling over the rim. Keep the sensual emphasis restrained, centered on lips, throat, collarbone, and the instant beauty turns dangerous.
+
+[00:05-00:08] Slightly top-leaning close shot with a lateral follow across her hand actions. The cauldron spits a small mouthful of viscous fluid. She recoils instinctively, snapping her right wrist back; shoulder, sleeve fabric, and chest pull backward with natural inertia. She turns left toward the ancient book. The motion is fast but controlled: eyes hit the book first, left hand pins a page, right hand reaches for the purple bottle. Her expression deepens into active concern: gaze begins splitting, brow center tightens, lips press and release, throat swallows once, breathing quickens, mouth corners dip. A loose curl falls beside her face. Glowing drops land on the tabletop and slide along the wood grain; one sticky strand hangs from the cauldron rim. She says low and urgent: <d>[English] No, no, no...</d>
+
+[00:08-00:11] Tighter medium close in a fixed static frame. She adds one corrective drop from the purple potion while still bracing the book. The movement is hurried and imprecise. The instant the drop lands, the fluid surges upward into a thicker rolling mass, almost alive, lunging toward her face. Her left hand reflexively lifts the empty bottle as a shield, right shoulder hikes up, neck withdraws, chin lifts slightly, and her eyes open wide in real shock. Her mouth opens halfway, not yet a full cry. The fluid feels heavy: the center bulges upward, edges sag with weight, it strikes the rim and breaks into wet bright droplets. A few land on her hand and the bottle surface. Vapor is knocked slightly higher before dispersing. A nearby small vial rattles, rolls half a turn, and stops. One background flame tremor. Her cut-off line lands as: <d>[English] Wait—</d>
+
+[00:11-00:13] Medium close with slight backward allowance. A enters full repair mode. She grabs another small vial from the right-front of the table and throws it directly into the cauldron. This is an emergency decision, not anger. Elbow lifts first, shoulder drives forward, the vial takes a short arc into the cauldron, and she immediately slams both hands onto the rim, her body shrinking backward half a step and then pitching forward again. Her expression enters open distress: brow lower, nostrils tighter, eyes flashing “this is bad,” lips flattening, jaw tightening, breath breaking once and restarting. The escalation stays physical: the thrown vial triggers a thicker, murkier, stickier rolling surge, not an explosion. The potion wraps around bubbles, collides with the rim, forms adhesive strings, and falls back. Wet residue on the table shivers outward. She blurts in frustrated dismay: <d>[English] Oh, come on!</d>
+
+[00:13-00:15] Close-up, nearly fixed, with only a faint breathing-like pressure forward. She braces both hands on the cauldron rim and leans back from it, arms tense, knuckles whitening. Her throat and collarbone are lit by sickly yellow-green cauldron light mixed with warm candlelight, leaving her wet, vulnerable, disordered, but still beautiful. The sticky fluid lunges to about half a foot from her face, pauses briefly under viscosity and inertia, then starts to fall back. She freezes for half a second. Her stare locked on the fluid loses focus slightly, the brow peak softens, mouth corners collapse fully, the throat rolls once, and she releases one defeated breath. Only embarrassment, helplessness, and reluctant surrender remain. Upper lids still hold themselves open while lower lids give out; lips part lightly then close; a damp gleam sits on nose tip and cheek. Her curls sway once and settle. Tension folds remain in sleeves and chest fabric. She says low and humiliated: <d>[English] ...Wrong one.</d> End on the failed tabletop disaster. Do not cut to black.
+
+Hard negative constraints: no identity drift, no hairstyle drift, no costume drift, no face collapse, no exaggerated mouth shapes, no screaming, no comedic grimaces, no cartoonization, no extra people, no extra fingers or arms, no spatial jumping, no cauldron drift, no abstract energy-wave fluid, no giant flash, no external lightning, no full-room illumination, no subtitles, no watermark, no modern objects, no vulgar chest motion.
+
+overall_soundscape
+
+Maintain a continuous old alchemy-room bed: soft candle and lamp burn, faint room tone, tiny glass contact, low potion bubbling, wet viscous rolling movement, and small droplets hitting wood. Breathing must stay audible and expressive, especially during the lean-in, the page-checking turn, the startled recoil, and the final surrender. [00:00-00:03] the pour reads clean and controlled: bottle tilt, gentle liquid feed, low bubbling response, stable flame, and <d>[English] There you go.</d> spoken softly, close to breath, intimate and self-assured. [00:03-00:05] add denser micro-bubble popping, sticky swelling, and wet vapor rolling over the rim; let tension come from fluid behavior, not big drama. [00:05-00:08] make the spit tactile and local: one wet spray, sleeve shift, wrist recoil, swallowed breath, page friction, hurried bottle contact, and glowing droplets on wood; <d>[English] No, no, no...</d> stays low, fast, involuntary. [00:08-00:11] the heavier surge sounds thick and weighted: wet mass lifting, slapping the rim, finer droplets scattering, one small bottle tipping and rolling, one flame flutter, and <d>[English] Wait—</d> cut off naturally in shock. [00:11-00:13] give the thrown vial a short hard arc, glass impact into thick fluid, heavier rolling churn, sticky pullback strings, hands striking the rim, wood shivering under force, and fabric friction as she recoils then braces; <d>[English] Oh, come on!</d> should sound like annoyed panic, not comedy. [00:13-00:15] reduce the room briefly around the hovering mass: close wet movement, restrained steam, tightening hands on the rim, one defeated exhale, and the resigned line <d>[English] ...Wrong one.</d>. End with the cauldron settling into an unstable but receding slosh.
+
+non_diegetic_music
+
+Use restrained intimate fantasy scoring, never broad comedy and never epic magic spectacle. Begin with warm low strings, a delicate glassy texture, and a faint suspended harmonic bed that supports concentration and the illusion of competence. [00:00-00:03] feel careful and almost promising, with a tiny hint of private satisfaction. [00:03-00:05] thin the harmony and introduce a subtle unstable tone as the potion clouds over; let tension arrive through harmonic contamination, not volume. [00:05-00:08] bring in a very light nervous pulse under the strings, close and intimate, matching her quickened thought process. [00:08-00:11] hold the score back while sound design carries the shock, adding only a brief upward strain when the fluid lunges. [00:11-00:13] tighten the pulse and deepen the lower strings as her corrective choice becomes rougher and more desperate. [00:13-00:15] strip the score down into a fragile unresolved chord, leaving humiliation, fatigue, and reluctant surrender suspended in the air. No triumphant release and no comic sting.
+```
+
+### How to adapt it
+
+Keep one stable room and substitute the character, failed process and physical material. Retain the escalating emotional beats, source-and-path VFX logic and tightly limited camera grammar.
+
+**Shared by:** [Loriel.AI](<https://x.com/ou_zhen599>)
+
+[Original post on X](<https://x.com/ou_zhen599/status/2101691337838104675>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#alchemy-potion-accident>)
+
+<a id="velvet-static-noir-title-sequence"></a>
+
+## Velvet Static Noir Title Sequence
+
+[![Velvet Static Noir Title Sequence video preview](<https://pbs.twimg.com/amplify_video_thumb/2102460320203812864/img/Nq4FEXJHVwPNKr__.jpg>)](<https://x.com/umesh_ai/status/2102460451259133966>)
+
+A 15-second neo-noir opener embeds credits into rain, brass, glass and street reflections before revealing its main title.
+
+**Model:** MiniMax H3
+
+```text
+Create a 15-second cinematic opening title sequence for a fictional neo-noir psychological thriller titled “VELVET STATIC.” The entire sequence takes place during one rain-soaked midnight in an unnamed metropolitan city, combining late-1970s noir elegance with contemporary high-end cinematography. No dialogue, no visible logos, no real actor names.  0.0–2.0 seconds: Begin from absolute black. A faint electrical hum is implied visually through almost imperceptible pulses of pale violet light. Slowly reveal an extreme macro shot of raindrops clinging to the outside of a smoked-glass hotel window. Depth of field is razor thin. Individual droplets magnify upside-down fragments of neon signs outside. Behind the glass, distant traffic becomes soft anamorphic bokeh in crimson, amber and dirty cyan. Camera performs an extremely slow lateral slider move from right to left. The first credit, “MARA VOSS,” appears almost invisibly inside the reflection, set in an elegant ultra-condensed serif typeface, narrow tracking, pale silver lettering. The letters should feel physically embedded in the glass rather than digitally overlaid.  2.0–4.5 seconds: Rack focus through the rain-covered window toward the street twenty floors below. A black vintage sedan moves through an intersection, headlights stretching across wet asphalt. Match-cut the twin headlights into two glowing elevator indicators reading “12” and “13.” The elevator doors are brushed brass, covered with fingerprints and faint scratches. Camera slowly pushes toward them. Credit “ELIAS ROWE” appears engraved into the brass, revealed only when moving light passes across the surface. Lighting is low-key and luxurious with deep crushed blacks.  4.5–7.0 seconds: Elevator doors open onto a long hotel corridor. Burgundy carpet, dark walnut doors, aged brass wall lamps, faint cigarette haze. At the far end stands the silhouette of a woman in a long red coat, facing away from camera. Use a 50mm anamorphic lens feeling with subtle barrel distortion. Camera glides forward unnaturally smoothly. As the camera approaches, wall lights sequentially switch off behind her. Credits “A FILM BY ADRIAN KELL” and “PHOTOGRAPHY LENA MORR” briefly appear on room-number plaques as the camera passes them.  7.0–9.5 seconds: Hard match cut from the woman’s red coat to a crimson cocktail swirling inside a crystal glass. Extreme close-up. A black-gloved hand rotates the glass slowly. Reflections of city lights spiral across the liquid. The drink suddenly stops moving while the reflections continue rotating, creating subtle dream logic. Tiny serif text reading “MUSIC BY OREN VALE” curves around the rim of the glass. Camera tilts downward as one drop spills over the edge.  9.5–12.0 seconds: Follow the falling droplet in impossible slow motion. As it hits a polished black marble floor, transition seamlessly into an overhead aerial view of the rain-soaked city intersection. A solitary figure crosses beneath an umbrella while cars remain frozen around them. Street lamps flicker. Fine mist catches the light. Camera rises vertically, revealing geometric city blocks disappearing into darkness. Brief fragments of cast names appear painted on crosswalk markings, visible for less than a second.  12.0–15.0 seconds: Camera suddenly plunges back toward the intersection. The asphalt reflection becomes almost perfectly black, like liquid obsidian. Red neon letters appear first only as a distorted reflection. Camera rotates 180 degrees until the reflection becomes reality. Reveal the main title “VELVET STATIC” in enormous refined high-contrast serif typography floating above the street, metallic ivory with faint chromatic fringing. A passing car slices through the letters with reflected light, causing the title to momentarily break into analog television interference before snapping back into perfect clarity. End on a sharp cut to black at exactly 15 seconds.  Visual language: premium 35mm film texture, subtle gate weave, fine grain, realistic rain physics, halation around practical lights, anamorphic streaks used sparingly, deep blacks, burgundy red, nicotine amber, chrome silver and occasional electric cyan. Elegant, seductive, mysterious, restrained, mature, tactile, photorealistic, no generic cyberpunk imagery, no excessive glitch effects, no fast montage until the final seconds.
+```
+
+### How to adapt it
+
+Replace the fictional title and credit names, then remap each credit to a physical surface. Preserve the rain-soaked palette, motivated match cuts and final reflection-to-title reveal.
+
+**Shared by:** [Umesh](<https://x.com/umesh_ai>)
+
+[Original post on X](<https://x.com/umesh_ai/status/2102460451259133966>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#velvet-static-noir-title-sequence>)
+
+<a id="blade-forged-action-title"></a>
+
+## Blade Forged Action Title
+
+[![Blade Forged Action Title video preview](<https://pbs.twimg.com/ext_tw_video_thumb/2101265106063556608/pu/img/sHBIYazln3DKYGyB.jpg>)](<https://x.com/CharaspowerAI/status/2101265127584469270>)
+
+Successive energy cuts forge a steel BLADE title from flying titanium fragments before one final slash destroys it.
+
+**Model:** MiniMax H3
+
+```text
+Hyper-kinetic action-film title sequence opening on a mirror-polished titanium wall in complete darkness. A razor-thin energy cut suddenly slices through the surface, spraying white-hot sparks and molten droplets across the frame. A second cut appears from another angle, then dozens strike in rapid succession, carving deep geometric paths through the metal. The camera aggressively follows each slash as huge titanium sections separate and spin through the air. A powerful magnetic field violently pulls the fragments toward the center, where sharpened metal plates slide, rotate and lock together to construct "BLADE" with surgical precision. The completed title is thin, lethal and forged from scratched black steel, every edge glowing red-hot from friction. The camera sweeps inches above the letters before one final invisible slash cuts through the entire word and triggers a spectacular explosion of metal splinters and sparks. Aggressive, precise, dark, premium Hollywood action typography.
+```
+
+### How to adapt it
+
+Replace BLADE with a short title and derive the cutting material and impact language from its meaning. Keep the construction readable before the final destructive beat.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2101265127584469270>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blade-forged-action-title>)
+
+<a id="three-idol-reference-choreography"></a>
+
+## Three-Idol Reference Choreography
+
+[![Three-Idol Reference Choreography video preview](<https://pbs.twimg.com/amplify_video_thumb/2103240573889269760/img/8a2XOSaV_TfKcttk.jpg>)](<https://x.com/Naonekozamurai/status/2103241515497841002>)
+
+Four images, a motion previs and one song coordinate three distinct idols through assigned lyrics, steps, camera cuts and a final jump.
+
+**Model:** MiniMax H3
+
+```text
+11.20秒、16:9、768p。華やかなアニメ調の3人組アイドルのライブMV。笑顔で歌いながら、手と足が柔らかく連動する、可愛く元気なステージパフォーマンス。
+
+Image 1@[img1]はピンク担当の顔・茶色の髪・ピンクと白と金の衣装。
+Image 2@[img2]は青担当の顔・濃紺の長い髪・青と白と金の衣装。
+Image 3@[img3]は黄色担当の顔・金髪のポニーテール・黄色と白と金の衣装。各画像の複数の姿は同一人物の角度違い。登場するアイドルはこの3人だけ。
+Image 4@[img4]はプリズム状の柱、吊り下げられた星、中央の階段、反射する床があるライブステージの参照。人物と舞台の画風・衣装・色を一貫させる。
+Video 1@[vid1]は最新のジャンプ入り無音モーションコンテ。参照するのは3人の配置、前後の位置移動、画角、カメラの切り替え、ゆっくりした寄り、最後の同時ジャンプのタイミング。ピンク・青・黄色の箱をImage 1・2・3の人物へ置き換える。白背景はImage 4のステージへ置き換える。箱の形、硬い姿勢、表面、伸縮を実際の人物へコピーしない。箱では省略されている手足の振り付けは、以下の指示で補う。客席から見て左が青、中央がピンク、右が黄色。この区間では左右とセンターを入れ替えない。マイクは持たず、両手で表現する。
+Audio 1@[aud1]はこの11.20秒の歌声・伴奏・発音・テンポの基準。原音の開始位置・速度・音程を保って一度だけ使用する。時刻は目安とし、口形は実際に聞こえる歌唱に同期させる。ひらがなの歌詞は発音指示であり、画面には表示しない。音源に合わせて旋律で歌い、朗読しない。担当者の口元を手や髪で隠さず、正面または斜め正面から読み取れるようにする。他の2人は笑顔で踊り、担当外の歌詞を勝手に歌わない。
+
+振り付けは軽やかで弾むアイドルダンス。横に一歩踏み出し、反対の足を寄せるステップを、音楽の拍に合わせて小さく行う。足裏が接地してから重心が移り、支持する足を残して次の足を運ぶ。膝・足首・腰・肩が自然につながる。上半身は歌える程度に安定させ、踏み込みに必要な柔らかい沈み込みを使う。足を空中でバタつかせたり、同じ場所で高速に足踏みしたり、体全体を細かく振動させたりしない。指先を柔らかく開き、手首と肘に丸みを出し、一つの仕草を見せてから次へつなぐ。髪・リボン・スカートは動作に少し遅れて揺れ、自然に収まる。
+
+0.00–3.36秒：Video 1と同じ左側から青を捉える構図で、ごくゆっくり寄る。青が明るい笑顔でリップシンク「むねのどらむがはしりだしたら」。片手を胸元にそっと添え、歌詞の後半でその手を客席へ開く。足は小さな横ステップから反対の足を寄せ、肩と腰を柔らかく連動させる。中央のピンクと右の黄色も笑顔でステップを合わせ、胸元から手を開く仕草で青を引き立てる。カメラの横揺れは加えない。
+
+[cut]
+3.36–5.96秒：Video 1と同じ右側から黄色を捉える構図。黄色が快活な笑顔でリップシンク「そでのかーてんそっとめくって」。片手を肩の前へ持ち上げ、指先でカーテンをそっと開くように外側へ滑らかに運ぶ。その方向へ小さく一歩出し、反対の足を寄せて可愛くポーズを収める。青とピンクは自分の位置で同じリズムの控えめなステップと腕の動き。位置を入れ替えたり、その場で高速回転したりしない。
+[cut]
+5.96–8.76秒：Video 1と同じ中央のピンクへ緩やかに寄る構図。ピンクが客席を見てリップシンク「なまえをよぶこえがきこえる」。片手を耳の横へ添えて客席の声を受け止め、目を輝かせて微笑む。小さく横へ踏み出して足を寄せ、耳に添えた手を胸元へ戻す。青と黄色も笑顔で客席へ手を開く。8.50秒から3人とも跳ぶ準備に入り、足裏を床につけたまま膝を軽く曲げ、重心を下げる。ピンクは顔を上げ、歌詞の最後まで口元を見せる。
+[cut]
+8.76–11.20秒：中央の固定カメラで3人の全身を収める。頭・伸ばした手・靴と、ジャンプ頂点の上に十分な余白を確保する。ピンクがリップシンク「もうまよわないよ」。歌い出しの「もう」で3人が同時に1回だけ軽くジャンプする。8.76秒に床を蹴り、両腕を斜め上へ可愛く開く。9.10秒付近で頂点、9.44秒付近で着地。ピンクは跳んでいる間も顔を正面に保って歌い続ける。青と黄色は明るい笑顔で動きをそろえる。着地は足先から足裏へ受け、膝を柔らかく曲げて衝撃を吸収し、9.76秒までに自然に立ち直る。連続ジャンプや着地後の反復バウンドはしない。その後は腕を胸元へ柔らかく収め、ピンクは「よ」の実際の発音が終わるまで歌う。次のサビへ続くライブの姿勢で終える。
+
+全編で、カメラの手ぶれ・周期的な上下左右の揺れ・急なズームを加えない。動きの元気さは人物の振り付けと表情で見せる。ステージのピンク・青・金色の照明と床の反射を生かし、顔と口元は明瞭にする。字幕・歌詞テロップ・ロゴは表示しない。新しい台詞、掛け声、歓声、別の曲や次の歌詞を追加しない。暗転や終演ポーズを加えず、この歌唱区間で終了する。
+```
+
+### How to adapt it
+
+Replace the three character sheets, stage reference, motion previs and song together. Reassign each timed lyric and gesture while preserving fixed positions, readable mouths and one synchronized jump.
+
+**Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original post on X](<https://x.com/Naonekozamurai/status/2103241515497841002>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-idol-reference-choreography>)
+
+<a id="peking-opera-camera-push"></a>
+
+## Peking Opera Camera Push
+
+[![Peking Opera Camera Push video preview](<https://pbs.twimg.com/amplify_video_thumb/2102426084675653632/img/Qwsma1pQtc_EvoEI.jpg>)](<https://x.com/PixelAigc/status/2102426880016253191>)
+
+A concise instruction animates traditional opera gestures, flowing costume flags and a slow camera push from a single reference image.
+
+**Model:** MiniMax H3
+
+### Video Prompt · `zh`
+
+```text
+演员做着京剧传统戏曲动作，表现京剧艺术，服装和靠旗飘动，人物双手戏剧性地挥舞，镜头慢慢推进。
+```
+
+### How to adapt it
+
+Pair the short motion instruction with an original or licensed full-body opera reference. Specify the desired traditional gestures, costume elements that should trail the motion and one restrained camera move.
+
+**Shared by:** [PixelAIGC](<https://x.com/PixelAigc>)
+
+[Original post on X](<https://x.com/PixelAigc/status/2102426880016253191>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#peking-opera-camera-push>)
 
 ## Suggest a prompt
 
