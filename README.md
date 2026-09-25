@@ -11,7 +11,7 @@ The collection currently contains **8 verified prompts**, with sources reviewed 
 
 ## Midnight Seoul Fashion Film
 
-[Watch: Midnight Seoul fashion transformation film](<https://video.twimg.com/amplify_video/2101510693568872449/vid/avc1/1280x720/sbIIcxsGa-Gft2D6.mp4?tag=29>)
+[![Midnight Seoul Fashion Film video preview](<https://pbs.twimg.com/amplify_video_thumb/2101510693568872449/img/omv3_q5d_TVpxK4X.jpg>)](<https://x.com/ImaStudio_ai/status/2101511003213312129>)
 
 Eight fashion looks, locations and typography beats compressed into a timed 15-second transformation film.
 
@@ -47,7 +47,7 @@ Replace the identity image, palette, eight outfits, eight locations and on-scree
 
 ## Adaptive Contour Character Reveal
 
-[Watch: Character reveal with animated contour lines](<https://video.twimg.com/amplify_video/2102965649932705792/vid/avc1/1280x720/v-uT2h_Xs7Js84jE.mp4?tag=29>)
+[![Adaptive Contour Character Reveal video preview](<https://pbs.twimg.com/amplify_video_thumb/2102965649932705792/img/qVsic58zuaNIS_7Z.jpg>)](<https://x.com/aimikoda/status/2102966384003350874>)
 
 A ten-shot character reveal whose contour lines, graphic accents and music adapt to the supplied design.
 
@@ -79,7 +79,7 @@ Supply your own character reference at @[character ref]. The prompt deliberately
 
 ## Continuous Micro-FPV Noir Orbit
 
-[Watch: Continuous micro-FPV neo-noir camera orbit](<https://video.twimg.com/amplify_video/2090091539188097024/vid/avc1/960x720/iPX-QVeu2CRHBYNs.mp4?tag=14>)
+[![Continuous Micro-FPV Noir Orbit video preview](<https://pbs.twimg.com/amplify_video_thumb/2090091539188097024/img/Fhby2J-OgW57weXy.jpg>)](<https://x.com/CharaspowerAI/status/2090091561506009588>)
 
 A dense single-take FPV path uses macro texture, parallax, occlusion and chained rack focus around one subject.
 
@@ -101,7 +101,7 @@ Map the same continuous camera grammar onto a new reference: begin with a macro 
 
 ## Rainy Manhattan Police Chase
 
-[Watch: Rainy nighttime police chase through Manhattan](<https://video.twimg.com/amplify_video/2103181525202432000/vid/avc1/1280x720/1Rem7RomusKx5dm5.mp4?tag=29>)
+[![Rainy Manhattan Police Chase video preview](<https://pbs.twimg.com/amplify_video_thumb/2103181525202432000/img/g_h1K_LFM5ZbnHj4.jpg>)](<https://x.com/Goodmanprotocol/status/2103181604793598138>)
 
 A four-shot, 15-second night chase specifies vehicle physics, wet-road lighting, camera changes and Doppler audio.
 
@@ -139,7 +139,7 @@ Swap the city, vehicles and weather while preserving the four timed camera beats
 
 ## Bubble-to-Firefly Chain Reaction
 
-[Watch: Popping bubbles releasing glowing fireflies](<https://video.twimg.com/amplify_video/2103241959573782528/vid/avc1/1296x720/Lk-iSRskbJzl9Mcc.mp4?tag=29>)
+[![Bubble-to-Firefly Chain Reaction video preview](<https://pbs.twimg.com/amplify_video_thumb/2103241959573782528/img/tUBR0HupWe2XNONP.jpg>)](<https://x.com/GlennHasABeard/status/2103242003915948064>)
 
 A minimal causal instruction turns each popped bubble into one slowly rising firefly across a locked shot.
 
@@ -161,7 +161,7 @@ Pair the sentence with a clear first frame, a 15-second duration and a locked fl
 
 ## Sweater Unravels into a Scarf
 
-[Watch: Sweater unraveling as a scarf grows](<https://video.twimg.com/amplify_video/2103199643878227968/vid/avc1/1296x720/1oUXvWYvZDxgIhEE.mp4?tag=29>)
+[![Sweater Unravels into a Scarf video preview](<https://pbs.twimg.com/amplify_video_thumb/2103199643878227968/img/kR9s19Vk3OAu1y7i.jpg>)](<https://x.com/GlennHasABeard/status/2103199745355436048>)
 
 One directional constraint keeps a sweater shrinking while the same yarn grows into a scarf in a locked composition.
 
@@ -183,7 +183,7 @@ Start from a frame showing both source and destination. Name what may only decre
 
 ## One Marble per Second
 
-[Watch: Marbles leaving a jar one at a time](<https://video.twimg.com/amplify_video/2100185199661256704/vid/avc1/1260x720/KRmb7xdUcOhNQhdd.mp4?tag=29>)
+[![One Marble per Second video preview](<https://pbs.twimg.com/amplify_video_thumb/2100185199661256704/img/D_bhvrDpni6DsoMO.jpg>)](<https://x.com/GlennHasABeard/status/2100185257970462923>)
 
 A compact rate constraint makes marbles leave a jar in single file, roughly once per second, without pairs.
 
@@ -205,7 +205,7 @@ Keep the rate, ordering and exclusion rule explicit. Match any repeated sound cu
 
 ## Twelve-Second Feather Fall
 
-[Watch: Feather slowly falling past a window](<https://video.twimg.com/amplify_video/2099526099071852544/vid/avc1/1248x720/O93TDctxPPtR7TJ8.mp4?tag=29>)
+[![Twelve-Second Feather Fall video preview](<https://pbs.twimg.com/amplify_video_thumb/2099526099071852544/img/XjzWvR_kEnS66Im9.jpg>)](<https://x.com/GlennHasABeard/status/2099526136468316365>)
 
 A distance-over-time instruction controls slow motion by making one feather cross one window in twelve seconds.
 
