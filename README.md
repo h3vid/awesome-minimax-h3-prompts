@@ -5,7 +5,7 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **32 verified examples**, with sources reviewed through **2026-09-25**. Items are shown in editorial order without preset categories.
+The collection currently contains **84 verified examples**, with sources reviewed through **2026-09-30**. Items are shown in editorial order without preset categories.
 
 <a id="midnight-seoul-fashion-film"></a>
 
@@ -1016,6 +1016,1561 @@ Pair the short motion instruction with an original or licensed full-body opera r
 **Shared by:** [PixelAIGC](<https://x.com/PixelAigc>)
 
 [Original post on X](<https://x.com/PixelAigc/status/2102426880016253191>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#peking-opera-camera-push>)
+
+<a id="tom-and-jerry-desktop-icon-repair"></a>
+
+## Tom and Jerry Desktop Icon Repair
+
+[![Tom and Jerry Desktop Icon Repair video preview](<https://pbs.twimg.com/amplify_video_thumb/2101913508799713280/img/qTav2OvGEt9_zd6o.jpg>)](<https://x.com/Strength04_X/status/2101913634293297466>)
+
+Tom accidentally knocks three macOS icons loose, restores each one by hand, then pretends nothing happened while Jerry watches.
+
+**Model:** MiniMax H3
+
+### Reference Image Prompt · `en`
+
+```text
+Reference Prompt : Create a high-end 16:9 macOS desktop screenshot featuring Tom and Jerry as the main characters.
+
+Build an original cinematic cartoon living-room environment at sunset, with warm window light entering from one side, wooden flooring, cozy furniture, soft shadows, scattered playful objects, and subtle atmospheric depth.
+
+Place Tom and Jerry together on the RIGHT side in an expressive playful moment, preserving their recognizable classic cartoon appearance, proportions, colors, facial expressions, clothing/details, and original 2D animation aesthetic.
+
+Tom should be reacting dramatically while Jerry appears mischievous, creating a natural storytelling moment. Keep both characters fully visible and avoid cropping faces, hands, tails, or important details.
+
+Use warm golden-orange lighting mixed with deep brown, cream, muted red, and soft blue accents. Add subtle cinematic lighting and depth while keeping the artwork clearly cartoon-styled.
+
+Reserve the LEFT side for desktop shortcuts. Add exactly 18 applications in three columns and six rows:
+
+Chrome | Safari | Gmail
+YouTube | Spotify | Discord
+Slack | Zoom | Microsoft Teams
+Notion | Word | Excel
+Instagram | Reddit | Netflix
+Steam | Dropbox | Google Drive
+
+Use clean recognizable application logos, identical sizing, generous spacing, and crisp white labels.
+
+Add a realistic translucent macOS menu bar across the top:
+Apple logo, Finder, File, Edit, View, Go, Window, Help
+with Wi-Fi, battery, control icons, and clock on the right.
+
+Add a floating translucent Dock along the bottom, positioned toward the LEFT so Tom and Jerry remain unobstructed.
+
+Dock:
+Finder, Safari, Messages, Mail, Photos, Calendar, System Settings, separator, Downloads, Trash.
+
+Final style: premium animated-film artwork combined with a realistic macOS interface, cinematic composition, clean typography, strong character integration, polished lighting, detailed environment, and balanced negative space.
+
+No laptop, monitor, keyboard, mouse, open applications, extra characters, duplicate icons, large titles, advertisements, banners, or watermark.
+
+Output one finished high-resolution 16:9 edge-to-edge desktop image.
+```
+
+### Video Prompt · `en`
+
+```text
+Create a 10-second horizontal 16:9 video using the provided Tom and Jerry macOS desktop image as the EXACT first frame and visual reference.
+
+IMPORTANT:
+
+Preserve the reference desktop exactly as shown, including the warm sunset living room, wooden floor, sofa, window, books, popcorn box, scattered popcorn, macOS menu bar, left-side application grid, bottom Dock, and all desktop elements.
+
+Keep Tom and Jerry's exact recognizable classic cartoon appearance, proportions, colors, facial features, expressions, poses, and original 2D animation style. Do not redesign, modernize, photorealize, or change their visual style.
+
+Begin with Tom running dramatically toward Jerry on the RIGHT side while Jerry runs away carrying a piece of cheese.
+
+CAMERA:
+
+Static front-facing camera.
+One continuous shot.
+No camera movement.
+No zoom.
+No pan.
+No cuts.
+
+TIMELINE:
+
+0–1.5s:
+Tom continues chasing Jerry across the living-room floor.
+
+Tom looks determined and slightly frustrated.
+Jerry runs quickly toward the RIGHT while holding the cheese.
+Jerry looks back at Tom with a mischievous smile.
+
+Tom's arms, legs, ears, tail, and facial expression move naturally with exaggerated classic cartoon animation.
+
+1.5–2.5s:
+Jerry suddenly changes direction and runs toward the LEFT.
+
+Tom reacts dramatically and tries to stop himself.
+
+Tom's feet slide across the wooden floor and he accidentally kicks the scattered popcorn forward.
+
+A sudden exaggerated cartoon air movement travels toward the LEFT side of the desktop.
+
+The air movement accidentally knocks THREE desktop icons loose:
+
+Gmail
+Discord
+Microsoft Teams
+
+The three icons physically leave their original positions in the RIGHTMOST desktop-icon column.
+
+They rotate separately through the air and fall into the open desktop area above the Dock near the center-left.
+
+Each icon lands separately with a small bounce.
+
+Their original grid positions are now visibly empty.
+
+2.5–3.2s:
+Tom freezes after realizing what happened.
+
+His eyes widen.
+
+Jerry also stops for a moment and looks at the fallen icons.
+
+Tom slowly looks toward the viewer with an embarrassed expression.
+
+Jerry looks at Tom mischievously as if amused by the situation.
+
+Tom immediately decides to fix the problem.
+
+3.2–7.8s:
+Tom restores the three fallen icons ONE AT A TIME.
+
+FIRST — Gmail:
+
+Tom carefully reaches toward the fallen Gmail icon.
+
+He picks up Gmail individually with one paw.
+
+The icon must visibly leave the desktop surface.
+
+Tom carries Gmail across the desktop toward its original empty position.
+
+He carefully places Gmail back into its exact original location.
+
+The Gmail logo and label remain unchanged.
+
+A soft click is heard.
+
+Only after Gmail is completely restored does Tom reach for the next icon.
+
+SECOND — Discord:
+
+Tom reaches down and individually picks up the fallen Discord icon.
+
+He carries Discord toward its original empty position.
+
+He carefully presses it back into the correct grid position.
+
+A second gentle click is heard.
+
+Jerry watches Tom while standing nearby with the cheese.
+
+THIRD — Microsoft Teams:
+
+Tom reaches down once more.
+
+He picks up Microsoft Teams individually.
+
+He carries it back to its original position.
+
+He carefully releases it into the empty grid position.
+
+A third gentle click is heard.
+
+Show all three separate pickup-and-replace actions clearly.
+
+IMPORTANT PHYSICAL ACTION RULES:
+
+Every moving icon must visibly:
+
+leave its original position
+fall through the air
+land on the desktop
+be physically picked up
+be carried by Tom
+be placed back into its original position
+
+Do NOT:
+- restore icons automatically
+- teleport icons
+- make icons snap back from a distance
+- move multiple icons simultaneously
+- scoop multiple icons together
+- stack icons
+- duplicate icons
+- morph logos
+- change labels
+
+Tom must restore Gmail, Discord, and Microsoft Teams separately.
+
+His paws must remain anatomically consistent with the original cartoon style.
+
+No extra paws.
+No extra fingers.
+No stretched limbs.
+No distorted characters.
+
+Jerry remains nearby and reacts naturally while Tom fixes the desktop.
+
+7.8–10s:
+After placing Microsoft Teams back into position, Tom quickly returns to the RIGHT side.
+
+Jerry runs a short distance away while still holding the cheese.
+
+Tom straightens himself and tries to regain his dignity.
+
+He looks toward the restored icons.
+
+Then he looks directly at the viewer with an innocent, slightly embarrassed expression.
+
+Jerry briefly looks back at Tom with a mischievous smile.
+
+Tom pretends nothing happened.
+
+Hold the final pose for the remaining moment.
+
+The final desktop must closely match the original first frame.
+
+DESKTOP PRESERVATION:
+
+Only Gmail, Discord, and Microsoft Teams are allowed to move.
+
+Everything else must remain completely stationary:
+
+Chrome
+Safari
+YouTube
+Spotify
+Slack
+Zoom
+Notion
+Microsoft Word
+Microsoft Excel
+Instagram
+Reddit
+Netflix
+Steam
+Dropbox
+Google Drive
+
+The macOS menu bar must remain stationary.
+
+The Dock must remain stationary.
+
+The wallpaper and all furniture must remain stationary.
+
+Do not change application logos or labels.
+
+Do not duplicate any icons.
+
+AUDIO:
+
+Light playful cartoon piano and pizzicato music.
+
+Fast playful rhythm during Tom's chase.
+
+A short cartoon sliding sound when Tom loses balance.
+
+A brief airy whoosh as the three icons are knocked loose.
+
+Three soft landing sounds as the icons fall.
+
+Three distinct gentle clicks as Tom restores Gmail, Discord, and Microsoft Teams.
+
+Music briefly pauses during Tom's shocked reaction, then resumes with a playful rhythm.
+
+No dialogue.
+No subtitles.
+No text overlays.
+
+VISUAL QUALITY:
+
+Premium cinematic cartoon animation integrated into the existing macOS desktop.
+
+Keep Tom and Jerry clearly 2D while maintaining the cinematic lighting of the environment.
+
+Natural squash-and-stretch animation.
+Smooth character motion.
+Clean cartoon outlines.
+Consistent colors.
+Natural shadows.
+Subtle floor reflections.
+Realistic interaction with the environment.
+
+FINAL FRAME:
+
+All three icons must be restored to their exact original positions.
+
+Tom and Jerry remain on the RIGHT side.
+
+Tom looks embarrassed but tries to appear innocent.
+
+Jerry remains mischievous.
+
+No missing icons.
+No duplicate icons.
+No changed logos.
+No extra characters.
+No extra objects.
+No camera movement.
+No cuts.
+
+The final frame should closely match the original reference image.
+```
+
+### How to adapt it
+
+Replace Tom and Jerry with any characters suited to slapstick animation, regenerate the desktop reference, then keep the three-icon fall-and-repair sequence physically explicit and one action at a time.
+
+**Shared by:** [M-studioAi](<https://x.com/Strength04_X>)
+
+[Original post on X](<https://x.com/Strength04_X/status/2101913634293297466>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tom-and-jerry-desktop-icon-repair>)
+
+<a id="ai-directed-survival-world"></a>
+
+## AI-Directed Survival World
+
+[![AI-Directed Survival World video preview](<https://pbs.twimg.com/amplify_video_thumb/2101603811089653760/img/76aRIVVoQZOS3F1F.jpg>)](<https://x.com/ai_xiaomu/status/2101619124812357850>)
+
+An automated pipeline uses an LLM to design a world, an agent to make survival decisions and MiniMax H3 to render each outcome.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Define a persistent world state, expose a constrained set of decisions to the agent and translate every state change into a compact video brief before rendering the next scene.
+
+**Shared by:** [黄小木](<https://x.com/ai_xiaomu>)
+
+[Original post on X](<https://x.com/ai_xiaomu/status/2101619124812357850>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ai-directed-survival-world>)
+
+<a id="image-model-concept-animation-comparison"></a>
+
+## Image Model Concept Animation Comparison
+
+[![Image Model Concept Animation Comparison video preview](<https://pbs.twimg.com/amplify_video_thumb/2100931334852018177/img/T9da2CyBX16rqgaj.jpg>)](<https://x.com/999toba/status/2100931866538758373>)
+
+Two interpretations of the same image concept are animated with MiniMax H3 to compare how upstream visual design changes the final motion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate the same concept with two image models, animate both with identical MiniMax H3 settings and compare motion, composition retention and how each still constrains the result.
+
+**Shared by:** [toba](<https://x.com/999toba>)
+
+[Original post on X](<https://x.com/999toba/status/2100931866538758373>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#image-model-concept-animation-comparison>)
+
+<a id="ref2v-motion-realism-test"></a>
+
+## Ref2V Motion Realism Test
+
+[![Ref2V Motion Realism Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2102975050471350272/img/Rih-7F-KVsWDFGdn.jpg>)](<https://x.com/kentdhani/status/2102975174337531994>)
+
+A reference-motion experiment shows strong movement transfer while openly exposing remaining face and photorealism weaknesses.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use a motion reference with clearly visible full-body movement and evaluate motion fidelity separately from identity, facial stability and surface realism.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2102975174337531994>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ref2v-motion-realism-test>)
+
+<a id="one-paragraph-dialogue-short"></a>
+
+## One-Paragraph Dialogue Short
+
+[![One-Paragraph Dialogue Short video preview](<https://pbs.twimg.com/amplify_video_thumb/2102893992677355520/img/WmPdD-fI9Op9VWLi.jpg>)](<https://x.com/AlfredAlfer77/status/2102896323745734840>)
+
+One story paragraph becomes a dialogue-heavy short in about 15 minutes, including an instructive character-assignment mistake.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Write a paragraph that names every character before their action and dialogue. Review the first generation for speaker assignment, then tighten character references before extending the story.
+
+**Shared by:** [Emily Youcis](<https://x.com/AlfredAlfer77>)
+
+[Original post on X](<https://x.com/AlfredAlfer77/status/2102896323745734840>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#one-paragraph-dialogue-short>)
+
+<a id="h3-camera-control-to-gaussian-splat"></a>
+
+## H3 Camera Control to Gaussian Splat
+
+[![H3 Camera Control to Gaussian Splat video preview](<https://pbs.twimg.com/amplify_video_thumb/2102734664339197952/img/8vJ6k07RfP8f-X-h.jpg>)](<https://x.com/MartinNebelong/status/2102735883019366843>)
+
+An image becomes a controlled H3 Max camera move and then a Gaussian splat scene for Blender and dynamic-world experiments.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Start with an image whose geometry remains readable across camera movement, generate a measured camera path, convert the result to a Gaussian splat and evaluate relighting separately.
+
+**Shared by:** [Martin Nebelong](<https://x.com/MartinNebelong>)
+
+[Original post on X](<https://x.com/MartinNebelong/status/2102735883019366843>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-camera-control-to-gaussian-splat>)
+
+<a id="single-image-ferrari-ad-refinement"></a>
+
+## Single-Image Ferrari Ad Refinement
+
+[![Single-Image Ferrari Ad Refinement video preview](<https://pbs.twimg.com/amplify_video_thumb/2102662929648902144/img/iD5Um6JxFXgPMLok.jpg>)](<https://x.com/Quinn_Codes/status/2102662974863471088>)
+
+A single car image becomes a cinematic advertisement, then improves through one additional prompt-driven refinement pass.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Begin with one strong product image, generate a complete first pass, then use a second brief focused on the most visible weakness instead of rewriting the whole concept.
+
+**Shared by:** [Maria Quinn](<https://x.com/Quinn_Codes>)
+
+[Original post on X](<https://x.com/Quinn_Codes/status/2102662974863471088>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-image-ferrari-ad-refinement>)
+
+<a id="blender-render-image-animation"></a>
+
+## Blender Render Image Animation
+
+[![Blender Render Image Animation video preview](<https://pbs.twimg.com/amplify_video_thumb/2102353735083347968/img/4wEDuDl2EX5MIlaI.jpg>)](<https://x.com/mojon1/status/2102354230682226764>)
+
+A static Blender render is animated with MiniMax H3, demonstrating how conventional 3D design can anchor generative motion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Render a strong keyframe in Blender with clear depth layers and then use it as the I2V anchor, reserving 3D for exact design and MiniMax H3 for secondary motion and atmosphere.
+
+**Shared by:** [モジョン](<https://x.com/mojon1>)
+
+[Original post on X](<https://x.com/mojon1/status/2102354230682226764>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blender-render-image-animation>)
+
+<a id="qwen-storyboard-single-take"></a>
+
+## Qwen Storyboard Single Take
+
+[![Qwen Storyboard Single Take video preview](<https://pbs.twimg.com/amplify_video_thumb/2102287415436255232/img/8-P6HsnEMoSDgea2.jpg>)](<https://x.com/eternityspring/status/2102287755988619328>)
+
+Qwen Image character and storyboard sheets guide a locally generated 15-second MiniMax H3 shot in one pass.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Prepare character and storyboard sheets with consistent framing, then ask MiniMax H3 for one continuous 15-second shot while preserving the planned sequence and aspect ratio.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2102287755988619328>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-storyboard-single-take>)
+
+<a id="local-character-part-shot-reel"></a>
+
+## Local Character Part-Shot Reel
+
+[![Local Character Part-Shot Reel video preview](<https://pbs.twimg.com/amplify_video_thumb/2101843602167279616/img/7XZgrBapJgQ_a5Ax.jpg>)](<https://x.com/Hemi3AI/status/2101843853913608274>)
+
+A locally generated character reel uses a reusable camera-and-pose structure to cut between detailed partial-body shots.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Apply the partial-shot camera and pose structure to an original character, planning a clear sequence of detail crops before the final wider reveal.
+
+**Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
+
+[Original post on X](<https://x.com/Hemi3AI/status/2101843853913608274>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-character-part-shot-reel>)
+
+<a id="singularity-versus-base-motion-detail"></a>
+
+## Singularity vs Base Motion Detail
+
+[![Singularity versus base MiniMax H3 motion comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2101326386321620992/img/TW5dz6OlUeJxEe7C.jpg>)](<https://x.com/kentdhani/status/2101326571504390402>)
+
+A side-by-side comparison highlights how a MiniMax H3 fine-tune changes feather detail and quality during movement.
+
+**Model:** MiniMax H3 / Singularity
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Run the same input and motion brief through the base checkpoint and fine-tune, then compare fine structures frame by frame instead of judging only the opening still.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2101326571504390402>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#singularity-versus-base-motion-detail>)
+
+<a id="sam-3d-consistent-camera-change"></a>
+
+## SAM 3D Consistent Camera Change
+
+[![SAM 3D Consistent Camera Change video preview](<https://pbs.twimg.com/amplify_video_thumb/2100976183974182912/img/QBZCjYaCSHKxq1j0.jpg>)](<https://x.com/mickmumpitz/status/2100976491496358121>)
+
+MiniMax H3 and SAM 3D Body change the camera around a person while keeping the surrounding environment consistent.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use body geometry to guide a deliberate camera change, keep environment anchors visible and inspect the result for identity, occlusion and background continuity across angles.
+
+**Shared by:** [Mickmumpitz](<https://x.com/mickmumpitz>)
+
+[Original post on X](<https://x.com/mickmumpitz/status/2100976491496358121>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sam-3d-consistent-camera-change>)
+
+<a id="rtx-4070-four-step-local-video"></a>
+
+## Local Video on an RTX 4070
+
+[![Local Video on an RTX 4070 video preview](<https://pbs.twimg.com/amplify_video_thumb/2101612163697942528/img/DOvaI89gte1_egSX.jpg>)](<https://x.com/DateAIko_SD24/status/2101613944872042683>)
+
+An eight-second H3 experiment using a four-step LoRA on a 12 GB RTX 4070 with 32 GB system RAM.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Start with a short, low-resolution clip and a compatible four-step LoRA before increasing resolution.
+
+**Shared by:** [グラビアのAI美少女](<https://x.com/DateAIko_SD24>)
+
+[Original post on X](<https://x.com/DateAIko_SD24/status/2101613944872042683>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx-4070-four-step-local-video>)
+
+<a id="rift-dimensional-title"></a>
+
+## RIFT Dimensional Title
+
+[![RIFT Dimensional Title video preview](<https://pbs.twimg.com/ext_tw_video_thumb/2101989846654832640/pu/img/wqb_ErKB7gNDoDMy.jpg>)](<https://x.com/CharaspowerAI/status/2101989866762354988>)
+
+A dimensional fracture compresses particles into black-metal typography before a final shockwave.
+
+**Model:** MiniMax H3
+
+```text
+High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal "RIFT". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.
+```
+
+### How to adapt it
+
+Replace RIFT with a short title and preserve the fracture, compression, hero hold and release sequence.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2101989866762354988>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rift-dimensional-title>)
+
+<a id="glass-mushroom-audio-timing"></a>
+
+## Glass Mushroom Audio Timing
+
+[![Glass Mushroom Audio Timing video preview](<https://pbs.twimg.com/amplify_video_thumb/2102026785470738432/img/t8KunGXptpPznbGO.jpg>)](<https://x.com/GlennHasABeard/status/2102026855180046499>)
+
+Seven glass mushrooms link finger taps, rising notes and water drops in a locked macro shot.
+
+**Model:** MiniMax H3
+
+### Published prompt excerpt · `en`
+
+```text
+one mushroom every one and a half seconds, each a slightly higher note, each shedding one drop
+```
+
+### How to adapt it
+
+Keep a fixed camera and define one repeated action, one sound and one visible consequence per beat.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2102026855180046499>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#glass-mushroom-audio-timing>)
+
+<a id="fasth3-v2-combat-upscale"></a>
+
+## FastH3 V2 Combat Workflow
+
+[![FastH3 V2 Combat Workflow video preview](<https://pbs.twimg.com/amplify_video_thumb/2102279795870756864/img/3GpiVRGrZm0ke_VZ.jpg>)](<https://x.com/sunbaolong_2001/status/2102280037286527349>)
+
+A local action workflow combines FastH3 V2, two-stage latent upscaling and a dual-pass face fix.
+
+**Model:** MiniMax H3 (FastH3 V2)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Test the eight-step INT8 generation first, then add latent upscaling and face repair as separate stages.
+
+**Shared by:** [有趣的80后程序员](<https://x.com/sunbaolong_2001>)
+
+[Original post on X](<https://x.com/sunbaolong_2001/status/2102280037286527349>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-v2-combat-upscale>)
+
+<a id="flova-motion-graphics"></a>
+
+## Motion Graphics on Flova
+
+[![Motion Graphics on Flova video preview](<https://pbs.twimg.com/amplify_video_thumb/2102336078476894208/img/IRN8l0K6Ru-_cF8k.jpg>)](<https://x.com/ponzponz15/status/2102337136574042333>)
+
+A Japanese creator explores motion graphics with MiniMax H3 Max on Flova.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use a short clip to explore graphic motion, then refine timing and composition for your own campaign.
+
+**Shared by:** [ぽんず | AI映像](<https://x.com/ponzponz15>)
+
+[Original post on X](<https://x.com/ponzponz15/status/2102337136574042333>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flova-motion-graphics>)
+
+<a id="tidal-fluid-title"></a>
+
+## TIDAL Fluid Title
+
+[![TIDAL Fluid Title video preview](<https://pbs.twimg.com/ext_tw_video_thumb/2102352361825918976/pu/img/uFAVjPQbL5lhdLn_.jpg>)](<https://x.com/CharaspowerAI/status/2102352395439120566>)
+
+Two ocean walls collide and sculpt a seawater title before the letters explode into mist.
+
+**Model:** MiniMax H3
+
+```text
+Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise on opposite sides of frame. The camera sweeps between them while billions of droplets rain downward and sunlight refracts through transparent liquid structures. Both walls violently collapse toward each other, creating a spectacular collision of water, foam and pressure that launches a liquid shockwave into the sky. The camera rapidly orbits the explosion as the suspended water is pulled into gigantic rotating streams. These streams twist, collide and sculpt themselves into the monumental word "TIDAL", every letter composed of violently circulating transparent seawater with white foam wrapped around its edges. The title holds for one massive hero moment before an invisible pressure pulse tears through it from left to right, detonating each letter sequentially into enormous explosions of water and mist. Photorealistic fluid simulation, colossal natural power, IMAX-scale cinematic VFX.
+```
+
+### How to adapt it
+
+Replace TIDAL with a short word and keep the collision, fluid sculpting, hero hold and sequential breakup.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2102352395439120566>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tidal-fluid-title>)
+
+<a id="h3-after-effects-beat-edit"></a>
+
+## H3 and After Effects Beat Edit
+
+[![H3 and After Effects Beat Edit video preview](<https://pbs.twimg.com/amplify_video_thumb/2102656011614162944/img/jBG_jkOUnlaU7x3h.jpg>)](<https://x.com/aicreataro/status/2102656273112326609>)
+
+A 15-second H3 base clip is retimed to music and given section-specific effects in After Effects.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate a base clip, align cuts to beats, assign one effect per section and retain the editable project.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2102656273112326609>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-after-effects-beat-edit>)
+
+<a id="green-screen-ae-3d"></a>
+
+## Green Screen into AE 3D
+
+[![Green Screen into AE 3D video preview](<https://pbs.twimg.com/amplify_video_thumb/2102736177044639744/img/4txhEaSPDWVlWy5V.jpg>)](<https://x.com/aicreataro/status/2102736678939222154>)
+
+A ten-second H3 green-screen character is keyed into an After Effects space with animated cameras and lights.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate a clean green-screen character, key the background and design the camera and lighting in the compositor.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2102736678939222154>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#green-screen-ae-3d>)
+
+<a id="dance-skeleton-lyric-tracking"></a>
+
+## Dance Skeleton Lyric Tracking
+
+[![Dance Skeleton Lyric Tracking video preview](<https://pbs.twimg.com/amplify_video_thumb/2103756555460247552/img/WWeKDoWPDICKUl7l.jpg>)](<https://x.com/aicreataro/status/2103757144789221819>)
+
+H3 dances driven by a Suno track become skeleton data for lyrics, lights and cameras in After Effects.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate short dances from an audio reference, extract pose data and use it to attach graphics selectively.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2103757144789221819>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dance-skeleton-lyric-tracking>)
+
+<a id="wedding-photo-memories"></a>
+
+## Wedding Photos Come Alive
+
+[![Wedding Photos Come Alive video preview](<https://pbs.twimg.com/amplify_video_thumb/2103916447185653760/img/gU9a5LFlyVAs8pTS.jpg>)](<https://x.com/Claud31150Code/status/2103916716309045437>)
+
+Fictional printed photographs become moving memories, with period-specific textures and music-aligned transitions.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use each photograph as the first frame and choose textures and transitions appropriate to its era.
+
+**Shared by:** [GENFILM LAB](<https://x.com/Claud31150Code>)
+
+[Original post on X](<https://x.com/Claud31150Code/status/2103916716309045437>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wedding-photo-memories>)
+
+<a id="anime-to-realism-lora"></a>
+
+## Anime to Realism LoRA Test
+
+[![Anime to Realism LoRA Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2103928176569360384/img/3rQpdK0SwzWKQAPl.jpg>)](<https://x.com/toyxyz3/status/2103928275240366581>)
+
+A ComfyUI test explores an Anime-to-Realism reference-video LoRA for H3.
+
+**Model:** MiniMax H3 (Anime-to-Realism LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare the reference video and the converted style with the same scene and camera motion.
+
+**Shared by:** [toyxyz](<https://x.com/toyxyz3>)
+
+[Original post on X](<https://x.com/toyxyz3/status/2103928275240366581>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anime-to-realism-lora>)
+
+<a id="stairwell-action-continuity"></a>
+
+## Stairwell Action Continuity
+
+[![Stairwell Action Continuity video preview](<https://pbs.twimg.com/amplify_video_thumb/2103949121778323456/img/Wx8wD9KksjbPDQta.jpg>)](<https://x.com/DeCat2025/status/2103949420400201850>)
+
+A timed close-quarters fight maintains downward travel, readable geography and grounded impact sounds.
+
+**Model:** MiniMax H3
+
+```text
+A tense 15-second photorealistic live-action close-quarters fight inside a narrow concrete emergency stairwell of a modern high-rise. Harsh fluorescent ceiling lights, gray concrete walls, steel handrails, red emergency signage, scuffed steps. Everything feels real, confined and dangerous.
+
+Maintain strict continuity throughout: the same two fighters, same clothing, same stairwell, same injuries, same direction of travel. They are continuously fighting DOWNWARD through the stairwell. Every movement has realistic weight and momentum. The geography must always remain clear.
+
+0:00–0:04 - TOP LANDING
+Medium wide shot from the lower landing looking upward. A battered man in a dark jacket bursts through the fire door. His pursuer immediately grabs him from behind. He slams backward into the concrete wall to break the hold, turns, blocks a punch, and drives the attacker into the steel railing. Fast but readable choreography. Camera retreats down the stairs ahead of them, keeping both fighters fully visible.
+
+Sound: fire door crashes open, boots pounding concrete, strained breathing, clothing movement, heavy body impact against the wall, metallic railing vibration.
+
+0:04–0:08 - DESCENDING THE STAIRS
+Tracking shot moving backward one flight below them. The attacker lunges again. The man blocks, takes a hard body shot, briefly loses his footing, catches the handrail and recovers. The attacker grabs his jacket. They struggle while descending several steps, using the railing and walls for leverage. No acrobatics, no impossible moves. Their exhaustion is becoming visible.
+
+Sound: rapid footsteps, shoes scraping concrete, punches landing with blunt realistic impact, hands striking the railing, increasingly heavy breathing.
+
+0:08–0:12 - LOWER LANDING
+Side-angle medium shot as they crash onto the next landing. The attacker drives the man against the fire door. The man traps the attacker's arm, turns the position around and shoves him hard into the opposite concrete wall. Half-second tense pause: both exhausted, staring at each other, breathing hard.
+
+The fluorescent light above them flickers.
+
+Then the attacker charges again.
+
+0:12–0:15 - FINAL DESCENT
+Low-angle wide shot from the next flight down. The man redirects the charge and the attacker loses balance, falling hard down several concrete steps before catching himself against the railing on the lower landing. The man remains above him, bruised and exhausted.
+
+They lock eyes.
+
+The attacker slowly starts getting back up.
+
+Cut to black before the fight resumes.
+
+Sound: brutal impact on the stairs, metal railing shaking, fluorescent electrical buzz, heavy breathing. After the fall, briefly remove almost all background sound except breathing and the ringing vibration of the railing.
+
+CAMERA AND PERFORMANCE:
+Tight, tense handheld cinematography but never excessively shaky. Keep both fighters and the stairwell geography readable during combat. Use medium-wide framing for complex movements and move closer only for brief emotional beats. Natural motion blur. Realistic impacts and defensive reactions. The fighters should look tired and increasingly desperate rather than superhuman.
+
+VISUAL STYLE:
+Grounded contemporary action-thriller realism. Cold fluorescent lighting, slightly desaturated color, subtle sweat, dust and progressively rumpled clothing. Real concrete, painted steel and practical lighting. No stylized martial-arts posing, no wire-work, no slow motion, no impossible jumps, no exaggerated knockback, no superhero movement, no excessive blood, no floating debris, no glossy CGI appearance.
+```
+
+### How to adapt it
+
+Preserve the direction of travel and use medium-wide framing for complex action before adding close-ups.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2103949420400201850>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#stairwell-action-continuity>)
+
+<a id="text-driven-facial-expression"></a>
+
+## Text Driven Facial Expressions
+
+[![Text Driven Facial Expressions video preview](<https://pbs.twimg.com/amplify_video_thumb/2103961279907926016/img/ldAitr2bjZ255OES.jpg>)](<https://x.com/mirthtime/status/2103961305732534426>)
+
+A creator tests facial expressions using text prompts alone with H3.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Specify a clear emotional change and keep the camera simple when testing facial performance.
+
+**Shared by:** [⚡️Mirthtime ⚡️](<https://x.com/mirthtime>)
+
+[Original post on X](<https://x.com/mirthtime/status/2103961305732534426>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#text-driven-facial-expression>)
+
+<a id="plants-follow-like-cats"></a>
+
+## Plants Follow Like Cats
+
+[![Plants Follow Like Cats video preview](<https://pbs.twimg.com/amplify_video_thumb/2103971670817914880/img/d0PCzdN-RpHlf4fc.jpg>)](<https://x.com/GlennHasABeard/status/2103972253599777078>)
+
+Plant leaves and stems follow a passing subject like cats, with a fixed camera and synchronized rustles.
+
+**Model:** MiniMax H3
+
+### Published prompt excerpt · `en`
+
+```text
+the plant's leaves and stem lean toward it like a cat's head following it, then straighten as it moves on
+```
+
+### How to adapt it
+
+Define the follow-and-reset motion explicitly and keep the viewpoint fixed to make the response readable.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2103972253599777078>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#plants-follow-like-cats>)
+
+<a id="six-panel-manga-office-ad"></a>
+
+## Six Panel Manga Office Ad
+
+[![Six Panel Manga Office Ad video preview](<https://pbs.twimg.com/amplify_video_thumb/2103973652496838656/img/50L-RzFY538Pqzcz.jpg>)](<https://x.com/tanabe_fragm/status/2103973928549163304>)
+
+A six-panel office storyboard becomes a timed vertical ad with Japanese dialogue, speech bubbles and chart animation.
+
+**Model:** MiniMax H3
+
+```text
+subject_definitions: <Subject 1> is the young Japanese office worker in <Picture 1>, a man in his mid-twenties with short, slightly messy black hair, a white dress shirt with rolled sleeves, a navy necktie, and an ID badge on a dark lanyard. <Subject 2> is the female senior colleague in <Picture 1>, a woman in her late twenties with brown hair tied up in a loose low bun, a charcoal-gray blazer over a white top, and a friendly, confident expression. <Subject 3> is the visual style of <Picture 1>: Japanese anime-style illustration with clean cel shading, crisp dark line art, soft office lighting, and a bright, clear color palette.
+
+summary: [reference generation] A 15-second vertical Japanese anime short. <Subject 1> is overwhelmed by a pile of meeting minutes late at night, then <Subject 2> shows him a single AI instruction on her laptop, and he finishes the work in ten minutes. The story follows the six panels of <Picture 1> in order, rendered as one continuous full-screen video.
+
+retention_analysis: <Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4], [Shot 5], [Shot 6]): fully_preserved - face, black hairstyle, white shirt, navy necktie, and ID badge stay identical in every shot. <Subject 2> (appears in [Shot 3], [Shot 4], [Shot 6]): fully_preserved - face, brown bun hairstyle, gray blazer, and white top stay identical in every shot. <Subject 3> (appears in all shots): partially_preserved - the anime line art, cel shading, and color palette are kept; the storyboard layout itself is not.
+
+detailed_description: [Shot 1] Japanese anime style, vertical 9:16 full-screen frame. A chest-up shot of <Subject 1> (S1) at a desk in a dark office late at night, city lights glowing through the window behind him and a round wall clock beside it. He clutches his head with one hand, sweat drop on his temple, in front of tall stacks of paper; the top sheet shows the printed title "議事録". A white speech bubble pops in above him, its tail pointing to his mouth, reading "うわ…" on the first line and "議事録が終わらない" on the second line. The camera pushes in with small amplitude at slow speed as S1, a young man with a slightly hoarse, tired voice, groans: <d>[Japanese] うわ…議事録が終わらない</d>
+[Shot 2] At 00:02.500, the camera cuts to a medium shot of the same night desk. S1 slumps forward and drops his face onto the paper stacks, a pile of sheets slides slightly, and a small black scribble swirl appears above his head. A white speech bubble pops in at the upper left, its tail pointing down toward his head, reading "まだこんなに" on the first line and "残ってる…" on the second line. Static shot. S1 mumbles into the papers: <d>[Japanese] まだこんなに残ってる…</d>
+[Shot 3] At 00:04.500, <scenetrans> the scene changes to the same office the next morning, bright daylight and a green plant in the background. <Subject 2> (S2) leans in from the right holding a white mug. A white speech bubble pops in above her, its tail pointing to her mouth, reading "もう終わったよ", and S2, a young woman with a calm, bright voice, says: <d>[Japanese] もう終わったよ</d> S1 turns toward her with wide eyes, and a jagged white shout bubble containing only "えっ!?" pops in beside him as S1 says: <d>[Japanese] えっ!?</d>
+[Shot 4] At 00:07.000, the camera cuts to an over-the-shoulder shot from behind S1 toward a laptop screen. S2 points at the screen with a smile, and a white speech bubble above her, its tail pointing to her mouth, reads "この一文でOKだよ". On the screen, a navy header bar reads "AIへの指示文", and below it three soft, blurred lines of text appear one line at a time. The camera pushes in with small amplitude at slow speed toward the screen as S2 says: <d>[Japanese] この一文でOKだよ</d>
+[Shot 5] At 00:09.500, the camera cuts to a bright shot of S1 raising a fist in joy, light rays bursting behind him. A white speech bubble pops in above him, its tail pointing to his mouth, reading "10分で終わった！". Below the bubble and beside him, a simple bar chart assembles in two stages: first a tall gray bar labeled "3時間" rises on the left, then a short blue bar labeled "10分" appears on the right, and a curved blue arrow travels from the top of the tall gray bar down to the top of the short blue bar, pointing only at the short blue bar. S1 shouts happily: <d>[Japanese] 10分で終わった！</d>
+[Shot 6] At 00:12.500, the camera cuts to a medium shot of S1 and S2 standing side by side in the bright office, both smiling, S2 holding a closed laptop against her chest. A white speech bubble pops in above S1, its tail pointing to his mouth, reading "今日から、" on the first line and "仕事をもっとラクに" on the second line. The camera pulls out with small amplitude at slow speed. The lower third of the frame stays clean and uncluttered. S1 says cheerfully: <d>[Japanese] 今日から、仕事をもっとラクに</d> Hold this final shot until exactly 15.000 seconds.
+All speech bubbles share one manga style: white fill, thick black outline, rounded shape, bold black Japanese lettering written horizontally, placed in the upper-middle part of the frame and never in the top 15% or the bottom third. Each bubble pops in as its line begins and disappears when the shot cuts. The spoken words match the bubble text exactly. Only these seven lines of dialogue are spoken; no other speech, narration, or ad-libbing. The only on-screen text is the bubble text above plus "議事録", "AIへの指示文", "3時間", and "10分". No subtitles, no captions, no storyboard panel borders, no panel numbers or header labels, no split-screen, no watermark.
+
+overall_soundscape: A quiet office hum and a ticking wall clock fill the night shots, with paper rustling as the stacks shift and a soft thud when he slumps onto them. In the morning, gentle office ambience plays, a mug clinks lightly, and a comic pop accompanies the surprise. Soft keyboard taps and a small UI chime sound as the text lines appear, followed by a bright whoosh and a rising chime as the chart assembles.
+
+non_diegetic_music: A light piano and pizzicato-string cue at a moderate tempo, sparse and low in the two night shots. It turns brighter with plucked synth and soft hand percussion from 00:04.500, builds slightly during the chart at 00:09.500, and resolves on a clean major chord at 15.000 seconds.
+```
+
+### How to adapt it
+
+Provide a storyboard, define recurring subjects and align each dialogue line with its timed shot.
+
+**Shared by:** [タナベ | AI動画 × マーケティング](<https://x.com/tanabe_fragm>)
+
+[Original post on X](<https://x.com/tanabe_fragm/status/2103973928549163304>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#six-panel-manga-office-ad>)
+
+<a id="interactive-cat-video-game"></a>
+
+## Interactive Cat Video Game
+
+A customizable cat game uses seamless H3 video scenes tied to the player’s house and cat choices.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Define a small set of player choices and generate compatible scene transitions for each combination.
+
+**Shared by:** [Adam Lyttle](<https://x.com/adamlyttleapps>)
+
+[Original post on X](<https://x.com/adamlyttleapps/status/2103991518386405468>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#interactive-cat-video-game>)
+
+<a id="magnetica-23-shot-lyric-mv"></a>
+
+## Magnetica 23 Shot Lyric MV
+
+[![Magnetica 23 Shot Lyric MV video preview](<https://pbs.twimg.com/amplify_video_thumb/2104003162839699456/img/VLhxs1NL-vJB5NBs.jpg>)](<https://x.com/wtry1102/status/2104008824420241747>)
+
+A director plan feeds 23 reference-conditioned H3 shots on Colab L4, then tracked lyrics are composited over the edit.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Create a shot plan from the song, reuse character sheets and composite lyrics after sequencing the shots.
+
+**Shared by:** [WTR](<https://x.com/wtry1102>)
+
+[Original post on X](<https://x.com/wtry1102/status/2104008824420241747>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#magnetica-23-shot-lyric-mv>)
+
+<a id="monochrome-impact-color-action"></a>
+
+## Monochrome Impact Color Action
+
+[![Monochrome Impact Color Action video preview](<https://pbs.twimg.com/amplify_video_thumb/2104015436526292994/img/uDVBB8lYhI8gTjcm.jpg>)](<https://x.com/DeCat2025/status/2104015497624711637>)
+
+A black-and-white anime fight allows saturated color only at the instant of a physical strike.
+
+**Model:** MiniMax H3
+
+```text
+A ruined multi-level Japanese fortress during a storm. Two adult rival fighters, one carrying a katana, the other fighting with a short blade and fists. Everything is pure black, white, and grayscale: characters, bloodless injuries, rain, lightning, fire smoke, architecture, debris.
+
+Absolute visual rule: Color exists ONLY for the exact instant of a successful sword collision, punch, kick, or physical strike. Each impact creates a violent saturated color shockwave originating precisely from the contact point. The color disappears immediately after the strike.
+
+0–3s | VERTICAL DROP: Camera plunges straight down through a shattered roof. The fighters are already battling while FALLING through the collapsing building. The swordsman kicks off a tumbling beam and attacks in midair. The opponent blocks.
+IMPACT: violent RED flash.
+The collision throws both fighters in opposite directions.
+
+3–6s | WALL RUN: One lands sideways against a vertical wall and runs across it as the structure collapses beneath him. The other swings from a hanging chain, releases, and flies directly toward him. Sword meets short blade.
+IMPACT: explosive ELECTRIC BLUE slash of color.
+The wall fractures from the force.
+Both DROP through it.
+
+6–9s | INTERIOR CHAOS: They crash through paper walls into a narrow corridor without stopping. Close-range fight while sprinting. Sword blocked. YELLOW. Elbow to ribs. MAGENTA. Spinning kick into chest. CYAN. Blade collision inches from a face. VIOLET.
+Every impact is separated by pure monochrome frames. Color never remains in the environment.
+The final kick sends one fighter through the corridor wall.
+
+9–12s | EXTERIOR FALL: He falls toward a lower rooftop. The swordsman dives after him blade-first. Camera falls beside them. The lower fighter twists in midair and catches the descending sword between his short blade and forearm guard.
+IMPACT: enormous ORANGE circular shockwave.
+Roof tiles below them blast outward before they even land.
+They crash through the roof together.
+
+12–15s | FINAL EXCHANGE: Inside the dark room below, both hit the floor, roll apart and instantly charge.
+Rapid extreme close-ups:
+Foot plants.
+Hand tightens around sword.
+Eyes lock.
+Two blades accelerate.
+CLASH.
+
+A gigantic multicolored impact fractures across the monochrome frame like stained glass.
+But behind the explosion, the fist fighter has already slipped inside the swordsman's guard.
+He drives one devastating punch into his opponent's chest.
+
+PURE WHITE FRAME → single concentrated CRIMSON impact.
+All color dies instantly.
+Wide shot.
+Both fighters stand motionless in the destroyed monochrome room.
+A beat.
+The swordsman's katana snaps in half.
+CUT TO BLACK.
+
+Visual style: premium theatrical anime, detailed hand-drawn ink work, extreme perspective, aggressive foreshortening, speed-line deformation, impact frames, controlled motion smears, rain and debris reacting physically to movement, rapid but clearly readable choreography. No colored backgrounds, no colored atmosphere, no colored lightning, no glowing weapons. ONLY strikes create color. No dialogue. No text. No famous faces.
+```
+
+### How to adapt it
+
+Keep the environment monochrome and associate each color flash with a clearly defined contact point.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2104015497624711637>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#monochrome-impact-color-action>)
+
+<a id="three-part-video-audio-handoff"></a>
+
+## Three Part Video Audio Handoff
+
+A ComfyUI workflow passes ten seconds of video and audio context into subsequent sections before latent upscaling.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Carry a defined context window into each section and inspect consistency before the final upscale.
+
+**Shared by:** [Alex Shev](<https://x.com/AlexshevPm>)
+
+[Original post on X](<https://x.com/AlexshevPm/status/2104031336646246740>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-part-video-audio-handoff>)
+
+<a id="16-bit-pixel-art-ref2va"></a>
+
+## 16 Bit Pixel Art Ref2VA
+
+[![16 Bit Pixel Art Ref2VA video preview](<https://pbs.twimg.com/amplify_video_thumb/2104034019545624577/img/XJwD3sg3vcZgyH4V.jpg>)](<https://x.com/sep_is_heim/status/2104034343945683057>)
+
+A reference-conditioned H3 test uses a 16-bit pixel-art LoRA to explore game-like motion and style.
+
+**Model:** MiniMax H3 (16-bit Pixel Art LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Supply a consistent character reference and compare motion cadence before changing frame rate.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2104034343945683057>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#16-bit-pixel-art-ref2va>)
+
+<a id="katabui-audio-reactive-graphics"></a>
+
+## KATABUI Audio Reactive Graphics
+
+[![KATABUI Audio Reactive Graphics video preview](<https://pbs.twimg.com/amplify_video_thumb/2104035398976753664/img/SpVQ5f9ab-bgR4_f.jpg>)](<https://x.com/cavinaka/status/2104035862862520456>)
+
+H3 footage for a TOWA TEI music video is finished in a custom editor that maps graphic movements to individual sounds.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate source footage, then assign selected graphic reactions to individual sounds in a separate editing pass.
+
+**Shared by:** [中村剛](<https://x.com/cavinaka>)
+
+[Original post on X](<https://x.com/cavinaka/status/2104035862862520456>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#katabui-audio-reactive-graphics>)
+
+<a id="first-last-frame-360-orbit"></a>
+
+## First Last Frame 360 Orbit
+
+[![First Last Frame 360 Orbit video preview](<https://pbs.twimg.com/amplify_video_thumb/2104057303209046016/img/GHT_bC3X16zZAeTJ.jpg>)](<https://x.com/pabloadaw/status/2104057399892156885>)
+
+A creator-trained orbit LoRA uses first and last frames for consistent full-circle camera moves and loops.
+
+**Model:** MiniMax H3 (360 Orbit LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use compatible first and last frames, keep the subject stable and evaluate the loop seam.
+
+**Shared by:** [kays](<https://x.com/pabloadaw>)
+
+[Original post on X](<https://x.com/pabloadaw/status/2104057399892156885>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#first-last-frame-360-orbit>)
+
+<a id="ehr-cartoon-ad-pipeline"></a>
+
+## EHR Cartoon Ad Pipeline
+
+[![EHR Cartoon Ad Pipeline video preview](<https://pbs.twimg.com/amplify_video_thumb/2104076181901594625/img/RiOixPXDyDGaU88e.jpg>)](<https://x.com/uttarwarpravin/status/2104078687591428239>)
+
+A 77-second cartoon advertisement pairs open-weight H3 video generation with Claude Code orchestration.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Break the story into short shots and use an orchestrator to assemble and review the full advertisement.
+
+**Shared by:** [Pravin Uttarwar](<https://x.com/uttarwarpravin>)
+
+[Original post on X](<https://x.com/uttarwarpravin/status/2104078687591428239>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ehr-cartoon-ad-pipeline>)
+
+<a id="colab-dialogue-upscale"></a>
+
+## Colab Dialogue and Upscale
+
+[![Colab Dialogue and Upscale video preview](<https://pbs.twimg.com/amplify_video_thumb/2104097853488644096/img/B9gLykLK-_3xMDdL.jpg>)](<https://x.com/aiworkflowprolk/status/2104097926087930052>)
+
+A 15-second H3 clip with dialogue and sound is generated on Colab and then upscaled from 768p to 1080p.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Budget startup, native generation and upscaling separately when planning a cloud render.
+
+**Shared by:** [Leo Kane](<https://x.com/aiworkflowprolk>)
+
+[Original post on X](<https://x.com/aiworkflowprolk/status/2104097926087930052>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-dialogue-upscale>)
+
+<a id="character-swap-training-test"></a>
+
+## Character Swap Training Test
+
+[![Character Swap Training Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2103392495392731136/img/1Hfp6ODZClmz3lvP.jpg>)](<https://x.com/akatz_ai/status/2103399942899528055>)
+
+The adapter creator tests a 1,000-step character-swap LoRA, preserving source motion and audio while documenting drift.
+
+**Model:** MiniMax H3 (Character Swap LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare source and edited footage for camera cuts, expression matching and drift before using longer clips.
+
+**Shared by:** [akatz](<https://x.com/akatz_ai>)
+
+[Original post on X](<https://x.com/akatz_ai/status/2103399942899528055>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-swap-training-test>)
+
+<a id="real-to-ai-continuation-game"></a>
+
+## Real to AI Continuation Game
+
+[![Real to AI Continuation Game video preview](<https://pbs.twimg.com/amplify_video_thumb/2104314996083793920/img/4a3RTLeU-WlYe24J.jpg>)](<https://x.com/AlperenKonukbay/status/2104315057970831747>)
+
+A guessing game asks viewers to identify where real footage ends and H3 Max continuation begins.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Extend a short real clip and build an interactive reveal around the transition point.
+
+**Shared by:** [Alperen](<https://x.com/AlperenKonukbay>)
+
+[Original post on X](<https://x.com/AlperenKonukbay/status/2104315057970831747>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#real-to-ai-continuation-game>)
+
+<a id="1980s-scifi-style-lora"></a>
+
+## 1980s Sci Fi Style LoRA
+
+[![1980s Sci Fi Style LoRA video preview](<https://pbs.twimg.com/amplify_video_thumb/2104685707717738496/img/fogx24nRCZpL16t_.jpg>)](<https://x.com/wildmindai/status/2104687241394323533>)
+
+An H3 style LoRA explores retro science fiction with cyborgs, laser guns and synthesizer sound.
+
+**Model:** MiniMax H3 (1980s Sci-fi Movies LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Pair era-specific lighting and props with a matching sound palette and test a short scene first.
+
+**Shared by:** [Wildminder](<https://x.com/wildmindai>)
+
+[Original post on X](<https://x.com/wildmindai/status/2104687241394323533>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#1980s-scifi-style-lora>)
+
+<a id="mandarin-family-dialogue"></a>
+
+## Mandarin Family Dialogue
+
+[![Mandarin Family Dialogue video preview](<https://pbs.twimg.com/amplify_video_thumb/2104785211456356352/img/3XH3q9hA01sBa6tJ.jpg>)](<https://x.com/tangpanqing/status/2104785261972627489>)
+
+A modern Shanghai family-drama prompt specifies three characters, spoken Mandarin dialogue and no subtitles.
+
+**Model:** MiniMax H3
+
+```text
+2026年，上海，室内，现代装修。
+
+一个50岁的男人，批评自己的老婆。旁边还有他们的女儿。
+
+老婆与女人坐在沙发上哭泣，男人很愤怒。
+
+男人说：闺女做了别人家媳妇儿
+
+你不教她孝敬公婆好好过日子
+
+整天挑唆女儿跟婆婆作对，拿捏老公
+
+你这是在害她
+
+你知道现在离婚率为什么那么高吗？
+
+全都是你这样的娘家妈造成的。”
+
+注意，不要加字幕。
+```
+
+### How to adapt it
+
+Define the speaker and listeners separately and specify the dialogue verbatim before adding camera complexity.
+
+**Shared by:** [汤光头](<https://x.com/tangpanqing>)
+
+[Original post on X](<https://x.com/tangpanqing/status/2104785261972627489>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mandarin-family-dialogue>)
+
+<a id="a100-refmod-ref2va-test"></a>
+
+## A100 RefMod Ref2VA Test
+
+[![A100 RefMod Ref2VA Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2105178953308905472/img/lHy9k-1Z3yAxx3gc.jpg>)](<https://x.com/core_tan/status/2105179463797670110>)
+
+A WebUI test combines RefMod with three-step Ref2VA generation at 768p on an A100 80 GB.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare reference conditioning and subject fidelity with a short three-step preview on compatible hardware.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2105179463797670110>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#a100-refmod-ref2va-test>)
+
+<a id="reference-size-vfx-transfer"></a>
+
+## Reference Size VFX Transfer
+
+[![Reference Size VFX Transfer video preview](<https://pbs.twimg.com/amplify_video_thumb/2105209243037011968/img/Uf_5Ok7LJuh4hcio.jpg>)](<https://x.com/SmallKino_/status/2105212024653218246>)
+
+A comparison changes reference-video size to explore its influence on VFX transfer and character output.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Hold the scene and other inputs fixed while changing reference size, then compare the transferred effect.
+
+**Shared by:** [SmallKino](<https://x.com/SmallKino_>)
+
+[Original post on X](<https://x.com/SmallKino_/status/2105212024653218246>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#reference-size-vfx-transfer>)
+
+<a id="no-training-refmod-adapter"></a>
+
+## No Training RefMod Adapter
+
+A work-in-progress reference adapter compresses image or video references into small latents without training.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare a packed reference adapter against direct references on the same short scene.
+
+**Shared by:** [Stable Diffusion Tutorials](<https://x.com/SD_Tutorial>)
+
+[Original post on X](<https://x.com/SD_Tutorial/status/2105224749551161852>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#no-training-refmod-adapter>)
+
+<a id="ntttt-blockwise-taomate-preview"></a>
+
+## NTTTT Blockwise TaoMate Preview
+
+[![NTTTT Blockwise TaoMate Preview video preview](<https://pbs.twimg.com/amplify_video_thumb/2105269767523463169/img/XGRcvONKVlcmycn0.jpg>)](<https://x.com/yu_ichi_suzuki/status/2105269792752209983>)
+
+An experiment applies TaoMate by block group and resumes a three-step preview to an eight-step render.
+
+**Model:** MiniMax H3 (TaoMate LoRA)
+
+### Workflow setup instructions · `ja`
+
+```text
+ComfyUIのMiniMax H3で「NTTTT」を試すカスタムノードとワークフローを作ってください。
+
+・TaoMate-H3-3step LoRA（rank128、208モジュール）を、blockの組ごとに強さを変えて当てるノードを作る
+・H3本体の blocks.0〜49 を10個ずつ5組に分け、強さを [0, 0.65, 0.65, 0.65, 0.65] にする（N＝H3ノーマル、T＝蒸留LoRAのTaoMate。最初の10blockだけN）
+・token_refiner の blocks は強さ0
+・対象は各blockの attn.qkv_proj / attn.out_proj / mlp.fc1 / mlp.fc2
+・forwardは書き換えない。ComfyUI標準のLoRA読込（comfy.lora.load_lora）で作ったパッチを組に分け、model.clone() に add_patches(パッチ, 強さ) で当てる
+・入力のモデルには他のLoRAを当てない
+・サンプラーは RES4LYF の ClownsharKSampler（linear/euler・simple・8ステップ・eta 0.5・CFG 1）、sigma shift は映像12・音声3
+・途中下見：1つ目のサンプラーを steps=8・steps_to_run=3 で止めて下見を作り、その出力を2つ目（steps=8・steps_to_run=5・sampler_mode=resample）につないで続きを作る
+```
+
+### How to adapt it
+
+Compare blockwise strengths against the normal model and resume only previews worth completing.
+
+**Shared by:** [鈴木憂一 | Highdrama](<https://x.com/yu_ichi_suzuki>)
+
+[Original post on X](<https://x.com/yu_ichi_suzuki/status/2105269792752209983>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ntttt-blockwise-taomate-preview>)
+
+<a id="360-equirectangular-video"></a>
+
+## 360 Equirectangular Video
+
+[![360 Equirectangular Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2105275827944341504/img/o8Mx9wGLQ0gSPqnP.jpg>)](<https://x.com/wildmindai/status/2105276125677265243>)
+
+An H3 LoRA produces full-sphere equirectangular video while retaining native audio.
+
+**Model:** MiniMax H3 (360 Equirectangular LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use an equirectangular-aware player and inspect the rear seam and poles as well as the forward view.
+
+**Shared by:** [Wildminder](<https://x.com/wildmindai>)
+
+[Original post on X](<https://x.com/wildmindai/status/2105276125677265243>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#360-equirectangular-video>)
+
+<a id="lighthouse-witch-anime"></a>
+
+## Lighthouse Witch Anime
+
+[![Lighthouse Witch Anime video preview](<https://pbs.twimg.com/amplify_video_thumb/2105284443330215936/img/2H0pu_p2doxLE3on.jpg>)](<https://x.com/lnkiai/status/2105284553829151002>)
+
+A lighthouse witch short uses H3 for visuals and sound effects, with MiniMax Music 3.0 for the score.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Plan the dramatic beat, generate visuals and effects together and add a separately controlled score.
+
+**Shared by:** [いのり](<https://x.com/lnkiai>)
+
+[Original post on X](<https://x.com/lnkiai/status/2105284553829151002>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lighthouse-witch-anime>)
+
+<a id="m5-max-native-audio-duck"></a>
+
+## M5 Max Native Audio Duck
+
+[![M5 Max Native Audio Duck video preview](<https://pbs.twimg.com/amplify_video_thumb/2103758079469010944/img/3P6hKPoASxVglQtj.jpg>)](<https://x.com/RhinoQuant/status/2105296619264671808>)
+
+A five-second magic-and-rubber-duck clip tests local H3 video and audio through h3-apple on an M5 Max.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Start with a short portrait scene and measure both generation time and peak memory on your own machine.
+
+**Shared by:** [Rhino Quant](<https://x.com/RhinoQuant>)
+
+[Original post on X](<https://x.com/RhinoQuant/status/2105296619264671808>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#m5-max-native-audio-duck>)
+
+<a id="gourmet-pizza-exploded-ad"></a>
+
+## Gourmet Pizza Exploded Ad
+
+[![Gourmet Pizza Exploded Ad video preview](<https://pbs.twimg.com/amplify_video_thumb/2105300281139548160/img/SSuSHzJYn7I5jZ18.jpg>)](<https://x.com/Refiner_Studio/status/2105300807113400711>)
+
+A portrait pizza commercial combines macro food shots, floating ingredients, kinetic typography and a cheese-pull payoff.
+
+**Model:** MiniMax H3
+
+```text
+Create a high-end cinematic Gourmet Pizza Commercial in portrait format, styled like a premium Italian restaurant campaign.
+
+Open on an extreme macro shot of a freshly baked pizza crust: blistered golden edges, tiny charred leopard spots, crisp flour-dusted texture and subtle heat shimmer under warm directional light. The camera glides slowly across the crust, revealing bubbling melted mozzarella and glossy olive oil catching the light.
+
+Pull back constinously to give a full view of th entire pizza, as the pizza toppings elegantly rise and separate into a beautifully choreographed exploded composition above the pizza base, suspended in mid-air while maintaining the circular shape of the pizza.
+
+Show an irresistible, richly topped gourmet pizza featuring:
+
+golden hand-stretched crust, vibrant San Marzano tomato sauce, molten mozzarella and burrata, pepperoni with curled crispy edges, roasted chicken pieces, smoky Italian sausage, mushrooms, roasted red and yellow peppers, black olives, caramelized onions, cherry tomatoes, fresh basil leaves, jalapeño slices and delicate parmesan shavings.
+
+Every ingredient should look extremely fresh, abundant and premium.
+
+Individual toppings float at different depths above the pizza, gently rotating and drifting with realistic weight. Molten mozzarella stretches in long elastic strands between layers. Tiny droplets of olive oil, parmesan flakes, crumbs and herbs move through the light.
+
+Use premium food-commercial cinematography throughout: extreme macro tracking shots, smooth dolly pushes, slow orbital moves around the pizza, shallow-focus passes through floating toppings, dramatic rack focuses and occasional speed ramps into luxurious slow-motion beauty shots.
+
+Include spectacular food moments:
+
+pepperoni dropping softly onto bubbling cheese,
+fresh basil leaves spiraling through the air,
+parmesan raining down in slow motion,
+olive oil falling as sparkling golden droplets,
+a burrata center gently breaking open,
+and melted mozzarella stretching dramatically as a pizza slice begins to lift.
+
+Integrate and show bold, expressive hand-lettered white typography directly into the composition.
+
+Typography appears dynamically between ingredients and follows the camera through depth.
+
+show Suggested campaign words: “LOADED.” “MELTED.”
+“RAVISH EVERY SLICE.”
+
+Letters may emerge from behind toppings, disappear beneath cheese pulls, stretch slightly during transitions and snap cleanly into position.
+
+Add minimal hand-drawn white doodles: curved arrows, circles, ingredient highlights and playful motion strokes around pepperoni, cheese and basil.
+
+Lighting should feel luxurious and intensely appetizing: soft directional key light from upper-left, warm highlights across melted cheese, controlled fill, deep dimensional shadows and glossy specular detail on sauce, peppers, meat and olive oil.
+
+Background: sophisticated dark terracotta-to-warm-brown gradient with subtle cinematic falloff, keeping complete visual attention on the pizza.
+
+Build toward the final sequence as all floating ingredients accelerate downward and assemble perfectly onto the pizza in one highly satisfying synchronized motion.
+
+The camera quickly pushes toward the pizza as the cheese bubbles and toppings settle.
+
+Then a triangular slice slowly lifts from the pizza.
+
+A dramatic molten mozzarella cheese pull stretches between the slice and the remaining pizza while steam rises naturally through the light.
+
+The camera performs a subtle slow orbit around the lifted slice before transitioning into the final hero composition.
+
+Final frame:
+
+A spectacular fully loaded gourmet pizza centered in frame on a dark premium tabletop, one slice slightly lifted, molten cheese stretching, steam rising, basil freshly placed on top.
+
+show Elegant white campaign typography resolves beside the pizza: “CRAVE FOR MORE SLICES.”
+
+SHOW Small secondary text: “LOADED WITH EVERYTHING YOU LOVE.”
+
+Subtle animated doodle accents settle around the composition.
+
+Visual style: luxury food advertising, premium Italian restaurant campaign, cinematic macro food photography, ultra-realistic ingredients, abundant rich toppings, molten cheese detail, warm appetizing tones, strong contrast, shallow depth of field, sophisticated kinetic typography, dynamic food choreography, premium motion design, highly polished commercial finish.
+
+No people. No hands. No packaging. No logos. No watermark.
+```
+
+### How to adapt it
+
+Replace the food and campaign words while keeping the ingredient reveal, reassembly and final hero shot.
+
+**Shared by:** [Refiner ✦](<https://x.com/Refiner_Studio>)
+
+[Original post on X](<https://x.com/Refiner_Studio/status/2105300807113400711>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#gourmet-pizza-exploded-ad>)
+
+<a id="portos-music-video-iteration"></a>
+
+## PortOS Music Video Iteration
+
+A creator describes a Suno-to-H3 music-video pipeline with mood boards, human review and targeted final-segment rerendering.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Keep song segments and generated shots independently editable so late lyric changes need only a local rerender.
+
+**Shared by:** [antic](<https://x.com/antic>)
+
+[Original post on X](<https://x.com/antic/status/2105308913872896056>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#portos-music-video-iteration>)
+
+<a id="nomi-brunch-photo-promo"></a>
+
+## NoMI Brunch Photo Promo
+
+[![NoMI Brunch Photo Promo video preview](<https://pbs.twimg.com/amplify_video_thumb/2103965932070604800/img/fJvdt2AhivHTQnOt.jpg>)](<https://x.com/SolutionsJoeG/status/2103978566916415754>)
+
+A 40-second restaurant promo turns food and terrace photos into H3 footage, then adds tracked graphics and a sound mix.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Animate a small set of food and venue photos, select the strongest clips and add tracked type and beat edits separately.
+
+**Shared by:** [Solutions Joe](<https://x.com/SolutionsJoeG>)
+
+[Original post on X](<https://x.com/SolutionsJoeG/status/2103978566916415754>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#nomi-brunch-photo-promo>)
+
+<a id="token-refiner-memory-experiment"></a>
+
+## Token Refiner Memory Experiment
+
+[![Token Refiner Memory Experiment video preview](<https://pbs.twimg.com/amplify_video_thumb/2104032791839334400/img/uT6L-4QWYNNXp6no.jpg>)](<https://x.com/Isichan_Hitori/status/2104033282652569843>)
+
+A local ComfyUI experiment removes token_refiner to test higher-resolution H3 generation within a fixed VRAM budget.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare a modified model against the original with the same seed and prompt, recording memory and visible quality.
+
+**Shared by:** [石ちゃん🎤LLMでアプリ開発](<https://x.com/Isichan_Hitori>)
+
+[Original post on X](<https://x.com/Isichan_Hitori/status/2104033282652569843>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#token-refiner-memory-experiment>)
+
+<a id="hedcut-color-release-mv"></a>
+
+## Hedcut Color Release Music Video
+
+[![Hedcut Color Release Music Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2104704562217074688/img/oO-sMT2WLVk_zw-X.jpg>)](<https://x.com/Michaelzsguo/status/2104705711674683715>)
+
+An engraved newsprint world transforms into color in a music-video pipeline using local H3 and beat-aligned editing.
+
+**Model:** MiniMax H3
+
+### Director agent brief · `en`
+
+```text
+I want you to make a music video called "SHUT UP AND MULTIPLY." It's a satire of effective altruism and how a gentle idea about bednets turned into a doomsday movement that puts a price on every human life. The audience is x, the people who argue about this every week, so it should be dense with things they recognize.
+
+Start from the song, because the song decides everything else. It's an original EDM girl-group anthem at 136 BPM built on tension and release: stripped verses, real build-ups, a moment of total silence, then a drop. Three drops, each bigger than the last. Don't make it plain and don't make it constant. I tried laying a string section over a finished track and it sounded like a separate layer every time; if you want strings or any other color, write it into the track itself and use it only where it propels the blood. Use your own taste here, not the literal words of any brief, including this one.
+
+The look: the whole world is a Wall Street Journal hedcut, a black-ink steel engraving on warm newsprint, crosshatch and stipple, classic and artful, with rich fabric rendered as line. Three girls are the only color in it. The lead is a fashion model with dense freckles and a chestnut bob with a butter-yellow silk ribbon, in raspberry boucle and sky-blue gingham. She should be unforgettable; the camera falls in love with her face. She starts alone and pulls the other two out of the ink during the first verse: the tall one in sky-blue pinstripe from a spreadsheet at a retreat, the youngest in a butter-yellow cable knit from a crypto crash floor. Color floods into each of them as she's freed. By the final chorus the whole engraved world has turned color. All the doomsday, and this color girl brightens it.
+
+The girls must never just stand in front of a backdrop. Every shot, they do something to the world: tear it like paper, fold a manor flat like a pop-up book and throw it as a paper airplane, rip the storm sky open like a curtain, snip a lanyard so Pascal's mugger gets wrapped in his own calculation, pull one colored thread through a paper window until the room unravels, embroider a meadow into color with a needle. Engraved people come alive and dance with them. Keep the theme identical in every render but vary everything else as much as you can: camera, framing, location, the way they change the world, graphics, transitions. Never repeat a camera move or framing back to back.
+
+The dance has to be real and on the beat. Use real choreography (I used ITZY's WANNABE performance video) and lock every hit to our kick; if the dancing floats with no drum under it, it's dead. K-pop is one ingredient, not the whole video. Cut on the beat, 1-2 beats per shot in the choruses, no slow motion anywhere. When the song goes silent before a drop, cut to blank paper; on the drop, explode into color.
+
+Instead of the dashboard call-out boxes from the original viral video, build a dystopia out of our own materials. The Ledger is a cathedral-sized Victorian calculating engine run by clerks in fleece vests and lanyards, printing ticker tape that decides what every person is worth. Cult members wear tailor's price tags ("VALUE: 1/10^58 OF A FUTURE PERSON · STATUS: REPLACEABLE"). The girls snip them off and those people come alive. Graphics speak newsprint and tailoring: receipts stamped VOID on the drop, a typewriter ledger that computes expected value and then breaks, sewn care labels ("100% BOUCLE · 0% UTILITARIAN · DO NOT OPTIMIZE"), letterpress lyric headlines that tear. One or two per shot, landing on the beat, then out of the way. No tracking boxes; the girls are the only color, they don't need circling. Give the Ledger its own sounds (stamp, typewriter, bell, gear clank) synced exactly to what's on screen.
+Load it with real history people can relate to, the way the original used this week's news. Open on the timeline: the researcher who quit an AI lab this month saying it could kill us all by the end of the decade, 174 million views, "a Trojan horse," "a doomsday cult." Then pin real history to the lyrics: Singer's drowning child (1972) over the pond, earn-to-give and its star pupil over the crypto verse, the FTX bankruptcy stamp when the balance hits zero, the abbey bought "for convening" over the manor, the 5% extinction math over "shut up and multiply," the secular solstice and the "Death with Dignity" cocktail over the retreat, Constellation's islands and iodine on the mugger's lanyard, the 2023 board firing on the second drop, the White House memo in the bridge. End on "How can we do the most good?" corrected to "Who gets to decide?" Real people appear only through public-record facts and their own public words: no invented quotes, no real faces doing things they didn't do. Fact-check everything before it ships. If you want, one self-aware frame: this video was made by an AI from a lab with its own EA history.
+
+Be rigorous. Watch the whole thing repeatedly, take contact sheets, check every clip for clones, morphing faces, and characters who drift off-model, and re-render anything that isn't up to the bar. Skirts swing but never flare up, and the camera stays at waist height or above. Lip-sync is hard; don't hold long on singing close-ups you can't sync. Don't patch things up when an idea isn't working; say so and change the idea.
+
+Tools I had: Claude Code as director and editor, MiniMax Music 3 for the song, Codex image gen for characters, sets and keyframes, MiniMax H3 locally for first-and-last-frame video and Viggle character swaps for the dance, VoiceStudio for a designed (not cloned) announcer, and ffmpeg plus your own code for graphics, beat-locking, and the edit. One MacBook. Everything overnight.
+
+The goal is a banger for Twitter that people rewatch to catch the fine print. Go big, have your own taste, and go get it.
+```
+
+### How to adapt it
+
+Define one visual world, reserve color for a deliberate reveal and plan short shots around the musical drops.
+
+**Shared by:** [Michael Guo](<https://x.com/Michaelzsguo>)
+
+[Original post on X](<https://x.com/Michaelzsguo/status/2104705711674683715>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hedcut-color-release-mv>)
 
 ## Suggest a prompt
 
