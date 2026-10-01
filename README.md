@@ -5,7 +5,7 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **84 verified examples**, with sources reviewed through **2026-09-30**. Items are shown in editorial order without preset categories.
+The collection currently contains **104 verified examples**, with sources reviewed through **2026-10-01**. Items are shown in editorial order without preset categories.
 
 <a id="midnight-seoul-fashion-film"></a>
 
@@ -2571,6 +2571,480 @@ Define one visual world, reserve color for a deliberate reveal and plan short sh
 **Shared by:** [Michael Guo](<https://x.com/Michaelzsguo>)
 
 [Original post on X](<https://x.com/Michaelzsguo/status/2104705711674683715>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hedcut-color-release-mv>)
+
+<a id="h3-max-motion-design-comparison"></a>
+
+## H3 Max Motion Design Comparison
+
+[![H3 Max Motion Design Comparison video preview](<https://pbs.twimg.com/amplify_video_thumb/2102981573973020672/img/xezHOboxKphcdWPs.jpg>)](<https://x.com/AI_RESKILL/status/2102982320211087394>)
+
+A stacked comparison reuses one motion-graphics prompt across H3 Max and Claude, with audio from H3.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare one shared brief across tools, keeping the H3 audio track clearly identified.
+
+**Shared by:** [山原 慎也（しんやん）｜AIプラットフォーム運営](<https://x.com/AI_RESKILL>)
+
+[Original post on X](<https://x.com/AI_RESKILL/status/2102982320211087394>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-motion-design-comparison>)
+
+<a id="rogue-character-video-showcase"></a>
+
+## Rogue Character Video Showcase
+
+[![Rogue Character Video Showcase video preview](<https://pbs.twimg.com/amplify_video_thumb/2103134492470747136/img/9bnF-igg6wruheeB.jpg>)](<https://x.com/Dokko57932483/status/2103135302013325661>)
+
+A widely shared Rogue fan-character video, attributed by its creator to MiniMax H3.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use your own character reference and evaluate identity consistency across a short clip.
+
+**Shared by:** [Stan\_Katayama](<https://x.com/Dokko57932483>)
+
+[Original post on X](<https://x.com/Dokko57932483/status/2103135302013325661>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rogue-character-video-showcase>)
+
+<a id="pool-cleaning-splash-comedy"></a>
+
+## Pool Cleaning Splash Comedy
+
+[![Pool Cleaning Splash Comedy video preview](<https://pbs.twimg.com/amplify_video_thumb/2103801485901668352/img/pvB7yUtfEBeS-RgN.jpg>)](<https://x.com/chikazoemakoto/status/2103802922299744583>)
+
+A Japanese pool-cleaning gag combines a sudden splash with AI-generated video and audio.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Build a short setup, a visible splash payoff and a concise reaction line.
+
+**Shared by:** [近添真琴（ライター・AIクリエイター）](<https://x.com/chikazoemakoto>)
+
+[Original post on X](<https://x.com/chikazoemakoto/status/2103802922299744583>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pool-cleaning-splash-comedy>)
+
+<a id="hyperframes-camera-angle-graphics"></a>
+
+## HyperFrames Camera Angle Graphics
+
+[![HyperFrames Camera Angle Graphics video preview](<https://pbs.twimg.com/amplify_video_thumb/2104131757373329408/img/7SIFJxu66qLdzBjR.jpg>)](<https://x.com/ai_ai_ailover/status/2104148793688052037>)
+
+A mixed Claude, HyperFrames and Floyo H3 workflow explores changing angles in a motion-graphics video.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Explore varied camera angles while keeping a consistent graphic theme across the sequence.
+
+**Shared by:** [にも｜AIによって爆誕](<https://x.com/ai_ai_ailover>)
+
+[Original post on X](<https://x.com/ai_ai_ailover/status/2104148793688052037>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hyperframes-camera-angle-graphics>)
+
+<a id="character-swap-strength-comparison"></a>
+
+## Character Swap Strength Comparison
+
+[![Character Swap Strength Comparison video preview](<https://pbs.twimg.com/amplify_video_thumb/2104618079019819008/img/ffaeM6OIEHaMJm2X.jpg>)](<https://x.com/SmallKino_/status/2104618319655391483>)
+
+A side-by-side character-swap test compares LoRA strength 1.0 on the left against native H3 on the right.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare the same source video and reference image with and without a character-swap LoRA.
+
+**Shared by:** [SmallKino](<https://x.com/SmallKino_>)
+
+[Original post on X](<https://x.com/SmallKino_/status/2104618319655391483>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-swap-strength-comparison>)
+
+<a id="prism-beam-rainbow-selfie"></a>
+
+## Prism Beam Rainbow Selfie
+
+[![Prism Beam Rainbow Selfie video preview](<https://pbs.twimg.com/amplify_video_thumb/2104771034998341632/img/tXohc9rqmPen2UM9.jpg>)](<https://x.com/tokyo_Valentine/status/2104771859216834854>)
+
+A four-shot anime comedy turns an energy beam into a rainbow selfie, with timed Japanese speech and sound cues.
+
+**Model:** MiniMax H3
+
+### Author prompt · `en`
+
+```text
+MiniMax H3 Prompt
+subject_definitions:
+<Subject 1> is A from <Picture 1>, who fires and sustains the beam.
+<Subject 2> is B from <Picture 2>, who converts it into a rainbow and takes a selfie.
+Preserve exact reference faces, hairstyles, costumes, accessories, colors, proportions and illustrated styles. Keep equal standing heights, excluding ornaments.
+<Audio 1> supplies the voice timbre and natural pitch range of <Subject 1> (S1). Use its vocal identity, not its recorded words. B never vocalizes; leave any B voice reference unused.
+summary:
+[reference generation + audio reference] A 15-second Japanese 2D anime action-comedy. A fires a spectacular white energy beam. B has already positioned a small triangular prism in its path. The beam enters the prism and emerges as a huge rainbow arch. B takes a selfie with the rainbow while holding the prism steady. End on A's familiar silent, stunned face as she continues powering the beam. Use the selected aspect ratio.
+retention_analysis:
+<Subject 1> (Shots 1, 2, 4): fully_preserved - reference identity and design, new actions.
+<Subject 2> (Shots 1-3): fully_preserved - reference identity and design, new actions.
+<Audio 1>: reference - A's single opening sentence.
+Images define appearance and style, not poses, backgrounds or reference-sheet layouts.
+detailed_description:
+Hand-drawn 2D anime, clean linework, cel shading, fluid movement and expressive faces. An empty stone plaza under a dark blue dusk sky. Exactly two people: A screen-left, B screen-right, eight meters apart at equal camera depth on level ground. Keep consistent scale and screen direction.
+A projects ONE sustained white beam toward screen-right at chest height. A narrow brilliant core, smaller than the prism face, has an enormous turbulent luminous envelope.
+
+B holds ONE twenty-centimeter triangular glass prism in her LEFT hand, gripping its lower edge clear of the optical faces. Extend it toward A and forward of her torso, keeping the beam clear of her body.
+At the prism, the glow converges into the core. White light enters one face; seven colors emerge upward into a huge magical rainbow arch behind B. Keep the hands-to-prism-to-rainbow connection visible. No white beam passes through toward B.
+
+B's RIGHT hand holds ONE plain smartphone. For the selfie, extend this arm toward camera with the screen facing herself. No hand switching, floating objects, readable screen or selfie-image insert.
+[Shot 1] Open on a wide full-body two-shot showing the eight-meter gap. A braces her feet and brings both palms forward. A white energy sphere rapidly gathers between them, throwing sharp light onto the paving. Her hair and costume flutter in the growing pressure.
+During 0.3-2.8 seconds, <Subject 1> (S1), using <Audio 1>'s voice timbre, confidently declares, [Japanese] このいちげきで、おわりだ! Synchronize her lips with this sentence and finish before three seconds. Her mouth closes into a proud smile.
+B holds the phone low at her right hip and calmly positions the left-hand prism at chest height in the future beam path BEFORE A fires.
+By four seconds, the attack is fully charged and the prism is ready. No moving beam has crossed the gap yet.
+
+[Shot 2] At 00:04.000, cut to a stable wide three-quarter side view showing both characters, the full beam path, the prism and open sky. Keep the established left-to-right direction.
+A fires. The beam crosses eight meters within a few animation frames and hits the ALREADY positioned prism. No slow projectile or reaction after launch. Show contact clearly using the sustained beam.
+
+In this continuous shot, show the white core entering the glass. At that exact contact, seven clearly separated colored bands emerge upward: red, orange, yellow, green, blue, indigo and violet. The bands form one brilliant rainbow arch overhead within about one second. Its base remains visibly connected to the prism.
+
+Stop the dramatic music as the rainbow appears. Replace the aggressive impact expectation with a delicate glass chime. No explosion, shattered glass, collision with B or rainbow appearing independently elsewhere.
+
+Between six and eight seconds, hold A's grand attack pose, the huge beam, B's tiny prism and the rainbow together. A keeps supplying the beam with both arms extended.
+
+B smiles at the rainbow and raises her right-hand phone. Her left arm and prism stay fixed; the beam and rainbow remain stable.
+
+[Shot 3] At 00:08.000, cut to a medium three-quarter view of B, including her face, both hands, prism contact, phone and rainbow. Keep the beam below her face and preserve screen direction.
+
+B extends her right arm for the selfie, keeping her torso still and turning only her head toward the screen. She smiles and taps the screen with her right thumb.
+
+One quiet camera shutter click around ten seconds confirms the selfie. No flash obscuring the scene, phone-screen insert, speech or peace sign: both hands already have a job.
+
+B admires the screen while holding the prism steady. White light continues entering and colors exit upward; offscreen A still powers the beam.
+
+[Shot 4] At 00:12.000, cut to a frontal close-up of A from slightly beside the beam axis. Include her extended forearms and the white light leaving her palms at the lower frame edge. She remains in her original place, still sustaining the attack. Colored reflections softly tint her face.
+
+A looks toward B taking the selfie. Her proud smile disappears. Her eyes widen, pupils become small and eyebrows lift. Her lips part slightly once, then remain still. Use her familiar stunned, uncomprehending expression. No crying, blush, anger or exaggerated panic.
+
+Slowly push in; hold the final full second. Arms extended, A still powers B's photo. End on her silent face without beam shutdown, retaliation or extra gag.
+
+overall_soundscape:
+Exactly one spoken sentence, by A in Shot 1. B never vocalizes. After three seconds, no dialogue, narration, gasps, screams, grunts, laughter or vocal breaths.
+Use a rising magical charge, one sharp launch sound and a sustained beam hum. At prism contact, add one delicate glass chime and lower the hum enough for the selfie shutter to be clearly heard. Continue the quiet hum and faint plaza ambience through the final close-up, matching the ongoing beam.
+
+non_diegetic_music:
+Grand instrumental brass, strings and percussion build during charging and launch. Stop when the rainbow emerges. No music afterward. No choir, vocal samples, comedy sting or canned laughter.
+
+No text, subtitles, logos, watermarks, HUD, extra characters, duplicates, extra prisms or phones, disconnected rainbow, slow-moving beam, hand switching, extra limbs or fingers, fused hands, changing body scale, costume redesign, injury, photorealism, 3D rendering or chibi redesign.
+```
+
+### How to adapt it
+
+Keep the beam-prism-rainbow connection visible, assign each hand one prop and time the final reaction.
+
+**Shared by:** [とすくん](<https://x.com/tokyo_Valentine>)
+
+[Original post on X](<https://x.com/tokyo_Valentine/status/2104771859216834854>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#prism-beam-rainbow-selfie>)
+
+<a id="found-local-horror-short"></a>
+
+## Found Local Horror Short
+
+[![Found Local Horror Short video preview](<https://pbs.twimg.com/amplify_video_thumb/2104679631198572544/img/ikQ05JKGijTWy8HI.jpg>)](<https://x.com/Tomw852/status/2104888930248122599>)
+
+A 15-second cinematic horror short generated locally with MiniMax H3 in ComfyUI on a 12GB RTX 5070.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use a short suspense brief and a single reveal, then evaluate the result on your local hardware.
+
+**Shared by:** [Tom𝕎](<https://x.com/Tomw852>)
+
+[Original post on X](<https://x.com/Tomw852/status/2104888930248122599>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#found-local-horror-short>)
+
+<a id="webui-refmod-icon-workflow"></a>
+
+## WebUI RefMod Icon Workflow
+
+[![WebUI RefMod Icon Workflow video preview](<https://pbs.twimg.com/amplify_video_thumb/2105081392057245696/img/iVQQTBo3TmScrfzo.jpg>)](<https://x.com/core_tan/status/2105082349402906726>)
+
+A RefMod demo pairs an eight-second H3 result with icon-based reference management and prompt-tag insertion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Organize references as labeled icons and insert their tags into the prompt before generating.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2105082349402906726>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#webui-refmod-icon-workflow>)
+
+<a id="segmented-character-swap-dance"></a>
+
+## Segmented Character Swap Dance
+
+[![Segmented Character Swap Dance video preview](<https://pbs.twimg.com/amplify_video_thumb/2105102185784823808/img/5oi7Hl8WjSHsiAVW.jpg>)](<https://x.com/eternityspring/status/2105104076442869965>)
+
+A dance video and full-body photo drive character replacement, with longer videos generated in segments.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Pair a full-body reference with a dance video, generate short segments and inspect continuity before joining.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2105104076442869965>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#segmented-character-swap-dance>)
+
+<a id="green-screen-matting-edge-repair"></a>
+
+## Green Screen Matting Edge Repair
+
+[![Green Screen Matting Edge Repair workflow screenshot](<https://pbs.twimg.com/media/HTe21jDbAAE4dOW.jpg>)](<https://x.com/fnoji/status/2105353023954489437>)
+
+H3 green-screen output passes through SAM3, MatAnyone and RTX VSR; retained green outlines aid final keying.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate a green background, inspect matte edges and retain a narrow green outline where direct trimming leaves residue.
+
+**Shared by:** [えふのじ](<https://x.com/fnoji>)
+
+[Original post on X](<https://x.com/fnoji/status/2105353023954489437>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#green-screen-matting-edge-repair>)
+
+<a id="halloween-h3-music3-workflow"></a>
+
+## Halloween H3 and Music3 Workflow
+
+[![Halloween H3 and Music3 Workflow video preview](<https://pbs.twimg.com/amplify_video_thumb/2105353727129640960/img/mdA_tFT5G5n4x2F9.jpg>)](<https://x.com/mi7_crypto/status/2105355850701533623>)
+
+A Halloween-themed experiment pairs MiniMax H3 video with Music3 for horror-techno editing in MiniMax Design.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Develop a horror-techno mood and align the generated video sequence to the music during editing.
+
+**Shared by:** [M7［mi7］AI](<https://x.com/mi7_crypto>)
+
+[Original post on X](<https://x.com/mi7_crypto/status/2105355850701533623>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#halloween-h3-music3-workflow>)
+
+<a id="little-adventure-local-music-video"></a>
+
+## Little Adventure Local Music Video
+
+[![Little Adventure Local Music Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2105292230957355008/img/4sbcZJIjphWWkXkT.jpg>)](<https://x.com/_mi_mi_mi_mimi_/status/2105394753374421226>)
+
+An original full music video uses H3 and Ace-Step-1.5 in a custom orchestrator on a 6GB RTX 3060 laptop.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Plan short visual scenes around your own song and assemble them in a local orchestration workflow.
+
+**Shared by:** [✨⭐️みー⭐️🐾みぅ&すふぃー🐾│AI生成✨](<https://x.com/_mi_mi_mi_mimi_>)
+
+[Original post on X](<https://x.com/_mi_mi_mi_mimi_/status/2105394753374421226>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#little-adventure-local-music-video>)
+
+<a id="tts-first-addguide-anime-dialogue"></a>
+
+## TTS First AddGuide Anime Dialogue
+
+[![TTS First AddGuide Anime Dialogue video preview](<https://pbs.twimg.com/amplify_video_thumb/2105419473272643585/img/Ga3wBgLZ-n1hUZOU.jpg>)](<https://x.com/hsrk_g_hsrk/status/2105419561160122480>)
+
+Irodori-TTS dialogue feeds H3 AddGuide audio input so an anime character moves her lips to the supplied speech.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate dialogue first, then pass that audio into AddGuide and inspect lip movement against the speech.
+
+**Shared by:** [ヒロ(HG)｜実務で使えるAI活用](<https://x.com/hsrk_g_hsrk>)
+
+[Original post on X](<https://x.com/hsrk_g_hsrk/status/2105419561160122480>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tts-first-addguide-anime-dialogue>)
+
+<a id="print-company-mascot-introduction"></a>
+
+## Print Company Mascot Introduction
+
+[![Print Company Mascot Introduction video preview](<https://pbs.twimg.com/amplify_video_thumb/2105457267508387840/img/-6mcIOvAh3GQHgqO.jpg>)](<https://x.com/blitzondemand/status/2105458021023539365>)
+
+An original company mascot emerges from a giant inkjet printer in an anniversary anime clip using H3 and VOICEVOX.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Introduce an original mascot through a prop tied to your business, then add a separately produced voice.
+
+**Shared by:** [株式会社ブリッツ](<https://x.com/blitzondemand>)
+
+[Original post on X](<https://x.com/blitzondemand/status/2105458021023539365>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#print-company-mascot-introduction>)
+
+<a id="opus-directed-local-5090-video"></a>
+
+## Opus Directed Local 5090 Video
+
+[![Opus Directed Local 5090 Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2105457703787102208/img/y-rZJx48Ra9Sf0ET.jpg>)](<https://x.com/seezatnap/status/2105461486919532744>)
+
+An agent-led experiment gives Opus access to local H3 on an RTX 5090 for roughly four hours of video work.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Provide a clear creative brief to an agent with your local generation tools, then review its iterations.
+
+**Shared by:** [Yogi Seezatnap](<https://x.com/seezatnap>)
+
+[Original post on X](<https://x.com/seezatnap/status/2105461486919532744>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#opus-directed-local-5090-video>)
+
+<a id="qwen-conceived-image-generator-film"></a>
+
+## Qwen Conceived Image Generator Film
+
+[![Qwen Conceived Image Generator Film video preview](<https://pbs.twimg.com/amplify_video_thumb/2105469428825460736/img/e5m72qKEV6W2w6-f.jpg>)](<https://x.com/VoidNulled/status/2105469820044992864>)
+
+A film about an image generator combines Qwen and MAI-Image-2.5 Pro concept work with H3 video interpretation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Develop a concept and reference imagery before using H3 to explore its motion and visual interpretation.
+
+**Shared by:** [Void the Archivist](<https://x.com/VoidNulled>)
+
+[Original post on X](<https://x.com/VoidNulled/status/2105469820044992864>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-conceived-image-generator-film>)
+
+<a id="frog-dental-escape-comedy"></a>
+
+## Frog Dental Escape Comedy
+
+[![Frog Dental Escape Comedy video preview](<https://pbs.twimg.com/amplify_video_thumb/2105470263177707520/img/cXWWQ_U3Ob6BZbko.jpg>)](<https://x.com/JuliaClarky/status/2105471450211606823>)
+
+A 3D animated frog escapes a dental operation, causes hospital chaos and gets caught in an H3 comedy made on Flova.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Organize a comic story around an escape, escalating chaos and one final visual punchline.
+
+**Shared by:** [Julia Clark](<https://x.com/JuliaClarky>)
+
+[Original post on X](<https://x.com/JuliaClarky/status/2105471450211606823>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#frog-dental-escape-comedy>)
+
+<a id="qwen-local-ten-second-video-chain"></a>
+
+## Qwen Local Ten Second Video Chain
+
+[![Qwen Local Ten Second Video Chain workflow screenshot](<https://pbs.twimg.com/media/HTgj_UvXYAA4Xqm.jpg>)](<https://x.com/MindfulReturn/status/2105472518437867558>)
+
+A local Qwen agent makes prompts and first-frame images, chains ten-second H3 clips and joins the sequence.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use the last frame of each short generation as the next first frame, then review and join the clips.
+
+**Shared by:** [MindfulReturn 身心修复局](<https://x.com/MindfulReturn>)
+
+[Original post on X](<https://x.com/MindfulReturn/status/2105472518437867558>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-local-ten-second-video-chain>)
+
+<a id="mirror-talk-delayed-reflection"></a>
+
+## Mirror Talk Delayed Reflection
+
+[![Mirror Talk Delayed Reflection video preview](<https://pbs.twimg.com/amplify_video_thumb/2105489574130769920/img/UYtjrv1xG2XqCTEW.jpg>)](<https://x.com/baskojpeg/status/2105489644171509914>)
+
+A H3 Max suspense short in Hedra uses a bathroom-mirror rehearsal whose reflection responds half a second late.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Set up an ordinary rehearsal, introduce a tiny reflection delay and let that timing shift drive the suspense.
+
+**Shared by:** [Basko Schnyder | AI Film Director](<https://x.com/baskojpeg>)
+
+[Original post on X](<https://x.com/baskojpeg/status/2105489644171509914>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mirror-talk-delayed-reflection>)
+
+<a id="ai-museum-continuous-fpv-flight"></a>
+
+## AI Museum Continuous FPV Flight
+
+[![AI Museum Continuous FPV Flight video preview](<https://pbs.twimg.com/amplify_video_thumb/2105490799865540609/img/ook_sHaVPTyCkvbR.jpg>)](<https://x.com/HexxRL/status/2105490839866921377>)
+
+A 15-second single-take flight passes six color-coded AI exhibits with timed camera moves and synchronized sound.
+
+**Model:** MiniMax H3
+
+### Author video prompt · `en`
+
+```text
+shot on @vidmuse_ai freeform with minimax h3
+
+video prompt:
+
+Create exactly 15 seconds, 16:9, one uninterrupted photoreal cinematic FPV flight through the same connected museum shown in the uploaded master environment reference. The accompanying three-position storyboard is a camera-direction guide, never three separate shots. Cream stone arches, brushed titanium reflective floor, six colored side galleries, one straight traversable central aisle, blue-white columns near one circular dawn exit. The route evokes major AI developments from the past six months: advanced reasoning, software agents, generative media and video understanding, science, robotics/world models, and compute. These are original symbolic exhibits, not product replicas.
+
+First frame: camera already moving at 0.8 m height on the central aisle, facing the visible circular exit. One continuous physically plausible flight: skim past gold geometric theorem sculpture on left (0–2.3s); smoothly accelerate alongside cyan agent consoles and articulated tool arms (2.3–4.7s); bank gently left while magenta volumetric images and video ribbons slide by on left (4.7–7.1s); glide past green glasshouse DNA helix, rise to 1.3 m over a low aisle light without entering the display (7.1–9.5s); bank back to center past amber robot arena with two original robots moving subtly on platforms to the right (9.5–12s); fly through the clear gap between blue illuminated compute pillars, keep the round dawn opening centered, and ease to a clean skyline reveal (12–15s). The floor, ceiling, arches, light direction, horizon, and exit remain continuous and geographically consistent. Steady forward momentum and strong near/far parallax; smooth 18 mm wide lens, subtle natural FPV banking, controlled motion blur, no extreme roll or fisheye. At least 1 m clearance from all objects. Start and end on the same forward heading; no collisions or impossible turns.
+
+Art direction: premium architectural visualization, warm ivory/gold base, ordered cyan → magenta → green → amber → electric-blue accents, consistent dawn light from the exit, subtle atmospheric depth, impressive but readable. Audio synchronized to flight: quiet air rush and low electronic pulse from frame one, crystalline ping at reasoning sculpture, crisp interface ticks at agents, shimmering sweep at media, airy glass harmonics at science, short servo whir at robotics, deeper pulse at compute, final resolved chord at 14.3s. No narration or dialogue. No on-screen copy, logos, watermarks, timestamps or HUD. No cuts, freeze frames, speed-ramp discontinuities, morphing rooms, scene teleportation, floating islands, extra corridors, sudden time-of-day changes, duplicate apertures, repeated exhibits, warped robots or camera passing through solid objects. If the model cannot preserve six fully legible exhibits in one take, prioritize a coherent flight and color-coded glimpses in this exact order.
+```
+
+### How to adapt it
+
+Replace the exhibit themes while preserving the connected aisle, forward heading and timed color progression.
+
+**Shared by:** [Hexx ./](<https://x.com/HexxRL>)
+
+[Original post on X](<https://x.com/HexxRL/status/2105490839866921377>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ai-museum-continuous-fpv-flight>)
 
 ## Suggest a prompt
 
