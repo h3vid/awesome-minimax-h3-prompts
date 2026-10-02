@@ -5,7 +5,7 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **104 verified examples**, with sources reviewed through **2026-10-01**. Items are shown in editorial order without preset categories.
+The collection currently contains **139 verified examples**, with sources reviewed through **2026-10-02**. Items are shown in editorial order without preset categories.
 
 <a id="midnight-seoul-fashion-film"></a>
 
@@ -3045,6 +3045,790 @@ Replace the exhibit themes while preserving the connected aisle, forward heading
 **Shared by:** [Hexx ./](<https://x.com/HexxRL>)
 
 [Original post on X](<https://x.com/HexxRL/status/2105490839866921377>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ai-museum-continuous-fpv-flight>)
+
+<a id="three-kingdoms-rabbit-cavalry"></a>
+
+## Three Kingdoms Rabbit Cavalry
+
+[![Three Kingdoms Rabbit Cavalry — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103462737095675904/img/aaRXZNMicWTNz92g.jpg>)](<https://x.com/KanaWorks_AI/status/2103464588348108939>)
+
+A rabbit general chase pairs a Three.js game project with H3 video and CapCut presentation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Combine a playable scene with generated cinematic inserts, then edit the presentation separately.
+
+**Shared by:** [KANA｜東京AI映像](<https://x.com/KanaWorks_AI>)
+
+[Original post on X](<https://x.com/KanaWorks_AI/status/2103464588348108939>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-kingdoms-rabbit-cavalry>)
+
+<a id="lrc-storyboard-hiragana-lipsync"></a>
+
+## LRC Storyboard and Hiragana Lip Sync
+
+[![LRC Storyboard and Hiragana Lip Sync — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103594286478725120/img/0_ofl3u7jNadZgat.jpg>)](<https://x.com/Naonekozamurai/status/2103613013953573242>)
+
+A music video workflow uses lyrics, LRC timing, scene images and hiragana pronunciation guidance for H3 singing shots.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Build a storyboard from timed lyrics and images; use short singing shots and review pronunciation before final lyric animation.
+
+**Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original post on X](<https://x.com/Naonekozamurai/status/2103613013953573242>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lrc-storyboard-hiragana-lipsync>)
+
+<a id="game-bug-collaboration-mv"></a>
+
+## Game Bug Collaboration Music Video
+
+[![Game Bug Collaboration Music Video — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103680168359546880/img/goXkOgDkNWD-EMrH.jpg>)](<https://x.com/boke_ai/status/2103687507774988371>)
+
+A three-creator music video explores games and bugs in a MiniMax H3-tagged TapNow contest entry.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Develop a shared game-world motif and agree on visual rules before assembling contributions.
+
+**Shared by:** [絵空事テレビ / AIカワウソ](<https://x.com/boke_ai>)
+
+[Original post on X](<https://x.com/boke_ai/status/2103687507774988371>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#game-bug-collaboration-mv>)
+
+<a id="resin-encapsulation-film"></a>
+
+## Resin Encapsulation Film
+
+[![Resin Encapsulation Film — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103784763182178304/img/p-ny8kdWIjKaBeN8.jpg>)](<https://x.com/mtArakawa/status/2103785131773505633>)
+
+A resin-encapsulation concept combines NBPro imagery with MiniMax H3 animation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Prepare a clear subject image and define the material transformation and final state in a short shot.
+
+**Shared by:** [元荒川ちゃん❤](<https://x.com/mtArakawa>)
+
+[Original post on X](<https://x.com/mtArakawa/status/2103785131773505633>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#resin-encapsulation-film>)
+
+<a id="blender-driver-view-terrain-analysis"></a>
+
+## Blender Driver View Terrain Analysis
+
+[![Blender Driver View Terrain Analysis — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103806283690463232/img/cE2ZT9zXvn4kH_CW.jpg>)](<https://x.com/IsekaiBardGuild/status/2103806447364776221>)
+
+A Blender driving reference becomes H3 Ref2VA footage after terrain analysis at 0.2-second intervals and prompt revisions.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Describe terrain changes along the reference timeline, then revise the generated driving shot against the source camera path.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2103806447364776221>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blender-driver-view-terrain-analysis>)
+
+<a id="idea-traffic-pop-art-typography"></a>
+
+## Idea Traffic Pop Art Typography
+
+[![Idea Traffic Pop Art Typography — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2103957695237873665/img/_PBkx4DjAFLQ0zq_.jpg>)](<https://x.com/su_nagomi/status/2103959566371451271>)
+
+A six-shot pop-art sequence turns handwritten ideas into traffic, then clears the jam by choosing one idea.
+
+**Model:** MiniMax H3
+
+```text
+【15秒｜16:9｜手描きポップアート・モーショングラフィック｜高彩度2D｜テーマ：アイデア、渋滞中。｜白いミニマル主人公｜手書き文字主役】 【全体仕様】主人公は白い丸っこいミニマルキャラ。頭の中の“アイデア”は、「A案」「B案」「これもいい」「いや待て」「それアリ」「ひらめき」などの手書き文字そのものが、車や道路標識のように動く。文字は字幕ではなく、走る・止まる・ぶつかる・積み重なる・整列する“物体”として扱う。背景は白ベース、色はシアン・ピンク・イエロー・ライム・オレンジ。BGMは軽快なポップ、SEは渋滞・ピコン・整理の気持ちよさを強める。 CUT01｜00:00-00:02.5｜アイデア発生 Visuals:主人公が机で考え込み、頭上に小さな電球マーク。そこへ「A案」がポンッ、「B案」がポンッ、「これもいい」がポンッと順番に出現。最初は気持ちよく並んでいる。 Camera:35mm正面ミディアム、軽くプッシュイン。 Motion:主人公が「おっ」という表情。文字たちが軽く弾みながら前へ進む。 Lighting:明るい白ベース。 VFX:ハーフトーン、星、やさしい放射線。 SFX:「ポン」「ピコッ」 Emotion:ひらめき始める楽しさ。 Transition:さらに別の文字が左右から入ってくる。 CUT02｜00:02.5-00:05.0｜流れ始めるが、増えすぎる Visuals:「A案」「B案」「これもいい」「それアリ」「いや待て」「ひらめき」が道路のようなレーンに入り、同じ方向へ進み始める。上には小さな標識「IDEA ROAD」。 Camera:28mmワイド、横移動で追う。 Motion:最初はスムーズだが、後ろから新しい文字がどんどん合流してくる。 Lighting:カラフルで元気なポップ照明。 VFX:矢印、点線道路、吹き出しの標識。 SFX:「トコトコ」「スーッ」「ポンポン」 Emotion:いい感じ、でもちょっと多い。 Transition:前方で急ブレーキが起きる。 CUT03｜00:05.0-00:07.5｜大渋滞発生 Visuals:前方で「A案」と「B案」が並走し、「これもいい」が割り込み、「いや待て」が横から止めに入る。画面いっぱいに「アイデア渋滞！」。文字たちがぎゅうぎゅうに詰まって動けない。 Camera:24mm広角、少し煽り気味で混雑感を強調。 Motion:文字同士がぶつかり、「あっ」「ちょっと」「まだ決まらん！」など小文字が飛ぶ。主人公は頭を抱える。 Lighting:少し騒がしい警告色。 VFX:スピード線、コミックバースト、警告マーク。 SFX:「プップー！」「ギュッ！」「わちゃわちゃ」 Emotion:混乱、でもコミカル。 Transition:渋滞文字が渦を巻いて主人公の前に集まる。 CUT04｜00:07.5-00:10.0｜整理の一手 Visuals:主人公が大きな標識を出す。標識には「まず1個。」。その瞬間、背景が一度スッと静かになり、暴れていた文字たちがピタッと止まる。 Camera:35mm正面、標識に寄る。 Motion:主人公が標識を地面にズバッと立てる。「A案」「B案」たちがそれを見る。 Lighting:白ベースへ戻り始める。 VFX:集中線、整理される矢印、静止の間。 SFX:「ズバッ！」「ピタッ」 Emotion:ひらめきより、決めるモード。 Transition:文字たちが順番に整列を始める。 CUT05｜00:10.0-00:12.5｜一列に流れ始める Visuals:さっきまで渋滞していた文字たちが、「まず1個。」標識に従って一列に並ぶ。先頭の「A案」だけが前へ進み、他の「B案」「これもいい」「いや待て」は小さく後ろで待機。上に気持ちよく「スイスイ」の文字。 Camera:28mm横構図、スムーズなトラッキング。 Motion:先頭だけがスーッと進む。主人公の表情も明るくなる。 Lighting:明るく爽やか。 VFX:流れる矢印、星、小さな紙吹雪。 SFX:「スーッ」「ピロリン♪」 Emotion:整理されて気持ちいい。 Transition:先頭のアイデアが主人公の胸元へ着地。 CUT06｜00:12.5-00:15.0｜締め Visuals:主人公が胸元に着地した先頭のアイデアを見て、にこっとする。画面中央に大きく**「アイデア、渋滞中。」、その下に小さく「まず1個で、流れ出す。」**。背景には整然と並んだ残りのアイデアたち。 Camera:50mm正面固定。 Motion:タイトルが1回だけポンッとバウンド。主人公が軽くうなずく。後ろのアイデア文字たちも小さく前進。 Lighting:明るい締めの高キー。 VFX:薄い放射線、ハーフトーン、星。 SFX:「ポン♪」 Emotion:スッキリ、前向き。 Transition:フリーズエンド。 【最重要固定条件】文字はただの説明ではなく、道路を走る“アイデアの車”のような存在として動かすこと。特に「A案」「B案」「これもいい」「いや待て」「まず1個。」は読めること。前半は情報過多の楽しさ、中盤は渋滞の混乱、後半は整理の快感をはっきり出すこと。
+```
+
+### How to adapt it
+
+Replace the idea labels while preserving the six 2.5-second beats, traffic metaphor and final organizing payoff.
+
+**Shared by:** [すーさん](<https://x.com/su_nagomi>)
+
+[Original post on X](<https://x.com/su_nagomi/status/2103959566371451271>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#idea-traffic-pop-art-typography>)
+
+<a id="song-section-duration-trimming"></a>
+
+## Song Section Duration Trimming
+
+[![Song Section Duration Trimming — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104235053488447488/img/PEGGQl4UOYqh7kg6.jpg>)](<https://x.com/Naonekozamurai/status/2104322691419496523>)
+
+H3 singing clips generated at rounded durations are trimmed to exact 6, 7.24 and 8.88-second song sections.
+
+**Model:** MiniMax H3
+
+### Editing instruction (not an H3 prompt) · `ja`
+
+```text
+曲に合わせて編集して
+```
+
+### How to adapt it
+
+Generate slightly longer than each song section and trim in editing to preserve the original audio timeline.
+
+**Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original post on X](<https://x.com/Naonekozamurai/status/2104322691419496523>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#song-section-duration-trimming>)
+
+<a id="side-by-side-reference-recreation"></a>
+
+## Side by Side Reference Recreation
+
+[![Side by Side Reference Recreation — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104369019990294528/img/wkxDSZMikscsCg4a.jpg>)](<https://x.com/servasyy/status/2104369107265343805>)
+
+A high-reach comparison places original footage on the left and a MiniMax H3 recreation on the right.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare the reference and output side by side to review timing, composition and movement drift.
+
+**Shared by:** [serva huang](<https://x.com/servasyy>)
+
+[Original post on X](<https://x.com/servasyy/status/2104369107265343805>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#side-by-side-reference-recreation>)
+
+<a id="neon-city-to-sunrise-journey"></a>
+
+## Neon City to Sunrise Journey
+
+[![Neon City to Sunrise Journey — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104411183365427200/img/OmE-JWTw10N1tC-8.jpg>)](<https://x.com/laviniavelle/status/2104411770840633535>)
+
+A grey-coat city journey moves from rainy neon streets and a subway to snow, a balcony sunrise and a dawn skyline.
+
+**Model:** MiniMax H3
+
+```text
+Cinematic video sequence of an elegant East Asian woman in a long grey wool overcoat walking through a rainy neon-lit city at night wet asphalt reflective street with vibrant store signs transitioning into down subway stairs walking along a subway station platform as a speed train passes holding a black umbrella looking out of automatic glass station doors onto a snowy city street exhale visible cold breath, side profile close up facing a golden sunrise on a high-rise balcony with city skyline background concluding with a wide aerial shot of a glowing metropolis skyline at dawn photorealistic, moody atmospheric lighting, 8k resolution, cinematic camera movement smooth transitions, highly detailed --ar 16:9 --v 6.0
+```
+
+### How to adapt it
+
+Replace the protagonist, weather and city landmarks while retaining the night-to-dawn progression.
+
+**Shared by:** [Lavinia](<https://x.com/laviniavelle>)
+
+[Original post on X](<https://x.com/laviniavelle/status/2104411770840633535>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#neon-city-to-sunrise-journey>)
+
+<a id="reusable-h3-footage-tts-variants"></a>
+
+## Reusable H3 Footage with TTS Variants
+
+[![Reusable H3 Footage with TTS Variants — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104444321227530240/img/XaIFD682nlDLRgqJ.jpg>)](<https://x.com/gakutarou_pmf/status/2104444530284233003>)
+
+Two video examples pair reusable MiniMax H3 footage with separately generated Gemini TTS voiceovers.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Create a reusable visual sequence and produce alternate voiceovers separately before editing each version.
+
+**Shared by:** [桒谷 一成 | inovie㍿](<https://x.com/gakutarou_pmf>)
+
+[Original post on X](<https://x.com/gakutarou_pmf/status/2104444530284233003>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#reusable-h3-footage-tts-variants>)
+
+<a id="wet-alley-delayed-collapse"></a>
+
+## Wet Alley Delayed Collapse
+
+[![Wet Alley Delayed Collapse — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104547216249741312/img/-7_B9W9UaRT1eZo_.jpg>)](<https://x.com/ou_zhen599/status/2104547403751997464>)
+
+A timed noir action prompt locks one wet alley, two characters, motivated lighting and a delayed emotional collapse.
+
+**Model:** MiniMax H3
+
+```text
+Create a 15-second, 16:9 cinematic realistic noir-thriller short developed strictly from <Picture 1>. Lock the entire sequence inside one continuous wet night alley only: rolling shutter doors, metal walls, trash bins, low steam, shallow reflective puddles, and distant neon. No cutaway to any other street, interior, rooftop, or unrelated environment. Preserve the exact same adult female protagonist: same face, hair, scar placement if visible, clothing, leather accessories, body proportions, skin texture, and weapon. Preserve one teenage male attacker only, with no duplication, no extra bystanders, and no spatial drift. Emotional spine: fast forward pressure -> sudden intrusion -> close-contact stabbing -> delayed recognition of injury -> slow collapse.
+
+Blocking lock: @A begins in the deep background slightly left and drives toward the camera through the alley. After the attack she remains in the mid-foreground left, one hand pressing the wound at her abdomen side, then slowly drops to one knee. @B begins hidden in the midground right shadow. At 3.5 seconds he cuts laterally into @A’s path, enters close body range, lands the stab during the shoulder-passing exchange, and immediately retreats toward the right-rear steam zone. The interaction must stay clear: A advances, B interrupts, B strikes in the crossing moment, B exits fast, A watches him run, then her body gives way.
+
+Performance: 0.0-3.5s A is hard, aggressive, and controlled. Brow ridge lightly pressed, upper lids slightly low, lower lids tight, lips parted only a little, breath short but not gasping, jawline locked. 3.5-5.0s when B cuts in, her pupils snap first down-right then back forward; upper lids rise by a narrow degree, lower lids stay taut, nostrils flare once, mouth flattens, throat tightens. This is combat recalculation, not fear. 5.0-7.0s in the close crossing and stab, her action is interrupted; the stab causes 0.2-0.3 seconds of defocus in the eyes. Brow center gathers sharply, jaw locks, lips tighten with no exaggerated mouth opening. 7.0-10.0s she clamps one hand over the abdomen wound, looks down at her palm and the darkening cloth, brow center contracts, lips part without sound, breath becomes shallow, and the collarbone area shows held pain. 10.0-15.0s she lifts her eyes to follow the fleeing boy: first emptiness, then delayed focus and residual vigilance, then slow failure of bodily control until she drops to one knee without screaming.
+
+Chest and upper-body motion must remain realistic and restrained, caused only by steps, breath, impact, and pain. Feature A, 2.2-3.4s: while she advances fast, the chest and upper torso show natural weighted vertical response linked to short breaths and stride frequency; collarbone and shoulder line respond together. Feature B, 4.6-5.6s: when B slices into her route, her emergency stop and half-turn cause one short dense inertia reaction through the chest: a tiny forward carry and immediate tightening recovery. Feature C, 11.6-13.8s: while she presses the wound and watches him run, the chest carries two pain-driven breaths, the first shorter and sharper, the second weaker and deeper, with the shoulders lifting and settling once.
+
+Lighting design: the left wall practical lamp gives a warm orange tungsten cut, around 2400K-2800K. A cold blue-cyan neon edge from the right-rear gives a 6200K-7000K contour line. Wet ground reflections provide low-angle fill. During the forward rush, her collarbone, upper chest, and jaw edge are cut by warm orange light while shoulder and hair tips retain cold blue rim light. In the crossing and stabbing beat, warm light sweeps over her collarbone and upper torso while cold light compresses the edge of her right shoulder. After the injury, cold blue shadow takes over and the warm practical remains only as a thin edge line. Steam and wet air must catch light and create volume. No flat lighting and no source-less glow.
+
+Color grade: modern wet-alley neo-noir. Cyan-blue-gray shadows, warm orange tungsten highlights, cool neutral midtones, restrained low-to-mid saturation, deep blacks with readable shadow detail, protected skin tones with no yellow-green contamination, slight neon bloom in puddles and metal edges, premium restrained finish. No candy color, no oversaturated neon, no random color drift.
+
+Physical and VFX logic: puddles are shallow. Boots cut the surface into low fan-shaped splashes, and emergency stops create short rebound ripples. White-gray steam rolls low along the ground, thickest below knee height, splitting around the bodies and closing again behind them. Neon light forms narrow dragged reflections on wet ground and metal edges. A’s short hair sweeps backward during the run, then flicks forward on the sudden stop and recovers. Her skirt edge, waist fabric, underlayer edge, and leg strap all show believable pull, crease, and recovery during movement and braking. B’s knife action is short, precise, and street-level, catching cold blue light only for an instant. The wound is conveyed through cloth compression, interrupted body logic, and the gradual darkening of fabric under her hand. No excessive blood spray. The stain spreads slightly downward under gravity. No explosions, no extra debris, no weather shift.
+
+[00:00-00:03.5]
+24mm low ground-level tracking. Start from wet reflections, boots, and leg strap, following @A as she drives forward from the deep left side of the alley. Water splits under her steps, steam skims past her lower legs. At around 2 seconds, rise smoothly into a 50mm chest-shoulder medium close while staying with her movement. Feature A appears here: natural weighted step-linked chest and shoulder motion. Warm light cuts the collarbone, cold neon outlines the rear shoulder, and her eyes stay fixed ahead.
+
+[00:03.5-00:05.0]
+Short lateral side-follow from @A’s right side. Begin on her chest, shoulder, and jawline, then smoothly rack focus to @B as he slices into frame from the right shadow like a diagonal black cut through her path. A performs a half-step emergency brake and pivots slightly, her right shoulder pulled back, center of gravity broken. This is Feature B: one compact realistic chest inertia response caused by cut-off forward motion.
+
+[00:05.0-00:07.0]
+65mm to 85mm extreme near two-shot. The camera stays close and compensates lightly for the shoulder-pass. @B folds into her path, uses the overlap of bodies as cover, and flips the short knife up from the shadow at her abdomen side. The stab is brief, hard, and exact. @A does not throw herself back; her action is simply cut off in mid-sequence. Breath stops once. Eyes lose focus for a fraction. Jaw locks. The knife strike must read physically before emotionally.
+
+[00:07.0-00:09.2]
+Hold 0.2 seconds after the blade enters, then perform one very short whip-like shock only to underline the successful withdrawal. @B pulls free and runs immediately toward the right-rear steam zone. @A slams one hand to the wound by instinct. The interrupted step remains in her balance. She looks down at the cloth quickly darkening beneath her hand, brow center tightening, lips opening without sound. The first pain-driven short tremor moves through her chest and upper torso.
+
+[00:09.2-00:12.0]
+Stay close to her chest, shoulder, and face and push in only by half a step. Do not leave her. @A looks down at her hand, then lifts her gaze sharply toward the direction @B is escaping. First her eyes are blank, then slowly regain delayed focus and puzzled vigilance. In the distance, @B is already beyond the right-rear steam, only a diminishing figure. If dialogue is retained, his distant line lands here: <d>[English] Stay down.</d>
+
+[00:12.0-00:15.0]
+Ease the camera back by half a step to restore more of the alley while still centering her. Do not chase the boy. @A keeps one hand pressed hard to the wound and her gaze locked on his escape path, but her legs begin to fail. She tries to remain upright, then one knee softens and touches down first, the body sinking after it into a slow one-knee collapse. Feature C completes here: the second weaker deeper chest rise occurs under pain, breath suppression, and falling center of gravity. End on her half-kneeling in the wet alley, clothing darkened at the wound, eyes still aimed at where he disappeared.
+
+Hard negative constraints: no face collapse, no drifting features, no misaligned eyes, no exaggerated mouth shapes, no cartoon fear, no extra limbs, no ghosting, no duplicated characters, no extra people, no scene shift, no overexposed neon, no dead-black frame, no random wind or heavy rain, no vulgarized body motion, no subtitles, and no watermark.
+
+overall_soundscape:
+A wet urban alley bed with distant neon electrical buzz, low industrial hum, shallow water movement, faint metal resonance, and low white-gray steam release close to the ground. Footsteps on wet concrete, small water splashes, shoe friction, fabric drag, knife movement, and low breath must stay clear and local. In the opening, emphasize her stride: boots cutting shallow puddles, low fan splashes, steam separating around her legs, leather and fabric friction, and breath held in short controlled units. As the camera rises to chest level, bring her breathing and clothing tension forward while keeping the alley alive around her. At the intrusion beat, make the space narrow acoustically: a fast lateral body cut, a clipped shoe correction, cloth tightening, one tight inhale, and the brief clean metallic whisper of the knife catching light and air. In the stab moment, avoid melodrama: the hit is short, bodily, and final, with the sound of impact carried through cloth pressure, cut movement, and a small interrupted breath rather than a big gore cue. Afterward, B’s retreat should be rapid and diminishing through steam and distance. @A’s hand slamming onto the wound, the darkening cloth, and the shallow broken breath become the emotional center. If used, <d>[English] Stay down.</d> must be cold, short, and already receding into distance. In the final collapse, foreground the unstable breath, one knee contacting wet ground, fabric bunching, shallow water displacement, and the residual low hum of the alley swallowing the space around her.
+
+non_diegetic_music:
+Minimal noir-thriller score with faint low electronic pressure and restrained sub-bass pulse. The opening should feel tense and kinetic but not oversized, supporting the forward drive without overpowering the physical soundscape. In the approach section, let the score stay tight and narrow. At the intrusion and stab, use one short hard tonal cut or impact accent, then immediately strip back so the physical aftermath dominates. During the delayed realization and collapse, hold only a thin low-frequency pressure under her breath and movement, never turning the moment into melodrama. The end should feel suspended and unresolved, with her body still present in the alley while the attacker is already gone.
+```
+
+### How to adapt it
+
+Retain spatial blocking and restrained performance beats; replace the setting and characters with your own references.
+
+**Shared by:** [Loriel.AI](<https://x.com/ou_zhen599>)
+
+[Original post on X](<https://x.com/ou_zhen599/status/2104547403751997464>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wet-alley-delayed-collapse>)
+
+<a id="scroll-driven-outfit-webpage"></a>
+
+## Scroll Driven Outfit Webpage
+
+[![Scroll Driven Outfit Webpage — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104916757399965696/img/vbPfIP5J-oXojwi_.jpg>)](<https://x.com/LerSentAI/status/2104918112776699963>)
+
+A deployed scrolling outfit-change webpage combines MiniMax Code development with H3 video generation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Prepare outfit-change footage, bind its progression to page scrolling and test the interaction on mobile.
+
+**Shared by:** [LerSent](<https://x.com/LerSentAI>)
+
+[Original post on X](<https://x.com/LerSentAI/status/2104918112776699963>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#scroll-driven-outfit-webpage>)
+
+<a id="runpod-app-promo-reel-pipeline"></a>
+
+## RunPod App Promo Reel Pipeline
+
+[![RunPod App Promo Reel Pipeline — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105111423395454976/img/NiByw1rm2A1vVnd0.jpg>)](<https://x.com/victor_explore/status/2105111607567401078>)
+
+A RunPod H3 workflow scripts, voices, generates and reviews a reported 27 promotional reels for a baby kick counter app.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Separate scripting, voice and shot generation, then review each clip and regenerate weak shots before assembly.
+
+**Shared by:** [Victor](<https://x.com/victor_explore>)
+
+[Original post on X](<https://x.com/victor_explore/status/2105111607567401078>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#runpod-app-promo-reel-pipeline>)
+
+<a id="laviale-september-rain-mv"></a>
+
+## LaViale September Rain Music Video
+
+[![LaViale September Rain Music Video — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105223357662900224/img/deJewpnU1MGllvs_.jpg>)](<https://x.com/mazzo/status/2105223625662144904>)
+
+A September-rain music video uses LaViale and H3 visuals with Claude lyrics, YuE2 music and RVC/DiffSinger vocals.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Keep music and voice creation separate from visual generation, then plan H3 shots around the finished track.
+
+**Shared by:** [Koya Matsuo](<https://x.com/mazzo>)
+
+[Original post on X](<https://x.com/mazzo/status/2105223625662144904>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#laviale-september-rain-mv>)
+
+<a id="webui-two-step-pdmd-refmod"></a>
+
+## WebUI Two Step PDMD RefMod
+
+[![WebUI Two Step PDMD RefMod — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105678861279367168/img/8x0ROskYdsp5KAiO.jpg>)](<https://x.com/core_tan/status/2105679232110325799>)
+
+A WebUI 1.6 example combines Ref2VA, two-step PDMD and RefMod, reporting 124 frames generated in 35.9 seconds.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Test the two-step setup against a longer-step baseline using the same reference and measure quality alongside runtime.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2105679232110325799>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#webui-two-step-pdmd-refmod>)
+
+<a id="h3-dance-to-motion-capture-mv"></a>
+
+## H3 Dance to Motion Capture Music Video
+
+A music video pipeline extracts motion from H3 dance footage with GVHMR and WiLoR before lyric animation and editing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate dance footage, extract body and hand motion, then reuse the motion in the final video assembly.
+
+**Shared by:** [みゅみゅ](<https://x.com/miyumiyuna5>)
+
+[Original post on X](<https://x.com/miyumiyuna5/status/2105686261696708667>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-dance-to-motion-capture-mv>)
+
+<a id="blockhead-chain-comic-dialogue"></a>
+
+## Blockhead Chain Comic Dialogue
+
+[![Blockhead Chain Comic Dialogue — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105720345177337856/img/lkX097-2hSy71JLw.jpg>)](<https://x.com/don56palmer/status/2105725594340377086>)
+
+An original comic page becomes a voiced Japanese joke about monsters buying an energy drink.
+
+**Model:** MiniMax H3
+
+### Published dialogue (not a full prompt) · `ja`
+
+```text
+サキュバス：「素晴らしいお話を持ってきましたよ。モンスターになれるドリンクを販売しているんです」
+悪魔：「これを飲めば、完全なモンスターになれます」
+ヴァンパイア：「いいですね、1ケース買います」
+ヴァンパイア：「……ちょっと待てよ。俺は*すでに*モンスターじゃないか。これ、ただのエナジードリンクじゃないか！」
+```
+
+### How to adapt it
+
+Use one comic page as the visual reference and assign short dialogue turns to its characters.
+
+**Shared by:** [Oddar](<https://x.com/don56palmer>)
+
+[Original post on X](<https://x.com/don56palmer/status/2105725594340377086>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blockhead-chain-comic-dialogue>)
+
+<a id="stacked-images-character-audio-refmod"></a>
+
+## Stacked Images Character and Audio RefMod
+
+[![Stacked Images Character and Audio RefMod — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105738924845137920/img/wyjbsw3F__RXVDF9.jpg>)](<https://x.com/core_tan/status/2105740158230561239>)
+
+A WebUI example stacks character images into one video reference and combines character and audio RefMod with FlashGen.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Bundle consistent character views into a reference video and compare likeness and audio transfer under fixed settings.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2105740158230561239>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#stacked-images-character-audio-refmod>)
+
+<a id="family-fal-recast-example"></a>
+
+## Family fal Recast Example
+
+[![Family fal Recast Example — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105760426642526208/img/2dm4SCxRruW8PCQE.jpg>)](<https://x.com/Mike_Pevzner/status/2105760897654489299>)
+
+A creator shares a family-involved Recast demonstration, linked to fal’s H3 Max character replacement announcement.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use a clear portrait and a source clip with readable movement; review face identity and motion preservation.
+
+**Shared by:** [Mike Pevzner](<https://x.com/Mike_Pevzner>)
+
+[Original post on X](<https://x.com/Mike_Pevzner/status/2105760897654489299>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#family-fal-recast-example>)
+
+<a id="ash-city-comic-to-cg-reboot"></a>
+
+## Ash City Comic to CG Reboot
+
+[![Ash City Comic to CG Reboot — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105753020214788097/img/jyH4jQa85ZSIL33B.jpg>)](<https://x.com/mi7_crypto/status/2105764106116681823>)
+
+A five-part game promo reconstructs a ruined comic city into CG, flowers and a cyber forest through scanlines and spatial slices.
+
+**Model:** MiniMax H3
+
+```text
+# 灰都開花 最終動画プロンプト
+## 制作仕様
+- 尺：15秒
+- アスペクト比：16:9
+- 動画モード：multimodal
+- 最終出力：世界観を一貫させた、終末世界を描く1本のゲームPV
+## 全体方針
+`灰都開花` の世界が、起動に失敗したシステムの内部から再構築されていく。人物や既存IPのキャラクターは登場させず、崩壊した未来都市そのものを主人公として描く。@ Image1 を唯一の画風基準とし、純黒、純白、少量のニュートラルグレー、高彩度の侵食マゼンタ、ごく少量の再起動シアンという配色を維持する。マゼンタは環境表現、水平走査光、データ亀裂、FUIの強調、場面転換に使用する。シアンは再起動信号のみに限定し、1フレーム内の占有率を5％未満、映像全体の平均を3％未満に抑える。硬質なコミック調の線、網点、黒ベタ、平面的な色面から始まり、走査光とスライス再構成を通じて、奥行きと重量感を備えたAAAゲームCGへ連続的に変化させる。未来都市、花の都市、サイバー森林は別世界として切り替えず、同じ建築物と地形が変形していく連続空間として見せる。エンディングに表示する正確な文字は `灰都開花` と `滅びのあとで、世界は咲く。`。
+## 参考素材との対応
+- @ Image1：唯一のスタイル／シーン基準。崩壊した未来都市、データ亀裂、幾何学的な花とサイバー森林、硬質な線、無彩色と侵食マゼンタ、限定的なシアン、情報量を抑えた大きな色面、コミック表現から立体的なレイヤー表現へ移行する視覚言語を提供する。正確な開始フレームや終了フレームとして固定せず、映像全体のビジュアルを統一するために使用する。
+- 9分割プレビューは動画の参照素材として渡さない。承認済み絵コンテに沿った構図、動作の段階、ショットサイズ、つながりのみを、以下のタイムラインへ反映する。
+## サウンド
+モデルが生成する同期サウンドを使用する。低い電源ハム音から始まり、起動エラー、デジタルな途切れ、紙とガラスが裂ける音、鋭い走査音、断片が吸着する音、都市の低域が加速する音、花を思わせる倍音、サイバー樹木の共鳴へと連続的に発展させる。13.2秒で全帯域を一瞬吸い込み、タイトルの再構成と同時に深い衝撃音を鳴らす。最後は短いデジタル残響と安定した電源音だけを残す。無関係な声、歌、ナレーションは入れない。
+## 絵コンテ順序の制約
+冒頭は、ほぼ暗闇に近い中央のクローズアップから始める。FUIの崩壊は平面的に見せ、斜めに走る亀裂を次のコミックパネルの枠へつなげる。コミック世界は、斜めに重なった3層のミディアムショットから、水平断片が浮遊するワイドショットへ展開する。細いシアンの信号を画面奥の固定軸とし、断片をその軸へ再結合させながらCG空間へ移行する。未来都市では、一点透視の地表を高速で前進する。花の都市では一瞬だけカメラを高く上げ、広角で全景を見せる。白い霧をサイバー森林の奥行きへつなげ、森林ではローアングルで枝の間を抜けながら中央の信号へ収束する。最後は暗く左右対称のタイトル画面で締める。
+## メインタイムライン
+### 論理ショット1｜0.00–2.20秒｜起動失敗
+完全な黒から開始する。画面中央で細い白い起動カーソルが点滅し、カメラが画面奥へごく浅く前進する。小さな `BOOT SEQUENCE` が現れ、白い起動ログが縦方向に増殖する。0.7秒から侵食マゼンタの水平走査線が左から右へ走り、ログの一部を欠損させながら `BOOT FAILED` の断片へ崩していく。FUIレイヤーは異なるZ深度で前後にずれ、データ亀裂のマスクが文字と黒い背景を同時に割る。低い電源ハム、リレー音、途切れるエラー音、走査音を重ねる。ショットの終わりに、亀裂の白い隙間から斜めのコミックパネルを露出させる。
+### 論理ショット2｜2.20–6.80秒｜コミック世界の崩壊とCG再構成
+カメラは亀裂を通り抜け、崩壊した未来都市、瓦礫の大通り、浮遊建築を描いた写実寄りのコミックパネル3層へ進入する。パネルは斜めに配置し、前景の網点、黒ベタ、枠の断片をそれぞれ異なる速度で動かして、3Dレイヤーを前後に動かすような視差を作る。4.4秒からマゼンタの走査光が全レイヤーを貫き、建築物、空、瓦礫を細い水平スライスへ分解する。断片はZ軸方向の手前と奥へ引き離され、走査光が通過した部分から、線画が重量感と空気遠近法を備えたAAAゲームCGへ変化していく。黒いデータ亀裂が遮蔽ワイプのように画面を噛み切り、断片は細いシアンの固定軸へ吸着して再結合する。紙が擦れる音、ガラスが割れる音、鋭いスキャン音、金属的な吸着音、重い低音の衝撃を重ねる。最後は、完全に再構成された都市空間へ抜ける。
+### 論理ショット3｜6.80–9.30秒｜未来都市の実体化
+地表すれすれの一点透視で、巨大な未来都市を高速前進する。濡れた路面、前景の瓦礫、中景の建築物、遠方の環状メガストラクチャー、薄いFUIレイヤーがそれぞれ異なる速度で後方へ流れ、強い奥行きを生み出す。配色は無彩色と侵食マゼンタのまま維持し、多色ネオンにはしない。建築物の輪郭が一瞬だけコミック調の線へ戻り、すぐにCGへ復帰する。低域を加速させ、都市の残響と遠くで構造物が崩壊する音を広げる。路面のデータ亀裂からマゼンタの幾何学的な花が芽吹き、カメラの進行方向へ広がっていく。
+### 論理ショット4｜9.30–13.20秒｜花の都市からサイバー森林へ
+前進を止めることなく、建物と街路を水平断片へ分解し、それらを花弁状の橋、結晶の花塔、巨大な花の都市へ再構成する。カメラを短く上昇させ、広角で全景を見せる。遠方にある小さなシアンの信号だけで、正常系への復帰を示す。花弁の影が画面を覆い、その輪郭が黒い樹幹と枝へ変形する。白い霧、マゼンタの回路状の葉、前景の枝、中景のFUI、遠景の信号をそれぞれ独立した3Dレイヤーとして前後に動かし、枝の間を高速ですり抜ける。硬質なデータ音の中に短い倍音が広がり、電子的な木々の共鳴と風切り音へ変化する。13.2秒で中央のシアン信号が細い縦線へ収束し、画面全体が黒へ閉じる。
+### 論理ショット5｜13.20–15.00秒｜奪還宣言
+黒い背景に侵食マゼンタのデータ亀裂が水平に走る。亀裂の切断面から文字の断片がZ軸の前後方向から吸着し、中央に正確な `灰都開花` を再構成する。その直下に `滅びのあとで、世界は咲く。` を一字一句正確に配置する。小さなシアンの再起動カーソルが一度だけ点灯する。13.2秒で音を吸い込み、文字が一体化するのと同時に深い衝撃音を鳴らす。14.4秒までにすべてのグリッチと断片の動きを停止させ、最後の0.6秒は文字を崩さず、画面中央で読みやすい状態のまま安定して保持する。
+## 最終状態
+黒い背景の中央に `灰都開花`、その直下に `滅びのあとで、世界は咲く。` を表示する。侵食マゼンタは細い亀裂とごく小さな残光だけに残し、シアンは消灯直前の一点のみに限定する。画面と音を安定させたまま終了する。
+## 失敗を防ぐための制約
+人物を追加しない。虹色ネオンや多色のサイバーパンク表現にしない。コミックとCGを単純なハードカットで切り替えず、走査、水平スライス分解、Z軸方向の再結合によって連続的に変化させる。都市、花、森林を無関係な別ロケーションとして扱わない。FUIやグリッチで主要な空間や最終タイトルを覆わない。エンディングの文字を誤記、置換、追加、変形しない。最後の0.6秒には、カメラの揺れ、ノイズ、文字の崩壊を入れない。
+```
+
+### How to adapt it
+
+Keep one scene style reference, a restricted palette and continuous spatial transformations across the timed shot plan.
+
+**Shared by:** [M7［mi7］AI](<https://x.com/mi7_crypto>)
+
+[Original post on X](<https://x.com/mi7_crypto/status/2105764106116681823>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ash-city-comic-to-cg-reboot>)
+
+<a id="3d-previs-face-hand-dance"></a>
+
+## 3D Previs Face and Hand Dance
+
+[![Generated face and hand dance video preview](<https://pbs.twimg.com/amplify_video_thumb/2105776288812441600/img/I3E2DFcxvDLs-VZD.jpg>)](<https://x.com/malonpon/status/2105776627707982327>)
+
+H3 Max uses an AI-generated 3D hand-dance previs and character sheet to test face fidelity at awkward camera angles.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Pair a character sheet with a simple motion previs and compare facial likeness against an image-only baseline.
+
+**Shared by:** [kuripon](<https://x.com/malonpon>)
+
+[Original post on X](<https://x.com/malonpon/status/2105776627707982327>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3d-previs-face-hand-dance>)
+
+<a id="h3-max-single-shot-camera-test"></a>
+
+## H3 Max Single Shot Camera Test
+
+[![H3 Max Single Shot Camera Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105779261500178432/img/-xzUvJLKBGhymbQN.jpg>)](<https://x.com/nbykos/status/2105779847368982612>)
+
+An H3 Max versus H3 example reports unexpected cuts despite identical references and a single-shot instruction.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Test a fixed camera against moving-camera instructions with identical references and record unintended cuts.
+
+**Shared by:** [NOBU](<https://x.com/nbykos>)
+
+[Original post on X](<https://x.com/nbykos/status/2105779847368982612>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-single-shot-camera-test>)
+
+<a id="three-vae-post-sampler-comparison"></a>
+
+## Three VAE Post Sampler Comparison
+
+[![Three VAE Post Sampler Comparison — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105783468471042048/img/TX2TllEIxFfvwIun.jpg>)](<https://x.com/DeepForest_Inc/status/2105784534436610411>)
+
+A side-by-side test compares INT8 ConvRot, Standard and LynnReal Light VAE processing after the same H3 sampler conditions.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Hold sampler steps and duration fixed, measure decoding separately and compare detail before changing the VAE.
+
+**Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
+
+[Original post on X](<https://x.com/DeepForest_Inc/status/2105784534436610411>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-vae-post-sampler-comparison>)
+
+<a id="dgx-spark-layer-adaptive-sla"></a>
+
+## DGX Spark Layer Adaptive SLA
+
+[![DGX Spark Layer Adaptive SLA — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105793611141201920/img/YMdI829eV0MZVm8e.jpg>)](<https://x.com/shi3z/status/2105793953719374324>)
+
+A local H3 demonstration on DGX Spark reports roughly twice the speed using training-free Layer Adaptive SLA.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Compare the acceleration with a fixed baseline and inspect temporal detail alongside elapsed time.
+
+**Shared by:** [shi3z](<https://x.com/shi3z>)
+
+[Original post on X](<https://x.com/shi3z/status/2105793953719374324>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-layer-adaptive-sla>)
+
+<a id="taomate-three-step-4070-workflow"></a>
+
+## TaoMate Three Step 4070 Workflow
+
+[![TaoMate Three Step 4070 Workflow — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105795538612588544/img/px1tUjEtPMQYOQh5.jpg>)](<https://x.com/sep_is_heim/status/2105796324440637750>)
+
+An RTX 4070 I2V example reports 124-frame TaoMate H3 output in 2:26, with a follow-up publishing its ComfyUI optimizations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Review the linked author workflow and compare three-step quality with your baseline before changing quantization and attention settings.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2105796324440637750>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#taomate-three-step-4070-workflow>)
+
+<a id="h3-dance-blender-overlay-test"></a>
+
+## H3 Dance Blender Overlay Test
+
+[![H3 Dance Blender Overlay Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105802090878763009/img/_5L_T4lomJul6l2a.jpg>)](<https://x.com/AshizawaKamome/status/2105802730422095948>)
+
+A three-panel test compares H3 dance footage, motion applied in Blender and an overlay of both results.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Extract dance motion, retarget it onto a 3D character and overlay the render to inspect timing and joint drift.
+
+**Shared by:** [葦沢かもめ](<https://x.com/AshizawaKamome>)
+
+[Original post on X](<https://x.com/AshizawaKamome/status/2105802730422095948>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-dance-blender-overlay-test>)
+
+<a id="bottle-bubble-slow-growth"></a>
+
+## Bottle Bubble Slow Growth
+
+[![Bottle Bubble Slow Growth — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105803583639748608/img/qaJAP2HIfT0MAwoJ.jpg>)](<https://x.com/GlennHasABeard/status/2105803641085153589>)
+
+A locked bottle-height camera holds on a bubble growing to watermelon size before it detaches and floats upward.
+
+**Model:** MiniMax H3
+
+### Published prompt fragment · `en`
+
+```text
+growing to the size of a watermelon, then detaches and floats up
+```
+
+### How to adapt it
+
+Keep the camera fixed and allow a quiet growth phase before the detachment payoff.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2105803641085153589>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bottle-bubble-slow-growth>)
+
+<a id="clay-gummy-looping-music-video"></a>
+
+## Clay and Gummy Looping Music Video
+
+A dark phone-loop music video explores clay and gummy textures with chant, Jersey Club and heavy 808 drone styling.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Define a tactile material style and a loop-friendly ending, then edit visuals around the finished music.
+
+**Shared by:** [ぽむ](<https://x.com/pompompokopomch>)
+
+[Original post on X](<https://x.com/pompompokopomch/status/2105778668933169269>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#clay-gummy-looping-music-video>)
+
+<a id="game-clip-sound-effects"></a>
+
+## Game Clip Sound Effects
+
+[![Game Clip Sound Effects — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105813032450338816/img/mebJwCM-RuRzgyWd.jpg>)](<https://x.com/OzzyGT/status/2105813202537947166>)
+
+Two short game-clip examples use MiniMax H3 to generate sound effects from visual references.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Feed a clear game action clip as reference and review the generated sound against impact and movement timing.
+
+**Shared by:** [Alvaro Somoza](<https://x.com/OzzyGT>)
+
+[Original post on X](<https://x.com/OzzyGT/status/2105813202537947166>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#game-clip-sound-effects>)
+
+<a id="intel-b70-ref2va-acceleration"></a>
+
+## Intel B70 Ref2VA Acceleration
+
+An Intel B70 H3 workflow reports a 1344×768, 107-frame Ref2VA clip dropping from 42 minutes to about nine.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use the same reference job to measure denoising-step time and total clip time separately when optimizing inference.
+
+**Shared by:** [Greg Horvay](<https://x.com/greg_horvay>)
+
+[Original post on X](<https://x.com/greg_horvay/status/2105816790999687256>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#intel-b70-ref2va-acceleration>)
+
+<a id="vampire-h3-max-seedance-dialogue-test"></a>
+
+## Vampire H3 Max and Seedance Dialogue Test
+
+[![Vampire H3 Max and Seedance Dialogue Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105820543513743360/img/MWyRQAAOlKCYkzVS.jpg>)](<https://x.com/SparkfulArt/status/2105821122566729809>)
+
+A vampire scene compares a six-second H3 Max clip with a seven-second Seedance 2 clip for visuals and spoken dialogue.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Generate the same scene with both models and compare voice delivery separately from image quality.
+
+**Shared by:** [Sparkful](<https://x.com/SparkfulArt>)
+
+[Original post on X](<https://x.com/SparkfulArt/status/2105821122566729809>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vampire-h3-max-seedance-dialogue-test>)
+
+<a id="alien-scene-self-inpainting"></a>
+
+## Alien Scene Self Inpainting
+
+[![Alien Scene Self Inpainting — source video preview](<https://pbs.twimg.com/media/HTlkiOiXcAAQtK-.jpg>)](<https://x.com/TheRogueA1/status/2105823718773539224>)
+
+A creator uses MiniMax H3 inpainting to insert themself into a recognizable Ripley scene from Alien.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Use a consistent self-reference and review face transitions, lighting and occlusion throughout the replacement.
+
+**Shared by:** [The Rogue AI](<https://x.com/TheRogueA1>)
+
+[Original post on X](<https://x.com/TheRogueA1/status/2105823718773539224>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#alien-scene-self-inpainting>)
+
+<a id="tapnow-reusable-lyric-mv-workflow"></a>
+
+## TapNow Reusable Lyric MV Workflow
+
+[![TapNow Reusable Lyric MV Workflow — source video preview](<https://pbs.twimg.com/media/HTlpFdAa0AA5I_O.jpg>)](<https://x.com/sairin_hamumu/status/2105829996359299218>)
+
+A semi-automated TapNow workflow aims to remake H3 lyric music videos by replacing the lyrics without planning every cut.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Build a reusable lyric-to-scene template and review scene transitions whenever the lyrics change.
+
+**Shared by:** [さいり🥚AI Creator](<https://x.com/sairin_hamumu>)
+
+[Original post on X](<https://x.com/sairin_hamumu/status/2105829996359299218>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tapnow-reusable-lyric-mv-workflow>)
+
+<a id="rabbit-monster-truck-revenge"></a>
+
+## Rabbit Monster Truck Revenge
+
+[![Rabbit Monster Truck Revenge — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105840926396645376/img/v1XNAX_mbIpoyadc.jpg>)](<https://x.com/ShamiWeb3/status/2105841123772264462>)
+
+A wolf splashes a rabbit’s tiny convertible, setting up a larger and wetter revenge gag made with H3 on TapNow.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Keep a readable cause-and-effect sequence with contrasting vehicle scale and one clear revenge payoff.
+
+**Shared by:** [Shami](<https://x.com/ShamiWeb3>)
+
+[Original post on X](<https://x.com/ShamiWeb3/status/2105841123772264462>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rabbit-monster-truck-revenge>)
+
+<a id="twelve-dances-emotional-performance"></a>
+
+## Twelve Dances Emotional Performance
+
+[![Twelve Dances Emotional Performance — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105849818967117824/img/BvK8rpPjm47uGS-S.jpg>)](<https://x.com/deepwhitman/status/2105853579978514782>)
+
+A piano-led dance piece explores movement and emotional expression using H3 Max and Max Turbo with Opus direction.
+
+**Model:** MiniMax H3 Max / H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+### How to adapt it
+
+Plan performance beats around the music and inspect expressions and dance motion before assembling short generated clips.
+
+**Shared by:** [Bilal](<https://x.com/deepwhitman>)
+
+[Original post on X](<https://x.com/deepwhitman/status/2105853579978514782>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#twelve-dances-emotional-performance>)
 
 ## Suggest a prompt
 
