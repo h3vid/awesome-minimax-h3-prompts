@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **139 verified examples**, with sources reviewed through **2026-10-02**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **175 verified examples**, with sources reviewed through **2026-10-03**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (22)
-- [Storyboards & sequences](<#category-storyboard>) (21)
-- [Anime & animation](<#category-anime-animation>) (9)
-- [References & consistency](<#category-reference-character>) (20)
-- [Music videos & dance](<#category-music-dance>) (19)
-- [Dialogue & audio](<#category-dialogue-audio>) (13)
+- [Cinematic & camera](<#category-cinematic-camera>) (27)
+- [Storyboards & sequences](<#category-storyboard>) (26)
+- [Anime & animation](<#category-anime-animation>) (11)
+- [References & consistency](<#category-reference-character>) (24)
+- [Music videos & dance](<#category-music-dance>) (21)
+- [Dialogue & audio](<#category-dialogue-audio>) (16)
 - [Motion graphics & titles](<#category-motion-graphics>) (12)
-- [ComfyUI & workflows](<#category-workflows>) (23)
+- [ComfyUI & workflows](<#category-workflows>) (38)
 
 <a id="category-cinematic-camera"></a>
 
@@ -852,6 +852,249 @@ Keep the camera fixed and allow a quiet growth phase before the detachment payof
 
 [Original post on X](<https://x.com/GlennHasABeard/status/2105803641085153589>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bottle-bubble-slow-growth>)
 
+<a id="first-person-sword-flight-transfer-test"></a>
+
+### First Person Sword Flight Transfer Test
+
+[![First Person Sword Flight Transfer Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104585950760505345/img/7fvZv7h9TKO5qR68.jpg>)](<https://x.com/Soranlan/status/2104585979575329235>)
+
+A 15-second POV sword-flight prompt tests continuous physical motion; the author reports poor transfer from Seedance-style prompting.
+
+**Model:** MiniMax H3
+
+#### Video prompt — transfer test · `zh`
+
+```text
+电影级超写实质感，16:9 横屏，中文对白。
+整段 15 秒严格使用男主第一人称 POV，高度约 178cm，全程不切第三人称。摄影机就是男主真实双眼，所有：
+走路
+冲向栏杆
+低头
+坠落
+踩上飞剑
+失衡
+转弯
+俯冲
+爬升
+都必须符合真实身体惯性。
+环境设定
+环境严格依据 参考图 2 构建：
+一条巨大弧形白玉云桥悬于无边云海之上
+右侧沿山势层层抬升的是规模极其庞大的深色木构仙宫群
+拥有高耸飞檐、巨大立柱、白玉台基、宽阔长阶与连续露台
+清晨暖金阳光从左侧照入
+云层在建筑之间缓慢流动
+人物与整座建筑群相比极其渺小
+人物 ID 设定
+女主
+全程始终是 参考图 1 中的同一名成年东亚女性：
+五官结构完全一致
+眼睛一致
+鼻子一致
+嘴唇一致
+发型一致
+肤色一致
+身材比例完全一致
+保留真实皮肤纹理
+保留自然碎发
+保留清晰但克制的微表情
+服装
+女主全程穿同一套 月白与浅银青御剑常服：
+窄袖
+收束腰封
+真实层叠衣料
+全程同一造型，不换装。
+分段结构
+0–3 秒｜第一帧直接抛钩子
+男主第一人称正与女主并肩走在弧形白玉云桥上。
+女主突然停下，直接转身向镜头伸手：
+“剑给我。”
+男主自己的手进入画面，将带鞘长剑递给她。
+她接过后几乎没有停顿，转身直接将男主的剑越过白玉栏杆扔进云海。
+第一人称立刻冲到栏杆边并低头往下看，男主脱口而出：
+“你干什么？”
+女主走到旁边，平静看着下方：
+“剑握在手里，只能走。”
+远处下坠的剑忽然减速，在云层上方自然转成水平姿态并悬停。
+3–6 秒｜从对白直接进入起跳
+女主转头直视第一人称镜头，补完后半句：
+“放下，才能飞。”
+她自己的长剑从剑鞘中流畅滑出，在桥外翻转成水平飞行姿态，稳定悬于栏杆下方数米。
+女主单脚踩上栏杆，身体轻盈但真实地调整重心，回头只说：
+“跟上。”
+随后直接向后踏出云桥。
+第一人称下意识扑向栏杆并低头追随。
+她先短暂自由下坠，随后双脚稳稳落在自己的飞剑上，膝盖自然弯曲吸收冲击，下一秒御剑向前加速。
+与此同时，男主刚才被扔下去的剑迅速从云海中升回桥边，稳定悬到第一人称脚下。
+6–11 秒｜完整表现第一次御剑
+男主没有继续犹豫，第一人称直接跨出栏杆。
+画面出现短促但清晰的真实坠落。飞剑从下方接住双脚，身体因为冲击产生一次明显重心下沉和左右修正，镜头轻晃一次后迅速稳定。
+飞剑开始加速追向前方女主。
+她在数米外御剑飞行，途中回头喊：
+“别看脚下，看前面！”
+第一人称跟着她：
+先沿巨大白玉云桥外侧向左压弯栏杆和桥面在上方快速形成强烈视差
+
+随后降低高度从弧形桥体外缘下方掠过
+雕刻白石结构从头顶高速滑过
+
+紧接着向右切入云海上方追向右侧庞大仙宫群
+
+女主率先贴近一座巨大宫台向上拉升。
+第一人称跟随形成一条连续丝滑的爬升弧线：
+右侧巨大木柱、飞檐和露台近距离掠过
+左侧始终能看到极深云海
+速度强烈但空间关系清楚
+11–15 秒｜完成第一次御剑的情绪释放
+女主突然沿一座巨大飞檐转过宫殿拐角，短暂从第一人称视野中消失。
+男主沿同样航线压弯追过去。
+下一瞬冲出建筑阴影进入暖金晨光，女主已经在几米外与自己平行御剑飞行。
+此时男主终于能够稳定站在飞剑上。
+女主侧头看向第一人称，确认他没有再摇晃，嘴角轻轻扬起：
+“这不是会了吗？”
+男主喘着气回答：
+“你管这叫教？”
+她轻轻笑一下，身体向前压低：
+“那第二课，追上我。”
+话音刚落，她脚下飞剑立刻向前加速，沿着层叠仙宫和云海之间冲向远方。
+男主第一人称随即前倾加速追上去。
+最后画面保持第一人称高速飞向被晨光照亮的巨型宫殿群。
+叙事理解要求
+整段叙事必须第一遍就完全看懂：
+女主拿走男主的剑并扔下云桥
+用实际行动逼他完成第一次真正御剑
+男主从不敢跳到成功起飞
+最后女主开始第二课
+飞行主段要求
+御剑飞行必须从 第 6 秒开始持续到结尾，占据整段主要时长。
+运镜全部由真实第一人称动作形成，依次包含：
+低头坠落
+接剑失衡
+沿桥压弯
+桥下掠过
+云海低飞
+贴宫殿爬升
+绕飞檐转弯
+平行高速追逐
+要求整体：
+丝滑
+连续
+可读
+画面与运动要求
+纯第一人称 POV
+不切第三人称
+不使用漂浮摄影机
+不要无人机感镜头
+24fps 电影运动质感
+真实曝光
+动作具有真实启动、重量、惯性、修正与稳定过程
+云桥、栏杆、仙宫、飞檐、露台、云海必须有清楚稳定的空间连续性
+Negative
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, malformed hands, extra fingers, duplicated limbs, inconsistent character, face morphing, hairstyle drift, unstable architecture, broken spatial continuity, duplicated woman, duplicated swords, changing sword length, floating feet, feet detached from sword, unstable foot placement, impossible body balance, weightless body, broken gravity, random flight path, teleportation, plastic skin, over-sharpening, HDR, game-like rendering, excessive camera shake, chaotic motion blur, random camera orbit, drone-like POV, unstable eye height, incoherent speed, sliding architecture, changing bridge geometry, chaotic clouds, exaggerated facial acting
+```
+
+#### How to adapt it
+
+Reduce competing actions, preserve a clear flight path and test the POV constraints before adding the full dialogue sequence.
+
+**Shared by:** [Soran](<https://x.com/Soranlan>)
+
+[Original post on X](<https://x.com/Soranlan/status/2104585979575329235>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#first-person-sword-flight-transfer-test>)
+
+<a id="four-cinematic-techniques-real-anime"></a>
+
+### Four Cinematic Techniques in Real and Anime
+
+[![Four Cinematic Techniques in Real and Anime — source video preview 1](<https://pbs.twimg.com/amplify_video_thumb/2104736514647461888/img/Gz_LcRB5dlCzMapy.jpg>)](<https://x.com/tkvtk/status/2104749191667019924>)
+
+A Japanese H3 study tests dolly zoom, rack focus, golden-hour lighting and swirling ink across realistic and anime footage.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test one camera or lighting technique at a time; compare subject scale, focus changes and background continuity.
+
+**Shared by:** [T](<https://x.com/tkvtk>)
+
+[Original post on X](<https://x.com/tkvtk/status/2104749191667019924>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-cinematic-techniques-real-anime>)
+
+<a id="first-middle-last-frame-reference-control"></a>
+
+### First Middle Last Frame Reference Control
+
+[![First Middle Last Frame Reference Control — source video preview](<https://pbs.twimg.com/ext_tw_video_thumb/2106092383968309248/pu/img/K0yTzv-4c1Ywo_68.jpg>)](<https://x.com/fal/status/2106092410480574785>)
+
+A fal H3 Max demo combines first, timed middle and last keyframes with image or video references to guide a shot.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose the start, middle event time and ending pose explicitly; keep additional references consistent with the planned motion.
+
+**Shared by:** [fal](<https://x.com/fal>)
+
+[Original post on X](<https://x.com/fal/status/2106092410480574785>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#first-middle-last-frame-reference-control>)
+
+<a id="demolition-mistake-timed-collapse"></a>
+
+### Demolition Mistake Timed Collapse
+
+[![Demolition Mistake Timed Collapse — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106133930231439361/img/Jy_xG-zFc9UWKLGD.jpg>)](<https://x.com/DeCat2025/status/2106148973409128565>)
+
+A published 15-second H3 action prompt stages a blast, an advancing concrete collapse and a final steel-beam escape.
+
+**Model:** MiniMax H3
+
+#### Video prompt · `en`
+
+```text
+A demolition worker stands inside the exposed floor of a partially demolished high-rise.
+
+0–5 sec: A deafening blast erupts below him. The concrete floor behind him suddenly collapses into the level beneath.
+
+5–10 sec: The collapse races toward him. He sprints across the cracking floor as entire sections drop away just behind his feet, dragging steel beams and debris downward.
+
+10–15 sec: He dives onto the final intact section as the floor disappears beneath him. He grabs an exposed steel beam and hangs over the collapsing interior while the remaining floors cascade downward below.
+
+CUT TO BLACK.
+
+Style: Photorealistic cinematic action, immediate destruction, brutal gravity, heavy concrete and steel physics, fast escalating collapse, dense dust and debris, dynamic camera, no famous faces.
+```
+
+#### How to adapt it
+
+Use distinct timed beats and a clear collapse direction; inspect weight, debris trajectories and the final hand contact.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2106148973409128565>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#demolition-mistake-timed-collapse>)
+
+<a id="pagani-highway-image-video-promo"></a>
+
+### Pagani Highway Image to Video Promo
+
+[![Pagani Highway Image to Video Promo — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106204776283185154/img/hWESpuZu2SoKPYiI.jpg>)](<https://x.com/minaxlab/status/2106204831362744681>)
+
+A Mina Labs H3 Max car-film example places a Pagani Huayra Bespoke on a Miami highway in an image-to-video production chain.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare a consistent vehicle image and inspect body shape, road continuity and camera movement in each generated car shot.
+
+**Shared by:** [Mina Labs](<https://x.com/minaxlab>)
+
+[Original post on X](<https://x.com/minaxlab/status/2106204831362744681>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pagani-highway-image-video-promo>)
+
 <a id="category-storyboard"></a>
 
 ## MiniMax H3 Storyboard & Multi-Shot Prompts
@@ -1683,6 +1926,126 @@ Keep a readable cause-and-effect sequence with contrasting vehicle scale and one
 
 [Original post on X](<https://x.com/ShamiWeb3/status/2105841123772264462>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rabbit-monster-truck-revenge>)
 
+<a id="unexpected-counterattack-local-short"></a>
+
+### Unexpected Counterattack Local Short
+
+[![Unexpected Counterattack Local Short — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104587317549686784/img/5t0pmelYoqy3nNyy.jpg>)](<https://x.com/Xanderwow_A/status/2104587531085885902>)
+
+A widely viewed H3 counterattack short from Xanderwow demonstrates a reversal-based action premise.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a readable setup and reversal, then inspect cause-and-effect timing in the generated short.
+
+**Shared by:** [Xanderwow](<https://x.com/Xanderwow_A>)
+
+[Original post on X](<https://x.com/Xanderwow_A/status/2104587531085885902>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#unexpected-counterattack-local-short>)
+
+<a id="aircraft-animation-model-comparison"></a>
+
+### Aircraft Animation Story Comparison
+
+[![Aircraft Animation Story Comparison — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105174030936670208/img/r81LOLnWZL0l2pti.jpg>)](<https://x.com/ImaStudio_ai/status/2105174271886753796>)
+
+Ima Studio compares H3 and Seedance 2.0 Mini on one 15-second aircraft story with shared characters and prompts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold story, references and duration constant when comparing continuity across shots.
+
+**Shared by:** [Ima Studio](<https://x.com/ImaStudio_ai>)
+
+[Original post on X](<https://x.com/ImaStudio_ai/status/2105174271886753796>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#aircraft-animation-model-comparison>)
+
+<a id="korean-campus-dv-prompt-recreation"></a>
+
+### Korean Campus DV Prompt Recreation
+
+[![Korean Campus DV Prompt Recreation — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105443670518566912/img/z3CDqYDw5VmFnIHV.jpg>)](<https://x.com/honnago/status/2105443693583020481>)
+
+A local H3 Max recreation adapts a published Korean campus DV-vlog prompt and includes Korean speech on dual RTX 3090s.
+
+**Model:** MiniMax H3 Max
+
+#### Original inspiration prompt — saniaspeaks\_ (Seedance source) · `en`
+
+```text
+A 30-second ultra-realistic personal Korean university morning vlog set in South Korea around 2003, filmed entirely on an early-2000s consumer DV camcorder. The SAME young Korean female student must remain perfectly consistent in face, hair, body proportions, outfit, accessories and backpack throughout.
+
+0–5s — GET READY: In a modest early-2000s Korean bedroom, she fixes her hair, gets dressed, grabs her backpack and gives the camera a small sleepy smile. Include period-accurate books, magazines, stationery and furniture.
+
+5–10s — WALK TO UNIVERSITY: She walks through an authentic early-2000s Korean neighborhood with older cars, buses, shops, utility poles and pedestrians, occasionally glancing at the camera.
+
+10–16s — CAMPUS + CLASSROOM: She enters an early-2000s Korean university, walks into class, sits down, takes out her notebook and pens while a professor teaches and students take notes.
+
+16–22s — CAFETERIA: After class, she gets a simple Korean lunch in a busy university cafeteria, sits down, takes a bite and smiles naturally.
+
+22–30s — FRIENDS: She meets 2–3 Korean university friends and walks with them across campus toward the street, laughing and chatting. End with them continuing down the sidewalk.
+
+STYLE: Genuine raw early-2000s DV footage—handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural skin texture and candid behavior.
+
+Everything must be authentically early 2000s: clothing, hairstyles, cars, buildings, signs, stationery, technology and interiors. No smartphones, modern laptops, AirPods, modern cars, LED lighting, 4K sharpness, cinematic camera movement, beauty filters, VHS effects or modern influencer styling.
+
+CONTINUITY: GET READY → KOREAN STREET → UNIVERSITY GATE → CLASSROOM → CAFETERIA → WALK WITH FRIENDS. No teleporting, outfit changes, identity drift, duplicated people, warped hands or disappearing props.
+```
+
+#### How to adapt it
+
+Keep period props and the student identity consistent across daily-life beats; split the long brief into controlled segments if needed.
+
+**Shared by:** [혼나고랩](<https://x.com/honnago>)
+
+[Original post on X](<https://x.com/honnago/status/2105443693583020481>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#korean-campus-dv-prompt-recreation>)
+
+<a id="dmad-four-step-directed-trailer"></a>
+
+### DMAD Four Step Directed Trailer
+
+[![DMAD Four Step Directed Trailer — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106131630402215936/img/FxpZIXMGP4gbhN-D.jpg>)](<https://x.com/Proof_Yu/status/2106131815807263191>)
+
+A creator writes a trailer story with GPT-6 and generates every shot using DMAD, a four-step MiniMax H3 distillation.
+
+**Model:** MiniMax H3 (DMAD distillation)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan the story as individual shots, then evaluate distilled generation quality before assembling the trailer.
+
+**Shared by:** [Zhengming Yu](<https://x.com/Proof_Yu>)
+
+[Original post on X](<https://x.com/Proof_Yu/status/2106131815807263191>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dmad-four-step-directed-trailer>)
+
+<a id="taomate-internet-disconnect-short"></a>
+
+### TaoMate Internet Disconnect Short
+
+[![TaoMate Internet Disconnect Short — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106197281880051713/img/ZQyujfGGCoPKCEQr.jpg>)](<https://x.com/TK2Works/status/2106200840130466260>)
+
+A Day When the Internet Just Won’t Connect is a short character scene rendered with H3 and TaoMate.
+
+**Model:** MiniMax H3 (TaoMate)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Center a short everyday scene on one understandable problem and inspect character reactions throughout the sequence.
+
+**Shared by:** [トクツー](<https://x.com/TK2Works>)
+
+[Original post on X](<https://x.com/TK2Works/status/2106200840130466260>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#taomate-internet-disconnect-short>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -1970,6 +2333,50 @@ Introduce an original mascot through a prop tied to your business, then add a se
 **Shared by:** [株式会社ブリッツ](<https://x.com/blitzondemand>)
 
 [Original post on X](<https://x.com/blitzondemand/status/2105458021023539365>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#print-company-mascot-introduction>)
+
+<a id="tiny-bean-magical-garden"></a>
+
+### Tiny Bean Magical Garden
+
+[![Tiny Bean Magical Garden — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106083741755985920/img/gsyLEgW75yhHIDm2.jpg>)](<https://x.com/IONESCUGABRIE61/status/2106085224463368695>)
+
+A Leonardo H3 video edit uses a published English prompt about a hopeful tiny bean seed beneath a starry garden sky.
+
+**Model:** MiniMax H3
+
+#### Video prompt · `en`
+
+```text
+Create an enchanting scene of a big, green garden with a sense of wonder and magic. Place the tiny bean seed at the center, full of hope and curiosity, looking up at the bright sky with stars shining down.
+```
+
+#### How to adapt it
+
+Keep the tiny seed as the focal subject and use the surrounding garden and sky to establish the emotional tone.
+
+**Shared by:** [IONESCU GABRIELA](<https://x.com/IONESCUGABRIE61>)
+
+[Original post on X](<https://x.com/IONESCUGABRIE61/status/2106085224463368695>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tiny-bean-magical-garden>)
+
+<a id="jasmina-defeat-anime-dialogue"></a>
+
+### Jasmina Defeat Anime Dialogue
+
+[![Jasmina Defeat Anime Dialogue — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104208026735718400/img/1-TNTXJHKRHk4bNi.jpg>)](<https://x.com/JasminaAi/status/2106166841013878853>)
+
+An H3-labelled anime story continuation has Velvedia question Jasmina after her defeat and shutdown.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Maintain character identity and relationship stakes when moving from action to a quieter dialogue beat.
+
+**Shared by:** [ジャスミーナ | AI Anime & Illustrations✨](<https://x.com/JasminaAi>)
+
+[Original post on X](<https://x.com/JasminaAi/status/2106166841013878853>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#jasmina-defeat-anime-dialogue>)
 
 <a id="category-reference-character"></a>
 
@@ -2417,6 +2824,108 @@ Use a consistent self-reference and review face transitions, lighting and occlus
 
 [Original post on X](<https://x.com/TheRogueA1/status/2105823718773539224>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#alien-scene-self-inpainting>)
 
+<a id="airport-crowd-identity-ref2v"></a>
+
+### Airport Crowd Identity Ref2V
+
+[![Airport Crowd Identity Ref2V — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104129747953573888/img/qmQQ13xVk-LuOa5E.jpg>)](<https://x.com/kentdhani/status/2104131439428247769>)
+
+A local Ref2V tracking shot keeps one airport arrival in focus amid bodyguards, fans, paparazzi and flashing cameras.
+
+**Model:** MiniMax H3
+
+#### Video prompt — author reply · `en`
+
+```text
+A young East Asian woman, held constant every frame as the only sharp subject. She has freckles across her nose bridge and cheeks, deep brown eyes, fluffy airy bangs, a messy low bun, pearl stud earrings, natural bare makeup, and a calm, faintly composed, unbothered expression. She wears a charcoal grey double-breasted belted long wool coat over a black turtleneck, black trousers, and black block-heel ankle boots. Her posture is upright and composed. Realistic skin — visible pores, subsurface scattering, freckles and real skin texture kept, no beauty-filter plastic smoothing, no over-smoothing.
+
+The scene is bound from the arrivals-hall reference: a bright modern airport arrivals hall by day, floor-to-ceiling glass curtain walls, a high-reflection mirror floor, cool blue-white daylight, yellow overhead signage, an open airy space. Both her identity and the hall setting stay constant every frame and are not tied to any single timestamp. Keep the design DNA, not the composition — do not copy the reference's full-frame long-exposure motion blur or extreme ground-level camera (she must stay sharp and crisp the whole way), and do not copy any triptych, split-screen, grey studio backdrop, or static front portrait pose. Airport signage stays as an environment graphic element only, kept non-legible.
+
+Timeline
+
+Shot 1 — 0.0s: Realistic cinematic, handheld backward tracking long take, one continuous shot. Centered in frame, Riria strides along the central axis toward the lens, calm and composed, unbothered. Dark-suited bodyguards escort her on both sides, one slightly ahead reaching out to part the crowd and open the lane. Behind the barriers on both sides an excited mixed crowd of fans and paparazzi surges — fans cheering, phones held high and waving, leaning to look; paparazzi firing cameras in bursts, flashes constantly popping — all staying behind the barriers, never entering the central lane or trailing her, just passed and left at her sides and behind. The background is the bright modern arrivals hall: glass curtain walls, cool blue-white daylight, a high-reflection mirror floor throwing everyone's reflections, yellow overhead signage. Inside the central lane there is only her, the bodyguards, and the professional operator in front. The operator holds steady, always directly in front of her, retreating at a normal real walking pace at roughly constant distance, with slight handheld breathing sway, around chest to eye height and slightly low to catch the floor reflections, no zoom.
+
+Shot 1 continues — 2.5s: The flashes on both sides turn dense and rapid-fire and the fans grow louder. Her stride rhythm never changes, her coat swings naturally with each step, her bangs sway lightly with the pace, her calm expression never shifts. In the instant of each flash pop her face and coat are briefly blown out to bright highlight, then drop back into cool daylight.
+
+Shot 1 continues — end: She is still stepping forward and the camera is still retreating. Constant subtle life throughout — reflections on the mirror floor rippling with the crowd, cool light shifting faintly on the glass, the bodyguards' dark suits rising and falling with movement, fans behind the barriers waving and leaning continuously, flashes flickering bright and dark, the handheld frame breathing lightly. The image hard-cuts to end while she is still mid-step and the camera is still moving back.
+
+Sound Design
+
+Location sound only, no dialogue. The wide airport hall's cavernous reverb and low hum, dense and real camera shutter clacks and flash charge whines overlapping in waves, fans' cheers, screams and shouts overlapping, her heeled boots and the bodyguards' dress shoes crossing on the smooth floor, the rustle of her long coat's fabric, and a distant indistinct airport PA voice. At the hard cut the image and sound both cut off naturally at once. For music, a low synth bass bed with a steady modern electronic beat and light percussive pulse, mid-tempo, steady groove, restrained, never covering the ambient sound.
+
+Prohibited
+
+No subtitles, text, watermark, logo, or legible readable text; the overhead airport signage may exist as an environment graphic but stays blurred and non-legible, never rendered into recognizable or garbled text. No slow motion. No speed ramps or speed gradients. No floating, frozen, or weightless movement. No rail-straight gliding gait. No shrinking her to a far dot or drowning her in the crowd. No triptych, split-screen, or multiple copies of her. No grey studio backdrop. No static front portrait pose. No frozen or still frame. No face drift from the reference (losing freckles, bangs, bun, or features). No coat color change. No rendering the bodyguards or crowd as sharp as her. No paparazzi or fans crossing the barrier into the central lane. No paparazzi or fans following behind her or trailing her. No crowd moving toward the lens with her. No front operator turning into a paparazzo or shooting her with a camera. No paparazzi running in front of her. No stiff, warped, floating, or unnaturally placed extras. No misfacing extras not looking at her. No uniform or identical fan and paparazzi clothing. No crowd of only paparazzi with no fans. No fully static camera with no handheld life, and no over-distorted shake. No global amber warm tint. No beauty-filter plastic skin.
+```
+
+#### How to adapt it
+
+Bind identity and setting separately; keep crowd lanes explicit and specify camera distance, pace and subject sharpness.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2104131439428247769>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#airport-crowd-identity-ref2v>)
+
+<a id="h3-max-insert-video-showcase"></a>
+
+### H3 Max Insert Video Showcase
+
+[![H3 Max Insert Video Showcase — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105412314019340288/img/z01BlzXWlYZWFKzJ.jpg>)](<https://x.com/jfischoff/status/2105412651463659861>)
+
+An H3 Max Insert Video demonstration presents the author’s video-editing result in a longer source clip.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use the source demo to inspect how inserted video content relates to scene continuity before testing your own references.
+
+**Shared by:** [Jonathan Fischoff](<https://x.com/jfischoff>)
+
+[Original post on X](<https://x.com/jfischoff/status/2105412651463659861>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-insert-video-showcase>)
+
+<a id="malfoy-local-character-performance"></a>
+
+### Malfoy Local Character Performance
+
+[![Malfoy Local Character Performance — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105980027322212352/img/CyE7daXEuIEQFn2T.jpg>)](<https://x.com/toyxyz3/status/2105980191818617090>)
+
+A high-reach ComfyUI H3 character-performance test uses Malfoy imagery in a 20-second source compilation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare character identity and expressions across the original demonstration before changing your own references.
+
+**Shared by:** [toyxyz](<https://x.com/toyxyz3>)
+
+[Original post on X](<https://x.com/toyxyz3/status/2105980191818617090>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#malfoy-local-character-performance>)
+
+<a id="fan-art-mixed-tool-animation"></a>
+
+### Fan Art Mixed Tool Animation
+
+[![Fan Art Mixed Tool Animation — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106069177870307328/img/ZrHWmjrM_wCvcfUq.jpg>)](<https://x.com/hinemos99667732/status/2106209874442862939>)
+
+A fan-art video combines a community H3 Turbo variant and ControlNet with image generation, Blender, Krita and upscaling tools.
+
+**Model:** MiniMax H3 (MATLOWAI Fused Turbo)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep reference artwork consistent across the image, animation and editing stages; record which tools generated or modified each shot.
+
+**Shared by:** [ひねもす](<https://x.com/hinemos99667732>)
+
+[Original post on X](<https://x.com/hinemos99667732/status/2106209874442862939>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fan-art-mixed-tool-animation>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -2860,6 +3369,46 @@ Plan performance beats around the music and inspect expressions and dance motion
 
 [Original post on X](<https://x.com/deepwhitman/status/2105853579978514782>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#twelve-dances-emotional-performance>)
 
+<a id="kromesthesia-sound-color-music-video"></a>
+
+### Kromesthesia Sound into Color
+
+[![Kromesthesia Sound into Color — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105439005164683264/img/KzboIJdgnOR8YEkI.jpg>)](<https://x.com/plasm0/status/2105614411079770340>)
+
+A wordless synesthesia music video combines local H3, Seedance 2.5 and Suno v6 to explore sound as color.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan color and movement motifs around musical changes; track model attribution per shot in mixed-tool edits.
+
+**Shared by:** [ρŁ𝐀𝔰Ｍʘ](<https://x.com/plasm0>)
+
+[Original post on X](<https://x.com/plasm0/status/2105614411079770340>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#kromesthesia-sound-color-music-video>)
+
+<a id="jizura-lyric-typography-mv"></a>
+
+### JIZURA Lyric Typography Music Video
+
+[![JIZURA Lyric Typography Music Video — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106179884267819008/img/432nvOR7-Whw5tQa.jpg>)](<https://x.com/ai_nontan_room/status/2106180002111012882>)
+
+A music video pairs H3 footage with JIZURA lyric typography, Claude storyboarding, Suno music and Krea 2 images.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep lyric typography as a separate edit layer and align it with story beats in the generated footage.
+
+**Shared by:** [－TAKATO－AI\_room](<https://x.com/ai_nontan_room>)
+
+[Original post on X](<https://x.com/ai_nontan_room/status/2106180002111012882>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#jizura-lyric-typography-mv>)
+
 <a id="category-dialogue-audio"></a>
 
 ## MiniMax H3 Dialogue, Lip Sync & Audio Prompts
@@ -3179,6 +3728,894 @@ Generate the same scene with both models and compare voice delivery separately f
 **Shared by:** [Sparkful](<https://x.com/SparkfulArt>)
 
 [Original post on X](<https://x.com/SparkfulArt/status/2105821122566729809>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vampire-h3-max-seedance-dialogue-test>)
+
+<a id="emotion-tagged-audio-start-frame"></a>
+
+### Emotion Tagged Audio and Start Frame
+
+[![Emotion Tagged Audio and Start Frame — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105747333174513665/img/oAEKd42kpWFbuwLw.jpg>)](<https://x.com/SolutionsJoeG/status/2105748692892606635>)
+
+An angry-performance demo pairs an ElevenLabs voice reference with a start frame in H3 on Higgsfield.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate the emotional voice first, pair it with a stable start frame and inspect expression and lip sync together.
+
+**Shared by:** [Solutions Joe](<https://x.com/SolutionsJoeG>)
+
+[Original post on X](<https://x.com/SolutionsJoeG/status/2105748692892606635>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#emotion-tagged-audio-start-frame>)
+
+<a id="audio-reference-comedy-ending"></a>
+
+### Audio Reference Comedy Ending
+
+[![Audio Reference Comedy Ending — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106182308000862208/img/r_jQ-CVjJNIpXPOz.jpg>)](<https://x.com/Nokosu_kansoku/status/2106182672074916155>)
+
+A mixed-model dialogue experiment uses Kling for its opening conversation and H3 audio reference for the closing gag.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a clear audio-reference cue for the payoff and compare the ending’s voice and lip sync with the earlier dialogue.
+
+**Shared by:** [Nokosu](<https://x.com/Nokosu_kansoku>)
+
+[Original post on X](<https://x.com/Nokosu_kansoku/status/2106182672074916155>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#audio-reference-comedy-ending>)
+
+<a id="autumn-apartment-dialogue-control-test"></a>
+
+### Autumn Apartment Dialogue Control Test
+
+[![Autumn Apartment Dialogue Control Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106209317108281344/img/WHRDNlKWCDq5Fm6f.jpg>)](<https://x.com/Soranlan/status/2106209753722753351>)
+
+A detailed Mandarin apartment-scene prompt tests identity, subtle reactions and an old-CD-player reveal; the author notes speech and story limits.
+
+**Model:** MiniMax H3
+
+#### Video prompt — dialogue control test · `zh`
+
+```text
+# 基础规格
+
+时长20秒，16:9横屏，中文对白，超真实真人电影质感。
+
+类型：
+
+都市生活切片 × 轻关系悬念 × 秋日氛围 × 自然舞蹈动作 × 未完成的故事。
+
+整支视频不要追求夸张奇观。
+
+核心目标是：
+
+**真实、自然、好看、关系感强，让观众想知道两个人以前发生过什么。**
+
+核心事件：
+
+女主原本一个人在家随意收拾准备出门。
+
+镜头外一个她很熟悉的人突然发来一句：
+
+**“我在你楼下。”**
+
+她明显没想到他真的会来。
+
+随后所有动作都围绕：
+
+惊讶 → 下意识开心 → 故意装平静 → 快速收拾自己 → 去见他。
+
+最后再通过一个属于两人过去的旧物留下悬念。
+
+---
+
+# 人物锁定
+
+@图片1仅负责锁定成年东亚女主：
+
+五官；
+脸型；
+眼睛；
+鼻子；
+嘴唇；
+肤色；
+发色；
+年龄感；
+整体身体比例。
+
+全片始终是同一个成年女人。
+
+女主固定：
+
+S1。
+
+镜头外成年男性固定：
+
+S2。
+
+S2全程不露脸。
+
+男声自然、年轻、熟悉，不是霸总式低音。
+
+两人说话像真正认识很久的人。
+
+禁止播音腔。
+
+禁止短剧夸张腔。
+
+---
+
+# 整体视觉
+
+初秋傍晚。
+
+一间真实、有生活痕迹但不杂乱的小公寓。
+
+不是豪宅。
+
+不是摄影棚。
+
+不是科技空间。
+
+空间有：
+
+暖灰墙面；
+原木衣柜；
+床尾随意放着一本翻开的杂志；
+一只帆布包；
+半开的窗户；
+窗帘被风轻轻吹动；
+桌面上放着手机、耳机、发夹和一支唇釉。
+
+窗外是接近日落的自然暖光。
+
+室内没有复杂人工灯效。
+
+整体色调：
+
+奶油白；
+烟棕；
+橄榄绿；
+深牛仔蓝；
+少量暗红。
+
+自然、松弛、有生活温度。
+
+---
+
+# 全新服装系统
+
+彻底避开此前的：
+
+学院风；
+黑西装；
+礼服；
+机能制服；
+赛车服；
+舞蹈训练套装；
+东方高定。
+
+## 开场居家状态
+
+女主穿：
+
+洗旧灰蓝色宽松短袖T恤；
+
+奶油白柔软居家长裤；
+
+赤脚或浅色短袜。
+
+服装略有自然褶皱。
+
+像真的在家待了半天。
+
+没有“为了镜头专门穿好”的感觉。
+
+---
+
+## 出门造型
+
+通过衣柜遮挡完成自然换装切镜。
+
+女主随后穿：
+
+奶油白修身方领针织上衣；
+
+橄榄棕短款麂皮夹克；
+
+深靛蓝高腰直筒牛仔裤；
+
+暗红棕色复古薄底鞋；
+
+小型深棕肩包。
+
+不穿高跟鞋。
+
+不穿丝袜。
+
+不穿短裙。
+
+没有职场女王感。
+
+整体是：
+
+**2026秋日都市松弛穿搭 + 一点复古感。**
+
+---
+
+# 妆造
+
+开场：
+
+接近自然裸妆状态。
+
+真实皮肤纹理。
+
+眉毛自然。
+
+嘴唇只有淡淡原生色。
+
+黑色长发随意用大号磨砂发夹半夹起来。
+
+耳侧有碎发。
+
+---
+
+出门状态：
+
+人物身份完全不变。
+
+只做很自然的快速整理：
+
+摘掉发夹；
+
+黑发自然披落；
+
+随后用手把一侧头发别到耳后；
+
+补一层低饱和砖玫瑰色唇釉；
+
+戴一对很小的旧金色耳环。
+
+禁止突然变成精致浓妆。
+
+重点是：
+
+**她只是突然认真了一点。**
+
+---
+
+# 镜头原则
+
+全片3个镜头。
+
+镜头有生活感，但不能晃得像随手拍废片。
+
+允许少量真实手持呼吸。
+
+不要商业广告式大环绕。
+
+不要无意义炫技。
+
+## Shot 1
+
+35mm感。
+
+卧室自然中景。
+
+非常轻微手持。
+
+作用：
+
+建立生活状态和第一句钩子。
+
+## Shot 2
+
+32mm感。
+
+从衣柜遮挡自然进入侧向短Tracking。
+
+作用：
+
+人物整理自己 + 很自然的小段身体节奏。
+
+## Shot 3
+
+40mm感。
+
+走廊跟拍 → 电梯停住。
+
+作用：
+
+关系悬念和结尾旧物。
+
+---
+
+# SHOT 1
+## 00:00－00:05.5
+### 「你不是说不来吗」
+
+开场不要人物看镜头。
+
+女主S1背对摄影机半坐在床边。
+
+手机放在旁边。
+
+窗外晚风吹动白色薄窗帘。
+
+背景播放一首轻松、有一点复古感的中文独立流行音乐。
+
+她低头慢慢把头发重新夹起来。
+
+完全是生活中的普通动作。
+
+手机突然响一下。
+
+不是夸张提示音。
+
+一条语音消息自动播放。
+
+S2镜头外声音：
+
+<d>[Chinese] 我在你楼下。</d>
+
+女主手上的动作立即停住。
+
+停约0.4秒。
+
+这是第一处真正的张力。
+
+她缓慢转头看手机。
+
+表情不是震惊。
+
+先是不相信。
+
+然后眼睛里很明显出现一点藏不住的开心。
+
+但她很快压住。
+
+她拿起手机。
+
+S1：
+
+<d>[Chinese] ……你不是说不来吗？</d>
+
+语气：
+
+意外；
+
+有一点埋怨；
+
+更多其实是开心。
+
+不要撒娇腔。
+
+S2没有马上回答。
+
+女主看着手机等半秒。
+
+然后手机里传来：
+
+S2：
+
+<d>[Chinese] 临时改主意了。</d>
+
+她听完很轻地抿一下嘴。
+
+努力不笑。
+
+失败。
+
+嘴角还是起来一点。
+
+立即进入下一镜。
+
+---
+
+# SHOT 2
+## 00:05.5－00:13.5
+### 「嘴上没什么，动作全暴露了」
+
+女主站起身打开原木衣柜门。
+
+柜门经过摄影机前景。
+
+整个画面被暖棕色木门自然遮满。
+
+利用这个真实遮挡完成丝滑Match Cut。
+
+柜门重新打开时：
+
+女主已经穿好出门造型。
+
+同一人物。
+
+同一房间。
+
+时间只像过去了几分钟。
+
+摄影机现在位于衣柜侧前方。
+
+开始非常轻微地向右Tracking。
+
+背景音乐重新进入明显一点的节奏。
+
+女主站在镜子前补唇釉。
+
+非常认真地抿一下嘴。
+
+然后看着镜子里的自己。
+
+像觉得：
+
+“是不是太认真了？”
+
+她立即拿纸巾轻轻按掉一点颜色。
+
+这一小动作要真实。
+
+音乐进入一个很好听的小鼓点。
+
+她一边戴耳环，一边下意识跟着节奏：
+
+左肩轻轻点一下；
+
+右肩跟一下；
+
+身体自然左右晃两拍；
+
+向后退一步；
+
+顺势一个很小、很松弛的半转身。
+
+这不是正式跳舞。
+
+更像一个人心情突然变好了，
+
+自己都没意识到身体开始跟着音乐动。
+
+麂皮夹克、头发和牛仔裤产生真实惯性。
+
+她转回来时刚好看到镜子中的自己。
+
+自己也意识到刚才有点开心过头。
+
+她立即停住。
+
+忍不住笑一下。
+
+手机再次传出S2：
+
+<d>[Chinese] 还有两分钟。</d>
+
+女主一边拿起肩包，一边回：
+
+S1：
+
+<d>[Chinese] 知道了，催什么。</d>
+
+嘴上嫌弃。
+
+动作却明显加快。
+
+这里的反差就是笑点和关系感。
+
+---
+
+# SHOT 3
+## 00:13.5－00:20.0
+### 「他带来的东西」
+
+女主从公寓门出去。
+
+摄影机自然跟在她斜后方。
+
+不是稳定器广告感。
+
+保持轻微真实跟拍感。
+
+她快走两步。
+
+随后又故意放慢一点。
+
+像突然意识到：
+
+自己表现得太急了。
+
+她顺手整理一下头发。
+
+装作很自然。
+
+走廊前方电梯：
+
+「叮。」
+
+门打开。
+
+摄影机不立刻冲进去。
+
+女主站在电梯门外。
+
+她原本带着一点笑。
+
+但看到里面以后，
+
+脚步慢下来。
+
+笑容也轻轻停住。
+
+不是害怕。
+
+是被某件东西击中了记忆。
+
+S2仍然不露脸。
+
+画面只看到他的手从电梯里伸出来。
+
+手里拿着一个：
+
+**有明显使用痕迹的老式银色便携CD机。**
+
+外壳一角有轻微划痕。
+
+机身上贴着一枚很旧的小蓝色贴纸。
+
+看得出这件东西保存了很多年。
+
+女主盯着CD机。
+
+前面的轻松状态突然安静下来。
+
+背景音乐也在这里非常自然地降低。
+
+留一点走廊环境声。
+
+S1很轻地说：
+
+<d>[Chinese] ……你怎么还留着这个？</d>
+
+不要哭。
+
+不要立刻煽情。
+
+男声没有回答。
+
+停半秒。
+
+摄影机只非常轻地向前靠近一点。
+
+S2：
+
+<d>[Chinese] 你先下来，我再告诉你。</d>
+
+女主看向电梯里的人。
+
+停住。
+
+眼神里有：
+
+意外；
+
+熟悉；
+
+一点复杂；
+
+还有很明显的好奇。
+
+电梯门开始缓慢关闭。
+
+就在门即将遮住两人之间空间时：
+
+直接结束。
+
+不黑屏解释。
+
+不加“未完待续”。
+
+让观众自然产生：
+
+**这个CD机到底是什么？**
+
+**他们以前发生过什么？**
+
+---
+
+# 舞蹈元素
+
+本片舞蹈绝不能成为大型表演。
+
+核心是：
+
+**心情藏不住以后，身体先暴露了。**
+
+只使用4个非常自然的节奏动作：
+
+肩膀两拍；
+
+身体轻摆；
+
+后退一步；
+
+小半转。
+
+动作像真实年轻女生独处时听到喜欢的歌，
+
+心情突然变好后自己跟着动。
+
+不要：
+
+专业舞台表演感；
+
+大幅wave；
+
+高难度舞蹈；
+
+长时间跳舞；
+
+性感扭动；
+
+TikTok固定手势舞。
+
+舞蹈功能是：
+
+表现她其实很期待见这个人。
+
+---
+
+# 台词设计
+
+全片只有5句。
+
+S2：
+
+「我在你楼下。」
+
+S1：
+
+「……你不是说不来吗？」
+
+S2：
+
+「临时改主意了。」
+
+S2：
+
+「还有两分钟。」
+
+S1：
+
+「知道了，催什么。」
+
+结尾：
+
+S1：
+
+「……你怎么还留着这个？」
+
+S2：
+
+「你先下来，我再告诉你。」
+
+所有台词都必须像正常年轻人聊天。
+
+不要金句。
+
+不要“台词腔”。
+
+不要解释关系。
+
+观众通过：
+
+停顿；
+
+表情；
+
+动作速度；
+
+旧物；
+
+去猜两人的关系。
+
+---
+
+# 声音设计
+
+背景音乐：
+
+轻松；
+
+温暖；
+
+带一点复古吉他和柔软鼓机；
+
+约95－105 BPM。
+
+前半保持低音量。
+
+女主自然小舞步时音乐稍微清晰一点。
+
+电梯门打开后：
+
+音乐逐渐降低。
+
+留下：
+
+走廊环境底噪；
+
+鞋底声音；
+
+电梯机械声；
+
+轻微呼吸。
+
+老式CD机出现时不要加夸张“悬疑Boom”。
+
+越自然越好。
+
+---
+
+# 表演曲线
+
+00:00－00:02：
+
+普通的独处状态。
+
+00:02－00:05.5：
+
+意外；
+
+想笑又忍住。
+
+00:05.5－00:10：
+
+心情明显变好。
+
+动作开始变轻。
+
+00:10－00:13.5：
+
+被催以后嘴硬，但明显着急。
+
+00:13.5－00:16：
+
+期待见面。
+
+00:16－00:20：
+
+看到旧物以后情绪突然安静下来。
+
+不是大悲大喜。
+
+留下真正的故事感。
+
+---
+
+# 连续性硬约束
+
+同一成年女主。
+
+同一张脸。
+
+同一肤色。
+
+同一身材比例。
+
+同一套出门服装。
+
+人物从公寓到走廊的空间逻辑明确。
+
+S2始终不露脸。
+
+禁止突然出现完整男性人物。
+
+禁止第二女主。
+
+禁止人物脸漂移。
+
+禁止浓妆突然出现。
+
+禁止豪宅化。
+
+禁止赛博朋克。
+
+禁止未来UI。
+
+禁止超自然现象。
+
+禁止突然慢动作。
+
+禁止随机环绕镜头。
+
+禁止硬切换装。
+
+换装只通过衣柜门完全遮挡的自然Match Cut完成。
+
+禁止夸张短剧哭戏。
+
+禁止女主不断对镜头表演。
+
+她绝大多数时间应该像：
+
+**不知道有人正在拍自己。**
+
+---
+
+# H3执行优先级
+
+## 第一优先级
+
+人物身份稳定；
+
+“我在你楼下”的第一钩子；
+
+女主真实细微情绪变化；
+
+衣柜遮挡换装；
+
+自然小舞步；
+
+最后电梯里的旧CD机；
+
+「你怎么还留着这个？」
+
+这些必须成立。
+
+## 第二优先级
+
+真实服装材质；
+
+自然跟拍；
+
+窗帘风；
+
+电梯机械运动；
+
+发丝与衣料惯性。
+
+## 第三优先级
+
+CD机具体划痕；
+
+小蓝贴纸；
+
+房间小摆件。
+
+如果H3执行复杂度发生竞争：
+
+优先删掉小道具细节。
+
+不能牺牲人物关系和最后旧物伏笔。
+
+最终效果应该像一段偶然拍下来的真实生活片段：
+
+前半让人觉得甜和松弛；
+
+中间有一点可爱反差；
+
+最后突然打开一个以前的故事。
+
+观众看完最自然的问题应该是：
+
+**“他俩以前到底什么关系？”**
+
+而不是：
+
+“这个AI特效怎么做的？”
+```
+
+#### How to adapt it
+
+Reduce the brief to essential relationship beats and test dialogue turns separately before adding wardrobe transitions and the final prop reveal.
+
+**Shared by:** [Soran](<https://x.com/Soranlan>)
+
+[Original post on X](<https://x.com/Soranlan/status/2106209753722753351>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#autumn-apartment-dialogue-control-test>)
 
 <a id="category-motion-graphics"></a>
 
@@ -3888,6 +5325,342 @@ Use the same reference job to measure denoising-step time and total clip time se
 **Shared by:** [Greg Horvay](<https://x.com/greg_horvay>)
 
 [Original post on X](<https://x.com/greg_horvay/status/2105816790999687256>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#intel-b70-ref2va-acceleration>)
+
+<a id="simple-temporal-upscaling-demo"></a>
+
+### Simple Temporal Upscaling Demo
+
+[![Simple Temporal Upscaling Demo — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105516089689907200/img/zvpPtJfytvVaYT7F.jpg>)](<https://x.com/InnerRefle11312/status/2105516290173776155>)
+
+A local H3 demonstration explores temporal upscaling as a way to improve generated video results.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare motion continuity before and after temporal upscaling, keeping the original render for reference.
+
+**Shared by:** [Inner-Reflections](<https://x.com/InnerRefle11312>)
+
+[Original post on X](<https://x.com/InnerRefle11312/status/2105516290173776155>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#simple-temporal-upscaling-demo>)
+
+<a id="local-memory-optimization-table"></a>
+
+### Local Memory Optimization Table
+
+[![Local Memory Optimization Table — author benchmark screenshot](<https://pbs.twimg.com/media/HTiJ8_LasAA-smv.png>)](<https://x.com/uzuki425/status/2105584982706233350>)
+
+A Japanese H3 experiment shares a memory-optimization table and contrasts optimized execution with slower low-VRAM offloading.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Benchmark memory and time separately for each optimization; include offload settings and generation dimensions.
+
+**Shared by:** [ゆずき](<https://x.com/uzuki425>)
+
+[Original post on X](<https://x.com/uzuki425/status/2105584982706233350>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-memory-optimization-table>)
+
+<a id="rtx4070-ref2va-fl2va-benchmark-library"></a>
+
+### RTX 4070 Reference Workflow Benchmarks
+
+[![RTX 4070 Reference Workflow Benchmarks — author benchmark screenshot](<https://pbs.twimg.com/media/HTidu6ObYAAH3yr.jpg>)](<https://x.com/sep_is_heim/status/2105609428422787377>)
+
+A 12GB RTX 4070 benchmark library compares Ref2VA and FL2VA outputs and provides downloadable generation workflows.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use matching duration, dimensions and references to compare acceleration methods before adopting a downloaded workflow.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2105609428422787377>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx4070-ref2va-fl2va-benchmark-library>)
+
+<a id="motion-context-22-frame-handoff"></a>
+
+### Motion Context 22 Frame Handoff
+
+[![Motion Context 22 Frame Handoff — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106010578326319105/img/lA-uOxZLFvko1s-e.jpg>)](<https://x.com/eternityspring/status/2106011333775032522>)
+
+A Kung Fu Panda example joins two H3 segments by preserving 22 motion-context frames and trimming the overlap.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start the next prompt with the previous ending action; preserve the context latent and trim the repeated 22 frames before joining clips.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2106011333775032522>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#motion-context-22-frame-handoff>)
+
+<a id="stateful-video-as-ui-demo"></a>
+
+### Stateful Video as UI Demo
+
+[![Stateful Video as UI Demo — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106026717286383618/img/zEisDNAmnNB09DaT.jpg>)](<https://x.com/bekhovsgun/status/2106044005976801500>)
+
+A stateful backend drives H3 Max Turbo video UI, with mouse and keyboard events triggering fresh prompts and last-frame transitions.
+
+**Model:** MiniMax H3 Max Turbo
+
+#### System build brief — not a direct H3 prompt · `en`
+
+```text
+- headless, stateful backend
+- luna layers that state into a aesthetic-grounded UI prompt
+- minimax h3 max turbo renders that prompt in video (stateless, codeless)
+- luna looks at that video and predicts possible state changes (allowing stateless video to participate in state work)
+- a typical event capture layer listens for mouse/keyboard interaction on the video (clicks, ad hoc prompts)
+- jev classifies captured interaction -> new state based on luna's predictions, falling back to just-in-time interpretation when unpredicted but coherent actions take place
+- h3 gets a fresh prompt with the state change and last frame, deciding on its own how to represent the transition visually
++ I have a visualizer running in parallel, so I can see the state machinery around whatever h3 max is currently showing me
+```
+
+#### How to adapt it
+
+Keep application state outside the video model; translate events into new state and use the previous last frame to guide transitions.
+
+**Shared by:** [rebekah](<https://x.com/bekhovsgun>)
+
+[Original post on X](<https://x.com/bekhovsgun/status/2106044005976801500>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#stateful-video-as-ui-demo>)
+
+<a id="rtx4090-two-pass-latent-upscale"></a>
+
+### RTX 4090 Two Pass Latent Upscale
+
+An RTX 4090 user shares a two-pass latent-upscaler workflow with 20-step and four-step options for local H3 clips.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the base and upscale passes separately and record resolution, clip length, step count and VRAM.
+
+**Shared by:** [☬ŘØβØ༒ƤŞ¥ĆĦØ☬](<https://x.com/RobopsychoAi>)
+
+[Original post on X](<https://x.com/RobopsychoAi/status/2106073162274476121>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx4090-two-pass-latent-upscale>)
+
+<a id="turbo-video-preproduction-iteration"></a>
+
+### Turbo Video Preproduction Iteration
+
+[![Turbo Video Preproduction Iteration — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106084250068168704/img/WCpdSe8l6Vciod-V.jpg>)](<https://x.com/andyorsow/status/2106085400205000854>)
+
+Andy Orsow demonstrates using H3 Max Turbo on fal for quick concept exploration and early prompt tests before video production.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test composition and scene ideas with short concept clips, then carry the selected direction into the final production workflow.
+
+**Shared by:** [Andy Orsow](<https://x.com/andyorsow>)
+
+[Original post on X](<https://x.com/andyorsow/status/2106085400205000854>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#turbo-video-preproduction-iteration>)
+
+<a id="freevideo-deltanet-laptop-demo"></a>
+
+### FreeVideo DeltaNet Laptop Demo
+
+[![FreeVideo DeltaNet Laptop Demo — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106148759428341760/img/lHbRlAQo7K53r8Je.jpg>)](<https://x.com/HaochengXiUCB/status/2106149968994291933>)
+
+A FreeVideo demonstration brings H3 with Video DeltaNet to local hardware and advertises an 8GB VRAM, 16GB RAM configuration.
+
+**Model:** MiniMax H3 + Video DeltaNet
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Check the demo’s configuration and supported workflows before benchmarking on your own hardware.
+
+**Shared by:** [Haocheng Xi 🚗 COLM](<https://x.com/HaochengXiUCB>)
+
+[Original post on X](<https://x.com/HaochengXiUCB/status/2106149968994291933>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#freevideo-deltanet-laptop-demo>)
+
+<a id="x2-vae-portrait-4070-workflow"></a>
+
+### X2 VAE Portrait RTX 4070 Workflow
+
+[![X2 VAE Portrait RTX 4070 Workflow — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106152429108740096/img/uDtnZZFbm-F-yneg.jpg>)](<https://x.com/sep_is_heim/status/2106154019949596848>)
+
+An RTX 4070 H3 workflow renders 544×960 and uses X2 VAE to reach 1088×1920, with a reported 83-second five-second clip.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate base generation from VAE upscaling when comparing speed; record the exact output size and frame count.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2106154019949596848>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#x2-vae-portrait-4070-workflow>)
+
+<a id="singularity-fused-refdelta-comparison"></a>
+
+### Singularity and Fused RefDelta Comparison
+
+[![Singularity and Fused RefDelta Comparison — source video preview 1](<https://pbs.twimg.com/amplify_video_thumb/2106155598433939456/img/LfdRE0MRTbnuVsme.jpg>)](<https://x.com/kaimakulink/status/2106156458161352788>)
+
+A local comparison changes only the H3 variant, contrasting Singularity Ref2VA with a fused RefDelta Turbo configuration.
+
+**Model:** MiniMax H3 (Singularity / Fused RefDelta variants)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold references, seed and generation settings constant while comparing motion and character stability across community variants.
+
+**Shared by:** [バスケットマン（基本無課金 多垢100連ガチャ）](<https://x.com/kaimakulink>)
+
+[Original post on X](<https://x.com/kaimakulink/status/2106156458161352788>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#singularity-fused-refdelta-comparison>)
+
+<a id="native-r2v-latent-upscale-workflow"></a>
+
+### Native R2V Latent Upscale Workflow
+
+An H3 R2V workflow update replaces VHS video nodes with native input/output and exposes latent-upscale step control.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Verify native video-node compatibility, then vary latent-upscale steps while keeping the reference clip fixed.
+
+**Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
+
+[Original post on X](<https://x.com/javawock7618/status/2106193685704839567>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#native-r2v-latent-upscale-workflow>)
+
+<a id="joined-scene-color-drift-ae-repair"></a>
+
+### Joined Scene Color Drift AE Repair
+
+[![Joined Scene Color Drift AE Repair — corrected comparison screenshot](<https://pbs.twimg.com/media/HTq3siAaEAAICOu.jpg>)](<https://x.com/fnoji/status/2106198051513937937>)
+
+An After Effects comparison attempts to restore color and tonal range after connecting H3 scenes, showing corrected and untreated frames.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare connected scenes side by side before and after color correction; watch for drift accumulating over successive extensions.
+
+**Shared by:** [えふのじ](<https://x.com/fnoji>)
+
+[Original post on X](<https://x.com/fnoji/status/2106198051513937937>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#joined-scene-color-drift-ae-repair>)
+
+<a id="bridge-retake-between-video-cuts"></a>
+
+### Bridge Retake Between Video Cuts
+
+[![Bridge Retake Between Video Cuts — retake workflow controls](<https://pbs.twimg.com/media/HTq5DQ2aAAAcYa0.png>)](<https://x.com/javawock7618/status/2106199412494250450>)
+
+An H3 Bridge workflow adds retakes alongside generating intermediate cuts and prepending a cut to an existing video.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define the A–B interval to regenerate and inspect the resulting continuity against both surrounding clips.
+
+**Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
+
+[Original post on X](<https://x.com/javawock7618/status/2106199412494250450>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bridge-retake-between-video-cuts>)
+
+<a id="tensorfold-5070-ti-loader-benchmark"></a>
+
+### TensorFold RTX 5070 Ti Loader Benchmark
+
+[![TensorFold RTX 5070 Ti Loader Benchmark — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106213225679507456/img/QQiXVEThmLrknugN.jpg>)](<https://x.com/jayleaton/status/2106213885917491367>)
+
+A Windows RTX 5070 Ti H3 benchmark compares a stock loader, TensorFold, sparse attention, Turbo LoRA and an int8 video VAE.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the 20-step loader-only result separately from the full eight-step Turbo stack; keep resolution, audio and duration fixed.
+
+**Shared by:** [JJ Eaton](<https://x.com/jayleaton>)
+
+[Original post on X](<https://x.com/jayleaton/status/2106213885917491367>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tensorfold-5070-ti-loader-benchmark>)
+
+<a id="imagen4-lightx2v-4070-i2v-recipe"></a>
+
+### Imagen 4 LightX2V RTX 4070 I2V Recipe
+
+A local H3 recipe animates Imagen 4 references at 1024×1024, then upscales and interpolates to 1536×1536 at 60 FPS.
+
+**Model:** MiniMax H3 (LightX2V FL2V Turbo)
+
+#### Local configuration — not a generation prompt · `ja`
+
+```text
+ComfyUI Image-to-Video / I2V
+※起動時に"--fast fp16_accumulation"スイッチ使用
+
+GPU:
+NVIDIA GeForce RTX 4070 12GB
+
+Video Spec:
+1024×1024(1MPixel) / 10秒 / 24FPS
+
+※アップスケール＆フレーム補間処理後
+1536×1536(3MPixel) / 10秒 / 60FPS
+
+Base model:
+minimax_h3_fl2va_pruned_int8_convrot
+
+Text Encoder:
+qwen3vl_32b_minimax_h3_nvfp4_awq
+
+Video VAE:
+minimax_h3_video_vae_int8_convrot
+
+Audio VAE:
+minimax_h3_audio_vae_fp32
+
+Turbo:
+LightX2V H3 FL2V Turbo 8-step v1.0 768p (LoRA)
+MiniMax H3 Mem Eff Sage Attention Patch
+※Steps数は８
+```
+
+#### How to adapt it
+
+Use the published eight-step Turbo configuration as a starting point and evaluate the base 24 FPS render before external upscaling and interpolation.
+
+**Shared by:** [AIconia | アイコニア](<https://x.com/AiPhotorealGirl>)
+
+[Original post on X](<https://x.com/AiPhotorealGirl/status/2106215276878659930>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#imagen4-lightx2v-4070-i2v-recipe>)
 
 ## Suggest a prompt
 
