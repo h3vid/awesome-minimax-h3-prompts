@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **175 verified examples**, with sources reviewed through **2026-10-03**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **194 verified examples**, with sources reviewed through **2026-10-04**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (27)
-- [Storyboards & sequences](<#category-storyboard>) (26)
-- [Anime & animation](<#category-anime-animation>) (11)
-- [References & consistency](<#category-reference-character>) (24)
-- [Music videos & dance](<#category-music-dance>) (21)
+- [Cinematic & camera](<#category-cinematic-camera>) (29)
+- [Storyboards & sequences](<#category-storyboard>) (29)
+- [Anime & animation](<#category-anime-animation>) (12)
+- [References & consistency](<#category-reference-character>) (26)
+- [Music videos & dance](<#category-music-dance>) (24)
 - [Dialogue & audio](<#category-dialogue-audio>) (16)
-- [Motion graphics & titles](<#category-motion-graphics>) (12)
-- [ComfyUI & workflows](<#category-workflows>) (38)
+- [Motion graphics & titles](<#category-motion-graphics>) (13)
+- [ComfyUI & workflows](<#category-workflows>) (45)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1095,6 +1095,92 @@ Prepare a consistent vehicle image and inspect body shape, road continuity and c
 
 [Original post on X](<https://x.com/minaxlab/status/2106204831362744681>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pagani-highway-image-video-promo>)
 
+<a id="line-art-360-orbit-lora"></a>
+
+### Line Art 360 Orbit LoRA
+
+[![Line Art 360 Orbit LoRA — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106544939052171264/img/e-KLojQH1ibtr6Y5.jpg>)](<https://x.com/shamimatsu/status/2106545212550271217>)
+
+A 360 Orbit LoRA test rotates an unshaded line-art character while retaining drawing asymmetry.
+
+**Model:** MiniMax H3 (360 Orbit LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use an unshaded drawing to test inferred volume and check whether recognizable asymmetry survives the rotation.
+
+**Shared by:** [三味松](<https://x.com/shamimatsu>)
+
+[Original post on X](<https://x.com/shamimatsu/status/2106545212550271217>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#line-art-360-orbit-lora>)
+
+<a id="5070-rooftop-biomechanical-transformation"></a>
+
+### RTX 5070 Rooftop Biomechanical Transformation
+
+[![RTX 5070 Hybrid Awakening Scene — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106574227784466432/img/vkDfZUKcurUdOdvw.jpg>)](<https://x.com/Tomw852/status/2106575030641463391>)
+
+A single-take rooftop transformation brief coordinates eyepatch smoke, head-to-foot armor changes and Japanese dialogue.
+
+**Model:** MiniMax H3 (DaSiWa Hybrid V2 INT8)
+
+```text
+prompt:
+r34l1sm
+subject_definitions:
+<Subject 1> is the same character throughout the transformation. <Picture 1> defines her blonde hair, pointed elf ears, black eyepatch covering her anatomical left eye, dark navy jacket with black sleeves, black gloves, fitted black armored trousers, and combat boots. Adapt her face toward a natural East Asian appearance: a gentle oval contour, softly defined cheekbones, almond-shaped eyes with subtle eyelid creases, a moderately low nasal bridge, and a softly rounded nose tip. Preserve individual facial proportions and natural skin texture.
+
+<Picture 2> defines her completed form from head to feet: ivory-gray biomechanical armor, a broad angular skull-like helmet, rib-shaped chest plates, dark organic structures between perforated plates, articulated clawed hands, armored thighs and shins, segmented ankles, and elongated armored feet with distinct clawed toes. Use both images for appearance only; exclude their white backgrounds, multiple views, and portrait panels.
+
+summary:
+[reference generation] A 15-second Hollywood science-fiction transformation in one uninterrupted shot. <Subject 1> stands at the outermost edge of a skyscraper beneath heavy daytime storm clouds, facing outward toward the street throughout. The camera moves from an elevated rear view into a facial close-up, then tracks downward following the transformation from head to feet. A blue magic circle on her eyepatch continuously releases black smoke and luminous blue particles until her entire body transforms into the form from <Picture 2>. She finishes in a natural deep crouch, both hands grounded between her legs, looking straight ahead over the street.
+
+retention_analysis:
+<Subject 1> (throughout [Shot 1]): partially_preserved — preserve the initial hairstyle, ears, eyepatch, clothing, and proportions from <Picture 1>, adapting her face toward the East Asian appearance defined above. Maintain that face until the helmet encloses it. Transform every region, including both boots, into the complete design from <Picture 2>. Preserve rooftop geography, supported foot contact, and the same outward facing direction throughout.
+
+detailed_description:
+Hollywood feature-film science fiction with photorealistic materials, precise camera choreography, deep directional shadows, and layered volumetric smoke. Daytime beneath dense gray storm clouds, with readable buildings and streets. Use explicitly positioned directional daylight and rooftop practical lights. No world light, ambient dome illumination, or uniform environmental fill.
+
+[Shot 1] One uninterrupted 15-second take with a consistent 35mm cinema-lens perspective. Her feet, pelvis, chest, and head remain oriented outward toward the street beyond the rooftop edge throughout. Only the camera changes position; she never rotates to follow it or faces the rooftop interior.
+
+During approximately zero to three seconds, begin above and behind <Subject 1>'s right shoulder, looking steeply down past her boots toward the street. Both feet stand fully supported at the concrete rooftop's outermost edge, toes aligned with its exterior boundary. No railing separates her from the drop.
+
+Smoothly descend and arc around her right side into open air above the street, arriving in a tight frontal three-quarter facial close-up looking back toward her, with the rooftop behind her. Directional daylight through a cloud opening defines her hair; a maintenance fixture provides neutral-white side light, and an aircraft-warning fixture adds a faint red rim. Keep these sources fixed. Intense blue light builds beneath her opaque eyepatch, illuminating adjacent skin. Her uncovered eye remains unchanged.
+
+During approximately three to five seconds, <Subject 1> (S1), with a calm, low female voice, says, <d>[Japanese] もう、眠らなくていい。</d> Speak softly and deliberately, briefly pausing after “もう,” with synchronized lips, relaxed shoulders, and a steady forward gaze.
+
+As the line ends, a blue magic circle inscribes concentric rings, geometric lines, and tiny arcane glyphs directly onto the eyepatch's curved surface, contained within its boundary. Dense black smoke interwoven with luminous blue particles continuously pours from beneath its edges. Particles illuminate curling turbulence from within before drifting outward.
+
+During approximately five to seven seconds, physically descend and gently tilt downward, following the smoke through her neck, shoulders, and chest. Biomechanical structures emerge and rib-shaped plates interlock. Gaps keep the changing surfaces visible.
+
+During approximately seven to nine seconds, continue across her abdomen, hands, hips, and thighs. Clothing dissolves, gloves disappear, fingers extend into articulated claws, and ivory-gray armor forms over dark organic structures.
+
+During approximately nine to eleven seconds, track down both knees, shins, ankles, and feet. Clearly show both boots disintegrating completely: shafts, laces, toe caps, heels, and rubber soles disappear. Segmented ankle armor connects into elongated clawed feet matching <Picture 2>. Both feet remain supported on the same concrete area, with toes still pointing outward toward the street.
+
+The eyepatch continuously emits throughout this downward movement, including when above the frame. The helmet forms around her head while leaving the emitting eyepatch exposed until every other region is complete.
+
+During approximately eleven to twelve seconds, smoothly retreat and tilt upward into a full-body composition. Reveal the final helmet plates enclosing the eyepatch, completing the transformation and stopping emission.
+
+During approximately twelve to fifteen seconds, she naturally lowers into a deep crouch without changing her facing direction. Her hips shift slightly backward for balance, knees bend and open in line with her feet, and her torso inclines forward. Both arms relax between her thighs. Clawed fingertips contact the concrete first, followed by palms taking part of her weight between her feet, fully inside the rooftop boundary. Elbows remain softly bent.
+
+Gently decelerate into a stable four-point stance with a subtle final balance adjustment. Keep both grounded hands and transformed feet visible. Her chest remains directed toward the street; her helmet stays raised and her gaze fixed straight ahead toward the distant city at eye level. Residual smoke disperses only after transformation is complete, and blue particles fade. No cuts, flashes, camera jumps, or full-frame smoke concealment.
+
+overall_soundscape:
+Rooftop wind, distant traffic, and low thunder persist. Wind and electrical hum soften beneath the Japanese dialogue. The magic circle sustains a fine resonance throughout emission, accompanied by smoke hissing, particle crackling, armor scraping, and locking clicks. Subtle joint sounds and fingertip-to-palm contact accompany the natural descent into the crouch.
+
+non_diegetic_music:
+A low sustained synthesizer tone rises during transformation, remaining quiet beneath dialogue. One deep percussion impact accompanies the completed helmet, followed by a fading low resonance beneath the final grounded stance.
+```
+
+#### How to adapt it
+
+Replace the two character references while preserving the fixed rooftop orientation, descending camera path and timed transformation order.
+
+**Shared by:** [Tom𝕎](<https://x.com/Tomw852>)
+
+[Original post on X](<https://x.com/Tomw852/status/2106575030641463391>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5070-rooftop-biomechanical-transformation>)
+
 <a id="category-storyboard"></a>
 
 ## MiniMax H3 Storyboard & Multi-Shot Prompts
@@ -2046,6 +2132,75 @@ Center a short everyday scene on one understandable problem and inspect characte
 
 [Original post on X](<https://x.com/TK2Works/status/2106200840130466260>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#taomate-internet-disconnect-short>)
 
+<a id="alexa-grey-storyboard-heist-trailer"></a>
+
+### Alexa Grey Storyboard Heist Trailer
+
+[![Alexa Grey Storyboard Heist Trailer — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104521553291382784/img/DfynmM4OmCCzLykH.jpg>)](<https://x.com/MonetizationDon/status/2104522096931951099>)
+
+An AI-avatar heist trailer combines storyboard references, action, dialogue and in-video title direction.
+
+**Model:** MiniMax H3
+
+#### Published title direction — excerpt, not the full prompt · `en`
+
+```text
+ONE HOTEL.
+ONE HEIST.
+NO WAY IN.
+NO WAY OUT.
+
+AGENT ALEXA GREY — SHADOWS NEVER DIE.
+```
+
+#### How to adapt it
+
+Define character, story and storyboard before timing the trailer title cards and dialogue beats.
+
+**Shared by:** [LAPTOP LIFESTYLE BLOGGER](<https://x.com/MonetizationDon>)
+
+[Original post on X](<https://x.com/MonetizationDon/status/2104522096931951099>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#alexa-grey-storyboard-heist-trailer>)
+
+<a id="r2v-narrated-picture-book"></a>
+
+### R2V Narrated Picture Book
+
+[![R2V Narrated Picture Book — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105654437457141760/img/Qnv-IL_Ad4XzBBLJ.jpg>)](<https://x.com/sash02jp/status/2105654673114046729>)
+
+A picture-book film uses H3 R2V pages and narration, latent enlargement, Python page turns and ffmpeg assembly.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate consistent page scenes and narration first, then add page-turn transitions and music in post-production.
+
+**Shared by:** [さっしゅ](<https://x.com/sash02jp>)
+
+[Original post on X](<https://x.com/sash02jp/status/2105654673114046729>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#r2v-narrated-picture-book>)
+
+<a id="new-hire-boss-entrance-comedy"></a>
+
+### New Hire Boss Entrance Comedy
+
+[![New Hire Boss Entrance Comedy — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106551251173539840/img/Cdv9rR109nbB2SuN.jpg>)](<https://x.com/bububuXdayo/status/2106551278243631196>)
+
+A fictional workplace sketch turns GPT character panels into H3 scenes and finishes the sequence with FlashVSR.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan the introduction and exaggerated entrance in reference panels, then edit the generated scenes around the comic reveal.
+
+**Shared by:** [bububu](<https://x.com/bububuXdayo>)
+
+[Original post on X](<https://x.com/bububuXdayo/status/2106551278243631196>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#new-hire-boss-entrance-comedy>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -2377,6 +2532,26 @@ Maintain character identity and relationship stakes when moving from action to a
 **Shared by:** [ジャスミーナ | AI Anime & Illustrations✨](<https://x.com/JasminaAi>)
 
 [Original post on X](<https://x.com/JasminaAi/status/2106166841013878853>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#jasmina-defeat-anime-dialogue>)
+
+<a id="shion-moonlit-birthday-film"></a>
+
+### Shion Moonlit Birthday Fan Film
+
+[![Shion Moonlit Birthday Fan Film — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2104302646249349120/img/90369Js4nndlQFAL.jpg>)](<https://x.com/CANINGUM/status/2104302683763126600>)
+
+A moonlit birthday scene combines H3 Max fan-art animation with Codex and ElevenLabs audio.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the character reference and moonlight direction consistent; handle external voice production as a separate stage.
+
+**Shared by:** [CANINGUM（カニンガム）](<https://x.com/CANINGUM>)
+
+[Original post on X](<https://x.com/CANINGUM/status/2104302683763126600>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#shion-moonlit-birthday-film>)
 
 <a id="category-reference-character"></a>
 
@@ -2926,6 +3101,59 @@ Keep reference artwork consistent across the image, animation and editing stages
 
 [Original post on X](<https://x.com/hinemos99667732/status/2106209874442862939>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fan-art-mixed-tool-animation>)
 
+<a id="finger-counting-logic-test"></a>
+
+### Finger Counting Logic Test
+
+[![Finger Counting Logic Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105556861307256832/img/_wGLN88vAg_yW9xo.jpg>)](<https://x.com/ModengSir/status/2105557639199637974>)
+
+A short H3 test checks whether spoken counting and raised fingers remain logically aligned.
+
+**Model:** MiniMax H3
+
+#### Reference and video prompt · `zh`
+
+```text
+提示词：
+参考图：年轻东亚长发女生，身处地铁车厢内，靠在地铁金属扶手旁，深灰色短袖上衣，黑色细手环，背着黑色背包，电影感柔和侧光，写实人像，胶片质感，画面干净，真实照片质感。
+视频动作指令：女生站在原地，面向镜头，**缓慢用单手手指依次用英语从 1 数到 5**：
+1：伸出 1 根手指
+2：伸出 2 根手指
+3：伸出 3 根手指
+4：伸出 4 根手指
+5：伸出 5 根张开的手掌
+动作连贯流畅，手部细节清晰，手指形态正常不扭曲，人物面部五官全程保持不变，人物身体位置不漂移，背景地铁环境保持稳定，镜头固定不动，不运镜。
+风格：写实短视频，电影柔和光影，原图色调，真实人像，无卡通渲染，无变形。
+```
+
+#### How to adapt it
+
+Check each spoken number against the visible hand pose and compare models using the same reference and instructions.
+
+**Shared by:** [Modengsir AI](<https://x.com/ModengSir>)
+
+[Original post on X](<https://x.com/ModengSir/status/2105557639199637974>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#finger-counting-logic-test>)
+
+<a id="h3-max-subsecond-reference-test"></a>
+
+### H3 Max Subsecond Reference Test
+
+[![H3 Max Subsecond Reference Test — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106463121128685568/img/yG8qnBM0iHtr967K.jpg>)](<https://x.com/myothercoolname/status/2106463276682956957>)
+
+An author demonstrates a 0.928-second H3 Max reference-to-video clip using fal demo characters.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Evaluate a short reference clip frame by frame; retain the source as evidence of this particular output duration.
+
+**Shared by:** [adrián](<https://x.com/myothercoolname>)
+
+[Original post on X](<https://x.com/myothercoolname/status/2106463276682956957>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-subsecond-reference-test>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -3408,6 +3636,62 @@ Keep lyric typography as a separate edit layer and align it with story beats in 
 **Shared by:** [－TAKATO－AI\_room](<https://x.com/ai_nontan_room>)
 
 [Original post on X](<https://x.com/ai_nontan_room/status/2106180002111012882>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#jizura-lyric-typography-mv>)
+
+<a id="flova-codex-lyric-motion-mv"></a>
+
+### Flova and Codex Lyric Motion MV
+
+A lyric-motion music video combines TuneeAI music, Flova H3 visuals and Codex typography animation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate the music, generated visual backgrounds and lyric-motion layer, then align them on a common timeline.
+
+**Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original post on X](<https://x.com/Naonekozamurai/status/2106505230997495983>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flova-codex-lyric-motion-mv>)
+
+<a id="hoshikaze-runa-game-commentary-mv"></a>
+
+### Hoshikaze Runa Game Commentary MV
+
+A local H3 music-video project presents a lip-syncing VTuber avatar as a horror-game commentator.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Coordinate the avatar performance, game framing and music on a shared timeline while checking voice-to-mouth synchronization.
+
+**Shared by:** [taiti](<https://x.com/taitimusic>)
+
+[Original post on X](<https://x.com/taitimusic/status/2106553216058159328>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hoshikaze-runa-game-commentary-mv>)
+
+<a id="sixteen-pose-sheet-campus-dance"></a>
+
+### Sixteen Pose Sheet Campus Dance
+
+[![Sixteen Pose Sheet Campus Dance — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106576473855512578/img/wyR-QEzWIUE5mnvw.jpg>)](<https://x.com/ito_jo/status/2106578022379946098>)
+
+A campus character dance uses a sixteen-panel pose sheet made with ChatGPT Astra and H3 operated through Opus.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Lay out the dance poses in clear order and keep character identity and scale consistent across all sixteen panels.
+
+**Shared by:** [いとじょ](<https://x.com/ito_jo>)
+
+[Original post on X](<https://x.com/ito_jo/status/2106578022379946098>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sixteen-pose-sheet-campus-dance>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -4857,6 +5141,26 @@ Replace the idea labels while preserving the six 2.5-second beats, traffic metap
 
 [Original post on X](<https://x.com/su_nagomi/status/2103959566371451271>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#idea-traffic-pop-art-typography>)
 
+<a id="dmad-typography-study"></a>
+
+### DMAD Typography Study
+
+[![DMAD Typography Study — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106578523842551808/img/U9k3KLkcusaRkT7U.jpg>)](<https://x.com/ITOKtw/status/2106578538040303937>)
+
+A ten-second typography study demonstrates MiniMax H3 with a DMAD adapter.
+
+**Model:** MiniMax H3 (DMAD)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the intended lettering and motion brief short, then inspect legibility and frame-to-frame stability before adding complexity.
+
+**Shared by:** [ITOK](<https://x.com/ITOKtw>)
+
+[Original post on X](<https://x.com/ITOKtw/status/2106578538040303937>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dmad-typography-study>)
+
 <a id="category-workflows"></a>
 
 ## MiniMax H3 ComfyUI & Local Workflow Examples
@@ -5661,6 +5965,188 @@ Use the published eight-step Turbo configuration as a starting point and evaluat
 **Shared by:** [AIconia | アイコニア](<https://x.com/AiPhotorealGirl>)
 
 [Original post on X](<https://x.com/AiPhotorealGirl/status/2106215276878659930>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#imagen4-lightx2v-4070-i2v-recipe>)
+
+<a id="prerendered-aituber-stage"></a>
+
+### Prerendered AITuber Stage
+
+[![Prerendered AITuber Stage — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105120813469114368/img/GkRTZOoFVt6dgm-v.jpg>)](<https://x.com/ivy432hz/status/2105121583669055749>)
+
+An AITuber prototype combines a coded 3D stage, prepared H3 clips, GPT Image 2 artwork and Irodori TTS.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare reusable character clips and camera views, then coordinate them with a stage interface and external TTS.
+
+**Shared by:** [あいびぃ](<https://x.com/ivy432hz>)
+
+[Original post on X](<https://x.com/ivy432hz/status/2105121583669055749>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#prerendered-aituber-stage>)
+
+<a id="pdmd-5090-realtime-tradeoffs"></a>
+
+### PDMD RTX 5090 Real-Time Tradeoffs
+
+[![PDMD RTX 5090 Real-Time Tradeoffs — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2105931705521684480/img/U-imfNr29fvtjEHl.jpg>)](<https://x.com/yu_ichi_suzuki/status/2105931743324950800>)
+
+A two-step H3 experiment trades resolution, frame rate and stability for continuous generation on one RTX 5090.
+
+**Model:** MiniMax H3 (PDMD 2-step LoRA)
+
+#### Local FL2V configuration — not a generation prompt · `ja`
+
+```text
+やり方はこんな感じです。
+
+RTX 5090単体で、同じ画像から始まり、同じ画像へ戻るFL2Vを繰り返しています。
+
+■ 生成設定
+・MiniMax H3 FL2VA pruned INT8 ConvRot
+・PDMD 2step LoRAのKijai氏変換版、強度1.0
+・Euler／simple、2steps
+・video shift 12／audio shift 3
+・Kitchen Attention
+・320×576、311フレーム、20fps＝15.55秒
+・音声もH3自身で生成
+
+■ 同じ画像の処理を繰り返さない
+
+参照画像は生成サイズに合わせて用意し、画像VAEで一度だけlatentへ変換。その画像latentを保存して、毎回の先頭・末尾に指定しています。
+
+さらに、Qwenが参照画像から抽出する画像特徴もキャッシュして使い回します。
+
+ただし、文章側の条件づけは毎回計算します。動作や台詞が変わるため、プロンプト全体をキャッシュしているわけではありません。
+
+前の動画の末尾latentや音声latentを引き継ぐ方式でもありません。各動画は共通の参照画像から生成します。
+
+■ デコードを軽くする
+
+映像はLynnReal light VAEのINT8 ConvRot版でデコード。音声は通常のFP32音声VAEでデコードしています。
+
+■ 保存を次の生成と重ねる
+
+PNG連番を作らず、デコードした映像を直接MP4へ保存します。速度優先なのでRGB8→H.264、4:2:0、CRF24、ultrafast。音声はAACです。
+
+保存処理はCPU側で非同期に進め、その完了を待たずに次のGPU生成を始めます。
+
+1本の生成→保存は平均14.72秒。
+
+とにかくモデル切替に毎回時間がかかるので、条件づけを別GPUで先に準備すれば時間短縮できますが、今回は5090単体での生成にこだわってみました。
+
+PDMD 2step LoRA（Kijai氏の変換版）
+https://t.co/wYlYCsLr9H
+```
+
+#### How to adapt it
+
+Cache the shared start/end image latent and Qwen image features, recompute text conditioning per clip, and overlap CPU encoding with the next GPU generation. Each clip returns to the same image; previous clip latents are not carried over.
+
+**Shared by:** [鈴木憂一 | Highdrama](<https://x.com/yu_ichi_suzuki>)
+
+[Original post on X](<https://x.com/yu_ichi_suzuki/status/2105931743324950800>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pdmd-5090-realtime-tradeoffs>)
+
+<a id="dizzy-longshot-study"></a>
+
+### Dizzy LongShot Study
+
+[![Dizzy LongShot Study — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106521789308497920/img/vcm0rSTn0MsByo0T.jpg>)](<https://x.com/baharezo/status/2106521935010214044>)
+
+An author shares a 112-second character study identified as a MiniMax H3 LongShot experiment.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Inspect character and background continuity across the extended sequence before adapting the LongShot workflow.
+
+**Shared by:** [🦠🦠☠️Rezo☠️🦠🦠](<https://x.com/baharezo>)
+
+[Original post on X](<https://x.com/baharezo/status/2106521935010214044>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dizzy-longshot-study>)
+
+<a id="4070-int8-x2-parallel-decode"></a>
+
+### RTX 4070 INT8 X2 Parallel Decode
+
+[![RTX 4070 INT8 X2 Parallel Decode — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106531406352658432/img/jgfE96aKAhv99i4_.jpg>)](<https://x.com/sep_is_heim/status/2106531484836495544>)
+
+An updated H3 workflow combines partial INT8 X2 VAE, parallel decode/NVENC and RTX 4070 FFN tuning.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep frame count and base resolution fixed while comparing partial quantization, parallel encoding and FFN settings individually.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2106531484836495544>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4070-int8-x2-parallel-decode>)
+
+<a id="ltx-sdr-hdr-h3-postprocessing"></a>
+
+### LTX SDR to HDR H3 Postprocessing
+
+[![LTX SDR to HDR H3 Postprocessing — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106535958116208640/img/kjAmn6esV5bsTyM6.jpg>)](<https://x.com/fnoji/status/2106536329572163868>)
+
+An H3 clip is processed through LTX 2.5 SDR-to-HDR, with author-reported reduction in noise and flicker.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the original and processed clip for flicker, texture preservation and HDR playback on a compatible display.
+
+**Shared by:** [えふのじ](<https://x.com/fnoji>)
+
+[Original post on X](<https://x.com/fnoji/status/2106536329572163868>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ltx-sdr-hdr-h3-postprocessing>)
+
+<a id="minimaxdesign-zip-batch-speech"></a>
+
+### MiniMaxDesign ZIP Batch Speech
+
+[![MiniMaxDesign ZIP Batch Speech — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106562874693005313/img/YUaJctjWMPSdGJAD.jpg>)](<https://x.com/_3912657840/status/2106563305951338994>)
+
+A creator packages images and Suno speech into a ZIP for agent-driven H3 clips, then adds captions and editing with Codex.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Package each reference image with its audio and prompt, generate the clips as a batch, and handle final caption timing in editing.
+
+**Shared by:** [角煮星丸](<https://x.com/_3912657840>)
+
+[Original post on X](<https://x.com/_3912657840/status/2106563305951338994>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#minimaxdesign-zip-batch-speech>)
+
+<a id="dmad-4-8-12-base-comparison"></a>
+
+### DMAD Four Eight Twelve Step Comparison
+
+[![DMAD Four Eight Twelve Step Comparison — source video preview](<https://pbs.twimg.com/amplify_video_thumb/2106571015891673088/img/I-G3XKYVw9KCEwq-.jpg>)](<https://x.com/DeepForest_Inc/status/2106573173185802265>)
+
+A four-panel H3 comparison contrasts DMAD at 4, 8 and 12 steps with a 25-step base render at 768×1376.
+
+**Model:** MiniMax H3 (ComfyUI DMAD LoRA)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare matching scenes at four, eight and twelve steps against the base model, weighing detail loss against total runtime.
+
+**Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
+
+[Original post on X](<https://x.com/DeepForest_Inc/status/2106573173185802265>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dmad-4-8-12-base-comparison>)
 
 ## Suggest a prompt
 
