@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **194 verified examples**, with sources reviewed through **2026-10-04**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **231 verified examples**, with sources reviewed through **2026-10-05**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (29)
-- [Storyboards & sequences](<#category-storyboard>) (29)
-- [Anime & animation](<#category-anime-animation>) (12)
-- [References & consistency](<#category-reference-character>) (26)
-- [Music videos & dance](<#category-music-dance>) (24)
-- [Dialogue & audio](<#category-dialogue-audio>) (16)
+- [Cinematic & camera](<#category-cinematic-camera>) (40)
+- [Storyboards & sequences](<#category-storyboard>) (36)
+- [Anime & animation](<#category-anime-animation>) (17)
+- [References & consistency](<#category-reference-character>) (29)
+- [Music videos & dance](<#category-music-dance>) (27)
+- [Dialogue & audio](<#category-dialogue-audio>) (18)
 - [Motion graphics & titles](<#category-motion-graphics>) (13)
-- [ComfyUI & workflows](<#category-workflows>) (45)
+- [ComfyUI & workflows](<#category-workflows>) (51)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1181,6 +1181,315 @@ Replace the two character references while preserving the fixed rooftop orientat
 
 [Original post on X](<https://x.com/Tomw852/status/2106575030641463391>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5070-rooftop-biomechanical-transformation>)
 
+<a id="shaved-ice-miniature-ski-slope"></a>
+
+### Shaved Ice Miniature Ski Slope
+
+[![Shaved Ice Miniature Ski Slope video preview](<https://pbs.twimg.com/amplify_video_thumb/2105652236256751616/img/AxnivPaSC6k-x9S-.jpg>)](<https://x.com/GlennHasABeard/status/2105652270608142409>)
+
+A locked camera follows shaved ice falling onto a tiny ski slope, with a separate airborne return stroke.
+
+**Model:** MiniMax H3
+
+#### Published prompt excerpt · `en`
+
+```text
+the fine shaved ice that falls off the far side lands as fresh snow on a tiny ski slope below
+```
+
+#### How to adapt it
+
+Keep the cutting stroke and return stroke distinct, and specify where the shavings land.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2105652270608142409>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#shaved-ice-miniature-ski-slope>)
+
+<a id="smokes-worth-of-time-closeup"></a>
+
+### A Smoke’s Worth of Time Close-Up
+
+[![A Smoke’s Worth of Time Close-Up video preview](<https://pbs.twimg.com/amplify_video_thumb/2106218346525986816/img/bvvP2P3ARSMPOlC-.jpg>)](<https://x.com/Tomw852/status/2106218934672212302>)
+
+A continuous handheld facial close-up builds restrained emotion using practical lights, smoke and minute gaze changes.
+
+**Model:** MiniMax H3
+
+```text
+r34l1sm
+subject_definitions:
+<Subject 1> is the adult man from ​@Image1​, preserving his facial structure, tousled black hair, natural skin texture, cream shirt, and dark checked waistcoat.
+<Subject 2> is the photographic treatment and smoking detail from ​@Image2​: muted blue-green shadows, restrained warm background bokeh, fine film grain, intimate facial detail, and a single lit cigarette.
+
+summary:
+[reference generation] A 15-second live-action observational handheld vlog shot, filmed as one uninterrupted facial close-up with a cinematic 35mm prime-lens perspective. <Subject 1> quietly smokes as a restrained emotional reaction develops across his face. He remains unaware of the camera.
+
+retention_analysis:
+<Subject 1> (appears throughout [Shot 1]): fully_preserved - Preserve his identity, facial proportions, hairstyle, skin details, and visible clothing.
+<Subject 2> (applies throughout [Shot 1]): partially_preserved - Preserve the intimate facial framing, subdued palette, grain, and cigarette. Replace sunset illumination with physically located practical lamps.
+
+detailed_description:
+Live-action cinematic handheld vlog footage with fine film grain and visible pores, faint blemishes, and natural under-eye texture. Use a fixed 35mm prime-lens perspective. Keep the face naturally proportioned near the centre of the frame. Camera breathing comes from subtle operator sway, without zooming or exaggerated focus pumping.
+
+[Shot 1] One continuous 15-second take beside an open rooftop stairwell. Frame <Subject 1> tightly from just above his eyebrows to beneath his chin, with portions of his hair and shirt collar entering the edges. Observe his left-facing three-quarter profile from slightly to his right. Keep both eyes, his mouth, and the tension in his jaw clearly readable. The rooftop background falls softly out of focus.
+
+A cool fluorescent tube inside the stairwell, positioned to camera-right, provides the only nearby facial illumination. A distant amber streetlamp forms a small blurred background point. Let the far side of his face remain in subdued shadow. No world light, environment fill, skylight, sunlight, invisible beauty light, or artificial rim light.
+
+At first, the lit cigarette rests between his lips. He looks beyond frame-left with a guarded expression, his jaw lightly set. After a small inhalation, his eyes shift toward a lower point outside the frame, as though something there has caught his attention. His gaze stops moving. His lower eyelids tighten slightly, and his breathing pauses for a brief moment.
+
+He removes the cigarette with his right hand, bringing his fingers briefly into the lower edge of the close-up. As he exhales, the tension in his mouth loosens. His lips part faintly, as if he might say something, but he remains silent. A small inward movement of his brows and a subtle tightening of his lower lip reveal hurt beneath his composure. His eyes become slightly moist without producing a falling tear. Thin smoke passes toward frame-left, leaving his expression readable.
+
+Toward the end, he blinks slowly and lowers his chin a little. His lips press together gently; his jaw settles as he gathers himself. The emotional strain remains visible around his eyes even after his mouth becomes still. End on this held, unresolved expression, with quiet breathing and a small movement of the nostrils.
+
+The camera maintains low-amplitude, irregular handheld sway throughout, gently responding to his minute head movements. As his chin lowers, make a small, slow downward adjustment while keeping his eyes and mouth inside the facial close-up. Maintain continuous focus on his eyes. No cuts, hidden transitions, sudden reframing, zooms, or dramatic camera moves. He never looks into the lens, acknowledges the operator, poses, or reacts to being filmed.
+
+overall_soundscape:
+Quiet breathing, a soft exhalation, faint sleeve rustling, distant traffic, and a subdued fluorescent hum. No dialogue, narration, singing, or music from any source.
+
+non_diegetic_music:
+N/A
+```
+
+#### How to adapt it
+
+Replace the identity and lighting references while keeping the small emotional beats, eye focus and quiet soundscape.
+
+**Shared by:** [Tom𝕎](<https://x.com/Tomw852>)
+
+[Original post on X](<https://x.com/Tomw852/status/2106218934672212302>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#smokes-worth-of-time-closeup>)
+
+<a id="supersonic-global-chase"></a>
+
+### Supersonic Global Chase
+
+[![Supersonic Global Chase video preview](<https://pbs.twimg.com/amplify_video_thumb/2106346543926439936/img/8JKQhS2naZzOiYjy.jpg>)](<https://x.com/FutureVibesAi/status/2106346589124231352>)
+
+A chase camera tracks one identity across city, ocean, mountains and desert, using environmental wakes to convey speed.
+
+**Model:** MiniMax H3
+
+```text
+Use my exact face reference. Keep face, hair, body, outfit and identity perfectly consistent. She flies naturally at extreme speed while hair/clothes react realistically to airflow. Aggressive chase camera, realistic physics, motion blur and environmental reactions.
+
+0–3s — JAKARTA: Camera races inches above a busy Jakarta highway. She suddenly drops into frame, flying 2–3m above the road parallel to traffic. Camera pulls beside her; she looks over with a confident smirk, then BOOM — violently accelerates, blasting dust, paper and debris backward with a pressure wave.
+
+3–6s — OCEAN: Seamlessly leave the city for a tropical coastline. She flies barely 1m above the ocean; her pressure wake tears across the water, creating explosive spray. She banks tightly around a rocky island while the camera struggles to follow.
+
+6–9s — MOUNTAINS: She rockets into a massive mountain valley, skimming cliffs and tearing through clouds. Snow blasts from the ridge beneath her. Brief dramatic side-profile shot before she suddenly dives.
+
+9–12s — DESERT: She dives over huge desert dunes at extreme speed. Her wake carves through loose sand, creating a giant rolling sand plume. She twists between two rock formations; the camera narrowly follows.
+
+12–15s — NIGHT MEGACITY: She rockets between illuminated skyscrapers. She looks back at the chasing camera with a mischievous smile, then BOOM — second sonic acceleration. A huge pressure wave shakes the camera as she shoots upward, becomes a tiny silhouette and disappears into the clouds.
+
+Make everything feel like one continuous impossible journey: Jakarta → coastline → ocean → mountains → desert → night megacity. Hide transitions naturally through buildings, cliffs, clouds and rock formations. No portals, teleportation, face/outfit changes, glowing aura or unnatural body movement. Speed is shown through water spray, clouds, snow, sand, debris, airflow and camera shake.
+
+FEEL: The camera is chasing the fastest human alive across the planet and has absolutely no chance of catching her.
+```
+
+#### How to adapt it
+
+Replace the identity reference and route; motivate each hidden transition with scenery and show speed through physical reactions.
+
+**Shared by:** [Future Vibes AI - Testing & Educating](<https://x.com/FutureVibesAi>)
+
+[Original post on X](<https://x.com/FutureVibesAi/status/2106346589124231352>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#supersonic-global-chase>)
+
+<a id="paper-fish-school-jar"></a>
+
+### Paper Fish School from a Jar
+
+[![Paper Fish School from a Jar video preview](<https://pbs.twimg.com/amplify_video_thumb/2106461969221918720/img/smrWWjNkqkOU40Nq.jpg>)](<https://x.com/GlennHasABeard/status/2106462029779288376>)
+
+A school of folded paper fish escapes a treat jar, using grouped motion and approximate quantity instead of a hard count.
+
+**Model:** MiniMax H3
+
+#### Published prompt excerpt · `en`
+
+```text
+a small school of folded paper fish swims out of it and circles the kitchen
+```
+
+#### How to adapt it
+
+Describe the fish as one coordinated school and specify a shared path rather than counting every moving object.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2106462029779288376>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#paper-fish-school-jar>)
+
+<a id="one-rule-reality-restoration"></a>
+
+### One Rule Reality Restoration
+
+[![One Rule Reality Restoration video preview](<https://pbs.twimg.com/amplify_video_thumb/2106684921150369792/img/Da0mkCcBptl6nuZR.jpg>)](<https://x.com/AITalesNBH/status/2106684962657456544>)
+
+A surreal click breaks and restores reality in a H3 video built from a GOT Image 2.5 image.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose one impossible cause and keep the surrounding world consistent so the transformation and restoration read clearly.
+
+**Shared by:** [AI Tales - Not by Humans](<https://x.com/AITalesNBH>)
+
+[Original post on X](<https://x.com/AITalesNBH/status/2106684962657456544>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#one-rule-reality-restoration>)
+
+<a id="black-mirror-final-reflection"></a>
+
+### Black Mirror Final Reflection
+
+[![Black Mirror Final Reflection video preview](<https://pbs.twimg.com/amplify_video_thumb/2106698736999243776/img/71aw1M5VX2We3-xv.jpg>)](<https://x.com/itxsarmadd/status/2106698801604186579>)
+
+A timed fifteen-second duel uses liquid mirrors, independent reflections and fragment choreography in a white void.
+
+**Model:** MiniMax H3
+
+```text
+MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+“BLACK MIRROR: FINAL REFLECTION”
+16:9 widescreen, premium dark-fantasy fashion-action.
+
+Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency
+```
+
+#### How to adapt it
+
+Replace the two fighter designs while retaining the three-second action beats, mirror rules and final collision.
+
+**Shared by:** [Sarmad Tahir](<https://x.com/itxsarmadd>)
+
+[Original post on X](<https://x.com/itxsarmadd/status/2106698801604186579>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#black-mirror-final-reflection>)
+
+<a id="amber-lace-pour-path"></a>
+
+### Amber Lace Pour Path
+
+[![Amber Lace Pour Path video preview](<https://pbs.twimg.com/amplify_video_thumb/2106751532376997889/img/bSqaMjl-cpD44nS8.jpg>)](<https://x.com/GlennHasABeard/status/2106751587121062213>)
+
+A single-direction pour cools into amber lace, aligning the pitcher motion with the growing pattern.
+
+**Model:** MiniMax H3
+
+#### Published prompt excerpt · `en`
+
+```text
+it cools into a lacy amber pattern like frost on a window
+```
+
+#### How to adapt it
+
+Make the pouring direction and growth direction agree; keep the camera locked so the pattern remains readable.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2106751587121062213>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#amber-lace-pour-path>)
+
+<a id="machgen-thirty-second-story-test"></a>
+
+### MachGen Thirty Second Story Test
+
+[![MachGen Thirty Second Story Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2106831967593672704/img/dDdjf5p1dtgeQO8k.jpg>)](<https://x.com/SophiaAiExpert/status/2106832133327356396>)
+
+Two roughly thirty-second examples accompany an author-reported H3 single-generation continuity test on MachGen.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a scene with a beginning, development and payoff; verify the host tool’s duration and generation behavior yourself.
+
+**Shared by:** [Sophia AI & Tool Expert](<https://x.com/SophiaAiExpert>)
+
+[Original post on X](<https://x.com/SophiaAiExpert/status/2106832133327356396>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#machgen-thirty-second-story-test>)
+
+<a id="neon-glass-pixel-disintegration"></a>
+
+### Neon Glass Pixel Disintegration
+
+[![Neon Glass Pixel Disintegration video preview](<https://pbs.twimg.com/amplify_video_thumb/2106934025835192320/img/CwfNrE2Y1qVDPo5v.jpg>)](<https://x.com/tooniaanimation/status/2106934062162018397>)
+
+A rain-soaked slow-motion shot dissolves an umbrella-bearing figure into rising blue glass shards and digital pixels.
+
+**Model:** MiniMax H3 Max Turbo
+
+#### Prompt transcribed from author screenshot · `en`
+
+```text
+Cinematic slow-motion wide shot of a rainy cyberpunk street at blue hour. A figure holding a transparent umbrella walks forward toward the camera. Starting from their hands, their body and umbrella shatter into glowing neon-blue glass shards and digital pixels that float upward. The particle dense trail is vividly visible against dark wet asphalt and neon reflections, featuring razor-sharp edges and luminous rim-lighting.
+```
+
+#### How to adapt it
+
+Specify where disintegration begins, which materials form and how particles contrast with the background.
+
+**Shared by:** [TOONIA AI Short Films](<https://x.com/tooniaanimation>)
+
+[Original post on X](<https://x.com/tooniaanimation/status/2106934062162018397>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#neon-glass-pixel-disintegration>)
+
+<a id="against-the-sky-combat-lora-film"></a>
+
+### AGAINST THE SKY Combat LoRA Film
+
+[![AGAINST THE SKY Combat LoRA Film video preview](<https://pbs.twimg.com/amplify_video_thumb/2106934992068567040/img/BBHh72rPhdcjK_8r.jpg>)](<https://x.com/Tomw852/status/2106937258456805422>)
+
+A local RTX 5070 short combines DaSiWa Hybrid V3 with Turbo, Realism People, Combat and Motion Continuity LoRAs.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare action clarity and continuity while changing one LoRA strength at a time and preserving the character reference.
+
+**Shared by:** [Tom𝕎](<https://x.com/Tomw852>)
+
+[Original post on X](<https://x.com/Tomw852/status/2106937258456805422>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#against-the-sky-combat-lora-film>)
+
+<a id="prompted-orbit-with-without-reference"></a>
+
+### Prompted Orbit with and without Reference
+
+[![Prompted Orbit with and without Reference video preview](<https://pbs.twimg.com/amplify_video_thumb/2106938273092513792/img/BdKT2hHfs0pKccnN.jpg>)](<https://x.com/breath_in_code/status/2106938465300664504>)
+
+Two camera-instruction tests explore an orbit with and without a reference image; the MV workflow also produces singing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test the same orbit instruction with and without an image reference, and remove unintended music or singing requirements from the workflow.
+
+**Shared by:** [LinacoWSL](<https://x.com/breath_in_code>)
+
+[Original post on X](<https://x.com/breath_in_code/status/2106938465300664504>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#prompted-orbit-with-without-reference>)
+
 <a id="category-storyboard"></a>
 
 ## MiniMax H3 Storyboard & Multi-Shot Prompts
@@ -2201,6 +2510,186 @@ Plan the introduction and exaggerated entrance in reference panels, then edit th
 
 [Original post on X](<https://x.com/bububuXdayo/status/2106551278243631196>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#new-hire-boss-entrance-comedy>)
 
+<a id="salt-character-performance-short"></a>
+
+### SALT Character Performance Short
+
+[![SALT Character Performance Short video preview](<https://pbs.twimg.com/amplify_video_thumb/2106254542346047488/img/430hf0Q8X0-MwkU5.jpg>)](<https://x.com/Chidera_samuel3/status/2106255388794368226>)
+
+A finished short film uses MiniMax H3 for character performance, atmosphere and continuity across narrative scenes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan character references and scene progression before generating performances; assemble the scenes into a finished film.
+
+**Shared by:** [Cryptosam](<https://x.com/Chidera_samuel3>)
+
+[Original post on X](<https://x.com/Chidera_samuel3/status/2106255388794368226>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#salt-character-performance-short>)
+
+<a id="malfoy-first-meeting-to-ending"></a>
+
+### Malfoy First Meeting to Ending
+
+[![Malfoy First Meeting to Ending video preview](<https://pbs.twimg.com/amplify_video_thumb/2106817035909070848/img/LjOwaCLSPHUDobZb.jpg>)](<https://x.com/toyxyz3/status/2106817783799611576>)
+
+A high-reach H3 test develops a Malfoy character story from the first meeting through its ending.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use stable character references and a scene outline, then review identity and performance continuity across the finished sequence.
+
+**Shared by:** [toyxyz](<https://x.com/toyxyz3>)
+
+[Original post on X](<https://x.com/toyxyz3/status/2106817783799611576>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#malfoy-first-meeting-to-ending>)
+
+<a id="black-cat-independent-mirror"></a>
+
+### Black Cat Independent Mirror Horror
+
+[![Black Cat Independent Mirror Horror video preview](<https://pbs.twimg.com/amplify_video_thumb/2106856042491473920/img/F5Q3KzKywvuzZZIH.jpg>)](<https://x.com/DeCat2025/status/2106856090881364138>)
+
+Three timed beats separate a real cat from an independently moving mirror cat before a glass-breaking horror payoff.
+
+**Model:** MiniMax H3
+
+```text
+15-second realistic cinematic horror sequence, shot on 35mm film, dark bedroom, cold moonlight, high contrast shadows, subtle film grain, natural realistic cat movement.
+
+Exactly two cats: one real black cat sitting on the bedroom floor, and one separate black cat inside the mirror acting independently. Exactly one tall standing mirror.
+
+[0-5s] Medium shot. The real black cat sits frozen on the floor, staring at the mirror. Inside the mirror, the other black cat stands up and starts walking toward the glass, getting bigger and closer, while the real cat stays completely still. The viewer pushes in fast.
+
+[5-10s] Close-up on the mirror. The cat inside slams one paw against the glass from the inside. A loud spiderweb crack spreads across the mirror. Its eyes glow bright yellow, its mouth opens wide showing sharp teeth.
+
+[10-15s] The real cat screeches and sprints out of frame. The mirror glass bulges outward and shatters, shards flying toward the viewer. Through the empty frame, only two glowing yellow eyes remain in total darkness, then they blink out.
+
+Negative prompt: cartoon, anime, 3D render, more than two cats, reflection copying the real cat, static scene, nothing happening, extra legs, distorted face, warped body, bright lighting, humans, morphing, watermark
+```
+
+#### How to adapt it
+
+Keep the two cats spatially distinct and assign each one a different action in every timed beat.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2106856090881364138>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#black-cat-independent-mirror>)
+
+<a id="nine-panel-maid-cafe-recruitment"></a>
+
+### Nine Panel Maid Cafe Recruitment
+
+[![Nine Panel Maid Cafe Recruitment video preview](<https://pbs.twimg.com/amplify_video_thumb/2106872551553282048/img/yeuUB-6QaDltiK4l.jpg>)](<https://x.com/su_nagomi/status/2106874519415894294>)
+
+A nine-panel reference drives a timed cafe recruitment ad with five fixed characters, Japanese text, dialogue and music.
+
+**Model:** MiniMax H3
+
+```text
+【15秒｜9:16｜実写系メイドカフェ求人CM｜原宿KAWAII POP｜セリフ＋ナレーション＋画面内テキスト表示あり｜BGMあり｜SEあり】 
+【全体仕様】 テーマ：「かわいいを、仕事に。」 映像スタイル：原宿KAWAIIカルチャー×メイドカフェ×ファッションCM。明るくポップでテンポが良く、求人広告として一瞬で内容が伝わる構成。 キャラクター：添付画像の5人を基準に、顔・髪型・髪色・衣装・アクセサリーを固定。黒×ピンクのゴシックメイドをメインキャラクターとして扱う。 背景：全編ピンク一色にしない。ピンク、ミント、ラベンダー、クリーム、ベビーブルー、白をカットごとに切り替える。背景や店内セットには、白い手書き文字、白ネオン文字、黒文字、ピンク文字、店内サイン、装飾ボード、ラベル、ハートネオンをしっかり表示する。 重要条件：今回はテロップ後入れではなく、映像生成の段階で文字をすべて表示する。背景文字も消さない。背景にある白文字、ネオン文字、装飾文字、求人見出し、ラベル類をはっきり読めるように表示する。白文字は背景に埋もれないよう、濃いピンク、黒、ラベンダー、ミント、クリームの面の上に配置し、縁取り、影、ネオン発光などで視認性を確保する。 画面内テキスト： 「かわいいを、仕事に。」「MAID CAFE RECRUIT」「NEW CAST」「JOIN US!」「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」「メイドさん募集中」「CAST WANTED」「ご応募お待ちしています♡」を各CUTに自然に表示する。英字、日本語ともに読みやすく、文字化けなし。 BGM：原宿系KAWAII POP。明るいエレクトロポップ、跳ねるシンセ、チップチューン、ハンドクラップ、キラキラベル。140BPM前後。 SE：ドアベル、POP、キラッ、カップ音、シャッター音。 音声：20代女性の明るく親しみやすい声。セリフ中はBGMを少し下げる。 
+【CUT1｜0:00-0:03】 Visuals：黒×ピンクのメイドが、黒×ネオンピンクのハートライト背景から振り向き、カメラを見る。指を口元に添えて小さく微笑む。背景に白ネオン文字と装飾文字を表示。 Camera：50mm F1.8、胸上アップ、軽いプッシュイン。 Motion：振り向く→目線→微笑む。 Lighting：白いソフトキー＋ピンクのリムライト。 VFX：小さなハートが一度だけPOP。 On-screen Text：大きく「かわいいを、仕事に。」、下に「MAID CAFE RECRUIT」、周辺に小さく「NEW CAST」。白文字とピンクネオン文字を併用。 SFX：ドアベル「チリン」→キラッ。 Dialogue：「ねえ、“かわいい”を仕事にしてみない？」 Emotion：ワクワク、憧れ。 Transition：ハート形ワイプ。 
+【CUT2｜0:03-0:07】 Visuals：ピンク衣装のメイドがストロベリードリンクを作る→ミント衣装のメイドが紅茶を運ぶ→カラフル衣装のメイドがカメラへ手を差し出す、短い3連モンタージュ。背景に店内サインや白い装飾文字を表示。 Camera：35mm〜50mm、テンポよく切り替える。 Motion：ドリンクを置く→カップを運ぶ→手を差し出す。 Lighting：クリーム、ミント、ベビーブルーと背景色を変化。 VFX：各切替で小さな星・ハートPOP。 On-screen Text：縦またはラベル風に「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」をそれぞれ見やすく表示。背景ボードやネオンに「JOIN US!」も入れる。 SFX：コトッ→キラッ→POP。 Narration：「未経験でも大丈夫。仲間と一緒に、楽しくごほうし。」 Emotion：安心、楽しさ。 Transition：ビート同期カット。 
+【CUT3｜0:07-0:11】 Visuals：黒×ピンクのメイドとピンク衣装のメイドが、ケーキとドリンクを持ってラベンダー×クリームの店内を歩く。途中でカメラを見て笑顔。背景の壁面に白文字やメニュー風装飾を表示。 Camera：35mm F2.0、後退しながら2人を追う。 Motion：歩く→目線→軽く手を振る。 Lighting：柔らかい暖色照明。 On-screen Text：大きく「メイドさん募集中」、サブで「CAST WANTED」。背景の白い手書き文字として「JOIN US!」も見えるように表示。 SFX：足音、食器音、軽いキラッ。 Dialogue（黒×ピンク）：「一緒なら、もっと楽しいよ♡」 Narration：「あなたの“好き”を、ここで。」 Emotion：親近感、期待。 Transition：シャッター音で切替。
+ 【CUT4｜0:11-0:15】 Visuals：5人全員が明るいメイドカフェ中央に集合。背景は白・クリーム基調に、ピンク、ミント、ラベンダーの差し色。5人が笑顔で一歩前へ出て、カメラへ手を差し出す。背景には大きなネオン文字とリボン風見出しを表示。 Camera：28mm F2.8、全員が入るワイド→最後だけ軽くプッシュイン。 Motion：集合→一歩前へ→手を差し出す。 Lighting：明るいヒーローライティング。 VFX：背後にハート型ライトがふわっと点灯。 On-screen Text：上部または中央に「MAID CAFE RECRUIT」または「メイドさん募集中」、下部のリボンバナーに「ご応募お待ちしています♡」。サブで「JOIN US!」を小さく配置。 SFX：キラッ→ベル。 Dialogue（5人）：「一緒に働こっ♡」 Narration：「メイドさん、募集中。」 BGM：最後のビートで気持ちよく締める。 Emotion：歓迎、楽しさ、応募したくなる余韻。 Transition：白フェードアウト。
+```
+
+#### How to adapt it
+
+Replace the cast reference and recruiting copy while preserving the four-cut timing, color changes and speaker assignments.
+
+**Shared by:** [すーさん](<https://x.com/su_nagomi>)
+
+[Original post on X](<https://x.com/su_nagomi/status/2106874519415894294>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#nine-panel-maid-cafe-recruitment>)
+
+<a id="the-seam-local-sci-fi-series"></a>
+
+### THE SEAM Local Sci Fi Series
+
+[![THE SEAM Local Sci Fi Series video preview](<https://pbs.twimg.com/amplify_video_thumb/2106889561687412736/img/-rgiQ90feR1fwFJA.jpg>)](<https://x.com/Studio_YAS_/status/2106890504915104164>)
+
+Episode three of a five-part sci-fi series reports locally generated video and audio on an RTX 3060.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Outline episodic continuity and recurring characters before generating scene clips; subtitle and assemble the finished episode.
+
+**Shared by:** [WebStudio YAS](<https://x.com/Studio_YAS_>)
+
+[Original post on X](<https://x.com/Studio_YAS_/status/2106890504915104164>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#the-seam-local-sci-fi-series>)
+
+<a id="cross-model-schoolgirl-action-recreation"></a>
+
+### Cross Model Schoolgirl Action Recreation
+
+[![Cross Model Schoolgirl Action Recreation video preview](<https://pbs.twimg.com/amplify_video_thumb/2106919100287238144/img/nCf2_dIeGilvD099.jpg>)](<https://x.com/pokarin_grok/status/2106919852132978835>)
+
+A creator reuses a public seven-scene Seedance action prompt for a local H3 schoolgirl-versus-helicopters test.
+
+**Model:** MiniMax H3
+
+#### Public source prompt reused by the H3 creator · `en`
+
+```text
+Cinematic action video sequence, Seedance 2.5 style,
+Scene 1: A young Asian schoolgirl with black hair and a backpack sprints down the middle of a wide empty city avenue flanked by skyscrapers while two military attack helicopters fly low overhead. 
+
+Scene 2: Close-up of a helicopter rocket pod firing smoke-trail missiles, cutting to the schoolgirl spinning around sharply as wind whips her hair.
+
+Scene 3: Slow-motion shot, her loafers glow with blue magical energy as she leaps high into the air over the street, avoiding missiles that trigger massive fiery explosions behind her.
+
+Scene 4: Tracking shot of the girl running forward as a barrage of guided missiles flies straight down the highway toward her.
+
+Scene 5: Close-up of her face with glowing green eyes; she thrusts her hand forward, projecting a powerful translucent green energy shield that halts the incoming missiles mid-air.
+
+Scene 6: She sends a shockwave of green energy forward, causing both attack helicopters to explode mid-air in massive balls of fire and crash onto the street.
+
+Scene 7: Medium shot of the girl standing confidently with glowing green eyes, making a finger-gun gesture saying "Boom", then turning around and walking calmly away down the empty street between skyscrapers.
+```
+
+#### How to adapt it
+
+Adapt the scene order and hero reference to H3, then assess which action beats survive in the shorter output.
+
+**Shared by:** [ぽかりんAI／PokarinAI](<https://x.com/pokarin_grok>)
+
+[Original post on X](<https://x.com/pokarin_grok/status/2106919852132978835>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cross-model-schoolgirl-action-recreation>)
+
+<a id="qwen-directed-cat-reconciliation"></a>
+
+### Qwen Directed Cat Reconciliation
+
+[![Qwen Directed Cat Reconciliation video preview](<https://pbs.twimg.com/amplify_video_thumb/2106927223789977600/img/Oe1tD6FxxOADZs1M.jpg>)](<https://x.com/nyappokopoko/status/2106929623439425961>)
+
+A custom local Qwen27B system develops a cat reconciliation brief into an H3 film, with dialogue quality concerns.
+
+**Model:** MiniMax H3
+
+#### Published story brief for the director model · `ja`
+
+```text
+猫と和解する話
+```
+
+#### How to adapt it
+
+Use a short story brief for the director model, then review spoken lines and scene behavior before accepting the generated film.
+
+**Shared by:** [🐣NYAP🐣](<https://x.com/nyappokopoko>)
+
+[Original post on X](<https://x.com/nyappokopoko/status/2106929623439425961>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-directed-cat-reconciliation>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -2552,6 +3041,155 @@ Keep the character reference and moonlight direction consistent; handle external
 **Shared by:** [CANINGUM（カニンガム）](<https://x.com/CANINGUM>)
 
 [Original post on X](<https://x.com/CANINGUM/status/2104302683763126600>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#shion-moonlit-birthday-film>)
+
+<a id="chat-app-chibi-sticker-comedy"></a>
+
+### Chat App Chibi Sticker Comedy
+
+[![Chat App Chibi Sticker Comedy video preview](<https://pbs.twimg.com/amplify_video_thumb/2106404869934546944/img/k0UPHWEkxfefnPa5.jpg>)](<https://x.com/sash02jp/status/2106404929262997813>)
+
+H3 R2V animates chibi stickers while Python builds the chat interface, timing graphics, camera and sound effects.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Animate character stickers separately, then composite them into a timed chat layout and add interface sounds.
+
+**Shared by:** [さっしゅ](<https://x.com/sash02jp>)
+
+[Original post on X](<https://x.com/sash02jp/status/2106404929262997813>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#chat-app-chibi-sticker-comedy>)
+
+<a id="anime-mirror-character-sheet"></a>
+
+### Anime Mirror Character Sheet Test
+
+[![Anime Mirror Character Sheet Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2106864297447936000/img/AorCAm3RN3PUYdus.jpg>)](<https://x.com/kevinleguillou/status/2106864655989612792>)
+
+An H3 Max anime story test uses a new character sheet from Anima and GPT Image, with Anima backgrounds.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Create a consistent character sheet and background set before adapting a story excerpt into animated shots.
+
+**Shared by:** [Kevin Le Guillou](<https://x.com/kevinleguillou>)
+
+[Original post on X](<https://x.com/kevinleguillou/status/2106864655989612792>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anime-mirror-character-sheet>)
+
+<a id="cellbound-local-3d-remake"></a>
+
+### Cellbound Local 3D Remake
+
+[![Cellbound Local 3D Remake video preview](<https://pbs.twimg.com/amplify_video_thumb/2106866627765538816/img/rozuPbJNZEtiHt-J.jpg>)](<https://x.com/RisingSunInt_/status/2106867832306733402>)
+
+A 3D remake of the 1955 cartoon Cellbound combines GPT-6 with H3 video generation on a local PC.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Break a cartoon sequence into scene and action references, then rebuild its staging in a consistent 3D style.
+
+**Shared by:** [Rising Sun Interactive](<https://x.com/RisingSunInt_>)
+
+[Original post on X](<https://x.com/RisingSunInt_/status/2106867832306733402>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cellbound-local-3d-remake>)
+
+<a id="anime-homework-anger-deformation"></a>
+
+### Anime Homework Anger Deformation
+
+[![Anime Homework Anger Deformation video preview](<https://pbs.twimg.com/amplify_video_thumb/2106906136469553152/img/iuE0x2nBdfaoAFRy.jpg>)](<https://x.com/onofumi_AI/status/2106906266631278859>)
+
+Six timed shots turn homework frustration into triangle eyes, steam, stress marks and a return to a normal anime face.
+
+**Model:** MiniMax H3 Max Turbo
+
+```text
+【Shot 1｜0〜2.5秒】
+斜め前から二人を捉える。
+女の子は宿題に苛立ち、肩を丸め、鉛筆を強く握る。こめかみの赤い怒りマークが脈打つ。
+女の子「あー、もう！」
+男の子は隣で静かに勉強を続ける。
+
+【Shot 2｜2.5〜5秒】
+女の子を正面から捉えるミディアムショット。
+頭を後ろに反らし、顔が一気にギャグ顔へ変わる。閉じた三角目、大きく開いた四角い口、額の紫色のストレス線、赤い頬。髪が外側へ揺れ、青い汗の粒が飛び出す。
+女の子「全然わかんない！」
+微妙な怒り顔ではなく、はっきりデフォルメする。
+
+【Shot 3｜5〜8秒】
+二人が見える広めの正面ショット。
+女の子が自分の机を両拳で一度叩き、拳を肩の高さで振る。三角目と大きな叫び口を維持。
+頭上にオレンジ色の怒りの稲妻マーク。頭の両側から大きな白い漫画的な蒸気が噴き出す。プリントが舞い、筆箱と消しゴムが軽く跳ねる。
+女の子「もう、勉強なんて嫌い！」
+男の子は鉛筆を止め、半目で横を見てため息をつく。隣の席に座ったまま。
+
+【Shot 4｜8〜10秒】
+女の子の机を捉える。
+急に力が抜け、拳を下ろし、肩を落としてノートに突っ伏す。蒸気と稲妻が消え、大きな青い汗マークが現れる。
+額が机に当たる軽い音。紙がゆっくり落ち着く。突っ伏した姿勢で少し間を置き、小さくうめく。
+
+【Shot 5｜10〜13秒】
+二人の顔が見えるミディアムショット。
+男の子は自分の机に肘をつき、片眉を上げ、女の子のノートへ視線を向ける。
+男の子「さっき教えたとこじゃん。」
+少し呆れているが、親しみのある軽い小言。
+女の子は一瞬固まり、ゆっくり顔を上げて横目で睨む。顔は通常の繊細なアニメ顔に戻り、半目、赤い頬、不機嫌な口元になる。
+
+【Shot 6｜13〜15秒】
+女の子の斜め前からのクローズアップ。
+男の子へ少し顔を向け、頬を膨らませ、ノートの端を握る。赤い怒りマークが最後に一度脈打つ。
+女の子「わかってるし。」
+声は小さく、不機嫌で少し照れている。ため息をつき、ノートへ顎を下げる。ふくれ顔で終了。
+```
+
+#### How to adapt it
+
+Assign exaggerated expressions and symbols to specific beats, then explicitly restore the normal character face.
+
+**Shared by:** [おのふみ| 3D×動画生成×個人開発](<https://x.com/onofumi_AI>)
+
+[Original post on X](<https://x.com/onofumi_AI/status/2106906266631278859>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anime-homework-anger-deformation>)
+
+<a id="shonen-cat-tiny-glass-tap"></a>
+
+### Shonen Cat Tiny Glass Tap
+
+[![Shonen Cat Tiny Glass Tap video preview](<https://pbs.twimg.com/amplify_video_thumb/2106934637381439489/img/POo1lQ7ZUASTEBSG.jpg>)](<https://x.com/DeCat2025/status/2106934678909227082>)
+
+Shonen-style power buildup and eye close-ups lead to one tiny glass tap, then an instant return to innocent calm.
+
+**Model:** MiniMax H3
+
+```text
+15-second anime sequence, 2D cel-shaded shōnen anime style, bold linework, dramatic lighting, comedic tone, consistent character design throughout.
+
+Exactly one cat: a chubby orange tabby with big green eyes. Exactly one glass of water on a wooden kitchen table.
+
+[0-5s] Wide shot of a quiet kitchen. The orange tabby sits on the table beside the glass of water, staring at it intensely. Dramatic wind blows its fur even though the window is closed. The viewer slowly pushes in.
+
+[5-10s] Extreme close-up on the cat's eyes, glowing with a fiery orange aura, speed lines bursting behind it. Its paw rises slowly, trembling with power, like a hero preparing a final attack.
+
+[10-15s] The paw gently taps the glass with one tiny touch. The glass slides off the edge and falls out of frame. The aura instantly vanishes and the cat sits back calmly, blinking innocently at the viewer, perfectly satisfied.
+
+Negative prompt: extra cats, duplicate glasses, extra paws, extra legs, distorted face, warped body, photorealistic, 3D render, morphing, flickering, inconsistent fur color, humans, text, watermark
+```
+
+#### How to adapt it
+
+Contrast an exaggerated power-up with a small physical payoff, and explicitly remove the aura after the action.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2106934678909227082>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#shonen-cat-tiny-glass-tap>)
 
 <a id="category-reference-character"></a>
 
@@ -3154,6 +3792,66 @@ Evaluate a short reference clip frame by frame; retain the source as evidence of
 
 [Original post on X](<https://x.com/myothercoolname/status/2106463276682956957>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-subsecond-reference-test>)
 
+<a id="equirectangular-lora-vr-headset"></a>
+
+### Equirectangular LoRA VR Headset Test
+
+[![Equirectangular LoRA VR Headset Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2106659402266931200/img/KgziYDaFt8mfkd0C.jpg>)](<https://x.com/rehan_shei/status/2106659909874184536>)
+
+An H3/Max equirectangular LoRA is demonstrated in a VR headset, extending panoramic generation into immersive viewing.
+
+**Model:** MiniMax H3 / H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test the projection and seam in a headset before using generated panoramic footage in a VR experience.
+
+**Shared by:** [Rehan Sheikh](<https://x.com/rehan_shei>)
+
+[Original post on X](<https://x.com/rehan_shei/status/2106659909874184536>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#equirectangular-lora-vr-headset>)
+
+<a id="3d-underlay-reference-reproduction"></a>
+
+### 3D Underlay Reference Reproduction
+
+[![3D Underlay Reference Reproduction video preview](<https://pbs.twimg.com/amplify_video_thumb/2106906973325389824/img/WgIJ4fb2QrKvmuTF.jpg>)](<https://x.com/forticodesign/status/2106907001964077107>)
+
+A creator reports stronger reproduction when specifying the 3D underlay data in an H3 generation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Describe the underlying 3D layout alongside the visual reference and compare generated staging with the planned scene.
+
+**Shared by:** [ささゆう｜MiniMax H3・AI撮影スタジオKonte開発](<https://x.com/forticodesign>)
+
+[Original post on X](<https://x.com/forticodesign/status/2106907001964077107>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3d-underlay-reference-reproduction>)
+
+<a id="canonical-character-mcp-fan-short"></a>
+
+### Canonical Character MCP Fan Short
+
+[![Canonical Character MCP Fan Short video preview](<https://pbs.twimg.com/amplify_video_thumb/2106932269759995904/img/4RM5WmuN_7_cR93a.jpg>)](<https://x.com/hsrk_g_hsrk/status/2106932544923140360>)
+
+A fan short combines canonical character sheets and MCP character context with H3 video, Irodori TTS and Remotion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Collect the character sheet, voice context and scene intent before generating a start image; coordinate TTS and final editing separately.
+
+**Shared by:** [ヒロ(HG)｜実務で使えるAI活用](<https://x.com/hsrk_g_hsrk>)
+
+[Original post on X](<https://x.com/hsrk_g_hsrk/status/2106932544923140360>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#canonical-character-mcp-fan-short>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -3692,6 +4390,66 @@ Lay out the dance poses in clear order and keep character identity and scale con
 **Shared by:** [いとじょ](<https://x.com/ito_jo>)
 
 [Original post on X](<https://x.com/ito_jo/status/2106578022379946098>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sixteen-pose-sheet-campus-dance>)
+
+<a id="galactic-terminal-ensemble-mv"></a>
+
+### Galactic Terminal Ensemble Music Video
+
+[![Galactic Terminal Ensemble Music Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2106361875151872000/img/CoBgHuUsCAp5d_u1.jpg>)](<https://x.com/maru_999_/status/2106364123122446646>)
+
+An ensemble gathers at a railway terminus to sing and depart in a rebuilt music video using H3, Kairos and Suno.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a cast reference set and station scenes, then coordinate departures and performances around the song.
+
+**Shared by:** [Maru999](<https://x.com/maru_999_>)
+
+[Original post on X](<https://x.com/maru_999_/status/2106364123122446646>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#galactic-terminal-ensemble-mv>)
+
+<a id="and-beyond-bass-cut-edit"></a>
+
+### AND BEYOND Bass Driven Edit
+
+[![AND BEYOND Bass Driven Edit video preview](<https://pbs.twimg.com/amplify_video_thumb/2106632561388662784/img/zf3Fo032GP7iRTNl.jpg>)](<https://x.com/papadupapadu/status/2106636476695912599>)
+
+A bass-driven film combines Hailuo H3, Claude and manual Premiere Pro editing across eleven layers.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate shot material to match a bass beat map, then build the layered rhythm in your editing timeline.
+
+**Shared by:** [PAPADU PAPADU](<https://x.com/papadupapadu>)
+
+[Original post on X](<https://x.com/papadupapadu/status/2106636476695912599>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#and-beyond-bass-cut-edit>)
+
+<a id="song-first-eleven-cut-idol-mv"></a>
+
+### Song First Eleven Cut Idol Music Video
+
+[![Song First Eleven Cut Idol Music Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2106916428213538816/img/nQnuFR-mqW8uxUHM.jpg>)](<https://x.com/tkvtk/status/2106919861326839956>)
+
+An idol MV uses a finished Lyria song, three-to-four-second audio guides, fixed character images and ffmpeg assembly.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Finish the song first, cut the exact audio window for each shot, then generate lip sync and dance from that audio plus the shot image.
+
+**Shared by:** [T](<https://x.com/tkvtk>)
+
+[Original post on X](<https://x.com/tkvtk/status/2106919861326839956>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#song-first-eleven-cut-idol-mv>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -4900,6 +5658,50 @@ Reduce the brief to essential relationship beats and test dialogue turns separat
 **Shared by:** [Soran](<https://x.com/Soranlan>)
 
 [Original post on X](<https://x.com/Soranlan/status/2106209753722753351>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#autumn-apartment-dialogue-control-test>)
+
+<a id="unseen-cat-box-purr"></a>
+
+### Unseen Cat Box Purr
+
+[![Unseen Cat Box Purr video preview](<https://pbs.twimg.com/amplify_video_thumb/2106439325801963520/img/LeSJr8qNq4W8Rx23.jpg>)](<https://x.com/GlennHasABeard/status/2106439441636335961>)
+
+A locked rug-height shot suggests a hidden cat through a deep purr while explicitly keeping the cat out of view.
+
+**Model:** MiniMax H3
+
+#### Published prompt excerpt · `en`
+
+```text
+a soft deep purr comes from inside it
+```
+
+#### How to adapt it
+
+Keep the unseen subject offscreen and use a localized sound cue to make its presence legible.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2106439441636335961>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#unseen-cat-box-purr>)
+
+<a id="imagined-air-combat-radio-short"></a>
+
+### Imagined Air Combat Radio Short
+
+[![Imagined Air Combat Radio Short video preview](<https://pbs.twimg.com/amplify_video_thumb/2106941464685273088/img/rxvYy01_LJIwdI_z.jpg>)](<https://x.com/singa_44/status/2106941651583426759>)
+
+An H3 Max Turbo air-combat fan video pairs action with teammate conversation and explicitly labels itself AI imagery.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Coordinate action beats and radio speaker turns while clearly distinguishing an imagined sequence from actual game footage.
+
+**Shared by:** [レオ（七深麗音）｜AI×SNSコンテンツ戦略](<https://x.com/singa_44>)
+
+[Original post on X](<https://x.com/singa_44/status/2106941651583426759>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#imagined-air-combat-radio-short>)
 
 <a id="category-motion-graphics"></a>
 
@@ -6147,6 +6949,126 @@ Compare matching scenes at four, eight and twelve steps against the base model, 
 **Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
 
 [Original post on X](<https://x.com/DeepForest_Inc/status/2106573173185802265>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dmad-4-8-12-base-comparison>)
+
+<a id="cloud-resolution-time-tradeoff"></a>
+
+### Cloud Resolution and Time Tradeoff
+
+[![Cloud Resolution and Time Tradeoff video preview](<https://pbs.twimg.com/amplify_video_thumb/2106580966470987776/img/agr5bRcCmEXqz8fh.jpg>)](<https://x.com/tameshibako_tc/status/2106580981209800922>)
+
+A five-second H3 test on a 96GB cloud GPU compares about 42 seconds at 864×480 with 34 minutes at 2720×1536.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test composition at low resolution before rendering the selected shot at a higher resolution on your own hardware.
+
+**Shared by:** [ためしばこ](<https://x.com/tameshibako_tc>)
+
+[Original post on X](<https://x.com/tameshibako_tc/status/2106580981209800922>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cloud-resolution-time-tradeoff>)
+
+<a id="mac-tensorfold-studio-image-audio"></a>
+
+### Mac TensorFold Studio Image and Audio
+
+[![Mac TensorFold Studio Image and Audio video preview](<https://pbs.twimg.com/amplify_video_thumb/2106909500103950337/img/PSc1WJwCU6RZCFvg.jpg>)](<https://x.com/u1tra_instinct/status/2106910330613899690>)
+
+A Mac Silicon studio combines Qwen Image 2.1 with an H3 MLX implementation and draft or high-quality options.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Create image references in the same production flow, then compare draft and final video/audio settings.
+
+**Shared by:** [keys 🧪](<https://x.com/u1tra_instinct>)
+
+[Original post on X](<https://x.com/u1tra_instinct/status/2106910330613899690>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mac-tensorfold-studio-image-audio>)
+
+<a id="konte-repeatable-cast-prop-production"></a>
+
+### KONTE Repeatable Cast and Prop Production
+
+[![KONTE Repeatable Cast and Prop Production video preview](<https://pbs.twimg.com/amplify_video_thumb/2106909949439942656/img/kPE7LH7ZKxS9nJsw.jpg>)](<https://x.com/forticodesign/status/2106910473107144988>)
+
+A twenty-commercial exercise reuses cast and props through a structured production flow directed with Claude.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build reusable cast and prop records, then vary locations and shot plans within a repeatable commercial template.
+
+**Shared by:** [ささゆう｜MiniMax H3・AI撮影スタジオKonte開発](<https://x.com/forticodesign>)
+
+[Original post on X](<https://x.com/forticodesign/status/2106910473107144988>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#konte-repeatable-cast-prop-production>)
+
+<a id="seven-second-pdmd-audio-pipeline"></a>
+
+### Seven Second PDMD Audio Pipeline
+
+[![Seven Second PDMD Audio Pipeline video preview](<https://pbs.twimg.com/amplify_video_thumb/2106917012538904576/img/eiXZ9Gt9-5nFOGXA.jpg>)](<https://x.com/yu_ichi_suzuki/status/2106917085565813230>)
+
+A 5090 and three Spark-compatible systems pipeline seven-second voiced clips, using Irodori audio as the H3 guide.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate video generation from pre/post-processing, convert prepared TTS to an audio latent guide and retain the original TTS for playback.
+
+**Shared by:** [鈴木憂一 | Highdrama](<https://x.com/yu_ichi_suzuki>)
+
+[Original post on X](<https://x.com/yu_ichi_suzuki/status/2106917085565813230>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#seven-second-pdmd-audio-pipeline>)
+
+<a id="eight-gb-melting-output-test"></a>
+
+### Eight GB Melting Output Test
+
+[![Eight GB Melting Output Test video preview](<https://pbs.twimg.com/amplify_video_thumb/2106926424678649856/img/3fBru1BS7V6Gdy5K.jpg>)](<https://x.com/de_nier_ai/status/2106926889860493705>)
+
+An eight-second H3 output demonstrates an 8GB VRAM run while the author explicitly notes melting artifacts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Check temporal deformation alongside whether the model runs; use a small trial output before committing to a low-memory configuration.
+
+**Shared by:** [AiDeNier（アイデニール）](<https://x.com/de_nier_ai>)
+
+[Original post on X](<https://x.com/de_nier_ai/status/2106926889860493705>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#eight-gb-melting-output-test>)
+
+<a id="model-adapted-direction-comparison"></a>
+
+### Model Adapted Direction Comparison
+
+[![Model Adapted Direction Comparison video preview](<https://pbs.twimg.com/amplify_video_thumb/2106928354796646400/img/y3WfzCkaGhSvlusI.jpg>)](<https://x.com/Langby2/status/2106931367326150680>)
+
+A Seedance, WAN and H3 comparison uses separately adapted prompts and reports H3 foot and travel-direction errors.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare action direction and limb orientation after adapting prompts per model; keep the differing prompts visible when judging results.
+
+**Shared by:** [新手老兵🇭🇰的AI世界](<https://x.com/Langby2>)
+
+[Original post on X](<https://x.com/Langby2/status/2106931367326150680>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#model-adapted-direction-comparison>)
 
 ## Suggest a prompt
 
