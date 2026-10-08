@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **285 verified examples**, with sources reviewed through **2026-10-07**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **310 verified examples**, with sources reviewed through **2026-10-08**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (45)
-- [Storyboards & sequences](<#category-storyboard>) (47)
-- [Anime & animation](<#category-anime-animation>) (23)
-- [References & consistency](<#category-reference-character>) (33)
-- [Music videos & dance](<#category-music-dance>) (33)
+- [Cinematic & camera](<#category-cinematic-camera>) (47)
+- [Storyboards & sequences](<#category-storyboard>) (52)
+- [Anime & animation](<#category-anime-animation>) (26)
+- [References & consistency](<#category-reference-character>) (35)
+- [Music videos & dance](<#category-music-dance>) (37)
 - [Dialogue & audio](<#category-dialogue-audio>) (19)
 - [Motion graphics & titles](<#category-motion-graphics>) (14)
-- [ComfyUI & workflows](<#category-workflows>) (71)
+- [ComfyUI & workflows](<#category-workflows>) (80)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1596,6 +1596,46 @@ List persistent scene objects and constrain the lying-down motion; review newly 
 
 [Original post on X](<https://x.com/ATFzwei/status/2107291787777945967>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#unexpected-blanket-appearance-test>)
 
+<a id="local-5090-cat-mars-vfx"></a>
+
+### RTX 5090 Cat to Mars VFX Comparison
+
+[![RTX 5090 Cat to Mars VFX Comparison source preview](<https://pbs.twimg.com/amplify_video_thumb/2105502139179298816/img/XzzGOPBp1zMm67fy.jpg>)](<https://x.com/kentdhani/status/2105503343137440063>)
+
+A local ComfyUI RTX 5090 H3 visual-effects test, shown alongside a Seedance comparison.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define one subject and one destination, then compare the same brief across local and hosted runs.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2105503343137440063>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-5090-cat-mars-vfx>)
+
+<a id="accidental-game-perspective-motion"></a>
+
+### Accidental Game Perspective Motion
+
+[![Accidental Game Perspective Motion source preview](<https://pbs.twimg.com/amplify_video_thumb/2107856754319171584/img/k-fUQIPTBewPFzrt.jpg>)](<https://x.com/rutia1287/status/2107857040706289675>)
+
+An H3 creator shares an unplanned result with a game-like viewpoint.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use the source as a viewpoint study, then explicitly specify camera placement and motion in your own tests.
+
+**Shared by:** [Kou](<https://x.com/rutia1287>)
+
+[Original post on X](<https://x.com/rutia1287/status/2107857040706289675>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#accidental-game-perspective-motion>)
+
 <a id="category-storyboard"></a>
 
 ## MiniMax H3 Storyboard & Multi-Shot Prompts
@@ -3120,6 +3160,119 @@ Use the released pilot as a reference for planning a larger film in approved sho
 
 [Original post on X](<https://x.com/newtonmark13/status/2107635402605814052>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#galaxy-huaxia-yanan-star-pilot>)
 
+<a id="rose-glow-13-cut-fashion-cover"></a>
+
+### Rose Glow Thirteen Cut Fashion Cover
+
+[![Rose Glow Thirteen Cut Fashion Cover source preview](<https://pbs.twimg.com/amplify_video_thumb/2106227278816669696/img/IXeF44bZJwLW1Q1Z.jpg>)](<https://x.com/ImaStudio_ai/status/2106227539018764520>)
+
+A full 15-second fashion brief with thirteen cuts, five looks, kinetic typography and a final magazine cover.
+
+**Model:** MiniMax H3
+
+#### Author prompt · `en`
+
+```text
+Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE GLOW. Tagline: SOFT ATTITUDE.
+Use the reference girl as the ONLY identity source. Keep the same young adult East Asian woman, face, skin tone, age, long dark-brown hair, bangs, slim body and proportions. No face drift, extra people, hairstyle or body changes.
+WORLD: PINK FASHION MAGAZINE STUDIO only. No outdoor/city/café/hotel/nature. Every cut changes set, layout and composition. Palette: soft/rose pink, cream white, small black/silver. Use magazine pages, typography walls, acrylic, mirrors, torn paper, grids, flowers, contact sheets, frames, checkerboard.
+LOOKS: 01 pink tweed + mini skirt; 02 cream-white top + pink-white asymmetric skirt; 03 rose fitted mini dress; 04 pale-pink Y2K crop top + pink-gray low-rise skirt; 05 pale-pink satin/tweed hero dress.
+CUTS: 1 close-up side gaze→camera, “ROSE”. 2 LOOK01, touch face, push-in, “GLOW”. 3 beauty close-up, brush hair, cream set, “CHINA MUSE”. 4 LOOK02, side→front, pink circle, “SOFT ATTITUDE”. 5 giant magazine page, half-step, “THE PINK EDIT”. 6 LOOK03 seated on silver platform, “MODERN ROMANCE”. 7 chest-up, adjust earring, “COVER GIRL”. 8 LOOK04, checkerboard, hip shift + look back, “NEW MOOD”. 9 centered model + 3–4 photo contact sheets. 10 torn pink paper reveal, shoulder turn, “FASHION ISSUE”. 11 LOOK05, pink acrylic + silver frame, step forward, “ROSE GLOW”. 12 pull-back as magazine pages/contact sheets/frames build around her, “SOFT ATTITUDE”. 13 final cover: slight turn→direct gaze; graphics assemble into ROSE GLOW / CHINA MUSE / SOFT ATTITUDE / VOL. 2026 / THE PINK EDIT. Hold final 0.5s.
+55% live-action / 45% motion graphics. Each cut combines character action + camera move + typography + graphics. No dancing. Avoid slideshow, repeated backgrounds, sticker/PPT feel, cyberpunk, unreadable text, logos, watermark, UI, subtitles.
+```
+
+#### How to adapt it
+
+Replace the identity reference, five looks and cover text; retain a distinct action, camera move and graphic per cut.
+
+**Shared by:** [Ima Studio](<https://x.com/ImaStudio_ai>)
+
+[Original post on X](<https://x.com/ImaStudio_ai/status/2106227539018764520>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rose-glow-13-cut-fashion-cover>)
+
+<a id="one-quick-match-local-trailer"></a>
+
+### One Quick Match Local Gaming Trailer
+
+[![One Quick Match Local Gaming Trailer source preview](<https://pbs.twimg.com/amplify_video_thumb/2104516977813286912/img/dHAuWMnIp7ifX6u8.jpg>)](<https://x.com/GamerHashCom/status/2106957550986154282>)
+
+GamerHash shares an H3 trailer built around a quick gaming session interrupted by a PC update.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use one everyday obstacle to connect setup, interruption and payoff in a short trailer.
+
+**Shared by:** [GamerHash AI](<https://x.com/GamerHashCom>)
+
+[Original post on X](<https://x.com/GamerHashCom/status/2106957550986154282>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#one-quick-match-local-trailer>)
+
+<a id="parking-garage-zombie-false-exit"></a>
+
+### Parking Garage Zombie False Exit
+
+[![Parking Garage Zombie False Exit source preview](<https://pbs.twimg.com/amplify_video_thumb/2107341798322655232/img/nK3PJNNANyL84IUy.jpg>)](<https://x.com/Just_Anika_Here/status/2107342788178407680>)
+
+Five connected three-second horror shots build from a flashlight reveal to a blocked daylight exit.
+
+**Model:** MiniMax H3
+
+#### Author prompt · `en`
+
+```text
+Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5 connected shots, escalating tension, strong cinematic sound design and music. Realistic human movement, realistic environments, grounded physics, no comedy, no text, no subtitles, no dialogue.  SHOT 1 — 0–3 sec: Night. A deserted underground parking garage. A frightened young woman walks quickly between parked cars, holding a small flashlight. The camera tracks backward in front of her. Suddenly, the flashlight beam catches a motionless person standing far behind her. Deep bass hit.  SHOT 2 — 3–6 sec: Close-up of the woman's face as she stops breathing for a moment and looks behind her. The parking space is empty. The music drops almost completely silent. She slowly turns back toward the camera.  SHOT 3 — 6–9 sec: A zombie suddenly appears extremely close behind her in the background — pale dirty skin, torn everyday clothing, blood around the mouth, unnatural posture. It moves toward her with a sudden violent burst. Hard music impact.  SHOT 4 — 9–12 sec: She runs through the parking garage. Camera follows handheld from behind. Multiple distant zombie silhouettes suddenly emerge between the cars, blocking the exit. Emergency lights begin flashing red.  SHOT 5 — 12–15 sec: She reaches the exit door and desperately pulls it open. Bright daylight floods into the dark garage. She looks relieved for half a second — then the camera moves slightly past her shoulder and reveals dozens of zombies already standing silently outside, completely blocking the exit.  On the final bass hit, one zombie suddenly looks directly into the camera.  CUT TO BLACK.  VISUAL STYLE: ultra-photorealistic live-action theatrical zombie horror, cinematic 16:9 composition, realistic human anatomy, realistic zombie makeup and skin texture, physically believable movement, dark atmospheric lighting, practical-looking effects, subtle film grain, dramatic contrast, natural handheld camera movement, high-end horror cinematography.  CONSISTENCY & QUALITY: keep the same woman, same clothing, same hairstyle and same underground parking garage throughout the sequence. Zombies must have consistent realistic anatomy. No extra limbs, extra fingers, duplicated people, warped faces, melting bodies, floating objects, cartoon appearance, video-game look, excessive gore, text, subtitles, logos or watermark.  EDITING: each shot must have a clear visual purpose and connect naturally to the next. Fast pacing, no dead time. The first shot must immediately create curiosity. Build tension from mystery → realization → zombie reveal → chase → final shocking reveal.
+```
+
+#### How to adapt it
+
+Keep the five-stage escalation and sound cues; replace the garage, protagonist and final obstacle while preserving continuity.
+
+**Shared by:** [Anika](<https://x.com/Just_Anika_Here>)
+
+[Original post on X](<https://x.com/Just_Anika_Here/status/2107342788178407680>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#parking-garage-zombie-false-exit>)
+
+<a id="three-image-storyboard-music-resistance"></a>
+
+### Three Image Storyboard and Persistent Music
+
+[![Three Image Storyboard and Persistent Music source preview](<https://pbs.twimg.com/amplify_video_thumb/2107930884477517824/img/QxINM8wG-XVtkC4L.jpg>)](<https://x.com/Hemi3AI/status/2107931573391909200>)
+
+A local H3 recreation uses three public reference images and reports closer appearance but persistent unwanted music.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assign a story beat to each reference and evaluate visual identity separately from music suppression.
+
+**Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
+
+[Original post on X](<https://x.com/Hemi3AI/status/2107931573391909200>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-image-storyboard-music-resistance>)
+
+<a id="welcome-to-mars-mixed-pipeline"></a>
+
+### Welcome to Mars Mixed Pipeline
+
+[![Welcome to Mars Mixed Pipeline source preview](<https://pbs.twimg.com/amplify_video_thumb/2107937603248922624/img/Fjq4Me9AVRsGBUaP.jpg>)](<https://x.com/alexutopia/status/2107940178018935193>)
+
+A Mars-themed video credits Nano Banana 2.1 and H3, with a separate Suno v6 soundtrack.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a short world-introduction sequence from consistent image references and add the soundtrack during assembly.
+
+**Shared by:** [Alex Utopia](<https://x.com/alexutopia>)
+
+[Original post on X](<https://x.com/alexutopia/status/2107940178018935193>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#welcome-to-mars-mixed-pipeline>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -3805,6 +3958,94 @@ Describe the simplified facial treatment from the first frame and constrain each
 **Shared by:** [おおひろ](<https://x.com/oohiro35>)
 
 [Original post on X](<https://x.com/oohiro35/status/2107599280668070225>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#deadpan-anime-office-two-shot>)
+
+<a id="flashy-anime-action-study"></a>
+
+### Flashy Anime Action Study
+
+[![Flashy Anime Action Study source preview](<https://pbs.twimg.com/amplify_video_thumb/2107873784162287616/img/wXu9hXYBZv1qHsp9.jpg>)](<https://x.com/nyaa_toraneko/status/2107873876630024287>)
+
+Nobu Kobayashi shares an H3 experiment focused on flashy animated action.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose a short action beat and inspect pose readability and motion between impact moments.
+
+**Shared by:** [Nobu-Kobayashi : Generative AI Technology](<https://x.com/nyaa_toraneko>)
+
+[Original post on X](<https://x.com/nyaa_toraneko/status/2107873876630024287>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flashy-anime-action-study>)
+
+<a id="pokemon-origami-3090-animation"></a>
+
+### RTX 3090 Pokemon Origami Animation
+
+[![RTX 3090 Pokemon Origami Animation source preview](<https://pbs.twimg.com/amplify_video_thumb/2107907308474814465/img/qAFS9icmVWOqa7Ss.jpg>)](<https://x.com/nullfoundry/status/2107907360308265357>)
+
+NullFoundry attributes an origami-style Pokemon video to local H3 with ComfyUI on an RTX 3090.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Try an original creature made from folded paper and describe folds and material behavior through motion.
+
+**Shared by:** [NullFoundry](<https://x.com/nullfoundry>)
+
+[Original post on X](<https://x.com/nullfoundry/status/2107907360308265357>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pokemon-origami-3090-animation>)
+
+<a id="crescent-eye-honey-reward-dialogue"></a>
+
+### Crescent Eye Honey Reward Dialogue
+
+[![Crescent Eye Honey Reward Dialogue source preview](<https://pbs.twimg.com/amplify_video_thumb/2108004997095145472/img/NU2_5n1wTjTz51Oz.jpg>)](<https://x.com/oohiro35/status/2108005130159432145>)
+
+A complete five-second reference prompt holds crescent eyes and heart graphics through two timed Japanese lines.
+
+**Model:** MiniMax H3
+
+#### Author prompt · `en`
+
+```text
+subject_definitions:
+<Picture 1> defines Oohiro-chan, an adult office worker with long black hair, a blue gemstone and black feather hair ornament, black jacket, white collared blouse, and greige skirt. Keep her recognizable hairstyle, ornament, and outfit while exaggerating only the specified facial features and acting. Any coworker is a separate adult with brown hair and a red cardigan, never a duplicate of Oohiro-chan.
+
+summary:
+[reference generation] A five-second Japanese manga-inspired gag-anime reaction. The stylized expression is present in the first frame and persists through the final frame. No normal-expression setup or recovery ending.
+
+retention_analysis:
+<Picture 1>: partially_preserved — Keep hair, ornament, and clothing identity. Replace normal eyes, mouth proportions, facial shading, and background with the requested manga symbols. Prioritize readable graphic expressions over realistic facial anatomy.
+
+detailed_description:
+One uninterrupted locked medium shot of Oohiro-chan on the right foreground, with one smaller brown-bob red-cardigan adult coworker on the left background. Exactly two people. Oohiro-chan holds a small sealed oval honey container with both hands just below her mouth, tilted upward. Keep the same container attached to her hands throughout; it does not duplicate or melt.
+Oohiro-chan's eyes are tightly closed upward-curving crescent lines, with no visible irises. Her eyebrows form soft delighted arcs. Three short diagonal blush strokes mark each cheek. Her lips form a small protruding puckered circle that gently touches the outside of the container, then separates by a tiny distance. Her chin lifts slightly and her shoulders squeeze inward in a delighted pose. She makes two small rocking motions, keeping the happy crescent eyes throughout.
+The coworker has matching closed crescent eyes and a broad, simple open smiling mouth, showing no realistic dental detail. Her shoulders bounce once in amused delight.
+The background is a pale gray stippled and softly mottled graphic field, not a room. Several small pastel-pink heart symbols float upward at different heights. At the announcement, the hearts briefly grow slightly, then continue drifting. No caption heading is rendered.
+At 0.2–2.2 seconds, Oohiro-chan announces <d>[Japanese]ごほうび、確保！</d>
+At 2.3–4.7 seconds, the coworker replies <d>[Japanese]それ、明日の分だよ。</d>
+Retain the happy crescent eyes, blush strokes, puckered lips or smiling open mouth, and heart background until the end.
+No captions, speech bubbles, narration boxes, written dialogue, office scenery, duplicate bodies, or split screen. Do not return to ordinary sparkling blue anime eyes or a neutral standard mouth. Preserve the specified expression treatment throughout, including the very last frame.
+
+overall_soundscape:
+Natural adult Japanese female voices. Speak only the dialogue explicitly specified above, assigned to the indicated speaker. Compact delivery fitting five seconds. No additional dialogue or narration. Small dry comic sound accents and faint room tone.
+
+non_diegetic_music:
+None.
+Finish all spoken syllables before 4.7 seconds. Preserve the original exaggerated face and background through the final silent moment.
+```
+
+#### How to adapt it
+
+Use one three-view character sheet, lock the expression from the first frame, and assign each Japanese line to a distinct adult speaker.
+
+**Shared by:** [おおひろ](<https://x.com/oohiro35>)
+
+[Original post on X](<https://x.com/oohiro35/status/2108005130159432145>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#crescent-eye-honey-reward-dialogue>)
 
 <a id="category-reference-character"></a>
 
@@ -4568,6 +4809,46 @@ Compare reference and output eyes, accessories and proportions frame by frame ra
 
 [Original post on X](<https://x.com/fnoji/status/2107627585224286551>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-eye-size-glasses-drift>)
 
+<a id="h3-max-omni-same-prompt-pair"></a>
+
+### H3 Max and Omni Same Prompt Pair
+
+[![H3 Max and Omni Same Prompt Pair source preview](<https://pbs.twimg.com/amplify_video_thumb/2106513185444364288/img/iwzjeLvYcMM6I3-g.jpg>)](<https://x.com/IddyJosephh/status/2106513225420259343>)
+
+A widely viewed two-video comparison labels the first result H3 Max and the second Gemini Omni Flash.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare only the first video as H3 Max output; reuse a shared brief and identical references for a controlled comparison.
+
+**Shared by:** [Idorenyin Joseph | AI Video creator](<https://x.com/IddyJosephh>)
+
+[Original post on X](<https://x.com/IddyJosephh/status/2106513225420259343>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-omni-same-prompt-pair>)
+
+<a id="blender-to-anime-comfyui-study"></a>
+
+### Blender to Anime ComfyUI Study
+
+[![Blender to Anime ComfyUI Study source preview](<https://pbs.twimg.com/amplify_video_thumb/2108010422708191232/img/bPavRvYRs44uiDqN.jpg>)](<https://x.com/DayoftheAnswer/status/2108010485610078390>)
+
+A creator labels a ComfyUI H3 result as Blender to Anime, combining 3D-source design with an anime treatment.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare a simple Blender scene and compare its layout with the anime result; document the input mode before claiming motion transfer.
+
+**Shared by:** [Day of the Answer](<https://x.com/DayoftheAnswer>)
+
+[Original post on X](<https://x.com/DayoftheAnswer/status/2108010485610078390>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blender-to-anime-comfyui-study>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -5282,6 +5563,84 @@ Turn personal memories into a shot list, create coherent storyboard images and a
 **Shared by:** [테슬이](<https://x.com/porysmail>)
 
 [Original post on X](<https://x.com/porysmail/status/2107657068815782257>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#birthday-memories-local-h3-music-video>)
+
+<a id="elemental-diffusion-manual-mv"></a>
+
+### Elemental Diffusion Manually Edited MV
+
+[![Elemental Diffusion Manually Edited MV source preview](<https://pbs.twimg.com/amplify_video_thumb/2107489137225871360/img/exueE-3MwWFiwISU.jpg>)](<https://x.com/papadupapadu/status/2107492458187596101>)
+
+ELEMENTAL DIFFUSION credits Hailuo H3 visuals, Eleven Music, Premiere Pro editing and Claude Opus.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a visual theme that evolves and returns, then align generated shots with a separately produced music track in the edit.
+
+**Shared by:** [PAPADU PAPADU](<https://x.com/papadupapadu>)
+
+[Original post on X](<https://x.com/papadupapadu/status/2107492458187596101>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#elemental-diffusion-manual-mv>)
+
+<a id="muscle-witch-theme-song-mv"></a>
+
+### Muscle Witch Theme Song MV
+
+[![Muscle Witch Theme Song MV source preview](<https://pbs.twimg.com/amplify_video_thumb/2107966636737339392/img/he7r4jowCO1xgtid.jpg>)](<https://x.com/TechTalkNAVI/status/2107966853658431925>)
+
+A Hailuo H3 music video presents a comic muscular witch character with an emotional theme-song premise.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep one recurring character and alternate comic performance with quieter emotional beats around a theme song.
+
+**Shared by:** [テックトークナビゲーター@AIコンテンツクリエイター](<https://x.com/TechTalkNAVI>)
+
+[Original post on X](<https://x.com/TechTalkNAVI/status/2107966853658431925>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#muscle-witch-theme-song-mv>)
+
+<a id="black-magic-bernini-h3-resolve"></a>
+
+### Black Magic Bernini and H3 Music Video
+
+A music-video workflow credits initial Bernini work, H3 finishing and final assembly in DaVinci Resolve.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Track which model produces each stage, then finish continuity and timing in a dedicated editor.
+
+**Shared by:** [Mark DK Berry](<https://x.com/MarkDKBerry>)
+
+[Original post on X](<https://x.com/MarkDKBerry/status/2107972210917003586>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#black-magic-bernini-h3-resolve>)
+
+<a id="design-will-mixed-model-mv"></a>
+
+### Design and Will Mixed Model MV
+
+[![Design and Will Mixed Model MV source preview](<https://pbs.twimg.com/amplify_video_thumb/2108022848577290240/img/Nwyc-sgNiUyxnL8U.jpg>)](<https://x.com/Alone1Moon/status/2108023103326720199>)
+
+An alternate Design and Will music video credits Astara, Krea2, H3 and JIZURA in a combined pipeline.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Maintain a shared character and visual brief across model stages, then compare the assembled alternate cut.
+
+**Shared by:** [Alone1M](<https://x.com/Alone1Moon>)
+
+[Original post on X](<https://x.com/Alone1Moon/status/2108023103326720199>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#design-will-mixed-model-mv>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -8337,6 +8696,186 @@ Audit executed node states and generation logs, including disabled LoRAs, before
 **Shared by:** [Nami｜EC運営×生成AI｜商品ページ自動化の実験ログ](<https://x.com/NamiDesignWorks>)
 
 [Original post on X](<https://x.com/NamiDesignWorks/status/2107667258046607543>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-runtime-logs-disabled-lora>)
+
+<a id="fused-turbo-int8-15s-local-gui"></a>
+
+### Fused Turbo INT8 Fifteen Second GUI Runs
+
+[![Fused Turbo INT8 Fifteen Second GUI Runs source preview](<https://pbs.twimg.com/media/HT66_6xaIAE6FMu.jpg>)](<https://x.com/ohshie1973/status/2107327644291465693>)
+
+An author reports 480p, 15-second, four-step local runs under three minutes with a custom GUI and explicit settings.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record MATLOW Fused Turbo INT8 ConvRot, res_multistep/simple, SLA 0.90 and Audio Protect before measuring your own runs.
+
+**Shared by:** [リド](<https://x.com/ohshie1973>)
+
+[Original post on X](<https://x.com/ohshie1973/status/2107327644291465693>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fused-turbo-int8-15s-local-gui>)
+
+<a id="two-minute-local-mv-audio-limit"></a>
+
+### Two Minute Local Video and Audio Limits
+
+[![Two Minute Local Video and Audio Limits source preview](<https://pbs.twimg.com/amplify_video_thumb/2107470942083633153/img/FlZBJEneI_Xusvoj.jpg>)](<https://x.com/chujoakira/status/2107473748819669305>)
+
+A creator reports roughly two-minute H3 videos in twenty minutes, with prompt tuning and audio limitations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assess continuity and audio across the whole sequence before choosing an MV format or a dialogue-heavy project.
+
+**Shared by:** [あぼん](<https://x.com/chujoakira>)
+
+[Original post on X](<https://x.com/chujoakira/status/2107473748819669305>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#two-minute-local-mv-audio-limit>)
+
+<a id="4080-fasth3-v2-int8-eight-second-pair"></a>
+
+### RTX 4080 FastH3 V2 and INT8 Pair
+
+[![RTX 4080 FastH3 V2 and INT8 Pair source preview](<https://pbs.twimg.com/amplify_video_thumb/2107820920530497536/img/mb1sSknU1N_vbSeV.jpg>)](<https://x.com/eternityspring/status/2107822061163077856>)
+
+Matched 640×640 eight-second runs report 58.23 seconds for FastH3 V2 and 255.92 seconds for official H3 INT8.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold the full prompt, size, duration and seed 20261007 fixed when checking speed and visual quality on your GPU.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2107822061163077856>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4080-fasth3-v2-int8-eight-second-pair>)
+
+<a id="tensorfold-metal-fasth3-10s-test"></a>
+
+### TensorFold Metal FastH3 Ten Second Test
+
+[![TensorFold Metal FastH3 Ten Second Test source preview](<https://pbs.twimg.com/amplify_video_thumb/2107887424294514688/img/zTtYUsHS8EQ7bu_w.jpg>)](<https://x.com/u1tra_instinct/status/2107888292695793946>)
+
+A TensorFold Apple Silicon update reports a 1312×736, 243-frame H3/FastH3 V2 run in 7.9 minutes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Log chip, memory, step count and kernel version alongside resolution and frame count when comparing local Mac runs.
+
+**Shared by:** [keys 🧪](<https://x.com/u1tra_instinct>)
+
+[Original post on X](<https://x.com/u1tra_instinct/status/2107888292695793946>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tensorfold-metal-fasth3-10s-test>)
+
+<a id="117-h3-max-game-motion-animations"></a>
+
+### 117 H3 Max Clips to Game Animations
+
+[![117 H3 Max Clips to Game Animations source preview](<https://pbs.twimg.com/amplify_video_thumb/2107930331579899905/img/sKTN564Gu7u8Xvp2.jpg>)](<https://x.com/MrCollison/status/2107932939816435792>)
+
+A game prototype reports 117 animations from GPT Image first frames, H3 Max video and GHVMR motion conversion.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate first-frame generation, H3 video and motion reconstruction, then test blending and camera tracking in the game.
+
+**Shared by:** [Matt](<https://x.com/MrCollison>)
+
+[Original post on X](<https://x.com/MrCollison/status/2107932939816435792>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#117-h3-max-game-motion-animations>)
+
+<a id="laptop-anime-last-frame-human-review"></a>
+
+### Laptop Anime Last Frame Continuity Review
+
+[![Laptop Anime Last Frame Continuity Review source preview](<https://pbs.twimg.com/media/HUCxdEXb0AAgCeg.jpg>)](<https://x.com/ChloeXChaCha/status/2107969222362206274>)
+
+A ten-episode anime build log explains last-frame chaining and human review after fourteen shots failed continuity.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Pass the prior final frame into the next shot; inspect entire clips for inherited pose errors, scene drift, identity changes and speech language.
+
+**Shared by:** [Chloe Kao](<https://x.com/ChloeXChaCha>)
+
+[Original post on X](<https://x.com/ChloeXChaCha/status/2107969222362206274>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#laptop-anime-last-frame-human-review>)
+
+<a id="runpod-mcp-h3-prompt-download"></a>
+
+### RunPod MCP Prompt to Download Workflow
+
+A user reports using a RunPod MCP integration to provision an H3 server, execute prompts and download outputs.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Treat provisioning, model execution and download as separate steps, and log the actual instance and run settings when reproducing the flow.
+
+**Shared by:** [A. Sparks](<https://x.com/asparks1010100>)
+
+[Original post on X](<https://x.com/asparks1010100/status/2108006429898711112>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#runpod-mcp-h3-prompt-download>)
+
+<a id="5070-ti-2k-duration-runtime-report"></a>
+
+### RTX 5070 Ti Duration and Runtime Report
+
+[![RTX 5070 Ti Duration and Runtime Report source preview](<https://pbs.twimg.com/amplify_video_thumb/2108018366485291008/img/1f9ZYU1iEn5P11Kx.jpg>)](<https://x.com/AnkitKumar65837/status/2108019626710073355>)
+
+An RTX 5070 Ti user with 24GB system RAM reports H3 runtimes of 7, 19 and 38 minutes for 5, 10 and 15 seconds.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Measure each duration separately and record resolution, steps, memory use and any upscale stages to explain nonlinear runtime.
+
+**Shared by:** [Ankit Kumar](<https://x.com/AnkitKumar65837>)
+
+[Original post on X](<https://x.com/AnkitKumar65837/status/2108019626710073355>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5070-ti-2k-duration-runtime-report>)
+
+<a id="four-still-five-second-stage-chain"></a>
+
+### Four Still Five Second Stage Chain
+
+A creator uses four GPT Image stills as consecutive start/end pairs for five-second H3 stages, then joins the clips.
+
+**Model:** MiniMax H3
+
+#### Claude Code orchestration instruction · `ja`
+
+```text
+静止画4枚を、段ごとに開始画像と終了画像を渡して5秒ずつ動画にしてつないで。文章には、その段で起きることを順番に書く
+```
+
+#### How to adapt it
+
+Fix all four stage images first, then describe events in order for each adjacent start/end pair and inspect continuity before joining.
+
+**Shared by:** [Shoji Kai](<https://x.com/Shoji_ai>)
+
+[Original post on X](<https://x.com/Shoji_ai/status/2108029622520537430>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-still-five-second-stage-chain>)
 
 ## Suggest a prompt
 
