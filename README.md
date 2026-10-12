@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **363 verified examples**, with sources reviewed through **2026-10-10**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **404 verified examples**, with sources reviewed through **2026-10-12**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (50)
-- [Storyboards & sequences](<#category-storyboard>) (59)
-- [Anime & animation](<#category-anime-animation>) (30)
-- [References & consistency](<#category-reference-character>) (41)
-- [Music videos & dance](<#category-music-dance>) (46)
-- [Dialogue & audio](<#category-dialogue-audio>) (22)
-- [Motion graphics & titles](<#category-motion-graphics>) (17)
-- [ComfyUI & workflows](<#category-workflows>) (98)
+- [Cinematic & camera](<#category-cinematic-camera>) (55)
+- [Storyboards & sequences](<#category-storyboard>) (62)
+- [Anime & animation](<#category-anime-animation>) (31)
+- [References & consistency](<#category-reference-character>) (46)
+- [Music videos & dance](<#category-music-dance>) (48)
+- [Dialogue & audio](<#category-dialogue-audio>) (25)
+- [Motion graphics & titles](<#category-motion-graphics>) (19)
+- [ComfyUI & workflows](<#category-workflows>) (118)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1733,6 +1733,106 @@ Keep the causal timeline and delayed leg crossing, then make all requested flame
 **Shared by:** [BUSET](<https://x.com/bseti>)
 
 [Original post on X](<https://x.com/bseti/status/2108730268865687698>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#match-toss-fire-letter-dolly-reveal>)
+
+<a id="4070-orbit-lora-28-step-recipe"></a>
+
+### RTX 4070 Orbit LoRA Twenty Eight Step Recipe
+
+[![RTX 4070 Orbit LoRA Twenty Eight Step Recipe video preview](<https://pbs.twimg.com/amplify_video_thumb/2109105107149488128/img/gKccrgBTOtdfg4ez.jpg>)](<https://x.com/AiPhotorealGirl/status/2109107247678931240>)
+
+RTX 4070 orbit tests document 28 steps at 1248² and 1440², with a reported memory improvement after a ComfyUI update.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with a square portrait reference and test orbit continuity; record interpolation separately from generated frame rate.
+
+**Shared by:** [AIconia | アイコニア](<https://x.com/AiPhotorealGirl>)
+
+[Original post on X](<https://x.com/AiPhotorealGirl/status/2109107247678931240>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4070-orbit-lora-28-step-recipe>)
+
+<a id="dgx-spark-first-last-orbit-loop"></a>
+
+### DGX Spark First and Last Frame Orbit Loop
+
+[![DGX Spark First and Last Frame Orbit Loop video preview](<https://pbs.twimg.com/amplify_video_thumb/2109284632181309440/img/ZJ9US88PHZ9g-ruM.jpg>)](<https://x.com/s_him88/status/2109284842718576775>)
+
+The same still in first and last frames guides a five-second full orbit; the creator reports ten completed orbit tests on DGX Spark.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Bind the same image at both endpoints, compare turbo and full-step LoRA runs, and check the final pose against frame one.
+
+**Shared by:** [Solar Studio](<https://x.com/s_him88>)
+
+[Original post on X](<https://x.com/s_him88/status/2109284842718576775>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-first-last-orbit-loop>)
+
+<a id="crimson-vampire-unicorn-surreal"></a>
+
+### Crimson Vampire and Unicorn Surreal Scene
+
+[![Crimson Vampire and Unicorn Surreal Scene video preview](<https://pbs.twimg.com/amplify_video_thumb/2109290377685655552/img/aospO4Xht8Ix6Qph.jpg>)](<https://x.com/mirali6is/status/2109290437018345588>)
+
+A crimson surreal vampire-and-unicorn scene uses Midjourney imagery followed by Hailuo H3 animation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use one dominant palette and a clear creature relationship to build a short surreal scene from a still image.
+
+**Shared by:** [Mira](<https://x.com/mirali6is>)
+
+[Original post on X](<https://x.com/mirali6is/status/2109290437018345588>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#crimson-vampire-unicorn-surreal>)
+
+<a id="cat-mirror-pollo-advertisement"></a>
+
+### Cat Mirror Pollo Advertisement
+
+[![Cat Mirror Pollo Advertisement video preview](<https://pbs.twimg.com/amplify_video_thumb/2109473219438645248/img/LDiwr5Ahnx4efJWS.jpg>)](<https://x.com/Designer_Samco/status/2109473296056242387>)
+
+A cat-mirror advertising vignette credits MiniMax H3 in a Pollo AI production with FineVoice also tagged.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a simple reflective setup to test subject and reflection continuity; inspect both sides before building a longer advertisement.
+
+**Shared by:** [سامكو Samco Creative Arts](<https://x.com/Designer_Samco>)
+
+[Original post on X](<https://x.com/Designer_Samco/status/2109473296056242387>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cat-mirror-pollo-advertisement>)
+
+<a id="hallway-collision-bullet-time-props"></a>
+
+### Hallway Collision Bullet Time Props
+
+[![Hallway Collision Bullet Time Props video preview](<https://pbs.twimg.com/amplify_video_thumb/2109477859475759104/img/yYh5EMHafrK4dWkm.jpg>)](<https://x.com/DeepForest_Inc/status/2109478648860619129>)
+
+Bullet-Time LoRA stages a hallway collision, frozen glasses, phone and iced coffee, then a camera tour and missing-glasses payoff.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Design one collision and a small set of suspended props, then specify the camera’s visit order and a clear comic ending.
+
+**Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
+
+[Original post on X](<https://x.com/DeepForest_Inc/status/2109478648860619129>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hallway-collision-bullet-time-props>)
 
 <a id="category-storyboard"></a>
 
@@ -3571,6 +3671,76 @@ Preserve the reveal order and muted film palette while replacing the location an
 
 [Original post on X](<https://x.com/DeCat2025/status/2108726243025711203>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#the-tide-seabed-horror-reveal>)
 
+<a id="clockwork-pocket-city-sunrise"></a>
+
+### Clockwork Pocket City Sunrise
+
+[![Clockwork Pocket City Sunrise video preview](<https://pbs.twimg.com/amplify_video_thumb/2108914757637926912/img/s0IzkDFQAdPAGfhA.jpg>)](<https://x.com/DeCat2025/status/2108914789665604069>)
+
+A fifteen-second macro fantasy prompt reveals a city inside a pocket watch and links its tiny sunrise to the real workshop dawn.
+
+**Model:** MiniMax H3
+
+```text
+Style: cinematic macro fantasy, warm amber workshop lamp light, brass and glass textures, extreme close-ups, shallow depth of field, film grain.
+
+0-5s: One old watchmaker with a magnifying loupe over one eye opens a gold pocket watch on his wooden workbench at night, the dark window behind him showing a sleeping city, the viewer over his shoulder.
+
+5-10s: The viewer pushes into the open watch and reveals a tiny city built among the brass gears, with tiny lit windows and tiny people walking across the turning cogs in darkness, the watchmaker's tweezers lowering in and tightening one small screw.
+
+10-15s: A tiny sun rises over the gears inside the watch, the tiny city fills with morning light, and at the same moment real sunrise floods through the workshop window behind him, the watchmaker slowly looks up at the window, the viewer pulling back.
+
+Negative prompt: more than one watchmaker, digital watch, cartoon style, modern electronics, text, numbers, watermark, slow motion
+```
+
+#### How to adapt it
+
+Replace the hidden miniature world while retaining the watch opening, macro push-in and synchronized two-scale sunrise.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2108914789665604069>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#clockwork-pocket-city-sunrise>)
+
+<a id="rossy-boss-nineteen-scene-cartoon"></a>
+
+### Rossy the Boss Nineteen Scene Cartoon
+
+[![Rossy the Boss Nineteen Scene Cartoon video preview](<https://pbs.twimg.com/amplify_video_thumb/2109309837632761856/img/J_prM0qqFQsOmBoj.jpg>)](<https://x.com/MonetizationDon/status/2109312717748146565>)
+
+A cat mafia comedy develops a nineteen-scene GPT Image storyboard, then animates and assembles scenes with MiniMax H3 in PixVerse.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Develop a consistent cast and scene-by-scene storyboard before animating; review dialogue and comedic timing across the assembly.
+
+**Shared by:** [LAPTOP LIFESTYLE BLOGGER](<https://x.com/MonetizationDon>)
+
+[Original post on X](<https://x.com/MonetizationDon/status/2109312717748146565>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rossy-boss-nineteen-scene-cartoon>)
+
+<a id="showa-stage-three-cut-h3-comparison"></a>
+
+### Showa Stage Three Cut H3 Comparison
+
+[![Showa Stage Three Cut H3 Comparison comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2109466237994692609/img/UkFL8-hFJMKK_sG_.jpg>)](<https://x.com/FantasistaAI/status/2109467907981967400>)
+
+A stage-introduction comparison edits three ten-second H3 clips against longer Seedance and Wan takes, reporting movement limitations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare edited short shots with a continuous take of the same staircase-to-microphone action; track seams as well as image clarity.
+
+**Shared by:** [Hakushi🌈精密AIアーティスト](<https://x.com/FantasistaAI>)
+
+[Original post on X](<https://x.com/FantasistaAI/status/2109467907981967400>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#showa-stage-three-cut-h3-comparison>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -4446,6 +4616,30 @@ Replace the dragon and meadow while preserving the four timed attempts, tactile 
 **Shared by:** [neco - AI Anime](<https://x.com/neco1751662>)
 
 [Original post on X](<https://x.com/neco1751662/status/2108707331223814516>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pop-up-baby-dragon-first-flame>)
+
+<a id="pencil-fishing-tug-of-war-animation"></a>
+
+### Pencil Fishing Tug of War Animation
+
+[![Pencil Fishing Tug of War Animation video preview](<https://pbs.twimg.com/amplify_video_thumb/2109395606531928064/img/Gn7eCrO1N3ssA5hO.jpg>)](<https://x.com/akiyoshisan/status/2109395626001924489>)
+
+A public shortened prompt animates a pencil drawing into a two-character fishing struggle while preserving paper and irregular lines.
+
+**Model:** MiniMax H3
+
+#### Shortened prompt · `ja`
+
+```text
+参照画像の手描き鉛筆線画をそのままアニメーション化。キャラクターの顔・髪型・頭身・服装、紙の質感、線の不均一さを維持し、カラー化・3D化・綺麗なアニメ絵への描き直しは禁止。女の子の釣り竿に魚がかかり、魚が左右へ激しく動いて女の子が引っ張られる。男の子が気づいて駆け寄り、2人で竿を握って魚と綱引き。最後は2人が力いっぱい引き、魚が水面から大きく飛び上がる。15秒間、走る・踏ん張る・引っ張る・振り返る・追いかけるなど高密度モーション。静止画の微振動ではなく、元の線画キャラクターを実際に大きく動かす。
+```
+
+#### How to adapt it
+
+Keep the pencil texture and large-action requirements while replacing fishing with another shared physical task.
+
+**Shared by:** [右よし左よし秋よし@AIエンタメ](<https://x.com/akiyoshisan>)
+
+[Original post on X](<https://x.com/akiyoshisan/status/2109395626001924489>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pencil-fishing-tug-of-war-animation>)
 
 <a id="category-reference-character"></a>
 
@@ -5368,6 +5562,106 @@ Assign a distinct action to each participant and compare against a simpler group
 **Shared by:** [元荒川ちゃん❤](<https://x.com/mtArakawa>)
 
 [Original post on X](<https://x.com/mtArakawa/status/2108690640750235799>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#individual-actions-angel-flight-training>)
+
+<a id="local-action-r2v-to-i2v-fallback"></a>
+
+### Local Action R2V to I2V Fallback
+
+[![Local Action R2V to I2V Fallback video preview](<https://pbs.twimg.com/amplify_video_thumb/2108825793724104704/img/m6NvooeuvYFtutuF.jpg>)](<https://x.com/WBK_SZ/status/2108826344813691233>)
+
+A creator switches an action sequence from R2V to I2V after repeated difficulty and retains visible roughness in the local H3 result.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+When reference-video action fails, compare an image-conditioned version of the same scene and keep a human review of movement.
+
+**Shared by:** [WBK](<https://x.com/WBK_SZ>)
+
+[Original post on X](<https://x.com/WBK_SZ/status/2108826344813691233>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-action-r2v-to-i2v-fallback>)
+
+<a id="orbit-lora-unseen-tail-invention"></a>
+
+### Orbit LoRA Unseen Tail Invention
+
+[![Orbit LoRA Unseen Tail Invention video preview](<https://pbs.twimg.com/amplify_video_thumb/2109105620184092673/img/v40k9pXU-BiO5lxl.jpg>)](<https://x.com/mmmpa/status/2109106524593557992>)
+
+A single-photo 360° LoRA test exposes an invented tail as H3 fills in character details absent from the reference view.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Inspect unseen sides after an orbit and add reference views when specific costume or anatomy details must remain accurate.
+
+**Shared by:** [ふとし](<https://x.com/mmmpa>)
+
+[Original post on X](<https://x.com/mmmpa/status/2109106524593557992>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#orbit-lora-unseen-tail-invention>)
+
+<a id="krea-stills-helicopter-swarm"></a>
+
+### Krea Stills to Helicopter Swarm
+
+[![Krea Stills to Helicopter Swarm video preview](<https://pbs.twimg.com/amplify_video_thumb/2109376638349967360/img/kFuRswv7VR2VYquV.jpg>)](<https://x.com/WasabiVaio/status/2109428331573924195>)
+
+Krea2 helicopter stills guide H3 animation of a large science-fiction helicopter formation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare coherent vehicle design references and ask for formation flight; inspect duplicates, rotor motion and vehicle scale.
+
+**Shared by:** [wasabi\_vaio](<https://x.com/WasabiVaio>)
+
+[Original post on X](<https://x.com/WasabiVaio/status/2109428331573924195>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#krea-stills-helicopter-swarm>)
+
+<a id="muse-image-h3-dream-state"></a>
+
+### Muse Image to H3 Dream State
+
+[![Muse Image to H3 Dream State video preview](<https://pbs.twimg.com/amplify_video_thumb/2109464198711218176/img/JW_2fr2LvVB8cy8J.jpg>)](<https://x.com/zeng_wt/status/2109464233217819130>)
+
+A pastel surreal base frame made with Muse Image is animated with H3 Max in a dream-state study.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a unified pastel reference first, then animate restrained movement while inspecting texture and object identity across frames.
+
+**Shared by:** [𝐙𝐞𝐧𝐠 💜](<https://x.com/zeng_wt>)
+
+[Original post on X](<https://x.com/zeng_wt/status/2109464233217819130>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#muse-image-h3-dream-state>)
+
+<a id="singularity-ref2v-kimono-study"></a>
+
+### Singularity Ref2V Kimono Study
+
+[![Singularity Ref2V Kimono Study video preview](<https://pbs.twimg.com/amplify_video_thumb/2109467219126296576/img/CC3nixsR4_I1EVRF.jpg>)](<https://x.com/mix_buchi_/status/2109467267654431023>)
+
+A kimono character study is generated with H3 Ref2V using the Singularity model according to its creator.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a reference character with distinctive garment structure and inspect fabric, face and sleeve continuity through the animation.
+
+**Shared by:** [buchi\_](<https://x.com/mix_buchi_>)
+
+[Original post on X](<https://x.com/mix_buchi_/status/2109467267654431023>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#singularity-ref2v-kimono-study>)
 
 <a id="category-music-dance"></a>
 
@@ -6362,6 +6656,46 @@ Prepare paired character sheets and a song before planning a duo performance; in
 **Shared by:** [Maru999](<https://x.com/maru_999_>)
 
 [Original post on X](<https://x.com/maru_999_/status/2108754394527465747>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wicked-smile-countdown-duo-mv>)
+
+<a id="near-future-trance-dance-ai-hd"></a>
+
+### Near Future Trance Dance with AI HD
+
+[![Near Future Trance Dance with AI HD video preview](<https://pbs.twimg.com/amplify_video_thumb/2109344921727746048/img/lnxlVVie4DuYZg7q.jpg>)](<https://x.com/sorastg524/status/2109345406408860076>)
+
+A near-future trance dance music video combines H3 Max output with CapCut AI HD enhancement.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a consistent futuristic dance palette, then compare the enhanced output for temporal stability and preserved movement.
+
+**Shared by:** [sorastg524](<https://x.com/sorastg524>)
+
+[Original post on X](<https://x.com/sorastg524/status/2109345406408860076>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#near-future-trance-dance-ai-hd>)
+
+<a id="lrc-hiragana-flova-cli-music-video"></a>
+
+### LRC and Hiragana Flova CLI Music Video
+
+[![LRC and Hiragana Flova CLI Music Video video preview](<https://pbs.twimg.com/amplify_video_thumb/2109418608128630784/img/QYGtnOqRzRfLsrJz.jpg>)](<https://x.com/Naonekozamurai/status/2109420329882054867>)
+
+An LRC-led MV workflow uses H3 scenes, hiragana lip-sync instructions, one retry per failed scene and separate lyric-motion editing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Align scene beats to an LRC file, write Japanese sung speech in hiragana, and park scenes that still fail after a limited retry.
+
+**Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original post on X](<https://x.com/Naonekozamurai/status/2109420329882054867>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lrc-hiragana-flova-cli-music-video>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -7695,6 +8029,62 @@ Reuse the same reference images and sequence brief across iterations, then add e
 
 [Original post on X](<https://x.com/AI_swwww/status/2108663902225780792>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bread-catch-dialogue-iteration-comparison>)
 
+<a id="thirteen-model-audio-avatar-comparison"></a>
+
+### Thirteen Model Audio Avatar Comparison
+
+An image-plus-audio avatar comparison covers thirteen models and 38 pipelines; its author highlights H3 Lip Synch and AvatarForever.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a shared portrait and audio sample across pipelines, then compare mouth timing, identity and expression.
+
+**Shared by:** [Furkan Gözükara](<https://x.com/FurkanGozukara>)
+
+[Original post on X](<https://x.com/FurkanGozukara/status/2108897295765041388>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#thirteen-model-audio-avatar-comparison>)
+
+<a id="single-prompt-infomercial-jingle-applause"></a>
+
+### Single Prompt Infomercial Jingle and Applause
+
+[![Single Prompt Infomercial Jingle and Applause video preview](<https://pbs.twimg.com/amplify_video_thumb/2108121200761122816/img/YCfK82F6b4Qu1rk5.jpg>)](<https://x.com/GamerHashCom/status/2109193283326947712>)
+
+An H3 infomercial example is attributed to one prompt covering the presenter, jingle and applause.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Specify a presenter, short pitch, jingle entrance and audience reaction in one timed audio-visual brief.
+
+**Shared by:** [GamerHash AI](<https://x.com/GamerHashCom>)
+
+[Original post on X](<https://x.com/GamerHashCom/status/2109193283326947712>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-prompt-infomercial-jingle-applause>)
+
+<a id="four-step-metallic-dialogue-artifact"></a>
+
+### Four Step Metallic Dialogue Artifact
+
+An H3 workflow author reports metallic high-frequency dialogue artifacts with four-step Turbo and considers increasing the step count.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the same spoken line at four and higher step counts; evaluate high-frequency ringing independently from lip timing.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2109396547247222898>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-step-metallic-dialogue-artifact>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -8034,6 +8424,177 @@ Explore a consistent wireframe visual language, then assess whether enhancement 
 **Shared by:** [sorastg524](<https://x.com/sorastg524>)
 
 [Original post on X](<https://x.com/sorastg524/status/2108624790693241243>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#monochrome-wireframe-world>)
+
+<a id="nvl72-reference-bound-hardware-deconstruction"></a>
+
+### NVL72 Reference Bound Hardware Deconstruction
+
+[![NVL72 Reference Bound Hardware Deconstruction video preview](<https://pbs.twimg.com/amplify_video_thumb/2109329403989659650/img/AAqpKw6zZTaMt791.jpg>)](<https://x.com/HexxRL/status/2109330811472265641>)
+
+Six published prompts use rigid reference-bound hardware, diagram-only effects and moving close-ups in an assembled NVL72 study film.
+
+**Model:** MiniMax H3
+
+#### PROMPT 1 — RACK AND REAR STRUCTURE · `en`
+
+```text
+15s,16:9,1440p. Reference bindings, fixed order: Element1 rack hero; Element2 rear structure; Element3 compute tray; Element4 superchip/memory; Element5 NVLink/spine; Element6 network/storage/control; Element7 cooling; Element8 power/management; Element9 external topology.
+
+Source-preserving photoreal educational deconstruction. Use approved plate geometry, black graphite studio, warm metallic hardware and restrained green light traces. Ignore all text, arrows, dots and framing printed on references: NO titles, captions, labels, logos or invented text in video. Gentle steady object yaw, small camera push/orbit and soft light shifts; retain familiar reference angles. Cuts between reference views, no shape-morph transitions. Never invent unseen hardware; no board bending, component multiplication, live service or coolant leaks. Diagram effects act on translucent overlays only; physical hardware remains rigid. No music; native subtle mechanical SFX only if supported.
+
+0-5s: intact Element1 NVL72 rack hero; slow yaw about 10 degrees, camera rises slightly. Preserve rack tray bands and cabinet proportions, no added panels. 5-11s: clean cut to rear Element2 angle. Its rear bezel, module supports, copper cartridge spine and paired coolant manifolds separate a small distance along the reference's existing exploded axes. Upward bezel separation is the inverse falling-from-above effect; parts hover calmly, never fall or collide. 11-15s: hold source-based rear exploded arrangement with cabinet as anchor. A thin translucent wireframe skeleton assembles over the unchanged chassis to show structure; four copper spine cartridges are emphasized using Element5 for form. Rack context: 18 compute trays, 9 NVLink switch trays, 72 Rubin GPUs, 36 Vera CPUs. Counts are for visual consistency, never printed or shown as extra loose chips. Quiet rail slide and dry latch click at each separation. End on rear liquid couplings for next shot.
+```
+
+#### PROMPT 2 — COOLING, POWER AND COMPUTE TRAY · `en`
+
+```text
+15s,16:9,1440p. Reference bindings, fixed order: Element1 rack hero; Element2 rear structure; Element3 compute tray; Element4 superchip/memory; Element5 NVLink/spine; Element6 network/storage/control; Element7 cooling; Element8 power/management; Element9 external topology.
+
+Source-preserving photoreal educational deconstruction. Use approved plate geometry, black graphite studio, warm metallic hardware and restrained green light traces. Ignore all text, arrows, dots and framing printed on references: NO titles, captions, labels, logos or invented text in video. Gentle steady object yaw, small camera push/orbit and soft light shifts; retain familiar reference angles. Cuts between reference views, no shape-morph transitions. Never invent unseen hardware; no board bending, component multiplication, live service or coolant leaks. Diagram effects act on translucent overlays only; physical hardware remains rigid. No music; native subtle mechanical SFX only if supported.
+
+0-6s: begin at paired rack coolant manifolds in Element7. Small camera push to the two compute-tray blind-mate couplings, then source-based section overlay follows supply/return through existing cold plates and hoses. Do not add pipe bends or expose unreferenced interiors. Cooling traces are conceptual colored light, never liquid outside pipes. 6-10s: cut to Element8 front view: ONE representative 3RU shelf with exactly SIX PSU compartments arranged 2 columns by 3 rows, its narrow management module, schematic 54V busbar and exactly TWO management Ethernet switches. Four shelves belong to rack; do not manufacture four extra shelf copies in this close-up. Preserve PSU grille/fan geometry; compute and NVLink trays have no fans. 10-15s: cut to complete Element3 tray, front/top angle unchanged. Housing and cold-plate visual layers separate slightly outwards from the anchor, inverse gathering-from-all-sides. A translucent horizontal scan subtracts only diagram layers, an inverse 3D-printing effect revealing structure without printing actual hardware. Preserve two compute-board locations and four GPU/two CPU tray context. End with tray held readable. Latch ticks, soft slide accents; no fluid spraying.
+```
+
+#### PROMPT 3 — SUPERCHIP AND MEMORY · `en`
+
+```text
+15s,16:9,1440p. Reference bindings, fixed order: Element1 rack hero; Element2 rear structure; Element3 compute tray; Element4 superchip/memory; Element5 NVLink/spine; Element6 network/storage/control; Element7 cooling; Element8 power/management; Element9 external topology.
+
+Source-preserving photoreal educational deconstruction. Use approved plate geometry, black graphite studio, warm metallic hardware and restrained green light traces. Ignore all text, arrows, dots and framing printed on references: NO titles, captions, labels, logos or invented text in video. Gentle steady object yaw, small camera push/orbit and soft light shifts; retain familiar reference angles. Cuts between reference views, no shape-morph transitions. Never invent unseen hardware; no board bending, component multiplication, live service or coolant leaks. Diagram effects act on translucent overlays only; physical hardware remains rigid. No music; native subtle mechanical SFX only if supported.
+
+0-5s: hold Element3 complete tray, gentle yaw no more than 10 degrees. Camera approaches one of its TWO compute-board regions; preserve gold front I/O bays and cooling forms. 5-12s: clean cut to the one complete superchip board from Element4: exactly ONE Vera CPU and TWO Rubin GPU packages. Retain its actual rectangular board, package spacing, connectors and surrounding SOCAMM2 LPDDR5X modules. Use close-up views from the SAME reference: Rubin's HBM4 stays on the GPU package, CPU memory stays beside Vera. No HBM cubes floating away, no soldered chips becoming field-removable. The two GPU compute dies and package memory may be visible as in reference, never invent transistor or silicon topology. Flat translucent diagram panels fold outward beside the rigid board to reveal the reference's GPU, CPU and memory detail windows; physical boards never fold. 12-15s: a faint point-cloud reconstruction scan traces the existing board outline and returns to transparent wireframe, with the physical board continuously visible. Keep board itself still enough to inspect. Quiet digital scan ticks and restrained mechanical click; hold one-CPU/two-GPU composition for readability.
+```
+
+#### PROMPT 4 — NETWORKING, NVLINK AND RACK FAMILY · `en`
+
+```text
+15s,16:9,1440p. Bind all nine designs in fixed order: Element1 rack; Element2 rear structure; Element3 compute tray; Element4 Superchip/memory; Element5 NVLink/spine; Element6 network/storage/control; Element7 cooling; Element8 power/management; Element9 external topology.
+
+Accurate educational Vera Rubin NVL72 hardware film. Preserve component geometry exactly as the designed reference images. Graphite studio, warm metal, restrained green light. Remove reference titles and labels; no generated text or logos. Minimal source-compatible camera movement and gentle lighting variation, rigid unmoving hardware. Clean cuts between three independent scenes, never morph objects.
+
+0-5s: Element6 network/storage/control composition. Slow camera glide across the source front bay and stable I/O-card/DPU detail panels. Keep two ConnectX-9 I/O cards, one BlueField-4 DPU, four cache E1.S drives plus one boot drive. SMM and power-distribution blocks stay simple outlined schematics.
+
+5-10s: clean cut to Element5. Show ONE NVLink6 switch tray, exactly FOUR ASIC positions and its source cold plates; four passive copper cartridges stand separately. Gentle camera push only; nothing multiplies or rotates to an unseen side.
+
+10-15s: clean cut to Element9. Show five distinct whole racks in source order: NVL72, Groq3 LPX, Vera CPU, BlueField-4 STX, Spectrum-6 SPX. Slow pull back keeps all five complete and separated. Tiny green schematic light particles converge into the external logical network; only light moves. Internal NVLink stays within NVL72. Hold all five at end. No extra chips, pipes, shelves or devices. All hardware remains recognizable. No music or speech; mechanical connector ticks and restrained scan pulses are editing sound notes.
+```
+
+#### PROMPT 5 — REPLACEMENT COOLING SHOT · `en`
+
+```text
+6-second 16:9 continuous moving hardware close-up of NVIDIA Vera Rubin liquid cooling. Element1 is the cooling geometry; Element2 is rear rack context; Element3 is the closed compute tray. Use object references, never a full-screen poster. From first frame to last, camera glides from paired rack supply/return manifolds toward ONE closed compute tray, with continuous slow clockwise orbit and forward dolly. Preserve rigid black hoses and cold plates as referenced. Blind-mate couplings stay connected and sealed; no exposed pipe holes, extra couplers, invented hose junctions, liquid pooling, leaks, splashes or fluid outside channels. Restrained blue/red travelling light INSIDE existing supply/return path may indicate conceptual flow without changing geometry. Dark graphite photographic studio, gold tray edge, soft moving light. No charts, arrows, title blocks, typography, freeze frames, end hold, cuts, shape morphing, component multiplication or full-picture reference image. Real moving three-dimensional hardware with parallax, not a zoom on a flat image. No music, voice or text. End while camera is still moving.
+```
+
+#### PROMPT 6 — REPLACEMENT SUPERCHIP SHOT · `en`
+
+```text
+6-second 16:9 continuous moving precision close-up of a NVIDIA Vera Rubin superchip board. Element1 gives superchip and memory geometry; Element2 gives compute-tray context. References are hardware objects, never posters. First frame to last, slow uninterrupted clockwise camera orbit and gentle forward dolly over ONE rigid board: exactly ONE Vera CPU and TWO Rubin GPU packages; SOCAMM2 beside Vera; HBM4 integrated on Rubin GPU packages. Preserve existing package locations and counts in Element1. Keep covered tray edge as context initially, then glide toward board top. Do not unfold panels, multiply boards, move silicon or invent pipes. Any section reveal is a narrow translucent optical window in a cover. No folding, bending, extra GPUs, splitting packages, particles, arrows, typography, charts, cuts or final hold. Black graphite studio, warm metal, restrained green reflections. Camera moves with actual parallax throughout; no flat-image zoom. No music or voice. End still drifting toward GPU packages.
+```
+
+#### How to adapt it
+
+Bind your own verified product plates in fixed order; separate diagram overlays from rigid physical geometry and replace static holds with parallax.
+
+**Shared by:** [Hexx ./](<https://x.com/HexxRL>)
+
+[Original post on X](<https://x.com/HexxRL/status/2109330811472265641>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#nvl72-reference-bound-hardware-deconstruction>)
+
+<a id="ren-menswear-kinetic-typography"></a>
+
+### REN Menswear Kinetic Typography
+
+[![REN Menswear Kinetic Typography video preview](<https://pbs.twimg.com/amplify_video_thumb/2109276275017912320/img/KfC9BBz-UpSz1CWP.jpg>)](<https://x.com/Suzukiphill/status/2109388577406628169>)
+
+A complete menswear prompt combines character-sheet identity, six timed typography beats and explicit left-wrist watch continuity.
+
+**Model:** MiniMax H3
+
+```text
+Create an exactly 10-second premium vertical 9:16 photorealistic Japanese menswear fashion commercial using the attached REN character sheet　@[Image 1](image_1) as the absolute visual reference.
+
+CORE OBJECTIVE:
+Combine luxury menswear advertising, dynamic cinematic camera choreography, and sophisticated Adobe After Effects-style kinetic typography. Every shot must feel like a professionally directed, photographed, edited and motion-designed fashion commercial, never a static character sheet animation.
+
+CHARACTER AND REFERENCE CONTROL:
+The MID SHOT 3 VIEW section defines REN's face, natural messy center-parted dark hair, facial proportions and appearance. The HEADLESS FULL BODY 3 VIEW section defines the exact clothing silhouette, proportions and outfit from front, side and back. The DETAIL & ACCESSORIES section defines the silver pendant necklace, silver metal wristwatch, white sneakers and black blazer materials. The MOOD BOARD defines the muted monochromatic palette and typography direction, not the filming location.
+Render REN as a believable live-action Japanese male fashion model in his late twenties, with realistic skin pores, natural hair strands, authentic fabric texture and physically accurate lighting.
+Maintain precisely the same face, haircut, body type and outfit in all shots.
+
+Outfit: relaxed black tailored blazer with casually pushed-up sleeves, white crewneck T-shirt, loose black wide-leg trousers, clean white low-top sneakers, a slim silver pendant necklace and one silver wristwatch worn exclusively on REN's LEFT wrist.
+The RIGHT wrist must remain completely bare. Do not mirror or duplicate the watch.
+Maintain the correct left and right sides of the character during frontal, three-quarter, profile and moving shots.
+Do not treat the headless outfit images as actual headless characters. Reconstruct the complete character using the facial references.
+
+ART DIRECTION:
+Luxury European editorial fashion campaign meets contemporary Tokyo street-style advertising. Minimal architecture, elegant neutral studio space, sculptural lighting, charcoal black, warm ivory, light grey, muted taupe and cool silver. Premium contrast, refined highlights, realistic shadows and subtle atmospheric depth.
+
+MOTION GRAPHICS:
+High-end Adobe After Effects-style kinetic typography, precision motion design, bold condensed sans-serif typography, advanced animated masking, shape-layer transitions, geometric line animations, 2.5D parallax, text tracking, variable text scale, rapid scale transitions, smooth easing, motion blur and perfect beat synchronization.
+Typography must interact spatially with REN: massive letters moving behind his body while smaller labels float in front, elegant silhouette masking, thin tracking lines following clothing details and graphic elements attached accurately to the garment.
+Clean, editorial, sophisticated. Bold enough to create instant visual impact, but never visually chaotic.
+
+EXACT 10-SECOND SEQUENCE:
+0.0–1.5s — IMPACT INTRO:
+Begin with an extreme photorealistic close-up of REN's eye and textured dark hair. Execute an explosive cinematic crash zoom backward, transitioning into a full-body front hero shot. Huge white kinetic typography reading URBAN MINIMAL rapidly assembles behind his silhouette. A fine graphic outline briefly traces his figure. Strong synchronized impact sound.
+
+1.5–3.5s — THE BLAZER:
+Whip-pan around REN to a dynamic three-quarter camera angle. Push into a highly detailed close-up of the black blazer's shoulder, lapel and relaxed sleeve. Smooth slow-motion fabric motion contrasts with rapid typography.
+Display exactly: 01 / OVERSIZED JACKET.
+Animated vector lines trace the jacket structure. Typography follows the moving garment with precise tracking.
+
+3.5–5.0s — THE WHITE T-SHIRT:
+Use a precise match cut into the white crewneck T-shirt and visible silver pendant necklace. Camera performs a fast lateral slide with natural depth separation. Bright white geometric masks transition into the text:
+02 / CLEAN WHITE.
+Briefly highlight the contrast between white innerwear and black tailoring.
+
+5.0–6.5s — THE SILHOUETTE:
+Execute a fast cinematic tilt and descending camera move toward the black wide-leg trousers and clean white sneakers. Transition into a dramatic low-angle tracking shot following REN taking one confident natural step.
+Display exactly: 03 / WIDE SILHOUETTE.
+Thin animated contour lines emphasize the flowing trouser shape. Preserve accurate shoe and fabric details.
+
+6.5–8.0s — STYLE COMPOSITION:
+Three extremely polished fast match cuts: front view, three-quarter view and side profile. Each camera angle must remain consistent with the reference character sheet. REN makes subtle natural model movements. A large typographic composition reading BALANCE IS KEY appears with layered masking, animated tracking and synchronized geometric shapes.
+If the wristwatch becomes visible, it must be on his LEFT wrist only.
+
+8.0–10.0s — HERO FINALE:
+Fluid cinematic camera orbit transitions to a dramatic full-body hero shot. REN casually places his RIGHT hand into his trouser pocket while his LEFT wristwatch remains anatomically correct. He looks confidently toward the camera.
+
+Large dramatic typography reading LESS IS MORE rises behind him, partially hidden by his silhouette. Minimal thin lines complete the composition like a luxury fashion magazine cover.
+Finish on a visually powerful locked hero frame with a clean music impact.
+
+CAMERA DIRECTION:
+Use true cinematic camera movements, not digital zoom applied to a static reference image. Fast crash zoom, low-angle dolly, lateral tracking, whip-pan, short orbit, dynamic tilt and coherent movement across cuts.
+Alternate explosive camera movement with very brief moments of clarity. Strong foreground-background separation, believable perspective, natural lens distortion, premium motion blur and controlled speed ramps.
+Never make the video feel like a slideshow or a sequence of unrelated AI images.
+
+TYPOGRAPHY RULES:
+Display only these exact phrases:
+URBAN MINIMAL
+01 / OVERSIZED JACKET
+02 / CLEAN WHITE
+03 / WIDE SILHOUETTE
+BALANCE IS KEY
+LESS IS MORE
+
+Typography must be clean, perfectly spelled, properly aligned, crisp and readable. Use the reference mood board to inspire the editorial style. No random text, malformed letters, extra slogans, captions or logos.
+Give each phrase a brief readable hold even when entering or exiting dynamically.
+
+SOUND DESIGN:
+Modern luxury-fashion electronic soundtrack, approximately 120 BPM feel. Editorial percussion, subtle bass pulses, refined whooshes, shutter sounds and precisely synchronized graphic impacts. No dialogue, no narration.
+
+FINAL OUTPUT:
+Exactly 10 seconds, 9:16 portrait video, photorealistic live-action aesthetic, premium fashion advertising quality, highly dynamic cinematography, refined After Effects-inspired motion graphics, impeccable character and wardrobe continuity, elegant color grading, professional editing.
+NEGATIVE CONSTRAINTS:
+No anime, no illustration, no cartoon style, no headless people, no changing facial identity, no changing wardrobe, no duplicated accessories, no watch on the right wrist, no mirrored watch placement, no clothing morphing, no artificial body distortion, no extra limbs, no extra characters, no floating garments, no excessive glitch effects, no incorrect text, no illegible typography, no Japanese subtitles, no logo watermarks, no static image panning, no storyboard grid visible in the video.
+```
+
+#### How to adapt it
+
+Replace the character sheet and exact slogans while preserving left/right accessory rules and short readable typography holds.
+
+**Shared by:** [おにぎり｜動画編集とAI映像の始め方](<https://x.com/Suzukiphill>)
+
+[Original post on X](<https://x.com/Suzukiphill/status/2109388577406628169>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ren-menswear-kinetic-typography>)
 
 <a id="category-workflows"></a>
 
@@ -10067,6 +10628,398 @@ Measure end-to-end time for a short photo-conditioned audio clip and record prec
 **Shared by:** [ドンメカ｜メカノ姫β](<https://x.com/DON_Mechaaa>)
 
 [Original post on X](<https://x.com/DON_Mechaaa/status/2108747938516328879>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-dgx-spark-int8-photo-ref2va>)
+
+<a id="5090-refmod-runnable-stack-comparison"></a>
+
+### RTX 5090 RefMod Runnable Stack Comparison
+
+[![RTX 5090 RefMod Runnable Stack Comparison comparison preview](<https://pbs.twimg.com/media/HT4creMa8AAKcfQ.jpg>)](<https://x.com/thefirmament17/status/2107153362240365026>)
+
+A same-still, same-seed RefMod comparison reports 130s versus 277s at 1408×800, with different available acceleration stacks.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare only settings you can reproduce and log missing nodes alongside latency and identity retention.
+
+**Shared by:** [thefirmament17](<https://x.com/thefirmament17>)
+
+[Original post on X](<https://x.com/thefirmament17/status/2107153362240365026>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-refmod-runnable-stack-comparison>)
+
+<a id="hybrid-selflift-x2-vae-workflow"></a>
+
+### Hybrid Selflift and X2 VAE Workflow
+
+[![Hybrid Selflift and X2 VAE Workflow video preview](<https://pbs.twimg.com/amplify_video_thumb/2107808557567799296/img/hrlD6eiuX6xckako.jpg>)](<https://x.com/geesehowardt7/status/2107810120365466068>)
+
+A local H3 workflow combines a Hybrid model, Selflift sampling enlargement and X2 VAE with a published video example.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare a Hybrid plus Selflift pipeline with your base decode and inspect whether the second enlargement preserves motion detail.
+
+**Shared by:** [Nina小娜学AI](<https://x.com/geesehowardt7>)
+
+[Original post on X](<https://x.com/geesehowardt7/status/2107810120365466068>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hybrid-selflift-x2-vae-workflow>)
+
+<a id="5090-dmad-four-step-turbo-eight-step"></a>
+
+### RTX 5090 DMAD Four Step versus Turbo Eight Step
+
+[![RTX 5090 DMAD Four Step versus Turbo Eight Step video preview](<https://pbs.twimg.com/amplify_video_thumb/2108138766498205696/img/EPAWl965vffFUWfW.jpg>)](<https://x.com/kentdhani/status/2108140760109613408>)
+
+An RTX 5090 comparison reports 136s for DMAD at four steps versus 247s for Turbo v4 at eight, with fast-motion smearing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a fast-motion test to assess draft speed, then inspect smear before selecting a higher-quality final pipeline.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2108140760109613408>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-dmad-four-step-turbo-eight-step>)
+
+<a id="mac-local-psychology-explainer-pipeline"></a>
+
+### Mac Local Psychology Explainer Pipeline
+
+[![Mac Local Psychology Explainer Pipeline video preview](<https://pbs.twimg.com/amplify_video_thumb/2108918898867290112/img/wczMmtwnAxfc6MNJ.jpg>)](<https://x.com/nakazakifam/status/2108919630517404128>)
+
+A psychology explainer combines local H3 T2V clips, LTX avatar video, code-led editing and separate speech and music tools.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate varied explanatory cutaways locally, then combine them with separately produced narration and an avatar.
+
+**Shared by:** [中崎工房 | AIで1時間の仕事を5分で終わらせる人](<https://x.com/nakazakifam>)
+
+[Original post on X](<https://x.com/nakazakifam/status/2108919630517404128>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mac-local-psychology-explainer-pipeline>)
+
+<a id="h3-anime-python-turning-manga"></a>
+
+### H3 Anime to Python Turning Manga
+
+[![H3 Anime to Python Turning Manga video preview](<https://pbs.twimg.com/amplify_video_thumb/2109191524202532864/img/oyFZ6nrFWdzVyhuP.jpg>)](<https://x.com/aicreataro/status/2109192628818563353>)
+
+Python redraws H3 animation as manga panels with ink and color stages, animated lettering, camera paths and page turns.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use generated animation as source frames, then script panel layout and page motion while preserving the original clip audio.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2109192628818563353>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-anime-python-turning-manga>)
+
+<a id="thirty-second-extender-dance-drift"></a>
+
+### Thirty Second Extender Dance Drift
+
+[![Thirty Second Extender Dance Drift video preview](<https://pbs.twimg.com/amplify_video_thumb/2109241862209114112/img/iy76NDKePsrLEov4.jpg>)](<https://x.com/shamimatsu/status/2109242533834641474>)
+
+A thirty-second dance test uses four eight-second Extender segments and reports seam degradation, darkening and style drift.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Review segment boundaries and late-frame style before stitching; shorten segments or regenerate when deterioration accumulates.
+
+**Shared by:** [三味松](<https://x.com/shamimatsu>)
+
+[Original post on X](<https://x.com/shamimatsu/status/2109242533834641474>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#thirty-second-extender-dance-drift>)
+
+<a id="twenty-second-ad-generated-seconds-budget"></a>
+
+### Twenty Second Ad Generated Seconds Budget
+
+[![Twenty Second Ad Generated Seconds Budget comparison preview](<https://pbs.twimg.com/media/HUWPtwBbUAImMXJ.jpg>)](<https://x.com/kimutaka_ai/status/2109252681827221759>)
+
+A twenty-second ad used 46 generated video seconds, with H3 Max/Turbo selection, image revisions and a music retry affecting cost.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Budget for generated seconds and failed attempts, and compare one representative scene before producing every shot.
+
+**Shared by:** [kimutaka](<https://x.com/kimutaka_ai>)
+
+[Original post on X](<https://x.com/kimutaka_ai/status/2109252681827221759>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#twenty-second-ad-generated-seconds-budget>)
+
+<a id="5060-ti-lbh-three-plus-one-comparison"></a>
+
+### RTX 5060 Ti LBH Three Plus One Comparison
+
+[![RTX 5060 Ti LBH Three Plus One Comparison comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2109362433970327553/img/N2wDsgk-UXUYRynH.jpg>)](<https://x.com/Hemi3AI/status/2109363205344735391>)
+
+A 16 GB RTX 5060 Ti test reports 126.75s versus 105.35s with INT8, 5% SLA, LBH enlargement and X2 output.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the same low-motion clip with four steps and a three-low/one-high-step LBH schedule; listen to each side separately.
+
+**Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
+
+[Original post on X](<https://x.com/Hemi3AI/status/2109363205344735391>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5060-ti-lbh-three-plus-one-comparison>)
+
+<a id="grok-bot-film-codex-human-review"></a>
+
+### Grok Bot Film with Codex and Human Review
+
+[![Grok Bot Film with Codex and Human Review video preview](<https://pbs.twimg.com/amplify_video_thumb/2109364029970059264/img/IPbjRTSW8_o_jrNQ.jpg>)](<https://x.com/SeiraHisada/status/2109365799588884744>)
+
+A short film uses H3 for visuals and character dialogue, with automated frame/audio checks, Colab rendering and human revision requests.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Automate transfer, rendering and sample-frame review, then retain a human pass that identifies scenes to regenerate.
+
+**Shared by:** [久田誠良(Seira Hisada)](<https://x.com/SeiraHisada>)
+
+[Original post on X](<https://x.com/SeiraHisada/status/2109365799588884744>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#grok-bot-film-codex-human-review>)
+
+<a id="3090-q6-ten-second-runtime"></a>
+
+### RTX 3090 Q6 Ten Second Runtime
+
+[![RTX 3090 Q6 Ten Second Runtime video preview](<https://pbs.twimg.com/amplify_video_thumb/2107181122593415168/img/VPXp5tI8wGnapxJ1.jpg>)](<https://x.com/quimedesu/status/2109380178451239035>)
+
+A local single RTX 3090 ComfyUI example reports twenty minutes for each ten-second H3 Q6 generation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record resolution, step count and peak memory alongside runtime before comparing quantized local pipelines.
+
+**Shared by:** [Ark](<https://x.com/quimedesu>)
+
+[Original post on X](<https://x.com/quimedesu/status/2109380178451239035>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-q6-ten-second-runtime>)
+
+<a id="front-side-h3-video-dragon-rigging"></a>
+
+### Front and Side H3 Video for Dragon Rigging
+
+[![Front and Side H3 Video for Dragon Rigging video preview](<https://pbs.twimg.com/amplify_video_thumb/2109401824466001920/img/I5Fe11xK_nDQ5pib.jpg>)](<https://x.com/IsekaiBardGuild/status/2109401850655182861>)
+
+Tripo3d meshes use front and side H3 action videos as references for Opus-led rigging and motion, including difficult winged anatomy.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Create separate frontal and side motion references before mapping them to a rig; inspect wing joints and looping transitions.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2109401850655182861>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#front-side-h3-video-dragon-rigging>)
+
+<a id="3090-codex-science-script-storyboard"></a>
+
+### RTX 3090 Science Script and Storyboard Pipeline
+
+[![RTX 3090 Science Script and Storyboard Pipeline video preview](<https://pbs.twimg.com/amplify_video_thumb/2109417418510794752/img/QKpd7arOJOCsPNCk.jpg>)](<https://x.com/hylwr/status/2109418233635967402>)
+
+A 24 GB RTX 3090 pipeline uses Codex to research a science topic, create script and storyboard, then render local H3 clips with subtitles.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Convert verified research into a storyboard and review both factual narration and generated shots before assembling the explainer.
+
+**Shared by:** [沉默的未知](<https://x.com/hylwr>)
+
+[Original post on X](<https://x.com/hylwr/status/2109418233635967402>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-codex-science-script-storyboard>)
+
+<a id="dgx-spark-one-second-test-shutdown"></a>
+
+### DGX Spark One Second Test and Shutdown
+
+[![DGX Spark One Second Test and Shutdown video preview](<https://pbs.twimg.com/amplify_video_thumb/2109448966664581120/img/eQ9nB4B8q7GL4Eua.jpg>)](<https://x.com/mmm_tech/status/2109449024579477633>)
+
+A small one-second DGX Spark test took 36s but missed night styling and melted a robot; the five-second run shut the device down.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Begin with a short test and inspect prompt adherence, device behavior and logs before increasing duration.
+
+**Shared by:** [みみみ](<https://x.com/mmm_tech>)
+
+[Original post on X](<https://x.com/mmm_tech/status/2109449024579477633>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-one-second-test-shutdown>)
+
+<a id="3090-singularity-int8-turbo-five-minute"></a>
+
+### RTX 3090 Singularity INT8 Turbo Five Minute Run
+
+[![RTX 3090 Singularity INT8 Turbo Five Minute Run video preview](<https://pbs.twimg.com/amplify_video_thumb/2109451315071897600/img/lqAWh0NU2beo4eMb.jpg>)](<https://x.com/quimedesu/status/2109452771350978971>)
+
+A local RTX 3090 example reports a five-minute render using H3 Singularity INT8 with Turbo LoRA.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare a Singularity INT8 draft with your base quantized model and record duration, steps and resolution before claiming speed gains.
+
+**Shared by:** [Ark](<https://x.com/quimedesu>)
+
+[Original post on X](<https://x.com/quimedesu/status/2109452771350978971>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-singularity-int8-turbo-five-minute>)
+
+<a id="qwen-h3-indextts-seven-stage-pipeline"></a>
+
+### Qwen H3 and IndexTTS Seven Stage Pipeline
+
+A seven-stage local pipeline moves from topic and script to Qwen stills, H3 animation, cloned narration and voice-aligned ffmpeg subtitles.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep narration timing as the subtitle clock and review each generated image and shot before final ffmpeg assembly.
+
+**Shared by:** [bigiver](<https://x.com/bigiver66>)
+
+[Original post on X](<https://x.com/bigiver66/status/2109457096895017186>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-h3-indextts-seven-stage-pipeline>)
+
+<a id="eight-direction-equipment-motion-review"></a>
+
+### Eight Direction Equipment Motion Review
+
+A game-development stream documents FastH3-based eight-direction motions, OK/NG review, reference-overlay alignment and in-game checks.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate each equipment direction, reject bad motions, then align position and scale against a reference before testing in-game.
+
+**Shared by:** [ざすこ（道草 雑草子）](<https://x.com/zasuko_michiksa>)
+
+[Original post on X](<https://x.com/zasuko_michiksa/status/2109459079408361600>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#eight-direction-equipment-motion-review>)
+
+<a id="3090-wangp-preview-cloud-final-pipeline"></a>
+
+### RTX 3090 WanGP Preview to Cloud Final Pipeline
+
+A 24 GB RTX 3090 and 64 GB RAM rig reports 23 minutes for a 576×1024, twenty-step, ten-second H3 preview before paid cloud finals.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Lock composition and keyframes in a local preview, then rerender the final while checking that a different cloud setup preserves the intent.
+
+**Shared by:** [HMLG](<https://x.com/HMLGGGG>)
+
+[Original post on X](<https://x.com/HMLGGGG/status/2109463348911780007>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-wangp-preview-cloud-final-pipeline>)
+
+<a id="rented-4090-local-comfyui-short-drama"></a>
+
+### Rented RTX 4090 ComfyUI Short Drama
+
+A creator tests short-drama production on a rented RTX 4090 ComfyUI server and reports a low hourly rental cost.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare rental hours and failed shots with per-generation pricing, including upload and setup time in your production budget.
+
+**Shared by:** [LBan](<https://x.com/LBan2049>)
+
+[Original post on X](<https://x.com/LBan2049/status/2109465743268208701>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rented-4090-local-comfyui-short-drama>)
+
+<a id="unity-sixty-four-view-orbit-billboard"></a>
+
+### Unity Sixty Four View Orbit Billboard
+
+[![Unity Sixty Four View Orbit Billboard video preview](<https://pbs.twimg.com/amplify_video_thumb/2109464523530993664/img/kpMMilhtJmJh1PM9.jpg>)](<https://x.com/genkifine_hero/status/2109466145862701213>)
+
+A Unity scene switches among 64 extracted H3 orbit views according to camera position, with added lighting instead of a 3D character mesh.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Extract a turntable into directional sprites, map camera angle to frame selection and apply consistent in-engine shading.
+
+**Shared by:** [元気ファイン](<https://x.com/genkifine_hero>)
+
+[Original post on X](<https://x.com/genkifine_hero/status/2109466145862701213>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#unity-sixty-four-view-orbit-billboard>)
+
+<a id="fasth3-trim-four-keyframe-skin-anchors"></a>
+
+### FastH3 Trim Four Keyframe Skin Anchors
+
+[![FastH3 Trim Four Keyframe Skin Anchors video preview](<https://pbs.twimg.com/amplify_video_thumb/2109476171423649792/img/m-CYwy7iPurg9tNo.jpg>)](<https://x.com/sunbaolong_2001/status/2109476602371580219>)
+
+A FastH3 Trim workflow uses four anchors over ten seconds and a two-stage latent upscale to address glossy skin artifacts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Place anchor references across a clip and compare temporal skin highlights against an unanchored control at the same settings.
+
+**Shared by:** [有趣的80后程序员](<https://x.com/sunbaolong_2001>)
+
+[Original post on X](<https://x.com/sunbaolong_2001/status/2109476602371580219>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-trim-four-keyframe-skin-anchors>)
 
 ## Suggest a prompt
 
