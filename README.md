@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **404 verified examples**, with sources reviewed through **2026-10-12**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **433 verified examples**, with sources reviewed through **2026-10-13**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (55)
-- [Storyboards & sequences](<#category-storyboard>) (62)
-- [Anime & animation](<#category-anime-animation>) (31)
-- [References & consistency](<#category-reference-character>) (46)
-- [Music videos & dance](<#category-music-dance>) (48)
-- [Dialogue & audio](<#category-dialogue-audio>) (25)
+- [Cinematic & camera](<#category-cinematic-camera>) (60)
+- [Storyboards & sequences](<#category-storyboard>) (68)
+- [Anime & animation](<#category-anime-animation>) (35)
+- [References & consistency](<#category-reference-character>) (49)
+- [Music videos & dance](<#category-music-dance>) (50)
+- [Dialogue & audio](<#category-dialogue-audio>) (26)
 - [Motion graphics & titles](<#category-motion-graphics>) (19)
-- [ComfyUI & workflows](<#category-workflows>) (118)
+- [ComfyUI & workflows](<#category-workflows>) (126)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1833,6 +1833,114 @@ Design one collision and a small set of suspended props, then specify the camera
 **Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
 
 [Original post on X](<https://x.com/DeepForest_Inc/status/2109478648860619129>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hallway-collision-bullet-time-props>)
+
+<a id="travel-photos-sunset-runway-animation"></a>
+
+### Travel Photos to Sunset and Runway Views
+
+[![Travel Photos to Sunset and Runway Views preview](<https://pbs.twimg.com/amplify_video_thumb/2109112621320515585/img/C6dDK00wPqmfedK9.jpg>)](<https://x.com/AutoIntelliMode/status/2109166104094323000>)
+
+Travel photographs are animated with H3 sunset instructions, with a final scene requesting the view from a plane on a runway.
+
+**Model:** MiniMax H3
+
+#### Final scene instruction · `ja`
+
+```text
+滑走路を走る飛行機から見た風景
+```
+
+#### How to adapt it
+
+Start from a travel photo, constrain time of day, and specify the observer’s motion only where needed.
+
+**Shared by:** [AiRT🎥生成AI動画を創る人](<https://x.com/AutoIntelliMode>)
+
+[Original post on X](<https://x.com/AutoIntelliMode/status/2109166104094323000>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#travel-photos-sunset-runway-animation>)
+
+<a id="simple-previs-camera-prompted-performance"></a>
+
+### Simple Previs Camera and Prompted Acting
+
+[![Simple Previs Camera and Prompted Acting preview](<https://pbs.twimg.com/amplify_video_thumb/2109567005036863488/img/YDSQZZqQBChLYthx.jpg>)](<https://x.com/HitotsumeKuro/status/2109567023428870393>)
+
+An H3 morning-scene comparison uses simple previs for a moving camera and prompt instructions for a mostly stationary character.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep previs simple when only the camera needs guidance, then describe small performance beats separately.
+
+**Shared by:** [1つ目クロスケ](<https://x.com/HitotsumeKuro>)
+
+[Original post on X](<https://x.com/HitotsumeKuro/status/2109567023428870393>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#simple-previs-camera-prompted-performance>)
+
+<a id="purple-dusk-tea-locked-camera"></a>
+
+### Purple Dusk Tea with a Locked Camera
+
+[![Purple Dusk Tea with a Locked Camera preview](<https://pbs.twimg.com/amplify_video_thumb/2109755867859996672/img/ZajXIMSOFahtBgL8.jpg>)](<https://x.com/GlennHasABeard/status/2109755911728501221>)
+
+A locked cup-height shot asks tea color to become purple dusk, then uses Topaz for 4K finishing.
+
+**Model:** MiniMax H3
+
+#### Published prompt phrase · `en`
+
+```text
+the color that spreads from it is not tea but purple dusk
+```
+
+#### How to adapt it
+
+Keep the glass and camera fixed, specify which water layer changes color, and compare the result against the requested clear upper surface.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2109755911728501221>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#purple-dusk-tea-locked-camera>)
+
+<a id="3070ti-low-resolution-action-failures"></a>
+
+### RTX 3070 Ti Low Resolution Action Failures
+
+[![RTX 3070 Ti Low Resolution Action Failures preview](<https://pbs.twimg.com/amplify_video_thumb/2109823357973905408/img/QGYLTBASQmWy0bQa.jpg>)](<https://x.com/zhaxra/status/2109823876045918674>)
+
+A local H3 I2V test shares action failures at 480p and reports that RTX upscaling smeared the results.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Check action coherence before upscaling; compare short shots at 480p and 720p while keeping source image and motion request fixed.
+
+**Shared by:** [ZhaxRa](<https://x.com/zhaxra>)
+
+[Original post on X](<https://x.com/zhaxra/status/2109823876045918674>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3070ti-low-resolution-action-failures>)
+
+<a id="four-model-showdown-slow-motion-test"></a>
+
+### Four Model Showdown Slow Motion Test
+
+[![Four Model Showdown Slow Motion Test preview](<https://pbs.twimg.com/amplify_video_thumb/2109825485492621312/img/B4LF_-KUGnaUFSD5.jpg>)](<https://x.com/akazomesirou/status/2109826433971523963>)
+
+A four-model showdown test identifies H3 as the third clip and reports only partial success with requested slow motion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the same slow-motion action across models, judging the acceleration phase and decisive impact separately.
+
+**Shared by:** [赤染　史郎](<https://x.com/akazomesirou>)
+
+[Original post on X](<https://x.com/akazomesirou/status/2109826433971523963>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-model-showdown-slow-motion-test>)
 
 <a id="category-storyboard"></a>
 
@@ -3741,6 +3849,210 @@ Compare edited short shots with a continuous take of the same staircase-to-micro
 
 [Original post on X](<https://x.com/FantasistaAI/status/2109467907981967400>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#showa-stage-three-cut-h3-comparison>)
 
+<a id="kitten-warrior-dragon-friendship"></a>
+
+### Kitten Warrior and Dragon Friendship
+
+[![Kitten Warrior and Dragon Friendship preview](<https://pbs.twimg.com/amplify_video_thumb/2108839133988675584/img/STWktSaoPzSA0Q8r.jpg>)](<https://x.com/LettyVesper/status/2108843102417113181>)
+
+An armored kitten faces a dragon before fear turns into affection, using a published fantasy prompt and H3 Fast.
+
+**Model:** MiniMax H3 Fast
+
+```text
+A cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.
+```
+
+#### How to adapt it
+
+Keep the fear-to-tenderness arc, replacing the two creatures and environment while preserving a clear emotional turning point.
+
+**Shared by:** [Letty](<https://x.com/LettyVesper>)
+
+[Original post on X](<https://x.com/LettyVesper/status/2108843102417113181>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#kitten-warrior-dragon-friendship>)
+
+<a id="claude-fal-orb360-manga-panel-interface"></a>
+
+### Claude and fal ORB360 Manga Panel Interface
+
+An ORB360 manga-panel prototype uses Claude Code and fal, with rotating backgrounds and speech balloons discussed as separate layers.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prototype a panel viewer around approved viewpoint frames, keeping speech balloons separate and testing transitions for continuity.
+
+**Shared by:** [山本清史（やまきよ）/ Kiyoshi Yamamoto(yamakiyo)](<https://x.com/yama_kiyo>)
+
+[Original post on X](<https://x.com/yama_kiyo/status/2109685101034651687>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#claude-fal-orb360-manga-panel-interface>)
+
+<a id="story-prose-undead-restaurant-tests"></a>
+
+### Story Prose Undead and Restaurant Tests
+
+[![Story Prose Undead and Restaurant Tests preview](<https://pbs.twimg.com/amplify_video_thumb/2109811279216984064/img/LMeZg45AQh6vrd-F.jpg>)](<https://x.com/EndFolding79421/status/2109812276316221726>)
+
+Two unedited twelve-second H3 experiments use long story prose about an undead awakening and a welcoming restaurant.
+
+**Model:** MiniMax H3
+
+#### Prompt 1 · `en`
+
+```text
+r34l1sm
+
+That night, a blood-red moon cast an eerie glow over the town, and an unsettling wind howled through the streets, causing chaos and fear among the residents. Unbeknownst to them, a malevolent force was awakening.
+
+In the cemetery, the wind slowed until it reached Halie's grave, marked by her name. Within the ornate coffin, Halie lay motionless, trapped in a recurring nightmare.
+
+In her mind, she relived the horrors of that night, the taunts, the violence, and the betrayal. Clutching the necklace Pablo had given her, it glowed with a sinister green light.
+
+"Do you want revenge?" a haunting voice whispered in her mind.
+
+"Yes," Halie replied.
+
+Her body convulsed, and her eyes snapped open, fiery red with anger. She pounded against the coffin, shattering it, and emerged from the ground as a shadow.
+
+In the moon's glow, Halie's transformation unfolded. Her skin turned ghostly white, her hair grew long and silver, and her attire morphed into a dark, seductive ensemble. Her once vibrant eyes were now solid black, devoid of life.
+
+With a wicked grin, Halie commanded the wind to awaken her undead army. The ground shook as skeletal hands burst from the earth, and an army of the undead stood before her.
+
+The undead soldiers were grotesque and fearsome. Their skin was pallid, stretched tightly over bone. Their eyes were hollow sockets that glowed with an eerie, malevolent light. Tattered clothing clung to their emaciated bodies, and their bony fingers twitched with a hunger for vengeance.
+
+Halie gazed upon her macabre soldiers, her black lips curling with anticipation for the night ahead. The undead army, driven by her will, awaited her command to unleash their unholy fury upon the town that had wronged her.
+```
+
+#### Prompt 2 · `en`
+
+```text
+r34l1sm
+
+The early morning sun cast a golden hue over the small town of San Lucido, bathing its cobblestone streets and red-tiled rooftops in a warm, inviting glow. At the heart of the town stood "La Cocina de Hector," a quaint, family-owned restaurant that had become a beloved fixture in the community. The aroma of freshly baked bread and brewing coffee wafted through the open windows, beckoning the townsfolk to start their day with a hearty meal.
+
+Hector Alvarez, a tall man with broad shoulders and a perpetual smile, stood behind the counter, polishing glasses with practiced ease. His dark hair, flecked with silver, framed a face marked by years of hard work and devotion. Hector was a man of faith, deeply rooted in his Catholic beliefs, and his restaurant was a reflection of his values—warm, welcoming, and filled with love.
+
+Maria, Hector's wife, bustled about the kitchen, her movements graceful and efficient. She was the heart and soul of the restaurant, her culinary skills renowned throughout the town. Her long, dark hair was pulled back into a loose braid, a few strands escaping to frame her delicate face. Maria's beauty was undeniable, her dark eyes filled with warmth and kindness, her smile capable of lighting up the darkest of days.
+
+The restaurant hummed with the usual morning activity. Regulars greeted Hector with friendly nods and exchanged pleasantries as they took their seats. The clinking of cutlery and the murmur of conversation created a comforting symphony, a testament to the sense of community that "La Cocina de Hector" fostered.
+
+As the morning rush began to ebb, Hector took a moment to survey the dining area. His eyes landed on Maria, who was now serving a table of elderly women, their laughter mingling with the clinking of their coffee cups. Hector's heart swelled with pride and affection. He often marveled at how fortunate he was to have Maria by his side. She was not only his partner in business but also his confidante, his muse, and the love of his life.
+
+The town of San Lucido held Hector and Maria in high regard, not just for their culinary prowess but for their unwavering faith and generosity. They were regulars at the local Catholic church, their devotion to their faith evident in every aspect of their lives. Sundays were reserved for Mass, where they would sit in the front pew, hand in hand, their voices rising in unison with the congregation.
+
+Hector's thoughts were interrupted by the sound of the door chime. He turned to see Father Gabriel, the town's parish priest, entering the restaurant. Father Gabriel was a frequent visitor, often stopping by for a cup of Maria's famous coffee and a slice of her decadent flan.
+
+"Good morning, Hector," Father Gabriel greeted, his eyes twinkling with warmth. "I hope I'm not too late for a cup of Maria's magic brew."
+
+"Never too late, Father," Hector replied with a chuckle. "Take a seat, and I'll bring it right over."
+```
+
+#### How to adapt it
+
+Compare a story-only prompt with a shot plan, checking which narrative beats survive a short output window.
+
+**Shared by:** [FoldingEnd A.I.](<https://x.com/EndFolding79421>)
+
+[Original post on X](<https://x.com/EndFolding79421/status/2109812276316221726>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#story-prose-undead-restaurant-tests>)
+
+<a id="story-prose-marriage-detective-tests"></a>
+
+### Story Prose Marriage and Detective Tests
+
+[![Story Prose Marriage and Detective Tests preview](<https://pbs.twimg.com/amplify_video_thumb/2109819977087774720/img/GJvCmOgnMTeGtf6R.jpg>)](<https://x.com/EndFolding79421/status/2109820369662087323>)
+
+Two H3 story-prose experiments explore a distant marriage and a detective’s uneasy arrival in a small town.
+
+**Model:** MiniMax H3
+
+#### Prompt 1 · `en`
+
+```text
+r34l1sm
+
+The shrill beep of the alarm clock pierced the early morning silence, and Ted's hand moved almost reflexively to silence it. Lying in bed for a moment longer, he stared at the ceiling, the familiar cracks and patterns a testament to the years gone by.
+
+ At 43, these mornings had become more about reflection than anticipation.
+
+Beside him, Elisa lay still, her presence more like a memory than a reality. He watched her, noticing how even in sleep, she seemed distant. A mix of sadness and resignation settling in his chest.
+
+He remembered the early days, the laughter and shared dreams that filled this very room. Now, it felt like living with a ghost – her body was there, but everything else about her seemed far away.
+
+Gently, so as not to wake her, Ted slid out of bed and began his morning routine. Brush teeth, shave, shower and finally dressing in front of the mirror; each step felt rehearsed, a silent dance he had mastered over the years.
+
+As he dressed for work, his reflection in the mirror stared back at him—a reflection of a aging man caught in the mundanity of a 9-5 job, his dreams and aspirations dulled by the repetitive grind of daily life.
+
+He looks at the bed reflecting in the mirror, his wife of nearly 17 years, slept soundly, her back turned to him. He remembered the days when they'd wake wrapped in each other's arms laughing and flirting never getting enough of each other.
+
+What happened to us? Ted pondered, his heart aching with a mix of longing and frustration. He missed the connection they once shared, missed the woman who used to look at him like he was the only one in the world and made him believe anything was possible.
+
+He still loved his wife but, those days now seemed like distant memories.
+```
+
+#### Prompt 2 · `en`
+
+```text
+r34l1sm
+
+The first thing I noticed about Haden was the silence. Not the peaceful quiet of a lazy Sunday morning, but a hushed, almost reverent stillness that seemed to hang over the town like a shroud. It was the kind of silence that wasn’t just heard, but felt - a tangible presence that filled the streets and alleys with unspoken words and secrets. I had left the cacophony of New York, seeking solace in what I thought was a tranquil, small town. I was a private detective tired of the relentless rhythm of the city, yearning for a change of pace. But Haden, nestled in the heart of New England, was not the haven I had imagined.
+
+The town itself was picturesque, almost deceptively so. Quaint cobblestone streets lined with old brick buildings gave it a charming, almost timeless feel. The central town square was dominated by an old clock tower, its chimes marking the passing hours with a sonorous tone that echoed through the streets. But beneath this idyllic façade lurked an undercurrent of something darker, something I would soon find myself inextricably drawn into.
+
+I rented a modest office near the town square, a small, unassuming space above a local bakery. The sweet scent of freshly baked bread wafted up each morning, a comforting, if fleeting, respite from the complexities of my day-to-day work. My practice as a private detective had been a deliberate choice, a profession that allowed me to delve into the mysteries of human behavior while maintaining a semblance of distance. I preferred the shadows, the edges of society where secrets lived and breathed.
+
+In those first weeks, my cases were mundane, forgettable. Haden seemed sleepy, almost lethargic in its everyday routines. The townspeople were cordial, yet there was a reservation in their greetings, a guardedness in their eyes that suggested they were accustomed to keeping outsiders at arm's length. I often found myself wandering the streets after hours, the cool New England air biting at my cheeks, observing the town and its inhabitants. There was a rhythm to Haden, a cadence that spoke of old traditions and long-held beliefs.
+
+That all changed one brisk autumn morning when Mrs. Eleanor Whitaker walked into my office. Her appearance was unremarkable, yet there was an undeniable aura of distress about her. She was the epitome of a small-town matron, her clothes neat but modest, her hair pulled back in a tight bun. Yet her hands, clasped tightly around her purse, betrayed a nervous energy, and her eyes, darting around the room, spoke of fear.
+
+"Mr. Thompson," she began, her voice barely more than a whisper, "I need your help."
+```
+
+#### How to adapt it
+
+Use a compact emotional situation as story input, then inspect selected visuals and plan a separate audio revision if needed.
+
+**Shared by:** [FoldingEnd A.I.](<https://x.com/EndFolding79421>)
+
+[Original post on X](<https://x.com/EndFolding79421/status/2109820369662087323>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#story-prose-marriage-detective-tests>)
+
+<a id="immuno-lorian-microscopic-fan-short"></a>
+
+### The Immuno Lorian Microscopic Fan Short
+
+An H3 short-film post presents a Mandalorian and Grogu homage crossed with a Fantastic Voyage-style microscopic adventure.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a short adventure around a clearly stated scale change, then maintain character identity through the new environment.
+
+**Shared by:** [Jambomax\_a](<https://x.com/jambomax_a>)
+
+[Original post on X](<https://x.com/jambomax_a/status/2109835759809343585>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#immuno-lorian-microscopic-fan-short>)
+
+<a id="local-sengoku-sanada-tokugawa-short"></a>
+
+### Local Sengoku Sanada and Tokugawa Short
+
+An H3 and ComfyUI post shares a locally made Sengoku action short about Sanada Yukimura and Tokugawa Ieyasu.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Storyboard a short historical confrontation and review action staging and costume continuity before assembling local shots.
+
+**Shared by:** [Jambomax\_a](<https://x.com/jambomax_a>)
+
+[Original post on X](<https://x.com/jambomax_a/status/2109836210407678000>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-sengoku-sanada-tokugawa-short>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -4640,6 +4952,86 @@ Keep the pencil texture and large-action requirements while replacing fishing wi
 **Shared by:** [右よし左よし秋よし@AIエンタメ](<https://x.com/akiyoshisan>)
 
 [Original post on X](<https://x.com/akiyoshisan/status/2109395626001924489>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pencil-fishing-tug-of-war-animation>)
+
+<a id="grok-krea-local-forty-second-anime"></a>
+
+### Grok and Krea Local Forty Second Anime
+
+[![Grok and Krea Local Forty Second Anime preview](<https://pbs.twimg.com/amplify_video_thumb/2108455918350503937/img/lDqqzRRfbvA-uz0F.jpg>)](<https://x.com/melvindvivas/status/2108456419733495900>)
+
+A forty-second anime episode uses Grok direction, Krea-2 Turbo stills and local H3 INT8 Ref2VA on an RTX 3090.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan an episode as reference-conditioned shots, review character continuity and assemble the approved clips.
+
+**Shared by:** [Melvin Vivas](<https://x.com/melvindvivas>)
+
+[Original post on X](<https://x.com/melvindvivas/status/2108456419733495900>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#grok-krea-local-forty-second-anime>)
+
+<a id="local-rainmaking-cat-folktale-animation"></a>
+
+### Local Rainmaking Cat Folktale Animation
+
+[![Local Rainmaking Cat Folktale Animation preview](<https://pbs.twimg.com/amplify_video_thumb/2109812979651006464/img/7OAX19Ou6rKV9Lyc.jpg>)](<https://x.com/takamasa045/status/2109816920421871661>)
+
+A five-page local folktale script becomes an anime through Grok coordination, H3 video and ElevenLabs voices with dialect corrections.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep a character sheet and script as anchors, then review dialect, speaker identity and lip sync scene by scene.
+
+**Shared by:** [伊藤貴將（いとぱん）｜AIエージェント×創作開発](<https://x.com/takamasa045>)
+
+[Original post on X](<https://x.com/takamasa045/status/2109816920421871661>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-rainmaking-cat-folktale-animation>)
+
+<a id="pixelart-metroidvania-curse-game-video"></a>
+
+### Pixel Art Metroidvania Curse Game Video
+
+[![Pixel Art Metroidvania Curse Game Video preview](<https://pbs.twimg.com/amplify_video_thumb/2109788575453904896/img/x4ayCjoBtWrr-QlL.jpg>)](<https://x.com/WasabiVaio/status/2109819157042639042>)
+
+A Krea and H3 pixel-art concept shows a fantasy character exploring an academy in a Metroidvania-style action-game video.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare readable pixel-art references and define short game-like actions, checking sprite shapes and scrolling backgrounds frame by frame.
+
+**Shared by:** [wasabi\_vaio](<https://x.com/WasabiVaio>)
+
+[Original post on X](<https://x.com/WasabiVaio/status/2109819157042639042>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pixelart-metroidvania-curse-game-video>)
+
+<a id="malfoid-little-witch-handdrawn-fan-mashup"></a>
+
+### Malfoid and Little Witch Hand Drawn Mashup
+
+[![Malfoid and Little Witch Hand Drawn Mashup preview](<https://pbs.twimg.com/amplify_video_thumb/2109814122804064256/img/jbbaqMMNec_3QXNZ.jpg>)](<https://x.com/MrJ0SHie/status/2109814229263908976>)
+
+A local H3 fan short adapts hand-drawn designs into ChatGPT character sheets, with Suno background music.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a consistent sheet from your drawings, then review character identity across short scenes before assembling the edit.
+
+**Shared by:** [MrJ0SHiE (AI Trump)](<https://x.com/MrJ0SHie>)
+
+[Original post on X](<https://x.com/MrJ0SHie/status/2109814229263908976>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#malfoid-little-witch-handdrawn-fan-mashup>)
 
 <a id="category-reference-character"></a>
 
@@ -5662,6 +6054,66 @@ Use a reference character with distinctive garment structure and inspect fabric,
 **Shared by:** [buchi\_](<https://x.com/mix_buchi_>)
 
 [Original post on X](<https://x.com/mix_buchi_/status/2109467267654431023>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#singularity-ref2v-kimono-study>)
+
+<a id="orb360-reference-interactive-manga"></a>
+
+### ORB360 Reference Controlled Manga Views
+
+[![ORB360 Reference Controlled Manga Views preview](<https://pbs.twimg.com/amplify_video_thumb/2109083823719976960/img/b8YsPKmYjyVyYtM4.jpg>)](<https://x.com/monoradio102/status/2109085133328486474>)
+
+A manga prototype combines H3 and ORB360 LoRA for adjustable viewpoints, with character references used to stabilize faces.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define a consistent character reference, generate viewpoint coverage and inspect faces and backgrounds as the viewing angle changes.
+
+**Shared by:** [monoradio](<https://x.com/monoradio102>)
+
+[Original post on X](<https://x.com/monoradio102/status/2109085133328486474>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#orb360-reference-interactive-manga>)
+
+<a id="comfyui-h3-character-sheet-test"></a>
+
+### ComfyUI H3 Character Sheet Test
+
+[![ComfyUI H3 Character Sheet Test preview](<https://pbs.twimg.com/media/HUb03LpXYAAYCFT.jpg>)](<https://x.com/EndFolding79421/status/2109643649239917053>)
+
+A ComfyUI H3 workflow test publishes realistic and anime character sheets with face, body and detail views.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a sheet with front and rear views plus distinctive face and garment details; test consistency in later shots separately.
+
+**Shared by:** [FoldingEnd A.I.](<https://x.com/EndFolding79421>)
+
+[Original post on X](<https://x.com/EndFolding79421/status/2109643649239917053>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfyui-h3-character-sheet-test>)
+
+<a id="4090-orb360-multiview-loop-comparison"></a>
+
+### RTX 4090 Multiview and Loop Orbit Comparison
+
+[![RTX 4090 Multiview and Loop Orbit Comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2109826639010091008/img/2zG0L2yI4S8Q1eJA.jpg>)](<https://x.com/servasyy_ai/status/2109827070058799520>)
+
+A side-by-side RTX 4090 test compares three-view Ref2VA orbit guidance with a single-image first/last-frame loop.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare rear-view coverage and loop seams separately, using explicit front, side and rear references where unseen structure matters.
+
+**Shared by:** [huangserva](<https://x.com/servasyy_ai>)
+
+[Original post on X](<https://x.com/servasyy_ai/status/2109827070058799520>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4090-orb360-multiview-loop-comparison>)
 
 <a id="category-music-dance"></a>
 
@@ -6696,6 +7148,46 @@ Align scene beats to an LRC file, write Japanese sung speech in hiragana, and pa
 **Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
 
 [Original post on X](<https://x.com/Naonekozamurai/status/2109420329882054867>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lrc-hiragana-flova-cli-music-video>)
+
+<a id="dont-deprecate-me-blender-h3-mv"></a>
+
+### Don’t Deprecate Me Blender and H3 MV
+
+[![Don’t Deprecate Me Blender and H3 MV preview](<https://pbs.twimg.com/amplify_video_thumb/2108878260763537408/img/t_tzgZUZd7VGfum6.jpg>)](<https://x.com/tshikimi/status/2108878629036003642>)
+
+A memory-themed music video combines Blender previs and H3 video with GPT Image character design, Claude graphics and Suno music.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use previs to lock staging, animate approved character designs, then add graphics and music in a separate finishing pass.
+
+**Shared by:** [竹花 樒](<https://x.com/tshikimi>)
+
+[Original post on X](<https://x.com/tshikimi/status/2108878629036003642>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dont-deprecate-me-blender-h3-mv>)
+
+<a id="kawaii-punk-rock-i2v-turbo-test"></a>
+
+### Kawaii Punk Rock I2V Turbo Test
+
+[![Kawaii Punk Rock I2V Turbo Test preview](<https://pbs.twimg.com/amplify_video_thumb/2109702777392050176/img/3nuZ7YPxxAoknMtH.jpg>)](<https://x.com/sorastg524/status/2109703917252886924>)
+
+A melodic punk-rock anime clip is posted as raw H3 Max Turbo image-to-video output from a ChatGPT base image.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Anchor the singer with a clear base illustration, then inspect mouth movement and intelligibility before retaining generated vocals.
+
+**Shared by:** [sorastg524](<https://x.com/sorastg524>)
+
+[Original post on X](<https://x.com/sorastg524/status/2109703917252886924>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#kawaii-punk-rock-i2v-turbo-test>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -8084,6 +8576,26 @@ Compare the same spoken line at four and higher step counts; evaluate high-frequ
 **Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
 
 [Original post on X](<https://x.com/sep_is_heim/status/2109396547247222898>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-step-metallic-dialogue-artifact>)
+
+<a id="turbo-japanese-romaji-dialogue-pair"></a>
+
+### Turbo Japanese and Romaji Dialogue Pair
+
+[![Turbo Japanese and Romaji Dialogue Pair preview](<https://pbs.twimg.com/amplify_video_thumb/2109812681394057216/img/6urhDRuzzNQaYlU_.jpg>)](<https://x.com/dazgen48/status/2109813193233297592>)
+
+Two linked H3 Turbo tests contrast Japanese prompting and dialogue with English prompting and Japanese dialogue written in romaji.
+
+**Model:** MiniMax H3 Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold the scene and spoken sentence constant while comparing native Japanese and romaji spelling; listen for pronunciation and inspect lip sync.
+
+**Shared by:** [DAZgen X](<https://x.com/dazgen48>)
+
+[Original post on X](<https://x.com/dazgen48/status/2109813193233297592>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#turbo-japanese-romaji-dialogue-pair>)
 
 <a id="category-motion-graphics"></a>
 
@@ -11020,6 +11532,158 @@ Place anchor references across a clip and compare temporal skin highlights again
 **Shared by:** [有趣的80后程序员](<https://x.com/sunbaolong_2001>)
 
 [Original post on X](<https://x.com/sunbaolong_2001/status/2109476602371580219>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-trim-four-keyframe-skin-anchors>)
+
+<a id="five-latent-third-frame-image-decode"></a>
+
+### Five Latents and Third Frame Image Decode
+
+[![Five Latents and Third Frame Image Decode preview](<https://pbs.twimg.com/media/HURe5HkbMAAlegi.jpg>)](<https://x.com/ITOKtw/status/2108918377054130567>)
+
+A ComfyUI H3 still-image workflow describes repeating the latent five times and decoding the third to reduce artifacts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the same latent under both decode methods and inspect still-image artifacts before adopting the workflow.
+
+**Shared by:** [ITOK](<https://x.com/ITOKtw>)
+
+[Original post on X](<https://x.com/ITOKtw/status/2108918377054130567>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#five-latent-third-frame-image-decode>)
+
+<a id="codex-colab-ten-second-anime-test"></a>
+
+### Codex Colab Ten Second Anime Test
+
+[![Codex Colab Ten Second Anime Test preview](<https://pbs.twimg.com/amplify_video_thumb/2109556315089784832/img/hLNVPIXojjvNMYvV.jpg>)](<https://x.com/npaka123/status/2109556947112652832>)
+
+A Colab experiment runs H3 from Codex and reports 6 minutes 32 seconds for a ten-second 960×544 anime clip.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Measure environment setup and shot rendering separately, keeping GPU, resolution and duration in the run log.
+
+**Shared by:** [布留川英一 / Hidekazu Furukawa](<https://x.com/npaka123>)
+
+[Original post on X](<https://x.com/npaka123/status/2109556947112652832>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#codex-colab-ten-second-anime-test>)
+
+<a id="local-workflow-mask-editor-demo"></a>
+
+### Local H3 Workflow Mask Editor Demo
+
+A creator demonstrates mask editing inside a personalized local H3 workflow, showing the editor and preview controls.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Review the edit mask against the target region before rendering and compare the edited clip with the source.
+
+**Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
+
+[Original post on X](<https://x.com/javawock7618/status/2109597438957019616>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-workflow-mask-editor-demo>)
+
+<a id="h3-depth-previs-background-reference-ablation"></a>
+
+### H3 Depth Previs without Background Reference
+
+A creator turns faceless H3 Max Turbo previs into depth guidance for Seedance and removes a background reference to keep an anime look.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test depth plus character sheet against depth plus character and background references, judging style drift and retained camera movement.
+
+**Shared by:** [ノダッチ@NDT\_AI研究所](<https://x.com/challenger_ND>)
+
+[Original post on X](<https://x.com/challenger_ND/status/2109683886729118180>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-depth-previs-background-reference-ablation>)
+
+<a id="4070ti-comfyui-fifteen-second-run"></a>
+
+### RTX 4070 Ti Fifteen Second ComfyUI Run
+
+[![RTX 4070 Ti Fifteen Second ComfyUI Run preview](<https://pbs.twimg.com/amplify_video_thumb/2109780335991091200/img/B5TkSeVt6waK_nR1.jpg>)](<https://x.com/breath_in_code/status/2109780601872195877>)
+
+A creator reports a 1344×768, fifteen-second H3 clip in under eight minutes on a 12 GB RTX 4070 Ti after a ComfyUI update.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Log peak VRAM and total render time for the same shot before and after an update, keeping quantization and steps constant.
+
+**Shared by:** [LinacoWSL](<https://x.com/breath_in_code>)
+
+[Original post on X](<https://x.com/breath_in_code/status/2109780601872195877>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4070ti-comfyui-fifteen-second-run>)
+
+<a id="3090-5060ti-four-resolution-timing"></a>
+
+### RTX 3090 and 5060 Ti Four Resolution Timing
+
+A creator compares H3 rendering on RTX 3090 and 5060 Ti across four resolutions, excluding the initial warm-up run.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Benchmark identical short clips across GPUs, exclude warm-up and record model, steps, memory use and resolution alongside time.
+
+**Shared by:** [Nami｜EC運営×生成AI｜商品ページ自動化の実験ログ](<https://x.com/NamiDesignWorks>)
+
+[Original post on X](<https://x.com/NamiDesignWorks/status/2109781318645031409>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3090-5060ti-four-resolution-timing>)
+
+<a id="faceless-h3-previs-depth-anime-production"></a>
+
+### Faceless H3 Previs to Depth Guided Anime
+
+An MV workflow uses faceless H3 Max Turbo previs, converts it to depth and feeds Seedance to rebuild anime characters and backgrounds.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a neutral faceless previs to lock motion and camera first, then pass depth guidance to the finishing model without unwanted facial detail.
+
+**Shared by:** [tapehead.lab](<https://x.com/tapehead_Lab>)
+
+[Original post on X](<https://x.com/tapehead_Lab/status/2109576509690462555>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#faceless-h3-previs-depth-anime-production>)
+
+<a id="colab-a100-three-pixel-budget-test"></a>
+
+### Colab A100 Three Pixel Budget Test
+
+[![Colab A100 Three Pixel Budget Test preview](<https://pbs.twimg.com/amplify_video_thumb/2109828244208041984/img/KDLkFNE5lNr-Bb52.jpg>)](<https://x.com/EverydayNene/status/2109828904320147842>)
+
+A Colab A100 40 GB H3 test reports 177.77, 67.07 and 24.82 seconds at 1.0, 0.5 and 0.2 megapixels.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Measure the same shot at several pixel budgets, logging duration, steps and quantization so the timing comparison can be repeated.
+
+**Shared by:** [むぎ@まいにち寧々さん](<https://x.com/EverydayNene>)
+
+[Original post on X](<https://x.com/EverydayNene/status/2109828904320147842>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-a100-three-pixel-budget-test>)
 
 ## Suggest a prompt
 
