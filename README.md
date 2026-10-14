@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **433 verified examples**, with sources reviewed through **2026-10-13**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **469 verified examples**, with sources reviewed through **2026-10-14**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (60)
-- [Storyboards & sequences](<#category-storyboard>) (68)
-- [Anime & animation](<#category-anime-animation>) (35)
-- [References & consistency](<#category-reference-character>) (49)
-- [Music videos & dance](<#category-music-dance>) (50)
-- [Dialogue & audio](<#category-dialogue-audio>) (26)
-- [Motion graphics & titles](<#category-motion-graphics>) (19)
-- [ComfyUI & workflows](<#category-workflows>) (126)
+- [Cinematic & camera](<#category-cinematic-camera>) (64)
+- [Storyboards & sequences](<#category-storyboard>) (71)
+- [Anime & animation](<#category-anime-animation>) (40)
+- [References & consistency](<#category-reference-character>) (56)
+- [Music videos & dance](<#category-music-dance>) (56)
+- [Dialogue & audio](<#category-dialogue-audio>) (27)
+- [Motion graphics & titles](<#category-motion-graphics>) (20)
+- [ComfyUI & workflows](<#category-workflows>) (135)
 
 <a id="category-cinematic-camera"></a>
 
@@ -1941,6 +1941,90 @@ Compare the same slow-motion action across models, judging the acceleration phas
 **Shared by:** [赤染　史郎](<https://x.com/akazomesirou>)
 
 [Original post on X](<https://x.com/akazomesirou/status/2109826433971523963>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-model-showdown-slow-motion-test>)
+
+<a id="self-returning-ball-hidden-cat-paw"></a>
+
+### Self Returning Ball and Hidden Cat Paw
+
+[![Self Returning Ball and Hidden Cat Paw preview](<https://pbs.twimg.com/amplify_video_thumb/2108915047401463808/img/AckS2h47nJoni55b.jpg>)](<https://x.com/GlennHasABeard/status/2108915299974017401>)
+
+A locked floor-height shot hides the cat under a sofa while a ball rolls back by itself in a local 15-second clip.
+
+**Model:** MiniMax H3
+
+#### Published prompt fragment · `en`
+
+```text
+each time the ball rolls back to it by itself
+```
+
+#### How to adapt it
+
+Hide most of a difficult character behind a stable occluder and keep the action and camera simple; inspect the ball-return loop.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2108915299974017401>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#self-returning-ball-hidden-cat-paw>)
+
+<a id="three-sunscreen-images-leak-removal-revision"></a>
+
+### Three Sunscreen Images Leak Removal Revision
+
+[![Three Sunscreen Images Leak Removal Revision preview](<https://pbs.twimg.com/amplify_video_thumb/2110015460012089344/img/sYUTJYba_84sCd3E.jpg>)](<https://x.com/Isonwardster/status/2110016149677392138>)
+
+Three product views feed a vertical H3 sunscreen ad; a second pass replaces a leaking droplet with water reflections and highlights.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with front, angled and detail views; identify one defective visual beat, then revise it while requesting that later shots stay intact.
+
+**Shared by:** [Ison Ward](<https://x.com/Isonwardster>)
+
+[Original post on X](<https://x.com/Isonwardster/status/2110016149677392138>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#three-sunscreen-images-leak-removal-revision>)
+
+<a id="crimson-hologram-dinner-short"></a>
+
+### Crimson Hologram Dinner Short
+
+[![Crimson Hologram Dinner Short preview](<https://pbs.twimg.com/amplify_video_thumb/2110073230283386880/img/XviL1ltKJ3Jw43PD.jpg>)](<https://x.com/mirali6is/status/2110073603253481568>)
+
+A crimson surreal dinner scene pairs Midjourney 8.2 imagery with Hailuo H3 for a hologram-themed daily challenge.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a recognizable setting and one surreal reveal from a reference still, keeping palette and camera behavior consistent through the shot.
+
+**Shared by:** [Mira](<https://x.com/mirali6is>)
+
+[Original post on X](<https://x.com/mirali6is/status/2110073603253481568>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#crimson-hologram-dinner-short>)
+
+<a id="fast-motion-low-step-melting-comparison"></a>
+
+### Fast Motion Low Step Melting Comparison
+
+[![Fast Motion Low Step Melting Comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2110136899537076224/img/9rY2EfRkkUd1M0n4.jpg>)](<https://x.com/Hemi3AI/status/2110137930153160787>)
+
+An author compares blurry low-step H3 movement with a faster dance experiment intended to avoid shape melting.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Evaluate the same character at increasing motion speeds and separate generation artifacts from playback acceleration before changing sampling settings.
+
+**Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
+
+[Original post on X](<https://x.com/Hemi3AI/status/2110137930153160787>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fast-motion-low-step-melting-comparison>)
 
 <a id="category-storyboard"></a>
 
@@ -4053,6 +4137,88 @@ Storyboard a short historical confrontation and review action staging and costum
 
 [Original post on X](<https://x.com/jambomax_a/status/2109836210407678000>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-sengoku-sanada-tokugawa-short>)
 
+<a id="lost-cat-orb360-interactive-comic"></a>
+
+### Lost Cat ORB360 Interactive Comic
+
+[![Lost Cat ORB360 Interactive Comic preview](<https://pbs.twimg.com/amplify_video_thumb/2109295855799029762/img/MSwz-9ctaSPsyTNF.jpg>)](<https://x.com/eternityspring/status/2109296905885028686>)
+
+A lost-cat comic uses H3 ORB360 LoRA imagery inside an interactive browser presentation with movable viewpoints.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a short comic with consistent character references, then expose panorama controls in the viewer and test continuity across panels.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2109296905885028686>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lost-cat-orb360-interactive-comic>)
+
+<a id="the-filter-mixed-tool-short-film"></a>
+
+### The Filter Mixed Tool Short Film
+
+[![The Filter Mixed Tool Short Film preview](<https://pbs.twimg.com/media/HUbOSVmW8AAxZgg.jpg>)](<https://x.com/papadupapadu/status/2109600076850933911>)
+
+The Filter combines Midjourney imagery, Hailuo H3 video, Eleven audio and manual Premiere editing in a perception-themed film.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Design recurring visual motifs and a shot sequence, then generate and edit clips around them while tracking image, video and sound provenance.
+
+**Shared by:** [PAPADU PAPADU](<https://x.com/papadupapadu>)
+
+[Original post on X](<https://x.com/papadupapadu/status/2109600076850933911>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#the-filter-mixed-tool-short-film>)
+
+<a id="lucy-diner-walk-home-story-prose"></a>
+
+### Lucy Diner Walk Home Story Prose
+
+[![Lucy Diner Walk Home Story Prose preview](<https://pbs.twimg.com/amplify_video_thumb/2109789692933660673/img/4_J0fX70fRU1XZe5.jpg>)](<https://x.com/EndFolding79421/status/2109791105671700721>)
+
+A complete prose prompt follows Lucy leaving a diner and sensing a watcher, using eight steps and realism LoRA strength 0.6.
+
+**Model:** MiniMax H3
+
+#### Author prompt · `en`
+
+```text
+r34l1sm
+
+use the woman in  <Picture 1> is lucy.
+
+Lucy stepped out of the small diner where she worked, the doorbell jingling softly behind her. The night air was cool and crisp, a welcome change from the stuffy warmth inside. She took a deep breath, feeling the slight chill of the evening settle on her skin. The street was quiet, only the distant hum of traffic breaking the silence.
+
+Her shift had been long and exhausting, filled with the clatter of dishes and the constant chatter of customers. Now, the quiet seemed almost surreal, a stark contrast to the noise and chaos she had just left behind. Lucy adjusted her bag on her shoulder, glancing around as she began her walk home.
+
+The dim streetlights cast long shadows across the pavement, their flickering bulbs adding an eerie quality to the otherwise peaceful night. Lucy's footsteps echoed softly, a rhythmic accompaniment to her thoughts. She felt a strange mix of relief and unease; relief that her shift was over, and unease that she had to walk home alone at this hour.
+
+She tried to shake off the feeling, telling herself it was just her imagination. But as she walked, the sensation of being watched grew stronger. Lucy's eyes darted to the darkened alleyways and the shadowy corners of the street, half-expecting to see someone lurking there. Each time, there was nothing but the oppressive darkness.
+
+Her thoughts wandered to the events of the day, the usual frustrations of work blending with snippets of conversations she'd had with her coworkers. She thought of Megan, her closest friend at the diner, and their plans to go out together on the weekend. The thought brought a small smile to her lips, momentarily easing her tension.
+
+But the feeling of being watched persisted. Lucy quickened her pace, her heartbeat matching the rapid rhythm of her footsteps. She turned down a quieter street, the buildings looming tall and silent on either side. The oppressive silence pressed in on her, amplifying every sound, every rustle of leaves, every distant car horn.
+
+A sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wide, searching the shadows for the source. The street was empty, the only movement the gentle sway of a tree branch in the breeze. She stood there for a moment, heart pounding, before forcing herself to turn back and keep walking.
+
+"It's just your imagination," she muttered under her breath, trying to steady her nerves. But the cold knot of fear in her stomach told her otherwise.
+```
+
+#### How to adapt it
+
+Replace Lucy, the workplace and the source of unease while keeping the emotional progression; begin with the reported eight-step, 0.6 LoRA recipe.
+
+**Shared by:** [FoldingEnd A.I.](<https://x.com/EndFolding79421>)
+
+[Original post on X](<https://x.com/EndFolding79421/status/2109791105671700721>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lucy-diner-walk-home-story-prose>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -5032,6 +5198,126 @@ Build a consistent sheet from your drawings, then review character identity acro
 **Shared by:** [MrJ0SHiE (AI Trump)](<https://x.com/MrJ0SHie>)
 
 [Original post on X](<https://x.com/MrJ0SHie/status/2109814229263908976>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#malfoid-little-witch-handdrawn-fan-mashup>)
+
+<a id="aziib-playstation-two-cutscene-lora"></a>
+
+### Aziib PlayStation Two Cutscene LoRA
+
+[![Aziib PlayStation Two Cutscene LoRA preview](<https://pbs.twimg.com/amplify_video_thumb/2110101633929719808/img/enbznd7ZK8p7ww-q.jpg>)](<https://x.com/megaaziib/status/2110101791924953496>)
+
+A creator-trained H3 LoRA demonstrates a PlayStation 2-style cutscene with retro game rendering.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep character action readable and compare face, geometry and shading across shots when applying a deliberately low-detail game style.
+
+**Shared by:** [Megaaziib](<https://x.com/megaaziib>)
+
+[Original post on X](<https://x.com/megaaziib/status/2110101791924953496>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#aziib-playstation-two-cutscene-lora>)
+
+<a id="aziib-pixel-style-game-character-lora"></a>
+
+### Aziib Pixel Style Game Character LoRA
+
+[![Aziib Pixel Style Game Character LoRA preview](<https://pbs.twimg.com/amplify_video_thumb/2110151370670272512/img/z5yu41SiTEK0faij.jpg>)](<https://x.com/megaaziib/status/2110151450244636968>)
+
+A creator demonstrates an H3 pixel-art style LoRA using recognizable game characters in a retro scene.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a limited palette and simple poses, then inspect whether the pixel grid and character silhouette stay stable throughout the clip.
+
+**Shared by:** [Megaaziib](<https://x.com/megaaziib>)
+
+[Original post on X](<https://x.com/megaaziib/status/2110151450244636968>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#aziib-pixel-style-game-character-lora>)
+
+<a id="origami-princess-kaguya-bamboo-reveal"></a>
+
+### Origami Princess Kaguya Bamboo Reveal
+
+[![Origami Princess Kaguya Bamboo Reveal preview](<https://pbs.twimg.com/amplify_video_thumb/2108933700922806272/img/CdKVc_roYfmjxKRn.jpg>)](<https://x.com/neco1751662/status/2110160657639239819>)
+
+A complete 15-second paper-craft fairy-tale prompt unfolds glowing bamboo, reveals Kaguya and releases golden origami cranes.
+
+**Model:** MiniMax H3
+
+#### Author prompt · `en`
+
+```text
+A breathtaking 15-second Japanese fairy tale animation inspired by The Tale of Princess Kaguya, crafted entirely from traditional Japanese origami, luxurious gold-flecked washi paper, and beautifully patterned chiyogami. Vertical 16:9.
+
+An enchanting moonlit bamboo forest made from layered Japanese paper. Elegant emerald green, midnight indigo, ivory white, and shimmering gold.
+
+0-4s: A peaceful miniature bamboo grove under a magnificent full moon. One tall origami bamboo stalk begins to glow with warm golden light.
+
+4-8s: The glowing bamboo stalk slowly unfolds along its paper creases, revealing a tiny magical chamber filled with soft light.
+
+8-12s: A beautiful miniature origami princess appears inside, wearing an elegant layered traditional Japanese kimono decorated with delicate floral chiyogami patterns.
+
+12-15s: The princess raises her hands gracefully. Several glowing golden origami cranes emerge and flutter around her as the full moon shines brightly above the bamboo forest.
+
+Exquisite handcrafted Japanese paper aesthetics, authentic origami folds, intricate chiyogami patterns, delicate gold-leaf textures, layered 2D paper-cut animation, gentle stop-motion movements.
+
+Elegant traditional Japanese koto and shakuhachi music, soft bamboo rustling, delicate magical chimes.
+
+No dialogue, no text, no subtitles. No photorealism, no realistic CGI, no plastic textures.
+```
+
+#### How to adapt it
+
+Swap the fairy-tale subject, paper palette and final reveal while preserving the four timed phases and tactile paper movement.
+
+**Shared by:** [neco - AI Anime](<https://x.com/neco1751662>)
+
+[Original post on X](<https://x.com/neco1751662/status/2110160657639239819>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#origami-princess-kaguya-bamboo-reveal>)
+
+<a id="24-second-family-animation-budget-report"></a>
+
+### Twenty Four Second Family Animation Budget
+
+[![Twenty Four Second Family Animation Budget preview](<https://pbs.twimg.com/amplify_video_thumb/2110167240461234176/img/AktnhZM9VqG4RGFy.jpg>)](<https://x.com/hoko525/status/2110168540364112304>)
+
+A 24-second short uses 18 GPT Image 2.5 stills and 11 H3 Max Turbo videos, with an author-reported 272-yen total and retries.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a short family story as image panels, animate selected beats, and track paid retries as part of the real production budget.
+
+**Shared by:** [ほこ｜初月168万！AI×LINEスタンプ攻略](<https://x.com/hoko525>)
+
+[Original post on X](<https://x.com/hoko525/status/2110168540364112304>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#24-second-family-animation-budget-report>)
+
+<a id="maomao-bottle-desktop-fan-short"></a>
+
+### Maomao Bottle Desktop Fan Short
+
+[![Maomao Bottle Desktop Fan Short preview](<https://pbs.twimg.com/amplify_video_thumb/2109984792632582144/img/A9Dn0UzV02rxSOsu.jpg>)](<https://x.com/achuanmemo/status/2110196392798937358>)
+
+An Apothecary Diaries fan short uses H3 Max Turbo to stage Maomao and a troublesome bottle against a desktop setting.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Give the character one prop-driven action and use an obvious environmental consequence as the payoff, checking prop and background consistency.
+
+**Shared by:** [阿川](<https://x.com/achuanmemo>)
+
+[Original post on X](<https://x.com/achuanmemo/status/2110196392798937358>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#maomao-bottle-desktop-fan-short>)
 
 <a id="category-reference-character"></a>
 
@@ -6115,6 +6401,146 @@ Compare rear-view coverage and loop seams separately, using explicit front, side
 
 [Original post on X](<https://x.com/servasyy_ai/status/2109827070058799520>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4090-orb360-multiview-loop-comparison>)
 
+<a id="lego-raptors-three-character-swap"></a>
+
+### LEGO Raptors Three Character Swap
+
+[![LEGO Raptors Three Character Swap preview](<https://pbs.twimg.com/amplify_video_thumb/2107831092275474432/img/hOxZvIbGflFS0oUR.jpg>)](<https://x.com/kentdhani/status/2107832445739639125>)
+
+A local RTX 5090 test replaces three Jurassic World raptors at once rather than swapping one isolated character.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test one subject first, then add separate references and inspect identity retention whenever the subjects overlap or change position.
+
+**Shared by:** [Kent Dhani](<https://x.com/kentdhani>)
+
+[Original post on X](<https://x.com/kentdhani/status/2107832445739639125>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lego-raptors-three-character-swap>)
+
+<a id="frog-robot-singularity-reference"></a>
+
+### Frog Robot Singularity Reference Test
+
+[![Frog Robot Singularity Reference Test preview](<https://pbs.twimg.com/amplify_video_thumb/2108160243180126208/img/s7bLlxopLu5uBCv9.jpg>)](<https://x.com/mix_buchi_/status/2108160289338425679>)
+
+A frog-shaped robot is animated with H3 Ref2V using Singularity and an LLM-written prompt.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a mechanical creature reference with distinctive joints and inspect whether the generated movement preserves its construction.
+
+**Shared by:** [buchi\_](<https://x.com/mix_buchi_>)
+
+[Original post on X](<https://x.com/mix_buchi_/status/2108160289338425679>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#frog-robot-singularity-reference>)
+
+<a id="reference-edit-placement-texture-tradeoff"></a>
+
+### Reference Edit Placement and Texture Tradeoff
+
+[![Reference Edit Placement and Texture Tradeoff preview](<https://pbs.twimg.com/amplify_video_thumb/2109582113569988608/img/KJS6Q7Z6cjBGYfrr.jpg>)](<https://x.com/SatsukiAILog/status/2109582556329087219>)
+
+A background-and-person Reference Edit test improves placement but changes the face and skin texture, according to its author.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Change placement and identity constraints separately, compare stills before animating, and reject variants that alter the desired face or skin.
+
+**Shared by:** [Satsuki AI Log](<https://x.com/SatsukiAILog>)
+
+[Original post on X](<https://x.com/SatsukiAILog/status/2109582556329087219>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#reference-edit-placement-texture-tradeoff>)
+
+<a id="magnific-one-reference-bulk-spec-ad"></a>
+
+### Magnific One Reference Bulk Spec Ad
+
+[![Magnific One Reference Bulk Spec Ad preview](<https://pbs.twimg.com/amplify_video_thumb/2109626822317297664/img/AsMmQtBD-VJB58XG.jpg>)](<https://x.com/jerrod_lew/status/2109626865170501947>)
+
+One reference image becomes draft images in Magnific One, H3 Max video clips and an edited spec ad with ElevenLabs audio.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a coherent set of image variations from one reference, animate selected shots, then add voice-over and music during editing.
+
+**Shared by:** [Jerrod Lew](<https://x.com/jerrod_lew>)
+
+[Original post on X](<https://x.com/jerrod_lew/status/2109626865170501947>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#magnific-one-reference-bulk-spec-ad>)
+
+<a id="character-v1-prompt-mask-performance-transfer"></a>
+
+### Character V1 Prompt and Mask Performance Transfer
+
+[![Character V1 Prompt and Mask Performance Transfer preview](<https://pbs.twimg.com/amplify_video_thumb/2109865237126189057/img/yuMiNdK3KB8viQjI.jpg>)](<https://x.com/akatz_ai/status/2109865369737269640>)
+
+H3 Ref2VA transfers performances with a character V1 LoRA, prompting and masking in a side-by-side development reel.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the source performance visible beside the output and evaluate facial movement, framing and identity before changing mask or prompt settings.
+
+**Shared by:** [akatz](<https://x.com/akatz_ai>)
+
+[Original post on X](<https://x.com/akatz_ai/status/2109865369737269640>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-v1-prompt-mask-performance-transfer>)
+
+<a id="transformation-lora-start-end-anime-test"></a>
+
+### Transformation LoRA Start and End Anime Test
+
+[![Transformation LoRA Start and End Anime Test preview](<https://pbs.twimg.com/amplify_video_thumb/2109935175664881664/img/8W_DgaHwQLKXASkA.jpg>)](<https://x.com/sep_is_heim/status/2109935395547001099>)
+
+An anime-character test combines start and end images with a Transformation LoRA and a prompt.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose clear before-and-after designs, hold framing steady, and tune the transition before trying more complex poses or props.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2109935395547001099>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#transformation-lora-start-end-anime-test>)
+
+<a id="waiting-previs-depth-lineart-model-comparison"></a>
+
+### Waiting Previs Depth and Line Art Comparison
+
+[![Labeled four-panel comparison: H3 Max Turbo previs upper left, H3 lower left, Seedance upper right and Wan lower right](<https://pbs.twimg.com/amplify_video_thumb/2110191243905097728/img/z1jOXW13Pit1FgqC.jpg>)](<https://x.com/sankakuten91256/status/2110195586674868601>)
+
+A labeled comparison tests H3, Seedance and Wan against previs, depth, line art and a character reference in five-second sections.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare each model against the same character and motion guides, inspecting style retention separately from camera and action fidelity.
+
+**Shared by:** [さんかくてん](<https://x.com/sankakuten91256>)
+
+[Original post on X](<https://x.com/sankakuten91256/status/2110195586674868601>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#waiting-previs-depth-lineart-model-comparison>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -7188,6 +7614,130 @@ Anchor the singer with a clear base illustration, then inspect mouth movement an
 **Shared by:** [sorastg524](<https://x.com/sorastg524>)
 
 [Original post on X](<https://x.com/sorastg524/status/2109703917252886924>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#kawaii-punk-rock-i2v-turbo-test>)
+
+<a id="local-ai-anthem-masked-face-fallback"></a>
+
+### Local AI Anthem with Masked Face Fallback
+
+[![Local AI Anthem with Masked Face Fallback preview](<https://pbs.twimg.com/amplify_video_thumb/2109725030032482304/img/nySHVIZPju8x2umc.jpg>)](<https://x.com/superalesha/status/2109725641113292870>)
+
+A local 3:16 anthem uses 109 H3 video runs; failed reference face swaps lead the creator to masked characters.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Budget retries for identity-sensitive close-ups and plan a stylized fallback when reference-to-video cannot reliably preserve the chosen faces.
+
+**Shared by:** [Alexey Fateev](<https://x.com/superalesha>)
+
+[Original post on X](<https://x.com/superalesha/status/2109725641113292870>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-ai-anthem-masked-face-fallback>)
+
+<a id="stars-in-daylight-previs-end-frame-mv"></a>
+
+### Stars in Daylight Previs and End Frame MV
+
+[![Stars in Daylight Previs and End Frame MV preview](<https://pbs.twimg.com/amplify_video_thumb/2110135521691471873/img/BFLK0FA7XEKYbQzG.jpg>)](<https://x.com/tshikimi/status/2110136089805783534>)
+
+A lyric MV combines Blender previs, character sheets and H3 clips connected by reusing each prior ending frame.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare character sheets and previs, render a start still, then extract the prior clip’s last frame as the next start frame to check continuity.
+
+**Shared by:** [竹花 樒](<https://x.com/tshikimi>)
+
+[Original post on X](<https://x.com/tshikimi/status/2110136089805783534>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#stars-in-daylight-previs-end-frame-mv>)
+
+<a id="all-subscribed-argon-code-edited-mv"></a>
+
+### All Subscribed Argon Code Edited MV
+
+[![All Subscribed Argon Code Edited MV preview](<https://pbs.twimg.com/amplify_video_thumb/2110152222701203456/img/FtbW5vrMAJNdEgo_.jpg>)](<https://x.com/SeiraHisada/status/2110152387604500593>)
+
+An Argon-directed H3 MV uses four-step LoRA, lyric timestamps, 150 BPM beats and Python compositing rather than a video editor.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Extract lyric timing, align cuts with beats and RMS energy, then implement typography and chroma-key layers separately from video generation.
+
+**Shared by:** [久田誠良(Seira Hisada)](<https://x.com/SeiraHisada>)
+
+[Original post on X](<https://x.com/SeiraHisada/status/2110152387604500593>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#all-subscribed-argon-code-edited-mv>)
+
+<a id="attention-opus-choreography-dance-mv"></a>
+
+### Attention Opus Choreography Dance MV
+
+[![Attention Opus Choreography Dance MV preview](<https://pbs.twimg.com/amplify_video_thumb/2110153707128229888/img/uywp6xtXSpQ4vt-A.jpg>)](<https://x.com/_sagyoai/status/2110154378409914677>)
+
+An original-character Attention dance video credits Opus 5.5 for choreography, staging and lyrics, Codex for images and H3 for video.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define choreography and staging before generating a consistent character image set, then inspect motion and identity across the edited dance sequence.
+
+**Shared by:** [さ🥺](<https://x.com/_sagyoai>)
+
+[Original post on X](<https://x.com/_sagyoai/status/2110154378409914677>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#attention-opus-choreography-dance-mv>)
+
+<a id="bayond-the-line-ink-red-heart-mv"></a>
+
+### Bayond the Line Ink and Red Heart MV
+
+[![Bayond the Line Ink and Red Heart MV preview](<https://pbs.twimg.com/amplify_video_thumb/2110182743141191680/img/8TlzKjckhFtCSkd_.jpg>)](<https://x.com/Jeuner/status/2110184862091010492>)
+
+A locally made H3 experimental music video uses black-and-white ink and one red heart as its visual motif.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Reserve one accent color for a recurring symbol and let the composition and edits carry the song rather than adding more colors.
+
+**Shared by:** [H.G.O.D.](<https://x.com/Jeuner>)
+
+[Original post on X](<https://x.com/Jeuner/status/2110184862091010492>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bayond-the-line-ink-red-heart-mv>)
+
+<a id="funk-regulations-opus-yue-h3-agent-mv"></a>
+
+### Funk Regulations Opus YuE and H3 Agent MV
+
+[![Funk Regulations Opus YuE and H3 Agent MV preview](<https://pbs.twimg.com/amplify_video_thumb/2110191635258904576/img/0wE9NgnOJNAdVEo4.jpg>)](<https://x.com/mikumiku_aloha/status/2110192071890120980>)
+
+An Opus-directed funk MV pairs YuE2 music with a short Japanese instruction to make motion-graphics-heavy H3 video in ComfyUI.
+
+**Model:** MiniMax H3
+
+#### Author agent instruction for the video stage · `ja`
+
+```text
+この曲を使って、Motion Graphics多めのMusic VideoをComfyUIのMiniMax H3使って適当に作って
+```
+
+#### How to adapt it
+
+Provide a finished song to the agent and specify the intended graphic density, then review how its video and motion-graphics stages fit the music.
+
+**Shared by:** [mikumiku\_aloha](<https://x.com/mikumiku_aloha>)
+
+[Original post on X](<https://x.com/mikumiku_aloha/status/2110192071890120980>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#funk-regulations-opus-yue-h3-agent-mv>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -8597,6 +9147,26 @@ Hold the scene and spoken sentence constant while comparing native Japanese and 
 
 [Original post on X](<https://x.com/dazgen48/status/2109813193233297592>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#turbo-japanese-romaji-dialogue-pair>)
 
+<a id="self-narrated-h3-actor-opus-edit"></a>
+
+### Self Narrated H3 Actor and Opus Edit
+
+[![Self Narrated H3 Actor and Opus Edit preview](<https://pbs.twimg.com/amplify_video_thumb/2110184295008735232/img/r7eLkQCJnXXXImJ-.jpg>)](<https://x.com/benbaga4/status/2110184433949278364>)
+
+A creator supplies their own narration while H3 supplies the on-screen actor and Opus 5.5 handles copy, editing and post.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record the intended narration first, then plan an on-screen presenter and edit the shots to the pacing of the spoken explanation.
+
+**Shared by:** [ai三班李同学](<https://x.com/benbaga4>)
+
+[Original post on X](<https://x.com/benbaga4/status/2110184433949278364>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#self-narrated-h3-actor-opus-edit>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -9107,6 +9677,26 @@ Replace the character sheet and exact slogans while preserving left/right access
 **Shared by:** [おにぎり｜動画編集とAI映像の始め方](<https://x.com/Suzukiphill>)
 
 [Original post on X](<https://x.com/Suzukiphill/status/2109388577406628169>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ren-menswear-kinetic-typography>)
+
+<a id="source-typography-motion-design-test"></a>
+
+### Source Typography Motion Design Test
+
+[![Source Typography Motion Design Test preview](<https://pbs.twimg.com/ext_tw_video_thumb/2108150434401538048/pu/img/4OrC4vAlRkUoqFik.jpg>)](<https://x.com/CharaspowerAI/status/2108150454269993357>)
+
+An H3 demonstration describes animating source images that already contain typography for posters, title cards and branded visuals.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build legible typography into a source image first, then test how letterforms move with the composition and inspect them frame by frame.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2108150454269993357>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#source-typography-motion-design-test>)
 
 <a id="category-workflows"></a>
 
@@ -11684,6 +12274,180 @@ Measure the same shot at several pixel budgets, logging duration, steps and quan
 **Shared by:** [むぎ@まいにち寧々さん](<https://x.com/EverydayNene>)
 
 [Original post on X](<https://x.com/EverydayNene/status/2109828904320147842>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-a100-three-pixel-budget-test>)
+
+<a id="hermes-single-spark-ten-clip-orchestration"></a>
+
+### Hermes Single Spark Ten Clip Orchestration
+
+[![Hermes Single Spark Ten Clip Orchestration preview](<https://pbs.twimg.com/amplify_video_thumb/2108508936592855041/img/d9ZrQqSS018shX_p.jpg>)](<https://x.com/NeoAIForecast/status/2108524626989215881>)
+
+A Hermes agent uses ComfyUI to assemble ten H3 clips, Qwen images and a 100-second MiniMax Music score on one Spark.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep image creation, reference-conditioned clips, music generation and stitching as explicit stages so each failed stage can be rerun.
+
+**Shared by:** [Neo](<https://x.com/NeoAIForecast>)
+
+[Original post on X](<https://x.com/NeoAIForecast/status/2108524626989215881>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hermes-single-spark-ten-clip-orchestration>)
+
+<a id="colab-unmodified-local-modified-half-speed"></a>
+
+### Colab and Modified Local Half Speed Comparison
+
+[![Colab and Modified Local Half Speed Comparison preview](<https://pbs.twimg.com/amplify_video_thumb/2108807949061939200/img/o3PQoVYiuEihPJOP.jpg>)](<https://x.com/studio_yebisu/status/2108808702577009033>)
+
+An author compares unmodified H3 on Colab against a modified local setup, presenting both outputs at half playback speed.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record precision, resolution and sampler settings on both systems, and keep playback speed identical when comparing faces during a zoom-out.
+
+**Shared by:** [StudioYebisu](<https://x.com/studio_yebisu>)
+
+[Original post on X](<https://x.com/studio_yebisu/status/2108808702577009033>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-unmodified-local-modified-half-speed>)
+
+<a id="colab-one-button-h3-notebook-demo"></a>
+
+### Colab One Button H3 Notebook Demo
+
+[![Colab One Button H3 Notebook Demo preview](<https://pbs.twimg.com/amplify_video_thumb/2109847580645670912/img/ciZtAOV4wUoIXO3o.jpg>)](<https://x.com/posi_posi8/status/2109848622917726612>)
+
+A shared Colab notebook starts an H3 WebUI with one button; the author reports a five-second clip in under two minutes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Inspect the linked notebook, log its actual GPU and settings, then measure a short run before expanding duration or resolution.
+
+**Shared by:** [posi\_posi](<https://x.com/posi_posi8>)
+
+[Original post on X](<https://x.com/posi_posi8/status/2109848622917726612>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-one-button-h3-notebook-demo>)
+
+<a id="fal-reframe-h3-max-aspect-ratio-extension"></a>
+
+### Fal Reframe H3 Max Aspect Ratio Extension
+
+[![Fal Reframe H3 Max Aspect Ratio Extension preview](<https://pbs.twimg.com/ext_tw_video_thumb/2110052993680683008/pu/img/lHusLyI2qyUxBtoN.jpg>)](<https://x.com/fal/status/2110053030028546499>)
+
+Fal demonstrates H3 Max extending footage beyond its original frame to change aspect ratio while retaining timing and audio.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose a short clip, target an aspect ratio, and inspect subjects entering the generated edges as well as continuity with the original center.
+
+**Shared by:** [fal](<https://x.com/fal>)
+
+[Original post on X](<https://x.com/fal/status/2110053030028546499>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fal-reframe-h3-max-aspect-ratio-extension>)
+
+<a id="4070-ti-super-freevideo-light-portrait-test"></a>
+
+### 4070 Ti Super FreeVideo Light Portrait Test
+
+A Windows FreeVideo v0.4.0 report generates a four-second 768×1344 image-to-video clip in 210 seconds on a 4070 Ti Super.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record the Light-quality settings and peak VRAM/RAM during a short portrait test before attempting longer clips on a 16GB GPU.
+
+**Shared by:** [パジョカ (Pajoca)](<https://x.com/Pajoca_>)
+
+[Original post on X](<https://x.com/Pajoca_/status/2110068702368661589>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4070-ti-super-freevideo-light-portrait-test>)
+
+<a id="h3-video-to-3d-facial-expression"></a>
+
+### H3 Video to 3D Facial Expression Transfer
+
+[![H3 Video to 3D Facial Expression Transfer preview](<https://pbs.twimg.com/amplify_video_thumb/2110099889019576320/img/9bYY4VrnYz_gl6Lq.jpg>)](<https://x.com/IsekaiBardGuild/status/2110101510747230334>)
+
+A side-by-side test uses H3 footage as a guide for Opus 5.5 to add expressions to a 3D character.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Create frontal and side performance clips, transfer body movement first, then compare small facial changes against the video before accepting the rig.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2110101510747230334>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-video-to-3d-facial-expression>)
+
+<a id="codex-eagle-character-sheet-kusatsu-pipeline"></a>
+
+### Codex Eagle Character Sheet Kusatsu Pipeline
+
+Codex operates Eagle and H3 to derive a character sheet from older art, combine it with Kusatsu photos, then animate the result.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose archived character art, create a consistent sheet, combine it with location photos and animate only after checking the composite still.
+
+**Shared by:** [yanagid@AIイラスト/やなぎどさんち](<https://x.com/A2yanagid>)
+
+[Original post on X](<https://x.com/A2yanagid/status/2110107054069166112>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#codex-eagle-character-sheet-kusatsu-pipeline>)
+
+<a id="colab-five-cut-thirty-second-cost-breakdown"></a>
+
+### Colab Five Cut Thirty Second Time Breakdown
+
+A Colab production report separates setup, five H3 cuts and local export for a 30-second video using about 4.73 displayed CCU.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Log environment setup, model download, generation and local export separately, and batch clips in the same runtime to avoid repeating setup.
+
+**Shared by:** [TOSHIBoo ꧁としぶ꧂全資産クリプト](<https://x.com/TOSHIBoo_m>)
+
+[Original post on X](<https://x.com/TOSHIBoo_m/status/2110178656266150154>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-five-cut-thirty-second-cost-breakdown>)
+
+<a id="a100-int8-fifteen-second-monk-animation"></a>
+
+### A100 INT8 Fifteen Second Monk Animation
+
+[![A100 INT8 Fifteen Second Monk Animation preview](<https://pbs.twimg.com/amplify_video_thumb/2110186752346574848/img/z3w9R9S2vGmG7Fvl.jpg>)](<https://x.com/jenray1986/status/2110186780486213907>)
+
+An author reports a 15-second monk animation in ten minutes with INT8 H3 on an A100 40GB GPU.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with a short stylized character action and log precision, GPU memory, sampler and resolution alongside the elapsed time.
+
+**Shared by:** [Jenray](<https://x.com/jenray1986>)
+
+[Original post on X](<https://x.com/jenray1986/status/2110186780486213907>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#a100-int8-fifteen-second-monk-animation>)
 
 ## Suggest a prompt
 
