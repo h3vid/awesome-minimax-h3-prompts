@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **469 verified examples**, with sources reviewed through **2026-10-14**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **490 verified examples**, with sources reviewed through **2026-10-15**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (64)
-- [Storyboards & sequences](<#category-storyboard>) (71)
-- [Anime & animation](<#category-anime-animation>) (40)
-- [References & consistency](<#category-reference-character>) (56)
-- [Music videos & dance](<#category-music-dance>) (56)
-- [Dialogue & audio](<#category-dialogue-audio>) (27)
-- [Motion graphics & titles](<#category-motion-graphics>) (20)
-- [ComfyUI & workflows](<#category-workflows>) (135)
+- [Cinematic & camera](<#category-cinematic-camera>) (67)
+- [Storyboards & sequences](<#category-storyboard>) (73)
+- [Anime & animation](<#category-anime-animation>) (41)
+- [References & consistency](<#category-reference-character>) (58)
+- [Music videos & dance](<#category-music-dance>) (57)
+- [Dialogue & audio](<#category-dialogue-audio>) (29)
+- [Motion graphics & titles](<#category-motion-graphics>) (22)
+- [ComfyUI & workflows](<#category-workflows>) (143)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2025,6 +2025,66 @@ Evaluate the same character at increasing motion speeds and separate generation 
 **Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
 
 [Original post on X](<https://x.com/Hemi3AI/status/2110137930153160787>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fast-motion-low-step-melting-comparison>)
+
+<a id="raccoon-monkey-backseat-chip-chaos"></a>
+
+### Raccoon and Monkey Backseat Chip Chaos
+
+A public H3 prompt stages a chip-bag accident and a laughing reaction among a woman, raccoon and capuchin in a moving car.
+
+**Model:** MiniMax H3
+
+```text
+A cinematic video inside the back seat of a moving car with beige leather interior On the right a young woman with medium-length brown hair, wearing a yellow knitted sweater and blue jeans is holding a blue bag of potato chips Sitting on the left is a fluffy raccoon and a small capuchin monkey is resting close to the raccoon The woman offers a chip to the animals but as the raccoon reaches into the bag chips accidentally burst into the air and scatter all over the backseat including one landing on the raccoon's head The woman reacts with surprise and then bursts into laughter while the monkey looks around curious and playful Photorealistic soft natural lighting, vibrant colors.
+```
+
+#### How to adapt it
+
+Keep the fixed seating, one clear accident and subsequent reactions; change the prop or animals while preserving the cause-and-effect sequence.
+
+**Shared by:** [Lavinia](<https://x.com/laviniavelle>)
+
+[Original post on X](<https://x.com/laviniavelle/status/2108851182244606445>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#raccoon-monkey-backseat-chip-chaos>)
+
+<a id="rainy-mountain-driving-landslide"></a>
+
+### Rainy Mountain Driving and Landslide
+
+[![Rainy Mountain Driving and Landslide preview](<https://pbs.twimg.com/amplify_video_thumb/2108910603024916480/img/PYyAgImNElmf6_GP.jpg>)](<https://x.com/VeyraWithAI/status/2108910720788152520>)
+
+A 15-second H3 driving example combines a mountain road, heavy rain, falling rocks and a landslide from one text prompt.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate the road geometry, vehicle trajectory and landslide timing in the description, then inspect contact and continuity through the debris.
+
+**Shared by:** [Veyra | AI & Tech](<https://x.com/VeyraWithAI>)
+
+[Original post on X](<https://x.com/VeyraWithAI/status/2108910720788152520>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rainy-mountain-driving-landslide>)
+
+<a id="fragrance-bottle-contained-world"></a>
+
+### Fragrance Bottle Contained World
+
+[![Fragrance Bottle Contained World preview](<https://pbs.twimg.com/amplify_video_thumb/2110307849582583808/img/qK4Wk7xRSpOOdj4d.jpg>)](<https://x.com/MauriceBourdon/status/2110308772342096240>)
+
+A locally generated H3 fragrance concept places a perfume bottle in a richly lit miniature-world setting using ComfyUI.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use one hero product and a coherent miniature environment; constrain lighting and camera movement to preserve the bottle silhouette.
+
+**Shared by:** [Maurice Bourdon](<https://x.com/MauriceBourdon>)
+
+[Original post on X](<https://x.com/MauriceBourdon/status/2110308772342096240>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fragrance-bottle-contained-world>)
 
 <a id="category-storyboard"></a>
 
@@ -4219,6 +4279,46 @@ Replace Lucy, the workplace and the source of unease while keeping the emotional
 
 [Original post on X](<https://x.com/EndFolding79421/status/2109791105671700721>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lucy-diner-walk-home-story-prose>)
 
+<a id="yui-mutual-aid-birthday-story-dance"></a>
+
+### Yui Mutual Aid Birthday Story and Dance
+
+[![Yui Mutual Aid Birthday Story and Dance preview](<https://pbs.twimg.com/amplify_video_thumb/2110496173341761536/img/davaCp7cKZcGXNSx.jpg>)](<https://x.com/EarthGigantea/status/2110496903196713438>)
+
+A Yui birthday short moves from helping people to a stage dance and a closing illustration, with H3 video and voice.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Give the character a clear helping action, a performance beat and a closing image, then edit the distinct stages around one musical theme.
+
+**Shared by:** [アースキー｜薬剤師のAI実装実験室](<https://x.com/EarthGigantea>)
+
+[Original post on X](<https://x.com/EarthGigantea/status/2110496903196713438>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#yui-mutual-aid-birthday-story-dance>)
+
+<a id="bitcoin-local-llm-mixed-documentary"></a>
+
+### Bitcoin and Local LLM Mixed Documentary
+
+[![Bitcoin and Local LLM Mixed Documentary preview](<https://pbs.twimg.com/amplify_video_thumb/2110550875794206720/img/eu8S54GdcZU9ZkE6.jpg>)](<https://x.com/posi_posi8/status/2110552322879418870>)
+
+A local-production documentary combines H3 footage, Blender 3D and Ace Step 1.5 music with technical diagrams and typing scenes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Alternate explanatory diagrams with concrete actions, tracking which shots require generated footage versus controlled 3D animation.
+
+**Shared by:** [posi\_posi](<https://x.com/posi_posi8>)
+
+[Original post on X](<https://x.com/posi_posi8/status/2110552322879418870>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bitcoin-local-llm-mixed-documentary>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -5318,6 +5418,26 @@ Give the character one prop-driven action and use an obvious environmental conse
 **Shared by:** [阿川](<https://x.com/achuanmemo>)
 
 [Original post on X](<https://x.com/achuanmemo/status/2110196392798937358>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#maomao-bottle-desktop-fan-short>)
+
+<a id="drone-race-anime-opening-motion-revision"></a>
+
+### Drone Race Anime Opening Motion Revision
+
+[![Drone Race Anime Opening Motion Revision preview](<https://pbs.twimg.com/amplify_video_thumb/2110276110705692672/img/u4gPKsTNwMcWnJKf.jpg>)](<https://x.com/madxfpv/status/2110276861385470463>)
+
+An anime-style drone-race event opening revises aircraft and character motion using H3 alongside Suno, ChatGPT and Codex.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Storyboard the race and character introductions, then revise aircraft movement separately from performance and assemble the opening with music.
+
+**Shared by:** [マッド𝕏 ⌘MAD𝕏](<https://x.com/madxfpv>)
+
+[Original post on X](<https://x.com/madxfpv/status/2110276861385470463>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#drone-race-anime-opening-motion-revision>)
 
 <a id="category-reference-character"></a>
 
@@ -6541,6 +6661,46 @@ Compare each model against the same character and motion guides, inspecting styl
 
 [Original post on X](<https://x.com/sankakuten91256/status/2110195586674868601>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#waiting-previs-depth-lineart-model-comparison>)
 
+<a id="gemini-rebuilt-anime-live-action-workflow"></a>
+
+### Gemini Rebuilt Anime Live Action Workflow
+
+[![Gemini Rebuilt Anime Live Action Workflow preview](<https://pbs.twimg.com/amplify_video_thumb/2110447591171469312/img/EmNsR8MbOlsKAsza.jpg>)](<https://x.com/kaimakulink/status/2110447790568755215>)
+
+A creator uses Gemini to reconstruct an H3 anime-to-live-action workflow from a LoRA description, showing a graph and a short result.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Rebuild missing graph connections from documented LoRA requirements, then use a short test to check framing and character transfer before extending it.
+
+**Shared by:** [バスケットマン（基本無課金 多垢100連ガチャ）](<https://x.com/kaimakulink>)
+
+[Original post on X](<https://x.com/kaimakulink/status/2110447790568755215>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#gemini-rebuilt-anime-live-action-workflow>)
+
+<a id="two-reference-human-chibi-amusement-park"></a>
+
+### Two Reference Human and Chibi Short
+
+[![Two Reference Human and Chibi Short preview](<https://pbs.twimg.com/amplify_video_thumb/2110565445875236864/img/3I-MYfPWdxhMS3qj.jpg>)](<https://x.com/breath_in_code/status/2110565625592762775>)
+
+A local 20-second H3 clip uses one person image and one chibi image, with prompting rather than a storyboard or LoRA.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Provide distinct person and chibi references, state their relative scale and roles, and inspect identity and framing while they share the scene.
+
+**Shared by:** [LinacoWSL](<https://x.com/breath_in_code>)
+
+[Original post on X](<https://x.com/breath_in_code/status/2110565625592762775>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#two-reference-human-chibi-amusement-park>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -7738,6 +7898,24 @@ Provide a finished song to the agent and specify the intended graphic density, t
 **Shared by:** [mikumiku\_aloha](<https://x.com/mikumiku_aloha>)
 
 [Original post on X](<https://x.com/mikumiku_aloha/status/2110192071890120980>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#funk-regulations-opus-yue-h3-agent-mv>)
+
+<a id="burnt-broccoli-everyday-incident-mv"></a>
+
+### Burnt Broccoli Everyday Incident MV
+
+An overcooked broccoli anecdote becomes an exaggerated music video using local H3 footage and ChatGPT illustrations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Turn a small everyday failure into a song premise, then contrast mundane actions with grand musical and visual beats.
+
+**Shared by:** [ぐうたらするめ](<https://x.com/guutara_surume>)
+
+[Original post on X](<https://x.com/guutara_surume/status/2110498779443175551>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#burnt-broccoli-everyday-incident-mv>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -9167,6 +9345,44 @@ Record the intended narration first, then plan an on-screen presenter and edit t
 
 [Original post on X](<https://x.com/benbaga4/status/2110184433949278364>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#self-narrated-h3-actor-opus-edit>)
 
+<a id="battle-clip-mirelo-audio-replacement"></a>
+
+### Battle Clip Mirelo Audio Replacement
+
+[![Battle Clip Mirelo Audio Replacement preview](<https://pbs.twimg.com/amplify_video_thumb/2110394533305630720/img/UbBLAoZucsD8WbBv.jpg>)](<https://x.com/Nayak__Ai/status/2110394920494375188>)
+
+An H3 battle comparison replaces unwanted music with Mirelo SFX 2.0 effects and ambience while retaining the picture.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Export a picture-locked clip, replace its sound in a separate audio pass, then compare impacts, ambience and continuity against the original.
+
+**Shared by:** [NAYAK](<https://x.com/Nayak__Ai>)
+
+[Original post on X](<https://x.com/Nayak__Ai/status/2110394920494375188>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#battle-clip-mirelo-audio-replacement>)
+
+<a id="every-sound-leaves-mark-clay-short"></a>
+
+### Every Sound Leaves a Mark Clay Short
+
+A 53-second clay-creature short uses ComfyUI and H3 to generate each cut’s picture and sound together, according to its author.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build each cut around a sound-triggered change, generate picture and sound together, and check transitions when assembling the cuts.
+
+**Shared by:** [トキ｜家のPCでAIを動く完成形にする実験者](<https://x.com/toki_mwc>)
+
+[Original post on X](<https://x.com/toki_mwc/status/2110562197684555789>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#every-sound-leaves-mark-clay-short>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -9697,6 +9913,46 @@ Build legible typography into a source image first, then test how letterforms mo
 **Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
 
 [Original post on X](<https://x.com/CharaspowerAI/status/2108150454269993357>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#source-typography-motion-design-test>)
+
+<a id="dove-inspired-typography-story-ad"></a>
+
+### Dove Inspired Typography Story Ad
+
+[![Dove Inspired Typography Story Ad preview](<https://pbs.twimg.com/amplify_video_thumb/2108822019550699520/img/hk5Za25Mlhp4y9gA.jpg>)](<https://x.com/YolandahGil/status/2108822099754176781>)
+
+A Dove-inspired H3 ad uses multiple references to combine product continuity, voice-over and typography within its story.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan where type supports each product beat, then check packaging, character identity and lettering across every cut.
+
+**Shared by:** [Yolanda](<https://x.com/YolandahGil>)
+
+[Original post on X](<https://x.com/YolandahGil/status/2108822099754176781>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dove-inspired-typography-story-ad>)
+
+<a id="seven-material-runner-python-blender-bridge"></a>
+
+### Seven Material Runner Python Blender Bridge
+
+[![Composite comparison of original H3 runner, finished material animation and Blender workspace](<https://pbs.twimg.com/amplify_video_thumb/2110268375314395136/img/fyrC_olD0vN9an4s.jpg>)](<https://x.com/aicreataro/status/2110269414834852256>)
+
+A ten-second H3 run becomes seven material variants, then Python pose switching and Blender connect the 2D motion to a 3D reveal.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep one running motion across material variants, switch them by pose, and match the 2D view before moving a Blender camera into the trails.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2110269414834852256>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#seven-material-runner-python-blender-bridge>)
 
 <a id="category-workflows"></a>
 
@@ -12448,6 +12704,166 @@ Start with a short stylized character action and log precision, GPU memory, samp
 **Shared by:** [Jenray](<https://x.com/jenray1986>)
 
 [Original post on X](<https://x.com/jenray1986/status/2110186780486213907>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#a100-int8-fifteen-second-monk-animation>)
+
+<a id="community-directed-four-film-live-session"></a>
+
+### Community Directed Four Film Live Session
+
+[![Community Directed Four Film Live Session preview](<https://pbs.twimg.com/amplify_video_thumb/2108320654005092352/img/CQLKCZ9A0MCi-9Lt.jpg>)](<https://x.com/WonderStudiosX/status/2108324771180232961>)
+
+Wonder Studios shares a two-hour H3 Max Turbo session in which community decisions shaped four films.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Collect audience decisions at clear story beats and generate short scenes around each choice before assembling the session edit.
+
+**Shared by:** [Wonder Studios](<https://x.com/WonderStudiosX>)
+
+[Original post on X](<https://x.com/WonderStudiosX/status/2108324771180232961>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#community-directed-four-film-live-session>)
+
+<a id="r2v-veda-sparse-native-extend-resize"></a>
+
+### R2V Veda Sparse and Native Extend Resize
+
+A published H3 R2V workflow update adds Veda-Sparse support and switches extension resizing to native nodes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare an existing reference-to-video workflow with the linked revision, checking resize behavior at extension boundaries.
+
+**Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
+
+[Original post on X](<https://x.com/javawock7618/status/2109104972646486305>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#r2v-veda-sparse-native-extend-resize>)
+
+<a id="generation-resolution-post-interpolation-settings"></a>
+
+### Generation Resolution and Post Interpolation
+
+[![Author shared H3 generation settings table, not a generated video frame](<https://pbs.twimg.com/media/HUWI6GfaEAArFdX.png>)](<https://x.com/kikoru2357/status/2109244569632243859>)
+
+An H3 creator shares a settings screenshot and separates generation resolution from later batch interpolation and optional upscaling.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold the subject and prompt constant when comparing generation resolutions, then evaluate detail before interpolation or upscaling.
+
+**Shared by:** [のりぞー@AI×副業](<https://x.com/kikoru2357>)
+
+[Original post on X](<https://x.com/kikoru2357/status/2109244569632243859>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#generation-resolution-post-interpolation-settings>)
+
+<a id="h3-max-video-to-thirty-webgl-games"></a>
+
+### H3 Max Video to Thirty WebGL Games
+
+[![H3 Max Video to Thirty WebGL Games preview](<https://pbs.twimg.com/amplify_video_thumb/2110028298009116672/img/U1qvxg1TXFnguI2f.jpg>)](<https://x.com/OdinLovis/status/2110028667569238524>)
+
+H3 Max gameplay concepts become 30 playable WebGL games through Claude, fal Agent and Three.js in a staged workflow.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate a short gameplay concept first, then specify controls, rules and assets when rebuilding it as an interactive browser game.
+
+**Shared by:** [Lovis Odin](<https://x.com/OdinLovis>)
+
+[Original post on X](<https://x.com/OdinLovis/status/2110028667569238524>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-video-to-thirty-webgl-games>)
+
+<a id="claude-age-themed-family-short-orchestration"></a>
+
+### Claude Age Themed Family Short Orchestration
+
+[![Claude Age Themed Family Short Orchestration preview](<https://pbs.twimg.com/amplify_video_thumb/2110292946151243776/img/saEiEXdvI0oe4XSp.jpg>)](<https://x.com/hoko525/status/2110292964270608425>)
+
+A family-short workflow turns an age-themed Claude request into GPT Image stills, H3 Max Turbo video and an edited short.
+
+**Model:** MiniMax H3 Max Turbo
+
+#### Published Claude Code request · `ja`
+
+```text
+◯歳児のあるある作って
+```
+
+#### How to adapt it
+
+Define the age and everyday incident in an orchestration request, then inspect character sheets, generated clips and the final edit separately.
+
+**Shared by:** [ほこ｜初月168万！AI×LINEスタンプ攻略](<https://x.com/hoko525>)
+
+[Original post on X](<https://x.com/hoko525/status/2110292964270608425>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#claude-age-themed-family-short-orchestration>)
+
+<a id="5060-ti-speed-lora-step-failure-report"></a>
+
+### 5060 Ti Speed LoRA Step Failure Report
+
+A 5060 Ti 16GB H3 report records 15 seconds at 0.8MP in 11m40s, four-step breakdowns and checks for inactive LoRAs.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Verify that the LoRA actually loads before timing, compare four versus six to eight steps, and keep resolution and duration fixed.
+
+**Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
+
+[Original post on X](<https://x.com/Phantom_202601/status/2110465018152276469>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5060-ti-speed-lora-step-failure-report>)
+
+<a id="pv-studio-local-song-analysis-pipeline"></a>
+
+### PV Studio Local Song Analysis Pipeline
+
+[![PV Studio Local Song Analysis Pipeline preview](<https://pbs.twimg.com/amplify_video_thumb/2110512235600875521/img/Pn5cE4qFaMw_NrGJ.jpg>)](<https://x.com/amagami_lab/status/2110512272330383648>)
+
+A local PV Studio app combines character sheets, song analysis, H3 clips and ffmpeg editing on a 4070 Ti SUPER.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Extract tempo, sections and lyric timings before storyboarding; generate character images and short clips, then assemble cuts and fades against the song.
+
+**Shared by:** [Amagami-lab | MOSOする人。](<https://x.com/amagami_lab>)
+
+[Original post on X](<https://x.com/amagami_lab/status/2110512272330383648>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pv-studio-local-song-analysis-pipeline>)
+
+<a id="h3-custom-node-map-six-workflow-groups"></a>
+
+### H3 Custom Node Map in Six Workflow Groups
+
+[![Educational H3 custom node map grouping 23 tools into six workflow categories](<https://pbs.twimg.com/media/HUoMtMqbkAA5NQ7.jpg>)](<https://x.com/sep_is_heim/status/2110513534396502331>)
+
+A creator organizes 23 H3 custom nodes into six workflow groups covering extension, editing, audio, control and production support.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Identify the stage your workflow lacks before selecting a node, then inspect its own repository and test it in isolation.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2110513534396502331>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-custom-node-map-six-workflow-groups>)
 
 ## Suggest a prompt
 
