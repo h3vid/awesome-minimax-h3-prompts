@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **490 verified examples**, with sources reviewed through **2026-10-15**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **505 verified examples**, with sources reviewed through **2026-10-16**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (67)
+- [Cinematic & camera](<#category-cinematic-camera>) (70)
 - [Storyboards & sequences](<#category-storyboard>) (73)
 - [Anime & animation](<#category-anime-animation>) (41)
-- [References & consistency](<#category-reference-character>) (58)
-- [Music videos & dance](<#category-music-dance>) (57)
+- [References & consistency](<#category-reference-character>) (59)
+- [Music videos & dance](<#category-music-dance>) (58)
 - [Dialogue & audio](<#category-dialogue-audio>) (29)
-- [Motion graphics & titles](<#category-motion-graphics>) (22)
-- [ComfyUI & workflows](<#category-workflows>) (143)
+- [Motion graphics & titles](<#category-motion-graphics>) (24)
+- [ComfyUI & workflows](<#category-workflows>) (151)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2085,6 +2085,86 @@ Use one hero product and a coherent miniature environment; constrain lighting an
 **Shared by:** [Maurice Bourdon](<https://x.com/MauriceBourdon>)
 
 [Original post on X](<https://x.com/MauriceBourdon/status/2110308772342096240>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fragrance-bottle-contained-world>)
+
+<a id="sogni-no-lora-full-orbit-prompt"></a>
+
+### Sogni No LoRA Full Orbit Prompt
+
+[![Four-panel preview of a woman in dark clothing from Sogni’s orbit demonstration](<https://pbs.twimg.com/amplify_video_thumb/2110460167993110528/img/Wfpq9lnwDZWHt1oz.jpg>)](<https://x.com/Sogni_Protocol/status/2110460483241447619>)
+
+Sogni demonstrates H3 Standard image-to-video orbits with a public camera instruction and suggests matching start and end images.
+
+**Model:** MiniMax H3 Standard
+
+#### Camera instruction · `en`
+
+```text
+The camera makes a full 360-degree orbit around the subject, returning to the starting view.
+```
+
+#### How to adapt it
+
+Try the published camera sentence on a clear subject; compare image-to-video with matching start and end frames and inspect the closing view.
+
+**Shared by:** [Sogni.ai](<https://x.com/Sogni_Protocol>)
+
+[Original post on X](<https://x.com/Sogni_Protocol/status/2110460483241447619>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sogni-no-lora-full-orbit-prompt>)
+
+<a id="mac-snowman-assembly-ltx-h3-comparison"></a>
+
+### Mac Snowman Assembly LTX and H3 Comparison
+
+[![Split-screen snowman-material setup: LTX 2.5 left, MiniMax H3 right; only the right panel is H3](<https://pbs.twimg.com/amplify_video_thumb/2110846963860312064/img/c-FOQMiUF85fkVCX.jpg>)](<https://x.com/k_naokun0329/status/2110847145528197535>)
+
+A Mac-local snowman comparison places LTX 2.5 on the left and H3 on the right, examining whether eye and hat assembly stays visible.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test explicit object-attachment stages and inspect the intermediate frames, keeping resolution, editing and sampling settings fixed for comparisons.
+
+**Shared by:** [なの｜AIでつくる会社員🐾](<https://x.com/k_naokun0329>)
+
+[Original post on X](<https://x.com/k_naokun0329/status/2110847145528197535>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mac-snowman-assembly-ltx-h3-comparison>)
+
+<a id="warehouse-fight-impact-speed-ramps"></a>
+
+### Warehouse Fight with Impact Speed Ramps
+
+[![Two adult fighters face each other inside a dim warehouse in the original H3 clip](<https://pbs.twimg.com/amplify_video_thumb/2110732177931722752/img/qv_QNttcuoqGdghh.jpg>)](<https://x.com/azed_ai/status/2110732214497620454>)
+
+A warehouse fight alternates fast exchanges and ultra-slow impacts, with the author’s complete timed 15-second prompt.
+
+**Model:** MiniMax H3
+
+#### Author’s complete fight prompt · `en`
+
+```text
+Create a 15-second photorealistic cinematic fight sequence between two skilled adult fighters inside a dim industrial warehouse at night, combining explosive real-time combat with dramatic ultra-slow-motion impact moments. Dust hangs in the air, broken concrete covers the floor, overhead lights flicker subtly, and cold light enters through tall warehouse windows.
+
+[00:00-00:03] APPROACH:** Begin with a low handheld tracking shot as Fighter A charges toward Fighter B. Fighter B steps forward and throws a fast right punch. Fighter A narrowly slips sideways, the fist passing centimeters from the face as the camera rapidly arcs around both fighters. Keep movement fast, grounded, and physically believable.
+
+[00:03-00:06] FIRST SLOW MOTION:** Fighter A immediately counters with a powerful spinning kick. The instant the leg approaches Fighter B, transition smoothly into extreme slow motion. Follow the kick from a close side angle as clothing stretches from rotational force, hair moves through the air, dust particles float around them, and Fighter B raises an arm to block. The kick connects with the guard, compressing clothing and shifting the defender's body naturally from the impact. Dust bursts from the sleeve while the camera performs a smooth orbit around the frozen-feeling moment.
+
+[00:06-00:09] COMBINATION:** Snap naturally back to real-time speed. Fighter B stumbles one step, regains balance, ducks under another strike, then delivers a rapid body-level counter. Fighter A blocks, grabs the attacking arm, rotates the opponent's momentum, and redirects Fighter B toward a nearby concrete pillar. The camera follows tightly with energetic shoulder-level movement while preserving clear geography and readable choreography.
+
+[00:09-00:12] SECOND SLOW MOTION:** Fighter B plants a foot against the floor, reverses momentum, and launches into a sweeping counter-kick. Transition into slow motion during the rotation. The camera drops close to floor level as the leg sweeps through floating dust. Fighter A jumps over the kick, body suspended briefly above the rotating leg while loose clothing, hair, dust, and tiny debris respond naturally to the motion. The camera passes underneath the airborne fighter before speed begins increasing again.
+
+[00:12-00:15] FINAL EXCHANGE:** Return explosively to real time as Fighter A lands, immediately pivots, and delivers one final controlled strike that Fighter B blocks with both forearms. Briefly enter slow motion at the exact moment of contact, emphasizing physical compression, muscle tension, flying dust, and the force traveling through both bodies. They separate and slide backward across the dusty floor, maintaining eye contact as the camera settles into a wide shot.
+
+Use strong speed ramping between real-time action and ultra-slow-motion impacts rather than keeping the entire fight slow. Choreography must remain continuous, readable, grounded, and physically connected. Preserve identical fighters, clothing, injuries, environment, lighting, positions, and direction of movement throughout. Realistic momentum, balance, foot placement, defensive reactions, cloth physics, hair physics, impact compression, airborne dust, natural motion blur, and cinematic camera parallax. No teleportation, impossible body rotations, duplicated limbs, extra fingers, broken anatomy, floating characters, weightless movement, excessive destruction, gore, blood, weapons, superhero powers, unnecessary cuts, subtitles, text, or logos.
+```
+
+#### How to adapt it
+
+Anchor each speed change to a contact event, track fighter positions between beats and reduce the action count if choreography drops.
+
+**Shared by:** [Amira Zairi](<https://x.com/azed_ai>)
+
+[Original post on X](<https://x.com/azed_ai/status/2110732214497620454>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#warehouse-fight-impact-speed-ramps>)
 
 <a id="category-storyboard"></a>
 
@@ -6701,6 +6781,26 @@ Provide distinct person and chibi references, state their relative scale and rol
 
 [Original post on X](<https://x.com/breath_in_code/status/2110565625592762775>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#two-reference-human-chibi-amusement-park>)
 
+<a id="comfyui-faceswap-lora-video-tutorial"></a>
+
+### ComfyUI FaceSwap LoRA Video Tutorial
+
+[![Illustrated ComfyUI MiniMax H3 FaceSwap LoRA tutorial cover with a character on lantern-lit stairs](<https://pbs.twimg.com/media/HUaWbtiasAANFPQ.jpg>)](<https://x.com/jun_kongo/status/2110853226815713377>)
+
+A creator publishes a video tutorial about using a FaceSwap LoRA with MiniMax H3 in ComfyUI.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Review the linked tutorial for identity-conditioning steps, then test a short reference clip for face stability through motion and occlusion.
+
+**Shared by:** [kongo jun / 混合 順](<https://x.com/jun_kongo>)
+
+[Original post on X](<https://x.com/jun_kongo/status/2110853226815713377>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfyui-faceswap-lora-video-tutorial>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -7916,6 +8016,26 @@ Turn a small everyday failure into a song premise, then contrast mundane actions
 **Shared by:** [ぐうたらするめ](<https://x.com/guutara_surume>)
 
 [Original post on X](<https://x.com/guutara_surume/status/2110498779443175551>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#burnt-broccoli-everyday-incident-mv>)
+
+<a id="edgerunners-local-sixty-clip-amv"></a>
+
+### Edgerunners Style Local Sixty Clip AMV
+
+[![Vertical music-video excerpt preview with a neon anime character and track overlay](<https://pbs.twimg.com/amplify_video_thumb/2110842823893188608/img/UuNrJa1g7ZZVWubN.jpg>)](<https://x.com/CrypToroMx/status/2110843113174659371>)
+
+An Edgerunners-style music-video excerpt comes from an AMV assembled with more than 60 locally generated H3 clips.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a shot list around the track, keep visual references consistent and review cut-to-cut continuity when assembling local generations.
+
+**Shared by:** [Toro](<https://x.com/CrypToroMx>)
+
+[Original post on X](<https://x.com/CrypToroMx/status/2110843113174659371>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#edgerunners-local-sixty-clip-amv>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -9953,6 +10073,46 @@ Keep one running motion across material variants, switch them by pose, and match
 **Shared by:** [aicreataro](<https://x.com/aicreataro>)
 
 [Original post on X](<https://x.com/aicreataro/status/2110269414834852256>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#seven-material-runner-python-blender-bridge>)
+
+<a id="halloween-h3-after-effects-transitions"></a>
+
+### Halloween H3 Clips with After Effects Transitions
+
+[![Moonlit haunted-house preview from a Halloween montage with After Effects transitions](<https://pbs.twimg.com/amplify_video_thumb/2110773246773886976/img/_z3as7iB7R8r3OT6.jpg>)](<https://x.com/SD_Tutorial/status/2110773403351437505>)
+
+A Halloween montage combines H3 footage with transitions added in After Effects.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate compatible lighting and framing across clips, then build and inspect the transitions in the editing stage.
+
+**Shared by:** [Stable Diffusion Tutorials](<https://x.com/SD_Tutorial>)
+
+[Original post on X](<https://x.com/SD_Tutorial/status/2110773403351437505>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#halloween-h3-after-effects-transitions>)
+
+<a id="wave-woodblock-eye-mirelo-sequence"></a>
+
+### Wave to Woodblock to Eye with Mirelo Sound
+
+[![An ocean wave appears within a blue iris in the original H3 piece](<https://pbs.twimg.com/amplify_video_thumb/2110653619804803072/img/UwEAanPByhVHoz_t.jpg>)](<https://x.com/geek_zard/status/2110654846340874461>)
+
+A 21-second H3 piece reinterprets a wave as the sea, a woodblock print and an eye, with sound credited separately to Mirelo.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep a recurring wave shape across the three visual treatments and plan the audio replacement as a separate finishing stage.
+
+**Shared by:** [geekzard](<https://x.com/geek_zard>)
+
+[Original post on X](<https://x.com/geek_zard/status/2110654846340874461>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wave-woodblock-eye-mirelo-sequence>)
 
 <a id="category-workflows"></a>
 
@@ -12864,6 +13024,160 @@ Identify the stage your workflow lacks before selecting a node, then inspect its
 **Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
 
 [Original post on X](<https://x.com/sep_is_heim/status/2110513534396502331>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-custom-node-map-six-workflow-groups>)
+
+<a id="wasserman-80s-horror-lora-workflows"></a>
+
+### Wasserman Eighties Horror LoRA Workflows
+
+[![Promotional montage for Wasserman’s eighties horror LoRA with VHS and 16mm examples](<https://pbs.twimg.com/media/HUKyj-Ba0AA_PLz.jpg>)](<https://x.com/SamJWasserman/status/2108443168903721186>)
+
+A horror-style H3 LoRA offers VHS and 16mm looks, audio-aware training and ComfyUI text-to-video and image-to-video workflows.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare a fixed scene with and without the style LoRA, checking grain, lighting and sound separately before changing the story.
+
+**Shared by:** [Sam Wasserman](<https://x.com/SamJWasserman>)
+
+[Original post on X](<https://x.com/SamJWasserman/status/2108443168903721186>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wasserman-80s-horror-lora-workflows>)
+
+<a id="qwen-strata-five-video-comfyui-batch"></a>
+
+### Qwen Strata Five Video ComfyUI Batch
+
+[![Chat interface screenshot documenting Qwen prompt planning and ComfyUI batch submission](<https://pbs.twimg.com/media/HUU03kMagAAZccd.jpg>)](<https://x.com/chimolog7/status/2109151099152486513>)
+
+A Qwen3.8 Q3_S Strata chat workflow writes separate prompts and sends five H3 video jobs to ComfyUI, according to its author.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Queue separate prompts and output paths per clip, then review the batch for repeated ideas and failed jobs before scheduling another run.
+
+**Shared by:** [やっぱもちです。🐯](<https://x.com/chimolog7>)
+
+[Original post on X](<https://x.com/chimolog7/status/2109151099152486513>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#qwen-strata-five-video-comfyui-batch>)
+
+<a id="opus-hyperframes-influencer-cat-broll"></a>
+
+### Opus HyperFrames Influencer Reel with Cat B Roll
+
+[![Influencer portrait with subtitles in a mixed-model reel; H3 is used for cat B roll](<https://pbs.twimg.com/amplify_video_thumb/2110760962064048128/img/lW9HTW4IZQhzt_T_.jpg>)](<https://x.com/nakazakifam/status/2110761102191595627>)
+
+An automated influencer reel uses H3 for cat footage, LTX-2.3 for lip sync and Opus with HyperFrames for editing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assign each shot to its actual model, then review subtitles, visual density and the opening hook after the automated assembly.
+
+**Shared by:** [中崎工房 | AIで1時間の仕事を5分で終わらせる人](<https://x.com/nakazakifam>)
+
+[Original post on X](<https://x.com/nakazakifam/status/2110761102191595627>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#opus-hyperframes-influencer-cat-broll>)
+
+<a id="4070-square-twelve-second-fl2v-eight-step"></a>
+
+### RTX 4070 Square Twelve Second FL2V Recipe
+
+[![Low-angle indoor preview showing a seated person beside a table in the square H3 example](<https://pbs.twimg.com/amplify_video_thumb/2110768828749893632/img/b0s3F7vkspi8xltu.jpg>)](<https://x.com/AiPhotorealGirl/status/2110770108746649735>)
+
+A ComfyUI H3 example pairs a 12-second square clip with an RTX 4070 12GB recipe using INT8 components and eight-step Turbo.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use the author’s component list as a baseline, recording VRAM and generation time separately from the later frame interpolation.
+
+**Shared by:** [AIconia | アイコニア](<https://x.com/AiPhotorealGirl>)
+
+[Original post on X](<https://x.com/AiPhotorealGirl/status/2110770108746649735>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4070-square-twelve-second-fl2v-eight-step>)
+
+<a id="m5-fifteen-second-prompt-ablation-hands"></a>
+
+### M5 Fifteen Second Prompt Ablation for Hands
+
+An M5 Mac H3 test reports fewer hand defects after removing two prompt sentences across three 15-second trials.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Change one instruction at a time, retain failed frames and repeat seeds before attributing a long-clip defect to duration or memory.
+
+**Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
+
+[Original post on X](<https://x.com/Phantom_202601/status/2110847810971291720>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#m5-fifteen-second-prompt-ablation-hands>)
+
+<a id="strata-h3-explicit-memory-handoff"></a>
+
+### Strata and H3 Explicit Memory Handoff
+
+A local workflow unloads Strata before H3 generation, then frees ComfyUI models and reloads the language model after completion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Put unload, generation, cleanup and reload in explicit stages; recover the language model after both successful jobs and failed generations.
+
+**Shared by:** [障ナイさん](<https://x.com/shonai_arai>)
+
+[Original post on X](<https://x.com/shonai_arai/status/2110861120043135212>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#strata-h3-explicit-memory-handoff>)
+
+<a id="h3-continuum-av-latent-resume-workflow"></a>
+
+### H3 Continuum Audio Video Latent Resume Workflow
+
+A Continuum workflow description uses 5–8-second chunks, audio/video latent handoff and resume support for longer H3 sequences.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan chunk boundaries around continuous motion, save latent checkpoints and compare both picture and sound at each join after resuming.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2110918585535402251>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-continuum-av-latent-resume-workflow>)
+
+<a id="flux-klein-still-h3-cat-fifteen-seconds"></a>
+
+### FLUX Klein Still to H3 Fifteen Second Cat Clip
+
+[![Portrait preview of a woman in a yellow raincoat beside a white cat on a red street fixture](<https://pbs.twimg.com/amplify_video_thumb/2110918394208030720/img/CHo0YB2LwWlzBv4O.jpg>)](<https://x.com/nookwright/status/2110928722337353826>)
+
+A creator animates a FLUX 3 Image Klein still into a 15-second H3 clip, including a cat sniffing a finger.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate still-image selection from H3 motion generation, keeping the cat’s approach and sniff short enough to inspect contact and scale.
+
+**Shared by:** [NookWright｜AIイラストと動画](<https://x.com/nookwright>)
+
+[Original post on X](<https://x.com/nookwright/status/2110928722337353826>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flux-klein-still-h3-cat-fifteen-seconds>)
 
 ## Suggest a prompt
 
