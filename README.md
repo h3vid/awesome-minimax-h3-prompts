@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **505 verified examples**, with sources reviewed through **2026-10-16**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **530 verified examples**, with sources reviewed through **2026-10-17**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (70)
-- [Storyboards & sequences](<#category-storyboard>) (73)
-- [Anime & animation](<#category-anime-animation>) (41)
-- [References & consistency](<#category-reference-character>) (59)
-- [Music videos & dance](<#category-music-dance>) (58)
-- [Dialogue & audio](<#category-dialogue-audio>) (29)
-- [Motion graphics & titles](<#category-motion-graphics>) (24)
-- [ComfyUI & workflows](<#category-workflows>) (151)
+- [Cinematic & camera](<#category-cinematic-camera>) (71)
+- [Storyboards & sequences](<#category-storyboard>) (75)
+- [Anime & animation](<#category-anime-animation>) (43)
+- [References & consistency](<#category-reference-character>) (62)
+- [Music videos & dance](<#category-music-dance>) (61)
+- [Dialogue & audio](<#category-dialogue-audio>) (33)
+- [Motion graphics & titles](<#category-motion-graphics>) (25)
+- [ComfyUI & workflows](<#category-workflows>) (160)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2165,6 +2165,26 @@ Anchor each speed change to a contact event, track fighter positions between bea
 **Shared by:** [Amira Zairi](<https://x.com/azed_ai>)
 
 [Original post on X](<https://x.com/azed_ai/status/2110732214497620454>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#warehouse-fight-impact-speed-ramps>)
+
+<a id="dense-scene-orbit-character-background-stress"></a>
+
+### Dense Scene Orbit Character Background Stress Test
+
+[![A richly ornamented anime character fills a densely decorated colorful frame](<https://pbs.twimg.com/amplify_video_thumb/2111143550532595712/img/eO6Tei5ojXnB2JIO.jpg>)](<https://x.com/Ada_Lovelace49/status/2111145144233906224>)
+
+An intentionally crowded H3 360 Orbit scene probes separation between the character and invented background.
+
+**Model:** MiniMax H3 360 Orbit
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare subject silhouette and background completion around the orbit, particularly where dense ornaments overlap.
+
+**Shared by:** [さんぐらす❀](<https://x.com/Ada_Lovelace49>)
+
+[Original post on X](<https://x.com/Ada_Lovelace49/status/2111145144233906224>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dense-scene-orbit-character-background-stress>)
 
 <a id="category-storyboard"></a>
 
@@ -4399,6 +4419,62 @@ Alternate explanatory diagrams with concrete actions, tracking which shots requi
 
 [Original post on X](<https://x.com/posi_posi8/status/2110552322879418870>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bitcoin-local-llm-mixed-documentary>)
 
+<a id="red-riding-hood-two-minute-agent-storyboard"></a>
+
+### Red Riding Hood Two Minute Agent Storyboard
+
+[![An anime village scene appears in the vertical Red Riding Hood prototype](<https://pbs.twimg.com/amplify_video_thumb/2111241593324019713/img/ETagNkCbDbvvNSYB.jpg>)](<https://x.com/sidodtv/status/2111242057645953291>)
+
+A two-minute vertical anime prototype uses character sheets and short H3 cuts, with the author’s agent brief and pacing critique.
+
+**Model:** MiniMax H3
+
+#### Author’s Codex production brief (not a direct H3 prompt) · `ja`
+
+```text
+最近、日本では「ドパガキ」というネットミームがあります。
+ドーパミンが沢山でるような派手な映像を沢山摂取している子供、という意味です。
+
+そこで「赤ずきんちゃん」を原作にしたAI生成アニメ「ドパガキんちゃん」を作りたいです。
+120秒。縦長サイズ。comfyuiとminimax h3で動画を作成。
+minimaxの高解像度で作ってから、フルHDにアップスケール。
+セリフあり。テロップも入れて
+
+ストーリーは、原作に出てくる赤ずきんちゃん、おばあさん、狼は残しつつ、独自色を打ち出して。
+ダークなストーリー。最後は意外な展開。
+
+最初に、キャラクターシートを作って。それを元に公式のminimax h3のプロンプト作成skillを使って指示を出して。
+1つのカットは最大15秒までしか作れないので、セリフやシーンをうまく分割して
+```
+
+#### How to adapt it
+
+Reduce the story beats before splitting dialogue and action into short cuts; review the assembled two-minute narrative before upscaling.
+
+**Shared by:** [内田勉 DirecTune.app β公開中](<https://x.com/sidodtv>)
+
+[Original post on X](<https://x.com/sidodtv/status/2111242057645953291>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#red-riding-hood-two-minute-agent-storyboard>)
+
+<a id="forbidden-word-it-system-explosion-comedy"></a>
+
+### Forbidden Word IT System Explosion Comedy
+
+[![A stylized office worker sits beside computer monitors and server racks](<https://pbs.twimg.com/amplify_video_thumb/2111272047217377280/img/mGCY1ByU51SG9yRx.jpg>)](<https://x.com/lahuman/status/2111273360714015215>)
+
+A Korean H3 short builds an office joke around saying a forbidden word and triggering an IT-system explosion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Make the spoken trigger and visible consequence distinct beats, preserving the office geography through the payoff.
+
+**Shared by:** [Daniel](<https://x.com/lahuman>)
+
+[Original post on X](<https://x.com/lahuman/status/2111273360714015215>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#forbidden-word-it-system-explosion-comedy>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -5518,6 +5594,46 @@ Storyboard the race and character introductions, then revise aircraft movement s
 **Shared by:** [マッド𝕏 ⌘MAD𝕏](<https://x.com/madxfpv>)
 
 [Original post on X](<https://x.com/madxfpv/status/2110276861385470463>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#drone-race-anime-opening-motion-revision>)
+
+<a id="childhood-nightmare-floating-rocks"></a>
+
+### Childhood Nightmare Floating Rocks
+
+[![A rough floating rock hangs above a teal landscape in the nightmare reconstruction](<https://pbs.twimg.com/amplify_video_thumb/2111141436834095104/img/fAXS6AEzhFjNIwSS.jpg>)](<https://x.com/7015/status/2111142619485196322>)
+
+An H3 clip reconstructs a childhood nightmare of floating rocks and small Jizo figures in a retro television style.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Describe one remembered spatial motif and its repeating motion before adding the nostalgic broadcast treatment.
+
+**Shared by:** [十姉妹 直日子](<https://x.com/7015>)
+
+[Original post on X](<https://x.com/7015/status/2111142619485196322>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#childhood-nightmare-floating-rocks>)
+
+<a id="simple-design-picture-book-reading-animation"></a>
+
+### Simple Design Picture Book Reading Animation
+
+[![Two purple-haired cartoon characters sit together with an open picture book](<https://pbs.twimg.com/amplify_video_thumb/2111232861856739328/img/KTtPz2dk2M4e2eXl.jpg>)](<https://x.com/TK2Works/status/2111233302845862315>)
+
+An H3 picture-book scene uses two simply drawn characters; its creator highlights the suitability of the sparse design.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep character shapes and palette simple, then inspect hand-to-book contact and facial motion during the reading scene.
+
+**Shared by:** [トクツー](<https://x.com/TK2Works>)
+
+[Original post on X](<https://x.com/TK2Works/status/2111233302845862315>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#simple-design-picture-book-reading-animation>)
 
 <a id="category-reference-character"></a>
 
@@ -6801,6 +6917,66 @@ Review the linked tutorial for identity-conditioning steps, then test a short re
 
 [Original post on X](<https://x.com/jun_kongo/status/2110853226815713377>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfyui-faceswap-lora-video-tutorial>)
 
+<a id="sunset-train-multiangle-previs-character"></a>
+
+### Sunset Train Multi Angle Previsualization
+
+[![An anime girl in a train appears above a simplified gray previsualization of the same setup](<https://pbs.twimg.com/amplify_video_thumb/2111268381181820928/img/My27L41UaWEwY0wr.jpg>)](<https://x.com/AiNamanari33743/status/2111268902382821514>)
+
+A sunset-train experiment pairs an H3 character result with a simplified previsualization across multiple angles.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep train layout and character blocking consistent while testing several camera angles against the same simplified previs.
+
+**Shared by:** [なまなり あい](<https://x.com/AiNamanari33743>)
+
+[Original post on X](<https://x.com/AiNamanari33743/status/2111268902382821514>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sunset-train-multiangle-previs-character>)
+
+<a id="previs-background-anime-transfer-comparison"></a>
+
+### Previs Background Anime Transfer Comparison
+
+[![Labeled comparison grid of previsualization-to-animation tests with multiple models](<https://pbs.twimg.com/amplify_video_thumb/2111265885071826944/img/GEYB_BYZ6E51_FiO.jpg>)](<https://x.com/sankakuten91256/status/2111272656620413007>)
+
+A multi-model test contrasts background stylization and reports H3 anime transfer from line-art references.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test the same previs and target style separately for character and background, recording which parts remain unchanged.
+
+**Shared by:** [さんかくてん](<https://x.com/sankakuten91256>)
+
+[Original post on X](<https://x.com/sankakuten91256/status/2111272656620413007>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#previs-background-anime-transfer-comparison>)
+
+<a id="h3-max-gray-previs-to-wan-three-finish"></a>
+
+### H3 Max Gray Previs to Wan Three Finish
+
+[![Labeled split preview places H3 Max gray-character previs above the Wan 3 finished fantasy scene](<https://pbs.twimg.com/amplify_video_thumb/2111284918416482304/img/5wx-xsHn5QY85gkA.jpg>)](<https://x.com/tea_story_hoshi/status/2111288813721182609>)
+
+A creator uses H3 Max gray-model previsualization to guide a Wan 3 fantasy-action finish through video references.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Judge blocking and timing in the gray previs before spending a finishing pass on style and character appearance.
+
+**Shared by:** [おちゃばなし | tea\_and\_stories](<https://x.com/tea_story_hoshi>)
+
+[Original post on X](<https://x.com/tea_story_hoshi/status/2111288813721182609>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-gray-previs-to-wan-three-finish>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -8036,6 +8212,66 @@ Plan a shot list around the track, keep visual references consistent and review 
 **Shared by:** [Toro](<https://x.com/CrypToroMx>)
 
 [Original post on X](<https://x.com/CrypToroMx/status/2110843113174659371>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#edgerunners-local-sixty-clip-amv>)
+
+<a id="strata-explainer-agent-choreography-suno-mv"></a>
+
+### Strata Explainer with Agent Choreography
+
+[![Close view of black-clad dancers’ feet beneath yellow Japanese captions](<https://pbs.twimg.com/amplify_video_thumb/2110694262002343936/img/xogtM2F5pgWGeq3-.jpg>)](<https://x.com/posi_posi8/status/2110695369495748661>)
+
+A Strata explainer pairs H3 video with Suno music and choreography credited to Opus and Gemini Argon.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate the explainer beats, choreography briefs and music track before assembling the H3 shots.
+
+**Shared by:** [posi\_posi](<https://x.com/posi_posi8>)
+
+[Original post on X](<https://x.com/posi_posi8/status/2110695369495748661>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#strata-explainer-agent-choreography-suno-mv>)
+
+<a id="pixverse-pro-dp-lyrics-rural-h3-max-mv"></a>
+
+### PixVerse Pro DP Lyrics to Rural H3 Max MV
+
+[![A person walks along a rural road beside fields in the lyric-timed music video](<https://pbs.twimg.com/amplify_video_thumb/2111272780872441856/img/QYMkpyeH0GrTvjWa.jpg>)](<https://x.com/h64g_/status/2111274693470925139>)
+
+PixVerse Pro DP analyzes a song into lyric-timed scenes, using supplied rural references and H3 Max video before upscaling.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Provide separate person, setting and prop references, review lyric timing, then upscale the selected generated clips.
+
+**Shared by:** [h64g](<https://x.com/h64g_>)
+
+[Original post on X](<https://x.com/h64g_/status/2111274693470925139>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pixverse-pro-dp-lyrics-rural-h3-max-mv>)
+
+<a id="idol-mv-neon-flicker-masked-postproduction"></a>
+
+### Idol MV Neon Flicker with Masked Postproduction
+
+[![Two anime idols stand before neon lights in the finished music-video preview](<https://pbs.twimg.com/media/HUzMVNjb0AAbPJV.jpg>)](<https://x.com/XEKmfuMFbyUkr1c/status/2111287412345450997>)
+
+A local H3 idol MV receives Opus-controlled light and neon flicker, with character masks used for occluded fixtures.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate the performance first, then mask characters before animating lights behind them so the flicker does not spill across faces.
+
+**Shared by:** [けいた@AI活用🌸☄️](<https://x.com/XEKmfuMFbyUkr1c>)
+
+[Original post on X](<https://x.com/XEKmfuMFbyUkr1c/status/2111287412345450997>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#idol-mv-neon-flicker-masked-postproduction>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -9503,6 +9739,86 @@ Build each cut around a sound-triggered change, generate picture and sound toget
 
 [Original post on X](<https://x.com/toki_mwc/status/2110562197684555789>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#every-sound-leaves-mark-clay-short>)
 
+<a id="single-prompt-witness-narrator-mock-documentary"></a>
+
+### Single Prompt Witness and Narrator Documentary
+
+[![An older fictional witness sits in an armchair in the documentary-style scene](<https://pbs.twimg.com/amplify_video_thumb/2109949412856184832/img/Bp1AobTIr_587is9.jpg>)](<https://x.com/GamerHashCom/status/2110598542523805995>)
+
+A mock documentary combines a fictional witness and narrator from a single H3 prompt, according to its publisher.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Specify which voice belongs on camera and which is narration, then check speaker handoffs in the generated clip.
+
+**Shared by:** [GamerHash AI](<https://x.com/GamerHashCom>)
+
+[Original post on X](<https://x.com/GamerHashCom/status/2110598542523805995>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-prompt-witness-narrator-mock-documentary>)
+
+<a id="icelandic-vtuber-language-accuracy-diagnostic"></a>
+
+### Icelandic VTuber Language Accuracy Diagnostic
+
+[![An anime-style VTuber appears in the H3 Icelandic speech test](<https://pbs.twimg.com/amplify_video_thumb/2111212431028690944/img/tgle81N_TZD2bf8O.jpg>)](<https://x.com/masayasan201911/status/2111212554479694026>)
+
+An Icelandic VTuber test switches to H3 after an earlier output struggled with the intended introduction.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a short verified Icelandic line and have a fluent speaker check pronunciation before using generated dialogue for learning.
+
+**Shared by:** [ูุุุุุุุุุุุุุุุุุุ𐬯𐬀𐬠𐬀𐬔𐬎𐬠𐬛 𐬰𐬀𐬥𐬌𐬐𐬀🦋](<https://x.com/masayasan201911>)
+
+[Original post on X](<https://x.com/masayasan201911/status/2111212554479694026>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#icelandic-vtuber-language-accuracy-diagnostic>)
+
+<a id="blender-rube-goldberg-h3-sound-effects"></a>
+
+### Blender Rube Goldberg Machine with H3 Sound
+
+[![A Blender-rendered mechanical chain-reaction apparatus whose sound effects are credited to H3](<https://pbs.twimg.com/amplify_video_thumb/2111254354577780736/img/J9qUd8PcKVyt5bfD.jpg>)](<https://x.com/AshizawaKamome/status/2111257173540139316>)
+
+A photorealistic Rube Goldberg machine built with Opus and Blender MCP uses H3 for sound effects.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Finish the mechanical action timing in Blender, then generate effects matched to each collision and moving part.
+
+**Shared by:** [葦沢かもめ](<https://x.com/AshizawaKamome>)
+
+[Original post on X](<https://x.com/AshizawaKamome/status/2111257173540139316>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#blender-rube-goldberg-h3-sound-effects>)
+
+<a id="h3-stable-audio-rain-ambience-comparison"></a>
+
+### H3 and Stable Audio Rain Ambience Comparison
+
+[![Japanese comparison title card identifying Stable Audio 3 first and MiniMax H3 second](<https://pbs.twimg.com/amplify_video_thumb/2111274553905385472/img/NC7DhbSsrs6tr4yp.jpg>)](<https://x.com/grmchn4ai/status/2111276239474622788>)
+
+A local sound-effects comparison tests H3 against Stable Audio 3 for rain and environmental ambience.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare matched rain or room-tone briefs with normalized playback levels, checking texture and loops before selecting a model.
+
+**Shared by:** [⚙gear machine@AI](<https://x.com/grmchn4ai>)
+
+[Original post on X](<https://x.com/grmchn4ai/status/2111276239474622788>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-stable-audio-rain-ambience-comparison>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -10113,6 +10429,26 @@ Keep a recurring wave shape across the three visual treatments and plan the audi
 **Shared by:** [geekzard](<https://x.com/geek_zard>)
 
 [Original post on X](<https://x.com/geek_zard/status/2110654846340874461>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#wave-woodblock-eye-mirelo-sequence>)
+
+<a id="h3-addguide-vhs-tv-opencv-composite"></a>
+
+### H3 AddGuide VHS Television Composite
+
+[![An anime character watches an old television in a dark blue room](<https://pbs.twimg.com/amplify_video_thumb/2111094949144051713/img/K4FgHh4FjYB7vkUx.jpg>)](<https://x.com/sash02jp/status/2111095200131289413>)
+
+An H3 R2V and AddGuide scene receives VHS aging, television compositing and horror grading in Python/OpenCV.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate the scene and sound first, then apply the television insert, vintage-video treatment and captions in separate finishing passes.
+
+**Shared by:** [さっしゅ](<https://x.com/sash02jp>)
+
+[Original post on X](<https://x.com/sash02jp/status/2111095200131289413>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-addguide-vhs-tv-opencv-composite>)
 
 <a id="category-workflows"></a>
 
@@ -13178,6 +13514,194 @@ Separate still-image selection from H3 motion generation, keeping the cat’s ap
 **Shared by:** [NookWright｜AIイラストと動画](<https://x.com/nookwright>)
 
 [Original post on X](<https://x.com/nookwright/status/2110928722337353826>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flux-klein-still-h3-cat-fifteen-seconds>)
+
+<a id="codex-claude-comfyui-app-pr-video"></a>
+
+### Codex and Claude ComfyUI App PR Video
+
+[![A generated hamster appears beneath Japanese promotional captions in the app PR video](<https://pbs.twimg.com/amplify_video_thumb/2109157769026883584/img/ygc5-eGMeUbk5Cs7.jpg>)](<https://x.com/OpenPicGallery2/status/2109157826363031675>)
+
+An app PR video delegates asset creation, H3 generation through ComfyUI and editing to Codex and Claude.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define the app benefit and review the generated assets before letting the agents assemble the promo.
+
+**Shared by:** [kz@AI術師【サブ趣味垢】](<https://x.com/OpenPicGallery2>)
+
+[Original post on X](<https://x.com/OpenPicGallery2/status/2109157826363031675>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#codex-claude-comfyui-app-pr-video>)
+
+<a id="h3-front-side-motion-to-unity-rig"></a>
+
+### H3 Front and Side Motion References to Unity Rig
+
+[![A character stands on a street in the Unity editor demonstration](<https://pbs.twimg.com/amplify_video_thumb/2109651245959180288/img/Qp-je__PjUgs8D_M.jpg>)](<https://x.com/IsekaiBardGuild/status/2109651750676558029>)
+
+H3 front and side motion videos guide Opus rigging for a Tripo3D character, then the rig runs in a Unity map.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate front and side motion references separately, then inspect the resulting rig in Unity across walk, dash, flight and landing.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2109651750676558029>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-front-side-motion-to-unity-rig>)
+
+<a id="whale-library-mid-guide-style-transition-audit"></a>
+
+### Whale Library Mid Guide Style Transition Audit
+
+A same-seed H3 Turbo test uses first, middle and last style guides and publishes API graphs with observed transition limits.
+
+**Model:** MiniMax H3 Turbo
+
+#### Actual H3 graph prompt · `en`
+
+```text
+[Static shot], fixed camera, locked perspective, continuous 8-second single take. A colossal cosmic whale containing an intricate interior library floats in a deep blue cosmic ocean, facing left. Strict structural alignment throughout: the whale's silhouette, eye, fins, tail, brass armillary sphere, library arches, bookshelves, stairs, tiny figure, eclipsed moon, and floating jellyfish remain in the exact same position and proportions. Consistent warm amber interior lighting and stable night exposure.
+[0.0s–0.8s] Starting from the first frame, the whale displays a luminous, volumetric appearance made of translucent glass and flowing water, with subtle drifting particles and gently pulsing jellyfish.
+[0.8s–3.6s] Seamless full-frame medium transformation without wipe effects or split screens: delicate hand-drawn ink outlines, simplified color blocks, and cel-shaded flat shadows gradually emerge across the entire scene. The glass volume and library textures smoothly dissolve into illustrative brushstrokes while strictly preserving all geometric shapes.
+[3.6s–4.4s] Aligning with the middle reference frame at 4s, the entire scene settles into a refined 2D hand-drawn animated illustration of the exact same cosmic whale library.
+[4.4s–7.4s] The flat 2D illustration gradually regains volumetric depth and evolves into photorealistic textures: ink lines soften into natural material edges, revealing damp whale skin micro-textures, subsurface scattering on translucent fins, finely grained walnut bookshelves, aged patina brass, physical warm lantern glow, realistic underwater mist, and soft bioluminescent jellyfish.
+[7.4s–8.0s] Settling into the final frame's photorealistic dark-fantasy aesthetic. The interior architecture remains rock-solid while cosmic water currents and jellyfish drift softly. Clean continuous transformation, no jump cuts, no morphing distortion, no flashes, no UI or text.
+Audio: Soft, tranquil cosmic deep-sea ambience with subtle gentle water ripples, no speech, no music.
+```
+
+#### How to adapt it
+
+Match exposure and silhouettes across the three guide images before comparing prompt revisions with the same seed and sampling setup.
+
+**Shared by:** [紅](<https://x.com/eikoung>)
+
+[Original post on X](<https://x.com/eikoung/status/2110580624956567751>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#whale-library-mid-guide-style-transition-audit>)
+
+<a id="hyperflow-eight-step-baseline-local-tutorial"></a>
+
+### HyperFlow Eight Step Baseline Local Tutorial
+
+[![A dusty aerial action scene appears in the HyperFlow H3 tutorial demo](<https://pbs.twimg.com/amplify_video_thumb/2111045750562168833/img/tjsavIiHPmlvgZwA.jpg>)](<https://x.com/heyrobinai/status/2111045786666754464>)
+
+A HyperFlow tutorial pairs H3 demo clips with local CLI instructions and a same-seed baseline comparison option.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use the documented baseline flag to compare the same prompt and seed, measuring full runtime and checking picture and sound.
+
+**Shared by:** [Robin Delta](<https://x.com/heyrobinai>)
+
+[Original post on X](<https://x.com/heyrobinai/status/2111045786666754464>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hyperflow-eight-step-baseline-local-tutorial>)
+
+<a id="comfyui-refmod-creation-video-tutorial"></a>
+
+### ComfyUI RefMod Creation Video Tutorial
+
+[![Split-screen tutorial preview pairs a muscular character with source footage of a man](<https://pbs.twimg.com/amplify_video_thumb/2111135108497358848/img/OBdYsWqVdQMyqg_J.jpg>)](<https://x.com/ComfyUIdev/status/2111135202554912948>)
+
+A ComfyUI Dev video demonstrates creating a RefMod for MiniMax H3 with paired character and source footage.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Follow the tutorial to prepare a reference module, then test identity and motion separately on a short clip.
+
+**Shared by:** [ComfyUI Dev](<https://x.com/ComfyUIdev>)
+
+[Original post on X](<https://x.com/ComfyUIdev/status/2111135202554912948>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfyui-refmod-creation-video-tutorial>)
+
+<a id="argon-colab-a100-drama-commercial-tts"></a>
+
+### Argon Colab A100 Drama Commercial with TTS
+
+[![A man lies on desert sand in a dramatic commercial scene](<https://pbs.twimg.com/amplify_video_thumb/2111241693760802816/img/rOzf5Dllqph9XTSS.jpg>)](<https://x.com/TOSHIBoo_m/status/2111242529480061328>)
+
+A drama-style commercial combines Antigravity and Argon with Colab A100, H3 video and Gemini TTS.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate the commercial’s dramatic beats, video generation and TTS track, and monitor agent usage while iterating.
+
+**Shared by:** [TOSHIBoo ꧁としぶ꧂全資産クリプト](<https://x.com/TOSHIBoo_m>)
+
+[Original post on X](<https://x.com/TOSHIBoo_m/status/2111242529480061328>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#argon-colab-a100-drama-commercial-tts>)
+
+<a id="rtx3090-local-reboot-power-limit-diagnostic"></a>
+
+### RTX 3090 Local Reboot Power Limit Diagnostic
+
+[![MSI Afterburner settings screenshot illustrating the creator’s GPU power-limit adjustment](<https://pbs.twimg.com/media/HUy2NrMaMAA-cdm.png>)](<https://x.com/hylwr/status/2111262699246211514>)
+
+A local H3 user reports resolving reboots by reducing GPU power and Windows CPU performance limits.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record the failing workload and change one limit at a time while checking stability and generation runtime.
+
+**Shared by:** [沉默的未知](<https://x.com/hylwr>)
+
+[Original post on X](<https://x.com/hylwr/status/2111262699246211514>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx3090-local-reboot-power-limit-diagnostic>)
+
+<a id="renoise-website-promo-separate-narration-music"></a>
+
+### Renoise Website Promo with Separate Audio Tracks
+
+[![A snowy forest frame with Japanese captions in the Renoise website-promo walkthrough](<https://pbs.twimg.com/amplify_video_thumb/2111264742157570048/img/GhCe7_elGSHqJVEn.jpg>)](<https://x.com/su_nagomi/status/2111266025828393126>)
+
+A website promo uses Claude Code with Renoise H3 video, Seed Audio narration and Lyria music, then adds captions and edits.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Approve the outline and credit estimate first, keep narration and music separate, then check instrumental requests and revise timing.
+
+**Shared by:** [すーさん](<https://x.com/su_nagomi>)
+
+[Original post on X](<https://x.com/su_nagomi/status/2111266025828393126>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#renoise-website-promo-separate-narration-music>)
+
+<a id="webui-sla-fast-spark-four-way-comparison"></a>
+
+### WebUI SLA Fast Spark Four Way Comparison
+
+[![A violinist in a covered shopping arcade in the first WebUI attention-mode comparison clip](<https://pbs.twimg.com/amplify_video_thumb/2111283967102189568/img/o6NxqUG_zLSS2gpo.jpg>)](<https://x.com/core_tan/status/2111285121982832915>)
+
+A WebUI dev1.7 test compares SLA, Fast Spark, Spark and OFF on a four-step 1920×1088 H3 clip.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold seed, prompt, resolution and LoRA fixed while comparing all four modes for runtime and visual changes.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2111285121982832915>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#webui-sla-fast-spark-four-way-comparison>)
 
 ## Suggest a prompt
 
