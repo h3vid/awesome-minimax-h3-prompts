@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **530 verified examples**, with sources reviewed through **2026-10-17**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **562 verified examples**, with sources reviewed through **2026-10-19**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (71)
-- [Storyboards & sequences](<#category-storyboard>) (75)
-- [Anime & animation](<#category-anime-animation>) (43)
-- [References & consistency](<#category-reference-character>) (62)
-- [Music videos & dance](<#category-music-dance>) (61)
-- [Dialogue & audio](<#category-dialogue-audio>) (33)
+- [Cinematic & camera](<#category-cinematic-camera>) (77)
+- [Storyboards & sequences](<#category-storyboard>) (80)
+- [Anime & animation](<#category-anime-animation>) (45)
+- [References & consistency](<#category-reference-character>) (65)
+- [Music videos & dance](<#category-music-dance>) (63)
+- [Dialogue & audio](<#category-dialogue-audio>) (36)
 - [Motion graphics & titles](<#category-motion-graphics>) (25)
-- [ComfyUI & workflows](<#category-workflows>) (160)
+- [ComfyUI & workflows](<#category-workflows>) (171)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2185,6 +2185,130 @@ Compare subject silhouette and background completion around the orbit, particula
 **Shared by:** [さんぐらす❀](<https://x.com/Ada_Lovelace49>)
 
 [Original post on X](<https://x.com/Ada_Lovelace49/status/2111145144233906224>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dense-scene-orbit-character-background-stress>)
+
+<a id="single-image-army-dive-camera"></a>
+
+### Single Image Army Dive Camera
+
+[![Opposing armies fill a dusty fantasy battlefield](<https://pbs.twimg.com/amplify_video_thumb/2111089937663864832/img/AIkO33uNUJ7d8LCk.jpg>)](<https://x.com/imai_director/status/2111090278094581861>)
+
+One image drives a ten-second H3 battle with a requested diving camera move through the front line.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Specify the camera descent, its target and the battlefield route separately from the armies’ movement.
+
+**Shared by:** [今井政和 | 戦略 × 設計 × 真贋のWEBディレクター](<https://x.com/imai_director>)
+
+[Original post on X](<https://x.com/imai_director/status/2111090278094581861>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-image-army-dive-camera>)
+
+<a id="flying-car-acceleration-image"></a>
+
+### Flying Car Acceleration from an Image
+
+[![Red futuristic flying car above a dark green ground](<https://pbs.twimg.com/amplify_video_thumb/2111101685607063552/img/deobJ3d3ZtPmIXLE.jpg>)](<https://x.com/creatoroff/status/2111102311057781001>)
+
+A Grok Imagine still feeds an H3 flying-car acceleration experiment in a sequence of creator iterations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test acceleration as its own shot, keeping vehicle design fixed while changing speed and camera behavior.
+
+**Shared by:** [Nataly Che](<https://x.com/creatoroff>)
+
+[Original post on X](<https://x.com/creatoroff/status/2111102311057781001>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flying-car-acceleration-image>)
+
+<a id="roadster-portrait-physics-test"></a>
+
+### Roadster Portrait Physics Test
+
+[![A pale sports car drives along a neon-lit wet street](<https://pbs.twimg.com/amplify_video_thumb/2111114102848589824/img/Zi3gcSGmByYRCoos.jpg>)](<https://x.com/AI_EmeraldApple/status/2111114971375640986>)
+
+A Roadster test-drive clip accompanies an H3 creator’s observation about physics errors in portrait generation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare matching portrait and landscape tests with the same action before drawing conclusions about framing and physics.
+
+**Shared by:** [Emerald Apple](<https://x.com/AI_EmeraldApple>)
+
+[Original post on X](<https://x.com/AI_EmeraldApple/status/2111114971375640986>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#roadster-portrait-physics-test>)
+
+<a id="vertical-orbit-miku-axis-test"></a>
+
+### Vertical Orbit Miku Axis Test
+
+[![Hatsune Miku against a white background before a vertical orbit test](<https://pbs.twimg.com/amplify_video_thumb/2111690894797930496/img/pjrXkznKzsonn5_E.jpg>)](<https://x.com/Ada_Lovelace49/status/2111691850839154750>)
+
+An H3 360 Orbit LoRA experiment tests vertical rotation with two short Hatsune Miku clips.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Change one orbit axis at a time and compare silhouettes and orientation against a horizontal baseline.
+
+**Shared by:** [さんぐらす❀](<https://x.com/Ada_Lovelace49>)
+
+[Original post on X](<https://x.com/Ada_Lovelace49/status/2111691850839154750>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vertical-orbit-miku-axis-test>)
+
+<a id="lightning-outline-tattoo-motion-effects"></a>
+
+### Lightning Outline and Tattoo Motion Effects
+
+[![A tattooed man in dark trousers against a pale background](<https://pbs.twimg.com/amplify_video_thumb/2111762333953306624/img/QmwqE6ekjU_wpqf0.jpg>)](<https://x.com/Hathibel/status/2111762977087017047>)
+
+An H3 effects experiment describes lightning outlining a moving figure, glowing tattoos and timed floor ripples.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assign each effect a body anchor and a motion trigger so sparks, trails and ripples follow the action.
+
+**Shared by:** [Ashraff Hathibelagal](<https://x.com/Hathibel>)
+
+[Original post on X](<https://x.com/Hathibel/status/2111762977087017047>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lightning-outline-tattoo-motion-effects>)
+
+<a id="crystal-ball-cloth-reveal-storm"></a>
+
+### Crystal Ball Cloth Reveal Storm
+
+[![A cloth wipes a foggy crystal ball on a tabletop](<https://pbs.twimg.com/amplify_video_thumb/2111797174203764736/img/GSvcD175OIKvzP_t.jpg>)](<https://x.com/GlennHasABeard/status/2111797222492819835>)
+
+A public H3 prompt puts a tiny storm and house inside glass while a cloth wipe progressively clears the fog.
+
+**Model:** MiniMax H3
+
+#### Original prompt fragment · `en`
+
+```text
+inside the clear glass a tiny storm is raining on a tiny house
+```
+
+#### How to adapt it
+
+Tie the reveal edge to the wiping cloth and lock the camera so the action controls what becomes visible.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2111797222492819835>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#crystal-ball-cloth-reveal-storm>)
 
 <a id="category-storyboard"></a>
 
@@ -4475,6 +4599,180 @@ Make the spoken trigger and visible consequence distinct beats, preserving the o
 
 [Original post on X](<https://x.com/lahuman/status/2111273360714015215>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#forbidden-word-it-system-explosion-comedy>)
 
+<a id="forest-revenge-five-shot-transformation"></a>
+
+### Forest Revenge Five Shot Transformation
+
+[![A hunter faces a luminous white stag in a forest](<https://pbs.twimg.com/amplify_video_thumb/2111292284348104706/img/FzGISzdB6KjBggLw.jpg>)](<https://x.com/DeCat2025/status/2111315014434832741>)
+
+A public five-shot prompt turns a captured hunter into a forest guardian while preserving the same stag, army and clearing.
+
+**Model:** MiniMax H3
+
+#### Original video prompt · `en`
+
+```text
+MiniMax H3. 15 seconds. 16:9. Five distinct cinematic camera setups. Epic photorealistic dark fantasy. Fast, powerful physical action, spectacular natural magic, clear transformation and a dramatic final payoff.
+
+SETTING: An ancient forest clearing surrounded by colossal twisted trees. Shafts of golden sunlight cut through emerald mist. One armored hunter with a steel crossbow faces an enormous luminous white stag with branching antlers. Behind the hunter, an approaching army of black-armored soldiers advances along a forest path.
+
+0:00–0:03 | LOW-ANGLE THREE-QUARTER SHOT
+The hunter fires a crossbow bolt directly at the white stag. The stag catches the bolt between its antlers, snapping it in half with a violent twist of its head. The stag stamps one hoof into the earth. A circular shockwave ripples through the forest floor.
+0:03–0:05 | GROUND-LEVEL CLOSE SHOT
+
+Thick living roots explode from the soil beneath the hunter. They coil around his boots, wrists and chest, wrenching the crossbow from his hands. The hunter struggles as the roots pull his body upright and immobilize him.
+0:05–0:09 | DYNAMIC SIDE ANGLE
+The roots tear open the hunter's steel armor. His metal breastplate splits apart, and glowing wooden fibers grow through its broken sections. Massive roots climb his arms and shoulders, forming thick wooden armor around the SAME hunter. His silhouette grows taller and broader as his body becomes a towering living tree warrior.
+
+0:09–0:12 | RISING FRONT ANGLE
+The transformation finishes. The hunter is now an enormous humanoid forest guardian, with a recognizable human-shaped helmet integrated into a massive wooden head, colossal bark-covered arms and steel armor fragments embedded throughout his body. The white stag stands beside his enormous feet. The newly transformed guardian turns toward the advancing black-armored army.
+0:12–0:15 | EPIC WIDE FRONTAL SHOT
+
+The army charges into the clearing. The giant forest guardian slams both enormous fists into the earth. An immense wall of interlocking tree roots erupts vertically across the entire forest path, throwing the leading soldiers and their shields backward and sealing the route. The guardian rises behind the towering root barricade, completely blocking the army's advance.
+End on the colossal living guardian standing protectively over the luminous stag as the defeated army retreats beyond the barricade.
+
+VISUAL STYLE: Premium cinematic dark fantasy, realistic organic growth, heavy mechanical weight in the transformation, rich forest textures, dramatic shafts of sunlight, floating pollen, deep green shadows, glowing golden magical energy, immense scale contrast.
+
+CRITICAL CONTINUITY: One hunter, one white stag, one advancing army, one forest clearing. The original hunter transforms into the guardian. His armor visibly breaks and becomes embedded in the growing wooden body. The roots physically grow around him rather than a separate tree monster appearing. The army approaches from the same forest path throughout. The root wall rises between the guardian and the approaching army.
+No dialogue, no subtitles, no text on screen. No eye reveals, portals or unrelated creatures.
+```
+
+#### How to adapt it
+
+Track the original actor through every transformation and state where the army approaches and the final barrier forms.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2111315014434832741>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#forest-revenge-five-shot-transformation>)
+
+<a id="cracked-mountain-five-shot-guardian"></a>
+
+### Cracked Mountain Five Shot Guardian
+
+[![An armored knight faces a vast mountain under storm clouds](<https://pbs.twimg.com/amplify_video_thumb/2111407690647801856/img/g-NTF0dKoeFEHpZB.jpg>)](<https://x.com/DeCat2025/status/2111407726223843786>)
+
+A timed five-shot prompt transforms a mountain into a guardian and a knight into its sword with explicit sound and continuity.
+
+**Model:** MiniMax H3
+
+#### Original video prompt · `en`
+
+```text
+Epic dark fantasy, ultra-cinematic realism, enormous scale, dramatic physical transformation. A lone knight in battered silver armor stands on a rocky ridge facing a massive cracked mountain. The mountain dominates the horizon. Glowing orange fissures run through its stone surface. Heavy storm clouds, airborne dust, powerful backlighting.
+
+SHOT 1 | 0–3s | LOW WIDE ANGLE
+The knight plants his sword into the rock as the ground shudders. Across the valley, enormous cracks tear through the mountain. A deep rumble shakes loose entire cliffs. The knight looks up as the mountain begins to move.
+
+SHOT 2 | 3–6s | EXTREME WIDE AERIAL
+The mountain splits along massive geometric fractures. Two gigantic stone arms emerge from its sides and push against the valley floor. Its summit rises into a broad, armored head and torso. The mountain unfolds into a colossal stone guardian, towering above the surrounding peaks.
+
+SHOT 3 | 6–9s | GROUND-LEVEL UPWARD ANGLE
+The giant extends one enormous open stone hand toward the knight, palm facing upward. Orange energy streams from the guardian's palm toward the knight. The knight's armor begins glowing white-hot, his body and planted sword merging into one brilliant vertical column of fire.
+
+SHOT 4 | 9–12s | DYNAMIC THREE-QUARTER ANGLE
+The column of fire contracts into a gigantic blazing sword hovering above the knight's now-empty position. The stone guardian closes its enormous fingers around the sword's hilt. Flames explode outward as the guardian lifts the weapon high above its head.
+
+SHOT 5 | 12–15s | EXTREME LOW WIDE ANGLE
+The awakened mountain guardian stands fully upright, gripping the immense burning sword. It swings the blade once across the storm clouds.
+A gigantic arc of fire tears through the sky, illuminating the entire mountain range. The guardian freezes in a monumental victorious pose as thunder rolls.
+
+CUT TO BLACK.
+CAMERA, PHYSICS AND CONTINUITY
+Five distinct cinematic shots. One knight, one mountain, one stone guardian. The guardian forms entirely from the original mountain. The knight transforms completely into the sword; no second knight remains. Maintain correct relative scale and coherent spatial positions. Every movement has massive weight and momentum. Clear transformation stages, readable silhouettes, natural rock displacement, dust and debris responding to impacts.
+
+AUDIO AND RESTRICTIONS
+Deep subterranean rumbles, cracking stone, thunder, rising orchestral strings, colossal metallic resonance as the sword forms, thunderous final impact. No dialogue. No on-screen text. No extra creatures, no duplicate limbs, no floating disconnected body parts, no eyes appearing in the landscape.
+```
+
+#### How to adapt it
+
+Describe each transformation’s starting material, intermediate stage and final object to avoid duplicate characters.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2111407726223843786>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cracked-mountain-five-shot-guardian>)
+
+<a id="last-interview-dual-3090-short"></a>
+
+### The Last Interview on Dual RTX 3090
+
+[![Black opening frame from The Last Interview video](<https://pbs.twimg.com/amplify_video_thumb/2111386762400411648/img/PzJDeUMDKVeo_CkY.jpg>)](<https://x.com/snicklink/status/2111413899996131765>)
+
+A locally generated interview short shares an eight-step FL2V setup, SLA attention and a separate CapCut finishing stage.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the generation recipe and final enhancement separate when comparing a multi-minute assembled short with raw model output.
+
+**Shared by:** [Snicklink](<https://x.com/snicklink>)
+
+[Original post on X](<https://x.com/snicklink/status/2111413899996131765>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#last-interview-dual-3090-short>)
+
+<a id="orbit-lora-story-motif"></a>
+
+### Orbit LoRA as a Story Motif
+
+[![A closed apartment door at the opening of an orbit-based short](<https://pbs.twimg.com/amplify_video_thumb/2111496524576485376/img/r-0rc-xWMmzcAIDo.jpg>)](<https://x.com/hvplan/status/2111497199637196938>)
+
+An H3 creator assembles a short narrative around a 360 Orbit LoRA instead of presenting an isolated turntable test.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Give the orbit an event to reveal and reuse that reveal as a motif between scenes.
+
+**Shared by:** [hvplan](<https://x.com/hvplan>)
+
+[Original post on X](<https://x.com/hvplan/status/2111497199637196938>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#orbit-lora-story-motif>)
+
+<a id="sky-panel-five-shot-mechanical-reveal"></a>
+
+### Sky Panel Five Shot Mechanical Reveal
+
+[![Modern city towers beneath a blue sky](<https://pbs.twimg.com/amplify_video_thumb/2111799447604588544/img/ZTrA9ou7Oj5u-zGS.jpg>)](<https://x.com/DeCat2025/status/2111799484069847266>)
+
+A public five-shot H3 prompt reveals a futuristic sky as removable panels inside an enormous mechanical sphere.
+
+**Model:** MiniMax H3
+
+#### Original video prompt · `en`
+
+```text
+Photorealistic science fiction, enormous cinematic scale.
+
+SHOT 1 | 0–3s | STREET LEVEL
+A busy futuristic city under a beautiful blue sky. Suddenly an enormous rectangular shadow slides across the skyscrapers.
+
+SHOT 2 | 3–6s | UPWARD POV
+Gigantic mechanical claws descend from above the clouds and grip an invisible rectangular section of the sky.
+
+SHOT 3 | 6–9s | WIDE ANGLE
+The claws pull downward. The blue sky tears away as a massive rigid panel, revealing black industrial machinery behind it.
+
+SHOT 4 | 9–12s | ROOFTOP CAMERA
+Multiple sky panels detach in succession. Their enormous shadows race across the city while giant maintenance arms move between the exposed sections.
+
+SHOT 5 | 12–15s | EXTREME WIDE
+The camera rises above the city, revealing its entire horizon enclosed inside an unimaginably large mechanical sphere. A vast central mechanism begins rotating.
+
+Grounded scale, immense machinery, realistic shadows and atmospheric perspective, thunderous metallic sound. No dialogue, no text.
+```
+
+#### How to adapt it
+
+Escalate the reveal from street shadows to panel removal and finally the enclosing structure, preserving spatial scale.
+
+**Shared by:** [DeCat](<https://x.com/DeCat2025>)
+
+[Original post on X](<https://x.com/DeCat2025/status/2111799484069847266>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sky-panel-five-shot-mechanical-reveal>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -5634,6 +5932,46 @@ Keep character shapes and palette simple, then inspect hand-to-book contact and 
 **Shared by:** [トクツー](<https://x.com/TK2Works>)
 
 [Original post on X](<https://x.com/TK2Works/status/2111233302845862315>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#simple-design-picture-book-reading-animation>)
+
+<a id="local-anime-dialogue-scene"></a>
+
+### Local Anime Dialogue Scene
+
+[![A stylized stone creature stands in an anime scene](<https://pbs.twimg.com/amplify_video_thumb/2111684864961654784/img/6wCgY2X1VpuxrGl2.jpg>)](<https://x.com/HackCooking/status/2111685373235699838>)
+
+A local H3 anime example includes dialogue, pairing stylized character action with a spoken scene.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test one short exchange and a readable action beat before assembling longer anime scenes.
+
+**Shared by:** [Cooking life hack](<https://x.com/HackCooking>)
+
+[Original post on X](<https://x.com/HackCooking/status/2111685373235699838>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#local-anime-dialogue-scene>)
+
+<a id="anima-five-cut-piano-animation"></a>
+
+### Anima Five Cut Piano Animation
+
+[![Anime cyclist on a coastal road at sunset](<https://pbs.twimg.com/amplify_video_thumb/2111798211799322624/img/IFuUhZN8pQn7alIN.jpg>)](<https://x.com/iruka_inainoka/status/2111799110311522638>)
+
+Anima stills become five short H3 image-to-video shots, assembled with a Plenio piano track through ffmpeg.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Animate each storyboard still as a short shot and join the clips before laying a continuous piano track underneath.
+
+**Shared by:** [いるかいないか](<https://x.com/iruka_inainoka>)
+
+[Original post on X](<https://x.com/iruka_inainoka/status/2111799110311522638>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anima-five-cut-piano-animation>)
 
 <a id="category-reference-character"></a>
 
@@ -6977,6 +7315,66 @@ Judge blocking and timing in the gray previs before spending a finishing pass on
 
 [Original post on X](<https://x.com/tea_story_hoshi/status/2111288813721182609>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-gray-previs-to-wan-three-finish>)
 
+<a id="threejs-highway-h3-max"></a>
+
+### Three.js Procedural Highway to H3 Max
+
+[![Layered elevated highway ramps seen from below](<https://pbs.twimg.com/amplify_video_thumb/2110610524790779904/img/l1KFbbCBsfBlm7wg.jpg>)](<https://x.com/felixturner/status/2110610669649502456>)
+
+A procedural Three.js highway becomes an H3 Max video, connecting editable 3D layout with generated visuals.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare road geometry and camera travel before and after generation to decide what the procedural input should control.
+
+**Shared by:** [Felix Turner](<https://x.com/felixturner>)
+
+[Original post on X](<https://x.com/felixturner/status/2110610669649502456>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#threejs-highway-h3-max>)
+
+<a id="cyber-kunoichi-helicopter-ref2v"></a>
+
+### Cyber Kunoichi Helicopter Ref2V
+
+[![Cybernetic anime woman with a glowing blade on a city street](<https://pbs.twimg.com/amplify_video_thumb/2110675322324787200/img/bMkohOppaTdjNH4P.jpg>)](<https://x.com/mix_buchi_/status/2110675399512605145>)
+
+A Singularity Ref2V action clip stages a cyber kunoichi against an enemy combat helicopter.
+
+**Model:** MiniMax H3 Singularity
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a compact action beat to test whether the reference character stays recognizable during fast combat.
+
+**Shared by:** [buchi\_](<https://x.com/mix_buchi_>)
+
+[Original post on X](<https://x.com/mix_buchi_/status/2110675399512605145>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cyber-kunoichi-helicopter-ref2v>)
+
+<a id="eight-scene-self-clone-comfyui"></a>
+
+### Eight Scene Self Clone ComfyUI Workflow
+
+[![Presenter seated at a desk in a tutorial about cloning his face and voice](<https://pbs.twimg.com/amplify_video_thumb/2111470794308198400/img/uLZHSGPoxqiv5Il5.jpg>)](<https://x.com/princedoesai/status/2111474816486416585>)
+
+A creator presents a face-and-voice self-clone workflow with eight scenes, a two-minute result and a ComfyUI tutorial.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Check identity and voice consistency at scene boundaries and distinguish the finished sequence from the tutorial recording.
+
+**Shared by:** [Prince does AI](<https://x.com/princedoesai>)
+
+[Original post on X](<https://x.com/princedoesai/status/2111474816486416585>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#eight-scene-self-clone-comfyui>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -8272,6 +8670,46 @@ Generate the performance first, then mask characters before animating lights beh
 **Shared by:** [けいた@AI活用🌸☄️](<https://x.com/XEKmfuMFbyUkr1c>)
 
 [Original post on X](<https://x.com/XEKmfuMFbyUkr1c/status/2111287412345450997>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#idol-mv-neon-flicker-masked-postproduction>)
+
+<a id="rtx3090-all-local-melancholic-mv"></a>
+
+### RTX 3090 All Local Melancholic MV
+
+[![Dark eclipse-like circle reflected above a small scene](<https://pbs.twimg.com/amplify_video_thumb/2111724620147765248/img/lHToiDcx0Fl9KfBR.jpg>)](<https://x.com/superalesha/status/2111726450848272429>)
+
+A melancholic MV credits H3 video and latent upscaling, local image models and YuE2 music on one RTX 3090.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Budget for failed takes and isolate image creation, motion, upscaling and music when planning an entirely local MV.
+
+**Shared by:** [Alexey Fateev](<https://x.com/superalesha>)
+
+[Original post on X](<https://x.com/superalesha/status/2111726450848272429>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx3090-all-local-melancholic-mv>)
+
+<a id="single-reference-y2k-dance-camera"></a>
+
+### Single Reference Y2K Dance Camera
+
+[![Stylized dancer in pink trousers against a neon H3 backdrop](<https://pbs.twimg.com/amplify_video_thumb/2111032003080728576/img/26R1hkd5ciHjmfYc.jpg>)](<https://x.com/ModellixAI/status/2111766743257579537>)
+
+A single-reference H3 dance example combines Y2K styling, choreography, close-ups and moving camera shots.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep outfit and identity fixed while asking separately for choreography, framing changes and camera travel.
+
+**Shared by:** [Modellix](<https://x.com/ModellixAI>)
+
+[Original post on X](<https://x.com/ModellixAI/status/2111766743257579537>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-reference-y2k-dance-camera>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -9818,6 +10256,70 @@ Compare matched rain or room-tone briefs with normalized playback levels, checki
 **Shared by:** [⚙gear machine@AI](<https://x.com/grmchn4ai>)
 
 [Original post on X](<https://x.com/grmchn4ai/status/2111276239474622788>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-stable-audio-rain-ambience-comparison>)
+
+<a id="h3-max-turbo-kling-shared-voice"></a>
+
+### H3 Max Turbo and Kling Shared Voice Test
+
+[![H3 Max Turbo anime speaker preview from a three-model comparison](<https://pbs.twimg.com/amplify_video_thumb/2111693887920283648/img/Lfanym622Pl3YFiR.jpg>)](<https://x.com/mimi_N20/status/2111695957394182515>)
+
+The same image and line compare H3 Max Turbo with two Kling models, with all voices replaced by the same ElevenLabs audio.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare mouth motion using identical source imagery and dialogue, and evaluate native voice separately from replaced audio.
+
+**Shared by:** [みーみー｜AIアニメクリエイター](<https://x.com/mimi_N20>)
+
+[Original post on X](<https://x.com/mimi_N20/status/2111695957394182515>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-turbo-kling-shared-voice>)
+
+<a id="six-video-eight-audio-step-comparison"></a>
+
+### Six Video and Eight Audio Step Comparison
+
+[![Side-by-side anime speakers in a six-versus-eight audio-step test](<https://pbs.twimg.com/amplify_video_thumb/2111781711810023424/img/_xuJ_TDLuFl7fhpW.jpg>)](<https://x.com/OnwUh12/status/2111781732869624201>)
+
+An H3 comparison keeps video at six steps and tests six versus eight audio steps across three durations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold video settings fixed and compare intelligibility, lip sync and elapsed time as only audio steps change.
+
+**Shared by:** [おくがわ🐟個人開発の魚](<https://x.com/OnwUh12>)
+
+[Original post on X](<https://x.com/OnwUh12/status/2111781732869624201>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#six-video-eight-audio-step-comparison>)
+
+<a id="pv-studio-influencer-eight-cut-short"></a>
+
+### PV Studio Influencer Eight Cut Short
+
+[![Fictional influencer speaking in a portrait promotional short](<https://pbs.twimg.com/amplify_video_thumb/2111787470203592704/img/CObqTYViQAGPtUDQ.jpg>)](<https://x.com/amagami_lab/status/2111787743831269655>)
+
+A local H3 pipeline turns two character photos, a room photo and one brief into an eight-cut influencer short.
+
+**Model:** MiniMax H3
+
+#### Original PV Studio app brief (not a direct H3 prompt) · `ja`
+
+```text
+ひよりがフォロワーに PV Studio を紹介する1分のショート
+```
+
+#### How to adapt it
+
+Plan speaking cuts separately from B-roll and check cut endings before adding subtitles and the final portrait crop.
+
+**Shared by:** [Amagami-lab | MOSOする人。](<https://x.com/amagami_lab>)
+
+[Original post on X](<https://x.com/amagami_lab/status/2111787743831269655>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pv-studio-influencer-eight-cut-short>)
 
 <a id="category-motion-graphics"></a>
 
@@ -13702,6 +14204,222 @@ Hold seed, prompt, resolution and LoRA fixed while comparing all four modes for 
 **Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
 
 [Original post on X](<https://x.com/core_tan/status/2111285121982832915>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#webui-sla-fast-spark-four-way-comparison>)
+
+<a id="sol-engine-comfyui-native-audio"></a>
+
+### Sol Engine ComfyUI Native Audio Demo
+
+[![A giant whale floats over misty traditional rooftops](<https://pbs.twimg.com/amplify_video_thumb/2111122878640914432/img/7yy-rBNgeIXV5ZOQ.jpg>)](<https://x.com/xieenze_jr/status/2111123049571324395>)
+
+Sol-H3 Studio presents ComfyUI generation with native audio and reported RTX 5090 and DGX Spark timings.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record full settings and end-to-end latency when evaluating an accelerated native-audio workflow on your own hardware.
+
+**Shared by:** [Enze Xie](<https://x.com/xieenze_jr>)
+
+[Original post on X](<https://x.com/xieenze_jr/status/2111123049571324395>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sol-engine-comfyui-native-audio>)
+
+<a id="tensorfold-studio-ref2va-weekend"></a>
+
+### TensorFold Studio Ref2VA Production Stack
+
+[![Wasserman Slate AI Studio title card listing TensorFold and Fish Audio Drama 3](<https://pbs.twimg.com/media/HUxMGLNXcAAUNUO.jpg>)](<https://x.com/u1tra_instinct/status/2111146319981035840>)
+
+A TensorFold 2.8.0 studio update combines H3 Ref2VA, motion previs, audio tools and local production controls.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Map each production stage to its own tool and compare the generated H3 segment before any upscaling or timeline editing.
+
+**Shared by:** [keys 🧪](<https://x.com/u1tra_instinct>)
+
+[Original post on X](<https://x.com/u1tra_instinct/status/2111146319981035840>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tensorfold-studio-ref2va-weekend>)
+
+<a id="motion-context-twenty-one-second-tuning"></a>
+
+### Motion Context Twenty One Second Tuning
+
+[![Two vertically stacked anime train scenes from a long-form generation test](<https://pbs.twimg.com/amplify_video_thumb/2111323273393065984/img/thw8wmghCVcZIPK8.jpg>)](<https://x.com/MireilleDartois/status/2111323395002634281>)
+
+An H3 long-form test combines four segments, Sage Attention, Easy Cache and an int8 VAE with reported resolution timings.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare segment joins and audio before lowering steps; record resolution, overlap and elapsed time for each run.
+
+**Shared by:** [ダルトワ★TV](<https://x.com/MireilleDartois>)
+
+[Original post on X](<https://x.com/MireilleDartois/status/2111323395002634281>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#motion-context-twenty-one-second-tuning>)
+
+<a id="clay-creature-twelve-prompt-comparison"></a>
+
+### Clay Creature Twelve Prompt Comparison
+
+A linked H3 and Wan 3.0 Prime comparison uses the same clay creature, reference still and twelve prompts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the same subject across several actions rather than treating one appealing frame as a model ranking.
+
+**Shared by:** [AI Video Explorer](<https://x.com/rand_shao>)
+
+[Original post on X](<https://x.com/rand_shao/status/2111336204264456228>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#clay-creature-twelve-prompt-comparison>)
+
+<a id="rtx4070-fourteen-second-audio-tradeoff"></a>
+
+### RTX 4070 Fourteen Second Audio Tradeoff
+
+[![Anime woman seated indoors beneath a timing overlay](<https://pbs.twimg.com/amplify_video_thumb/2111721783686750208/img/co6eYbR3BKfcNBS8.jpg>)](<https://x.com/sep_is_heim/status/2111722902135742820>)
+
+An H3 creator reports a fourteen-second clip in 98.8 seconds on RTX 4070, with faster reruns but weak speech quality.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Log first-run and warm-run timings separately and check speech and background detail before accepting a faster configuration.
+
+**Shared by:** [Kamimoto(かみもと)](<https://x.com/sep_is_heim>)
+
+[Original post on X](<https://x.com/sep_is_heim/status/2111722902135742820>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx4070-fourteen-second-audio-tradeoff>)
+
+<a id="mac-mps-fp16-video-vae-workaround"></a>
+
+### Mac MPS FP16 Video VAE Workaround
+
+[![Japanese Vidubus 1.1 troubleshooting title card with a Mac and anime musician](<https://pbs.twimg.com/media/HU5jZJpa4AAdIhU.jpg>)](<https://x.com/akibaAIilab/status/2111734670241259662>)
+
+A Vidubus workflow documents an FP16 video VAE workaround for reported Mac MPS failures with an int8 VAE.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate backbone compatibility from video VAE compatibility and test matching seeds before changing the rest of the graph.
+
+**Shared by:** [あきばあい | 秋葉原IT戦略研究所](<https://x.com/akibaAIilab>)
+
+[Original post on X](<https://x.com/akibaAIilab/status/2111734670241259662>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mac-mps-fp16-video-vae-workaround>)
+
+<a id="turbo-spectrum-audiorefine-comparison"></a>
+
+### Turbo Spectrum and AudioRefine Comparison
+
+[![A woman outside beneath a Japanese twenty-step baseline label](<https://pbs.twimg.com/amplify_video_thumb/2111628611388391424/img/xsGjiQbFL-3kt5rQ.jpg>)](<https://x.com/theeakiraxx/status/2111751643071164450>)
+
+An H3 ComfyUI test compares twenty and eight steps, Spectrum acceleration and an AudioRefine pass for speech distortion.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Listen to matched speech samples alongside measurements, removing one acceleration component at a time.
+
+**Shared by:** [akiraxx](<https://x.com/theeakiraxx>)
+
+[Original post on X](<https://x.com/theeakiraxx/status/2111751643071164450>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#turbo-spectrum-audiorefine-comparison>)
+
+<a id="rtx3090-ref2va-turbo-reference-tradeoff"></a>
+
+### RTX 3090 Ref2VA Turbo Reference Tradeoff
+
+A local Ref2VA comparison reports faster four-step Turbo generation alongside weaker reference control and visible noise.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Evaluate reference adherence as well as runtime when comparing four and twenty steps, holding resolution and duration constant.
+
+**Shared by:** [デジタルクリエイティブAI](<https://x.com/DCAI_TW>)
+
+[Original post on X](<https://x.com/DCAI_TW/status/2111776051516912084>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx3090-ref2va-turbo-reference-tradeoff>)
+
+<a id="codex-conversation-first-image-animation"></a>
+
+### Codex Conversation to First Image Animation
+
+[![Two illustrated characters face a blue sea from a ship deck](<https://pbs.twimg.com/amplify_video_thumb/2111788226948296704/img/oe-kWqMfxssHoQ3I.jpg>)](<https://x.com/ai_t2i_231/status/2111789400648806439>)
+
+A five-second H3 animation documents a conversational Codex workflow that assembled English instructions behind the scenes.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the original image, generated instructions and first output together so later revisions can be traced to concrete changes.
+
+**Shared by:** [フースイ@AIイラスト](<https://x.com/ai_t2i_231>)
+
+[Original post on X](<https://x.com/ai_t2i_231/status/2111789400648806439>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#codex-conversation-first-image-animation>)
+
+<a id="dgx-spark-four-hour-power-log"></a>
+
+### DGX Spark Four Hour Power Log
+
+[![Japanese DGX Spark power-report graphic with monitoring screenshots](<https://pbs.twimg.com/media/HU6WWC3asAA6t-y.jpg>)](<https://x.com/Ai_Quse/status/2111791130467828069>)
+
+A creator records DGX Spark memory and power during a long H3 workload, separating measurement from speed speculation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record power, memory, elapsed time and completed output together before comparing hardware efficiency.
+
+**Shared by:** [きゅうす のAIとつれづれ](<https://x.com/Ai_Quse>)
+
+[Original post on X](<https://x.com/Ai_Quse/status/2111791130467828069>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-four-hour-power-log>)
+
+<a id="thunderbolt-egpu-talking-cat-ref2va"></a>
+
+### Thunderbolt eGPU Talking Cat Ref2VA
+
+[![A cat wearing a hard hat and safety vest at a construction site](<https://pbs.twimg.com/amplify_video_thumb/2111792888443019264/img/n4T2W19Davg0qf3t.jpg>)](<https://x.com/SixteenGB/status/2111792913428386070>)
+
+A 16 GB RTX 5070 Ti eGPU runs an H3 Ref2VA talking-cat example with int8, sparse attention and a four-step LoRA.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record VRAM, host connection and warm-up overhead alongside duration when testing an eGPU configuration.
+
+**Shared by:** [SixteenGB](<https://x.com/SixteenGB>)
+
+[Original post on X](<https://x.com/SixteenGB/status/2111792913428386070>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#thunderbolt-egpu-talking-cat-ref2va>)
 
 ## Suggest a prompt
 
