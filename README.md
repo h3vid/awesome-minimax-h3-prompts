@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **562 verified examples**, with sources reviewed through **2026-10-19**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **593 verified examples**, with sources reviewed through **2026-10-20**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (77)
-- [Storyboards & sequences](<#category-storyboard>) (80)
-- [Anime & animation](<#category-anime-animation>) (45)
-- [References & consistency](<#category-reference-character>) (65)
-- [Music videos & dance](<#category-music-dance>) (63)
-- [Dialogue & audio](<#category-dialogue-audio>) (36)
-- [Motion graphics & titles](<#category-motion-graphics>) (25)
-- [ComfyUI & workflows](<#category-workflows>) (171)
+- [Cinematic & camera](<#category-cinematic-camera>) (79)
+- [Storyboards & sequences](<#category-storyboard>) (84)
+- [Anime & animation](<#category-anime-animation>) (49)
+- [References & consistency](<#category-reference-character>) (71)
+- [Music videos & dance](<#category-music-dance>) (65)
+- [Dialogue & audio](<#category-dialogue-audio>) (37)
+- [Motion graphics & titles](<#category-motion-graphics>) (30)
+- [ComfyUI & workflows](<#category-workflows>) (178)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2309,6 +2309,79 @@ Tie the reveal edge to the wiping cloth and lock the camera so the action contro
 **Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
 
 [Original post on X](<https://x.com/GlennHasABeard/status/2111797222492819835>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#crystal-ball-cloth-reveal-storm>)
+
+<a id="automotive-three-keyframe-ten-second-ad"></a>
+
+### Automotive Three Keyframe Ten Second Ad
+
+[![Vertical car advertisement preview with a wheel close-up and BRAND MODEL text](<https://pbs.twimg.com/amplify_video_thumb/2112156567164379136/img/dt9uZ-u6HkPqSytV.jpg>)](<https://x.com/bgajic25/status/2112157032404971713>)
+
+A car-ad template uses start, middle and end frames for one ten-second H3 Max clip with music and sound effects.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose three views that define one coherent vehicle reveal and specify sound cues that support the same ten-second arc.
+
+**Shared by:** [Biljana](<https://x.com/bgajic25>)
+
+[Original post on X](<https://x.com/bgajic25/status/2112157032404971713>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#automotive-three-keyframe-ten-second-ad>)
+
+<a id="harbor-hover-chase-three-reference-coverage"></a>
+
+### Harbor Hover Chase Three Reference Coverage
+
+An eight-second chase prompt separates identity, previous car state and wide shot planning for an intentional coverage cut.
+
+**Model:** MiniMax H3
+
+#### H3 Ref2VA S03 wider coverage prompt · `en`
+
+```text
+subject_definitions:
+<Picture 1> is the user's approved v6 identity reference for Fang Zhiwei (方知微). Its clear large left portrait controls her face, facial proportions, age impression, and base skin tone; its complete right turnaround controls her physique. Her default long near-center-parted dark brown-black waves remain the hair anchor.
+<Picture 2> is the actual retained final frame n191 from S2, showing the original silver coupe already in a low hover, nose pointing screen-right, with two visible near-side hover modules, the driver behind the glass, and the golden-hour harbor road. It provides the current vehicle and hover state, not a pixel-locked first frame or the composition for this wider coverage shot.
+<Picture 3> is an original exterior shot-planning reference for the unbadged coupe, industrial harbor road, sunset, water, and three pursuing police vehicles. It guides the wider group composition and broad geography, not a source-video frame or a 3D scene lock.
+<Subject 1> is Fang Zhiwei, an adult woman whose face, age impression, base skin tone, physique, and default dark waves are controlled only by <Picture 1>; when visible, she wears the same black leather outerwear and secured harness.
+<Subject 2> is the same unbadged silver futuristic coupe shown in <Picture 2> and planned in <Picture 3>, with its low wedge-shaped body, narrow unmarked lights, dark windows, black lower intakes, four ordinary tires, and two near-side rectangular blue-white hover modules.
+<Subject 3> is the golden-hour industrial harbor road beside open water, with distant cranes, container stacks, a low road barrier, and warm sunset reflections.
+<Subject 4> is exactly three generic black-and-white police SUVs following <Subject 2> on the road at a clear, safe distance, with no readable agency names, badges, or logos.
+
+summary:
+[reference generation] Create one eight-second wide exterior tracking shot that re-establishes the three-SUV pursuit around <Subject 2>, already hovering as shown in <Picture 2>. <Picture 1> alone controls Fang Zhiwei's identity; <Picture 3> guides the wider harbor composition and pursuit arrangement. This is a deliberate wider coverage cut, not a seamless frame match.
+
+retention_analysis:
+<Picture 1> ([Shot 1] identity reference): fully_preserved - retain Fang Zhiwei's face, age impression, base skin tone, physique, and default dark waves without copying the office clothing or studio pose.
+<Picture 2> ([Shot 1] current car-state reference): partially_preserved - continue the same silver coupe in a level low hover with its nose facing screen-right; change to a wider group composition rather than matching the frame exactly.
+<Picture 3> ([Shot 1] shot-planning reference): partially_preserved - use its industrial harbor, sunset, road, and three-vehicle pursuit arrangement as broad visual guidance without pixel matching or claiming a 3D lock.
+<Subject 1> (appears in [Shot 1]): fully_preserved - retain the v6 identity and, where visible, the black jacket and secured harness.
+<Subject 2> (appears in [Shot 1]): fully_preserved - retain the same unbadged coupe, its screen-right heading, and the established low-hover state.
+<Subject 3> (appears in [Shot 1]): partially_preserved - retain the broad harbor-road setting and warm sunset while using a wider view than the preceding segment.
+<Subject 4> (appears in [Shot 1]): fully_preserved - establish exactly three separate generic SUVs trailing the coupe at a safe distance; keep them on the road without passing or contacting it.
+
+detailed_description:
+Keep the golden-hour action-thriller look, realistic metallic reflections, and subtle orange haze. Use one uninterrupted, moderately wide front-left three-quarter tracking shot. This is an intentional coverage cut to a camera placed farther back and slightly wider than S2 so the pursuit group can be read; do not claim a seamless continuation from the prior frame. Keep <Subject 2> completely inside the image at roughly 55–65 percent of frame width, leaving visible margins around its nose, tail, and wheels. Show the harbor road, water, cranes, container stacks, and sunset from <Subject 3>. <Picture 3> guides the group spacing and broad background; it does not fix exact geometry. <Subject 1> may be visible through the dark windshield in the left-front driver position, with dark waves, black leather jacket, and harness. Her face and body remain defined only by <Picture 1>; do not enlarge her into a separate close-up.
+[Shot 1] At 00:00.000, <Subject 2> is already moving steadily from screen-left toward screen-right, level and continuously suspended in the same low hover state shown by <Picture 2>. Its two near-side modules glow blue-white with restrained downward light plumes. Do not put the tires back on the ground, repeat the lift, raise the car higher, retract or deform its wheels, or alter its nose-right travel direction. The camera opens at the wider coverage position, then tracks smoothly at the coupe's pace without a cut, zoom, orbit, shake, or abrupt scale change. Exactly three distinct <Subject 4> SUVs are readable behind it on the same road: one nearest in the far lane and two progressively farther back, with visible gaps between each vehicle and the coupe. Keep the police vehicles behind; none overtakes, collides, multiplies, vanishes through a cut, or changes into another vehicle type.
+From 00:02.000 to 00:05.000, maintain the same low-hover state and level body attitude as the coupe advances. Preserve the silver wedge silhouette, narrow lights, dark windows, black lower intakes, four normally shaped tires, and two near-side modules. Allow natural perspective and body occlusion; do not force all four wheels into simultaneous visibility. Hold all three SUVs in a readable trailing formation, safely separated on the pavement.
+From 00:05.000 to 00:08.000, continue the same steady hover and screen-right heading. Keep the full coupe and all three trailing SUVs legible with sensible margins; maintain their order and safe spacing. End with the silver coupe still leading in a stable low hover and the three SUVs still behind, setting up a later chase beat without adding it here. No rocket, projectile, impact, explosion, sea crossing, pier jump, roll, flip, landing, new shot, brand, or readable text.
+
+overall_soundscape:
+Newly generated harbor-road ambience continues the restrained strategy of the prior segments: a low engine tone blended with soft hover-module airflow, faint distant port ambience, and mild road-wind texture. Keep it controlled and consistent; no copied source audio, sirens, speech, or intelligible words.
+
+non_diegetic_music:
+Newly generated restrained cinematic tension music continues the established low-string and measured pulsing-synth palette, with sparse soft percussion. Maintain a steady, modest level without a new impact cue, vocals, or abrupt transition.
+```
+
+#### How to adapt it
+
+Give identity, retained state and shot layout distinct reference roles; state the intended cut explicitly and hold vehicle count and travel direction.
+
+**Shared by:** [方知微](<https://x.com/superfang119>)
+
+[Original post on X](<https://x.com/superfang119/status/2112352474355180010>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#harbor-hover-chase-three-reference-coverage>)
 
 <a id="category-storyboard"></a>
 
@@ -4773,6 +4846,92 @@ Escalate the reveal from street shadows to panel removal and finally the enclosi
 
 [Original post on X](<https://x.com/DeCat2025/status/2111799484069847266>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sky-panel-five-shot-mechanical-reveal>)
 
+<a id="continuum-110-second-period-wedding-comedy"></a>
+
+### Continuum 110 Second Period Wedding Comedy
+
+[![Period wedding comedy with costumed characters, a gift object and added subtitles](<https://pbs.twimg.com/amplify_video_thumb/2111423110134321152/img/VcwYbsdZ98aXZA8J.jpg>)](<https://x.com/eternityspring/status/2111425591887249666>)
+
+A period comedy joins 30-, 40- and 40-second Continuum runs using ten-second chunks and 22-frame handoffs.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan three narrative sections, carry the previous chunk’s final frames forward and review both dialogue and visual continuity at every join.
+
+**Shared by:** [烁皓](<https://x.com/eternityspring>)
+
+[Original post on X](<https://x.com/eternityspring/status/2111425591887249666>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#continuum-110-second-period-wedding-comedy>)
+
+<a id="french-revolution-zombie-trailer-previs"></a>
+
+### French Revolution Zombie Trailer Previs
+
+[![Composite preview with generated banquet footage above a gray Three.js blockout](<https://pbs.twimg.com/amplify_video_thumb/2112144703760326656/img/oCRPNpFfclTPPU3p.jpg>)](<https://x.com/crapthings/status/2112146561602068504>)
+
+A 130-second zombie trailer compares H3 R2V footage above Three.js previs and documents reference and camera drift.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep shots under ten seconds, block spatial relationships and match references to each camera angle; review contact sheets before editing.
+
+**Shared by:** [crapthings](<https://x.com/crapthings>)
+
+[Original post on X](<https://x.com/crapthings/status/2112146561602068504>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#french-revolution-zombie-trailer-previs>)
+
+<a id="astraia-xeno-wrath-next-episode-teaser"></a>
+
+### Astraia Versus Xeno Wrath Episode Teaser
+
+[![Giant armored antagonist appearing above a city street in the episode teaser](<https://pbs.twimg.com/amplify_video_thumb/2112298819421655040/img/S7W2YZWav_Ol5YwU.jpg>)](<https://x.com/m_heroine_freak/status/2112298984509493338>)
+
+An H3 next-episode teaser introduces a giant heroine confrontation with an invading enemy.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a concise teaser around one antagonist reveal and a clear conflict, then verify scale and shot continuity.
+
+**Shared by:** [変身ヒロイン観測所 | DLSite販売中](<https://x.com/m_heroine_freak>)
+
+[Original post on X](<https://x.com/m_heroine_freak/status/2112298984509493338>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#astraia-xeno-wrath-next-episode-teaser>)
+
+<a id="vidmuse-fomo-wojak-cartoon-production-brief"></a>
+
+### VidMuse FOMO Wojak Cartoon Production Brief
+
+A published VidMuse brief separates references, animation, voice, subtitles and editing for a sarcastic FOMO-trading cartoon.
+
+**Model:** MiniMax H3
+
+#### VidMuse production brief (not a direct H3 prompt) · `en`
+
+```text
+Create a sarcastically funny cartoon short about FOMO trading, using only VidMuse.
+
+Format: 16:9, 2560×1440, 24fps, approximately 28–30 seconds and always under 45 seconds. Generate animation with MiniMax Hailuo H3 at 1440p.
+
+Keep all profanity uncensored. Deliver connected phrases with dry sarcasm, growing frustration, impulsive excitement, then defeated deadpan. Avoid a rushed monotone or long artificial pauses.  Visual style: Deliberately shitty Wojak/MS-Paint cartoon animation: uneven black outlines, flat colors, stiff poses, cheap snap movements, awkward expressions and crude animation that adds to the humor. Avoid polished 3D.  Main character: A consistent pale, bald, long-nosed Wojak wearing a gray hoodie and black trousers. Begin calm. As FOMO builds, add forehead stress lines, sweat and eye bags. After buying, give him dense forehead hatching, tiny pupils and an exaggerated panic expression. Finish with a hollow, defeated stare. Setting: A shabby beige apartment with a lumpy blue couch on the left, crooked brown desk on the right, bare hanging bulb and crooked empty picture frame. Keep the character, outfit, props and setting consistent.  Build the character references, expressions, props, storyboard frames, animation clips and voice sections separately before assembling. Spoken script:  “Apparently everyone's a fucking trader now. Dave buys stocks. Up. My mate buys gold. Up. Some dickhead buys oil. Up. He thinks crude is a personality trait.  I wait. I do research. It goes up another thirty percent. Fine. I'll buy a little.”  [BUY click. Brief half-second pause. Giant red candle crash.]  “Gone. Not a dip. A fucking crime scene.  Suddenly everyone's a long-term investor. Mate, I bought forty seconds ago. I'm not a trader. I'm the fucking sell signal.” Visual beats: Show smug winning traders with stocks, gold and oil while everything rises. Cut to Wojak anxiously researching and watching green charts. Show his finger buying, then immediately reveal an enormous red candle and escalating panic. Finish with him slumped against the couch, holding his crashed portfolio. Music: Add a quiet, cheeky instrumental cartoon track with pizzicato, detuned marimba, goofy bass and sparse wooden percussion. No vocals. Keep it beneath the narration. Drop it out for the BUY/crash and crime-scene joke, then bring it back quietly. Fade out at the ending.  Subtitles: Align captions to the actual final narration, phrase by phrase. Group each “Up” with its preceding sentence for readability. Use one subtitle layer, bold white text with a black outline and safe bottom margins. Make the final “I'm the fucking sell signal” caption red. Edit to the narration’s natural timing. Keep the BUY click synchronized with the action, let the crash appear before “Gone,” and hold approximately 0.6 seconds after the final spoken word.
+```
+
+#### How to adapt it
+
+Replace the joke and character while retaining separate asset, voice and assembly stages; time the visual crash to the final narration.
+
+**Shared by:** [Hexx ./](<https://x.com/HexxRL>)
+
+[Original post on X](<https://x.com/HexxRL/status/2112348729357344813>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vidmuse-fomo-wojak-cartoon-production-brief>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -5972,6 +6131,86 @@ Animate each storyboard still as a short shot and join the clips before laying a
 **Shared by:** [いるかいないか](<https://x.com/iruka_inainoka>)
 
 [Original post on X](<https://x.com/iruka_inainoka/status/2111799110311522638>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anima-five-cut-piano-animation>)
+
+<a id="kuntilanak-versus-zombie-animated-short"></a>
+
+### Kuntilanak Versus Zombie Animated Short
+
+[![Kuntilanak VS Zombie illustrated title card from the short-film preview](<https://pbs.twimg.com/amplify_video_thumb/2112340550460547073/img/7MiS_8Y0NcWGw79H.jpg>)](<https://x.com/junwatu/status/2112345647403942115>)
+
+A creator attributes a two-minute-sixteen-second animated short to H3 and shares it as a final-credit project.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan an animated short as distinct dramatic beats and inspect character continuity across transitions.
+
+**Shared by:** [DΞV](<https://x.com/junwatu>)
+
+[Original post on X](<https://x.com/junwatu/status/2112345647403942115>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#kuntilanak-versus-zombie-animated-short>)
+
+<a id="text-to-video-hd2d-rpg-village"></a>
+
+### Text to Video HD2D RPG Village
+
+[![Miniature RPG village scene with red-roof buildings, tiny figures and a bridge](<https://pbs.twimg.com/amplify_video_thumb/2109304673861840896/img/-IMBHj9DNjE0pekD.jpg>)](<https://x.com/WasabiVaio/status/2112346812195688511>)
+
+A text-generated H3 RPG-style scene combines miniature village staging with a 2DHD game aesthetic.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Describe the village layout, layered depth, lighting and a simple camera path while keeping small characters readable.
+
+**Shared by:** [wasabi\_vaio](<https://x.com/WasabiVaio>)
+
+[Original post on X](<https://x.com/WasabiVaio/status/2112346812195688511>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#text-to-video-hd2d-rpg-village>)
+
+<a id="share-cookie-bunny-english-agent-short"></a>
+
+### Share the Cookie Bunny English Agent Short
+
+[![Illustrated bunny holding a cookie on a sunlit woodland path](<https://pbs.twimg.com/ext_tw_video_thumb/2112355939877638144/pu/img/tZKAj_z7P4I8pKzW.jpg>)](<https://x.com/Edward_couthing/status/2112355968860275099>)
+
+A 32-second children’s English story combines Qwen Image stills, H3 Ref2VA and ffmpeg with Chinese/English subtitles.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a simple choice-and-payoff story, keep the bunny reference stable and add bilingual subtitles during assembly.
+
+**Shared by:** [杜嵩](<https://x.com/Edward_couthing>)
+
+[Original post on X](<https://x.com/Edward_couthing/status/2112355968860275099>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#share-cookie-bunny-english-agent-short>)
+
+<a id="chicken-cat-ai-world-flythrough-simplification"></a>
+
+### Chicken and Cat AI World Flythrough
+
+[![Cartoon chicken and cat in a bright AI-themed miniature world with visible OpenAI lettering](<https://pbs.twimg.com/amplify_video_thumb/2112362728593797120/img/cjFieKrgpRJkauUO.jpg>)](<https://x.com/mspd4100/status/2112362976233840677>)
+
+An H3 chicken-and-cat fantasy ride simplifies an initially overcomplicated theme-park-style world traversal.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Reduce the number of environments and moving elements, then preserve the main pair and one clear travel direction.
+
+**Shared by:** [有鸡骑猫](<https://x.com/mspd4100>)
+
+[Original post on X](<https://x.com/mspd4100/status/2112362976233840677>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#chicken-cat-ai-world-flythrough-simplification>)
 
 <a id="category-reference-character"></a>
 
@@ -7375,6 +7614,164 @@ Check identity and voice consistency at scene boundaries and distinguish the fin
 
 [Original post on X](<https://x.com/princedoesai/status/2111474816486416585>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#eight-scene-self-clone-comfyui>)
 
+<a id="refmod-eight-photo-dual-actor-stress-test"></a>
+
+### RefMod Eight Photo Dual Actor Stress Test
+
+[![Portrait of a dark-haired woman in the RefMod character-consistency tutorial](<https://pbs.twimg.com/amplify_video_thumb/2109936647710420992/img/at154JyJxdmyb0E6.jpg>)](<https://x.com/sunbaolong_2001/status/2109938041901207803>)
+
+An eight-photo RefMod tutorial tests scene changes, wide shots, turnarounds and two-actor interactions with eight-step sampling.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a reusable actor reference, then test wide shots, rear views and paired actions separately before combining them.
+
+**Shared by:** [有趣的80后程序员](<https://x.com/sunbaolong_2001>)
+
+[Original post on X](<https://x.com/sunbaolong_2001/status/2109938041901207803>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#refmod-eight-photo-dual-actor-stress-test>)
+
+<a id="fasth3-five-image-ref2v-assembly"></a>
+
+### FastH3 Five Image Ref2V Assembly
+
+[![Portrait and front, side and rear character views in the FastH3 Ref2V tutorial](<https://pbs.twimg.com/amplify_video_thumb/2112007364761325568/img/I5ZYx98B_5SzAShD.jpg>)](<https://x.com/sunbaolong_2001/status/2112007736380764405>)
+
+A FastH3 Ref2V tutorial assembles two actors, clothing and props with eight-step sampling and two-stage latent upscaling.
+
+**Model:** MiniMax H3 / FastH3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assign separate references to actors, clothing and props; test a simple tea-passing interaction before increasing asset count.
+
+**Shared by:** [有趣的80后程序员](<https://x.com/sunbaolong_2001>)
+
+[Original post on X](<https://x.com/sunbaolong_2001/status/2112007736380764405>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-five-image-ref2v-assembly>)
+
+<a id="ragnar-reference-transfer-duration-diagnosis"></a>
+
+### Ragnar Reference Transfer Duration Diagnosis
+
+[![Ragnar-like character composited among football players in the reference-transfer preview](<https://pbs.twimg.com/amplify_video_thumb/2112226198814138368/img/T0WgOvi-j_PBcOJ-.jpg>)](<https://x.com/ELBUMPY/status/2112229269325980073>)
+
+A Ragnar character-transfer test documents an abrupt six-second ending against an eight-second reference and mid-clip face drift.
+
+**Model:** MiniMax H3
+
+#### Prompt transcribed from the author’s screenshot · `en`
+
+```text
+The video begins exactly from the first image. The man in the first image is the character from the second reference image: long braided-top hairstyle with shaved sides, full blond-brown beard, dark leather and chainmail Viking tunic. Keep his face, beard and hair identical to the reference image throughout the whole video, with no changes in identity.
+
+He performs exactly the same body movement, posture, head turns, gestures, timing and pacing as the person in the reference video. Copy the camera movement, framing and speed of the reference video. The setting, crowd, background and lighting stay the same as the first image and do not change. Realistic live-action footage, natural skin, cinematic lighting, stable face, no morphing, no flickering.
+```
+
+#### How to adapt it
+
+Match output duration to the motion reference and add identity coverage; inspect the final action and face consistency across the clip.
+
+**Shared by:** [ΞLB𝐔𝐌𝐏𝐘](<https://x.com/ELBUMPY>)
+
+[Original post on X](<https://x.com/ELBUMPY/status/2112229269325980073>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ragnar-reference-transfer-duration-diagnosis>)
+
+<a id="rabbit-menu-thirty-second-continuity-failure"></a>
+
+### Rabbit Menu Thirty Second Continuity Failure
+
+[![Anime-style character at a restaurant in the retained rabbit-gesture clip](<https://pbs.twimg.com/amplify_video_thumb/2112312187876470784/img/wc1EB0wyaeHUYgRD.jpg>)](<https://x.com/Hemi3AI/status/2112313107137896677>)
+
+A rabbit-gesture character clip accompanies a failed thirty-second attempt with unstable menu props and unwanted rabbit ears.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test menu visibility, prop persistence and the hand gesture in short segments before extending the full scene.
+
+**Shared by:** [ヘミ](<https://x.com/Hemi3AI>)
+
+[Original post on X](<https://x.com/Hemi3AI/status/2112313107137896677>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rabbit-menu-thirty-second-continuity-failure>)
+
+<a id="h3-max-heygen-avatar-broll-source-comparison"></a>
+
+### H3 Max and HeyGen Avatar B Roll Comparison
+
+[![Stylized traveler outside a flower shop in the separately labeled H3 Max clip](<https://pbs.twimg.com/amplify_video_thumb/2112361135806771200/img/wLOwOTSe77Ah-tG-.jpg>)](<https://x.com/nbykos/status/2112361186524377547>)
+
+A creator supplies a separately labeled H3 Max clip alongside a HeyGen comparison discussing motion-heavy scene failures.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use matched inputs and duration, then inspect people, birds and props during larger movements rather than judging only static frames.
+
+**Shared by:** [NOBU](<https://x.com/nbykos>)
+
+[Original post on X](<https://x.com/nbykos/status/2112361186524377547>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-max-heygen-avatar-broll-source-comparison>)
+
+<a id="lakeside-dance-identity-wardrobe-reference-split"></a>
+
+### Lakeside Dance Identity Wardrobe Reference Split
+
+A detailed Ref2VA prompt separates identity from a mint-and-white stage gown and timed lakeside dance actions.
+
+**Model:** MiniMax H3
+
+#### H3 Ref2VA prompt (identity and scene references) · `en`
+
+```text
+subject_definitions:
+<Subject 1> is one adult woman, Fang Zhiwei (方知微). Her face, natural skin tone, adult appearance, long dark-brown-black wavy hair, and body proportions come exclusively from <Picture 2>. The 175 cm height is a user-specified character setting, not inferred from the image.
+<Subject 2> is the long mint-and-white fantasy stage robe in <Picture 1>, retaining its embroidered floral panels, green sash and tassels, pale flower ornaments, broad flowing sleeves, and pale shoes. It is adapted as a long gown with a fully opaque inner lining beneath any light outer layers; the skirt remains in place throughout the dance.
+<Subject 3> is the quiet lakeside setting in <Picture 1>: calm water reflecting dark green trees, leafy branches overhead, and a flat stone beside the bank.
+<Picture 1> is the approved adult lakeside wardrobe-and-scene reference. It guides only the gown, accessories, environment, light, and broad composition/pose. Do not use its face, hair, skin identity, or body proportions.
+<Picture 2> is the confirmed v6 identity board. Its clear left portrait alone defines <Subject 1>'s face, skin tone, age impression, and hair; its right front/side/back figures define her body proportions. Ignore the board layout, labels, clothing, blurred small faces, and poses.
+
+summary:
+[reference generation] Create one continuous 9.416667-second, 24 fps portrait dance of <Subject 1> beside the lake. <Picture 2> alone anchors her face, hair, and body; <Picture 1> supplies only the long lined mint-and-white costume, ornaments, lake, lighting, and broad pose. Preserve the source-observed dance progression, including two ordinary bent-knee leg accents, without lifting the skirt or changing the full time span. This is still-image-conditioned generation, not source-video motion transfer.
+
+retention_analysis:
+<Subject 1> (throughout [Shot 1]): fully_preserved - face, skin tone, dark wavy hair, adult appearance, and body proportions come only from <Picture 2>; 175 cm is user-specified.
+<Subject 2> (throughout [Shot 1]): partially_preserved - retain the mint-and-white embroidered design, green sash, floral details, broad sleeves, and pale shoes; adapt the robe into a long stage gown with a fully opaque inner lining and keep it in place.
+<Subject 3> (throughout [Shot 1]): partially_preserved - retain the calm lake, reflected trees, overhead leaves, and stone bank, with minor natural background variation allowed.
+<Picture 1> ([Shot 1] wardrobe and scene): weak_reference - costume, ornaments, lake, lighting, and broad opening composition only; no identity transfer.
+<Picture 2> ([Shot 1] identity): fully_preserved - face/hair from the clear portrait and body proportions from the right-side views; no outfit, pose, or layout transfer.
+
+detailed_description:
+One continuous 9:16 full-body shot, 9.416667 seconds at 24 fps. Keep the camera at a steady, level eye height and maintain head-to-toe framing of one woman on a flat stone beside calm water. Dark green trees reflect behind her and leafy branches hang across the top of frame. <Picture 2> defines the same adult woman throughout; preserve her clear facial geometry, natural skin tone, and long near-center-parted dark brown-black waves. Dress her in <Subject 2>, a floor-length mint-and-white embroidered stage robe with green sash and floral details, broad sleeves, pale shoes, and a continuous opaque inner skirt. Any light outer sleeve or robe overlay stays decorative and does not expose the body. The gown stays closed and in place; no skirt lift, under-hem view, or camera move toward the hem.
+[Shot 1] From 00:00.000 to 00:01.125, she faces the camera, raises one hand near shoulder level, opens both arms with relaxed palms, and begins small balanced weight shifts. Keep her full figure centered against the lake.
+From 00:01.125 to 00:02.375, she takes light in-place steps and turns through a side and brief rear-facing view. Her long hair and broad sleeves trail naturally; the same long opaque-lined gown remains closed.
+From 00:02.375 to 00:03.625, she rotates back toward the camera and continues measured hand gestures as her sleeves settle. The camera remains level and full-body.
+From 00:03.625 to 00:04.750, she alternates her hand positions near the waist, then lifts both arms overhead into a balanced open pose.
+From 00:04.750 to 00:05.000, she keeps a light in-place rhythm and prepares a controlled dance accent. From 00:05.000 to 00:05.375, she lifts one knee with a short outward lower-leg extension, then lowers it. From 00:05.375 to 00:06.000, she places her foot and resets her balance with small arm flourishes. From 00:06.000 to 00:06.500, she performs a second bent-knee lift with a gentle forward-diagonal lower-leg extension; she lowers and places the foot by about 00:06.625. These are ordinary dance accents; do not force both feet to stay planted throughout. Keep the skirt closed and its opaque lining unchanged.
+From 00:06.625 to 00:08.000, she continues small steps and calm hand gestures, briefly bringing one hand near a floral hair ornament before opening the arm outward. From 00:08.000 to 00:09.416667, she continues the measured in-place dance phrase and ends naturally mid-gesture with one knee lightly raised, consistent with the final source samples. Maintain the same adult identity, long gown coverage, full-body level camera, and lakeside composition through the last frame.
+
+overall_soundscape:
+The source soundtrack was decoded but not listened to; its content is unknown and it is not an input. Generate only subtle new lakeside ambience, such as soft leaves and quiet waterside room tone. Do not claim to reproduce the original soundtrack.
+
+non_diegetic_music:
+Use newly generated light instrumental music with gentle plucked strings and a restrained flute-like lead at an unhurried tempo and low volume. No vocals. This is an original sound direction, not a description or imitation of the source audio.
+```
+
+#### How to adapt it
+
+Assign identity only to its dedicated board and costume/location only to the scene reference; time ordinary dance accents explicitly.
+
+**Shared by:** [方知微](<https://x.com/superfang119>)
+
+[Original post on X](<https://x.com/superfang119/status/2112370486671994892>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lakeside-dance-identity-wardrobe-reference-split>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -8710,6 +9107,42 @@ Keep outfit and identity fixed while asking separately for choreography, framing
 **Shared by:** [Modellix](<https://x.com/ModellixAI>)
 
 [Original post on X](<https://x.com/ModellixAI/status/2111766743257579537>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-reference-y2k-dance-camera>)
+
+<a id="yaoyorozu-seventy-three-cut-local-mv"></a>
+
+### Yaoyorozu Seventy Three Cut Local MV
+
+A fourth-version music video combines 73 locally generated H3 cuts with Codex editing and a reported twenty-hour production.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Maintain a shot list and version log, batch short clips, then review pacing and continuity across the complete edit.
+
+**Shared by:** [MoMu & TeaSteam (もむち)](<https://x.com/momuandteasteam>)
+
+[Original post on X](<https://x.com/momuandteasteam/status/2112327134580707655>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#yaoyorozu-seventy-three-cut-local-mv>)
+
+<a id="starlit-brainwave-grok-h3-music-video"></a>
+
+### Starlit Brainwave Grok H3 Music Video
+
+A cosmic-disco music video credits Grok Bot and H3 and links the finished Starlit Brainwave release.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define a coherent cosmic-disco visual palette and review how short generated shots follow the song’s structure.
+
+**Shared by:** [Smitty.Create](<https://x.com/Smitty_PNW>)
+
+[Original post on X](<https://x.com/Smitty_PNW/status/2112354747533648208>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#starlit-brainwave-grok-h3-music-video>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -10321,6 +10754,26 @@ Plan speaking cuts separately from B-roll and check cut endings before adding su
 
 [Original post on X](<https://x.com/amagami_lab/status/2111787743831269655>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pv-studio-influencer-eight-cut-short>)
 
+<a id="mandarin-fish-order-dialogue-comedy"></a>
+
+### Mandarin Fish Order Dialogue Comedy
+
+[![Restaurant interior and a tea setting in the fish-order comedy preview](<https://pbs.twimg.com/amplify_video_thumb/2111078185504817152/img/BWIqzO4OaWPbxTBc.jpg>)](<https://x.com/_GAi92/status/2111078804445929725>)
+
+A restaurant comedy uses a Mandarin fish-order joke in an H3 video shared with strong audience engagement.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a short dialogue around one language misunderstanding and a clear visual payoff; review speech timing and speaker identity.
+
+**Shared by:** [\_GAi](<https://x.com/_GAi92>)
+
+[Original post on X](<https://x.com/_GAi92/status/2111078804445929725>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mandarin-fish-order-dialogue-comedy>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -10951,6 +11404,104 @@ Generate the scene and sound first, then apply the television insert, vintage-vi
 **Shared by:** [さっしゅ](<https://x.com/sash02jp>)
 
 [Original post on X](<https://x.com/sash02jp/status/2111095200131289413>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-addguide-vhs-tv-opencv-composite>)
+
+<a id="character-animation-kinetic-type-reference-demo"></a>
+
+### Character Animation and Kinetic Type Demo
+
+[![Silver-haired character reaching toward the camera amid oversized black typography](<https://pbs.twimg.com/ext_tw_video_thumb/2111411978228957184/pu/img/h8QX4dM_jGkXc6m8.jpg>)](<https://x.com/CharaspowerAI/status/2111412003554120007>)
+
+An H3 motion-design example combines a moving character with oversized kinetic typography in the same composition.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Design a source layout with clear character space and readable type, then test motion and text legibility together.
+
+**Shared by:** [Pierrick Chevallier | IA](<https://x.com/CharaspowerAI>)
+
+[Original post on X](<https://x.com/CharaspowerAI/status/2111412003554120007>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-animation-kinetic-type-reference-demo>)
+
+<a id="fashion-editorial-pink-type-model-comparison"></a>
+
+### Fashion Editorial Pink Type Model Comparison
+
+A same-prompt comparison highlights H3’s black-and-white portraits, pink background and editorial typography.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare portrait treatment, type placement and legibility separately while holding the source brief fixed.
+
+**Shared by:** [FELIX](<https://x.com/FellMentKE>)
+
+[Original post on X](<https://x.com/FellMentKE/status/2112166227737223511>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fashion-editorial-pink-type-model-comparison>)
+
+<a id="desert-game-title-screen-mask-compositing"></a>
+
+### Desert Game Title Screen Mask Compositing
+
+[![Desert game start screen with an anime character, vehicle and large UNTITLED 01 text](<https://pbs.twimg.com/amplify_video_thumb/2112189299903041536/img/RXKGir0EFCRzMR9N.jpg>)](<https://x.com/luta_ai/status/2112190444696404085>)
+
+A local H3 title-screen workflow trims three five-second clips and layers large text behind characters with matched masks.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate short entrance shots, trim usable beats and pair each frame with its mask; test playback boundaries before syncing music.
+
+**Shared by:** [LUTA＠AI](<https://x.com/luta_ai>)
+
+[Original post on X](<https://x.com/luta_ai/status/2112190444696404085>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#desert-game-title-screen-mask-compositing>)
+
+<a id="holographic-interference-flux-h3-animation"></a>
+
+### Holographic Interference Character Animation
+
+[![Dark illustrated character in the holographic-interference experiment](<https://pbs.twimg.com/amplify_video_thumb/2112281217005744128/img/u3XGHUO-3m2Ykb6u.jpg>)](<https://x.com/shinjinof/status/2112281846105203199>)
+
+A Flux.2 and local ComfyUI/H3 experiment explores holographic interference fringes around an illustrated character.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a clear silhouette and restrained palette, then vary interference patterns while checking character readability.
+
+**Shared by:** [SHIN](<https://x.com/shinjinof>)
+
+[Original post on X](<https://x.com/shinjinof/status/2112281846105203199>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#holographic-interference-flux-h3-animation>)
+
+<a id="melting-flame-smoke-photo-transition-demo"></a>
+
+### Melting and Flame Smoke Photo Transitions
+
+[![Composite transition preview with portrait photos and a MELTING TRANSITION label](<https://pbs.twimg.com/amplify_video_thumb/2112370493076430848/img/dsxM8NIvDvD-8dOD.jpg>)](<https://x.com/OtherworldlyNYC/status/2112370518510666046>)
+
+A short H3 example demonstrates melting and flame-smoke transitions between portrait compositions.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose distinct starting and ending portraits, then test the melt and smoke transitions as separate short beats.
+
+**Shared by:** [OTHERWORLDLY](<https://x.com/OtherworldlyNYC>)
+
+[Original post on X](<https://x.com/OtherworldlyNYC/status/2112370518510666046>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#melting-flame-smoke-photo-transition-demo>)
 
 <a id="category-workflows"></a>
 
@@ -14420,6 +14971,142 @@ Record VRAM, host connection and warm-up overhead alongside duration when testin
 **Shared by:** [SixteenGB](<https://x.com/SixteenGB>)
 
 [Original post on X](<https://x.com/SixteenGB/status/2111792913428386070>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#thunderbolt-egpu-talking-cat-ref2va>)
+
+<a id="opus-short-drama-production-cost-review"></a>
+
+### Opus Short Drama Production Cost Review
+
+A six-stage short-drama tutorial compares H3 clip pricing with the time and iteration cost of finishing an entire film.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Budget script breakdown, references, regeneration, sound, editing and review separately; compare cost per accepted shot rather than per request.
+
+**Shared by:** [Feicai](<https://x.com/zhu185178>)
+
+[Original post on X](<https://x.com/zhu185178/status/2109857363314512163>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#opus-short-drama-production-cost-review>)
+
+<a id="dual-realism-lora-sigmashift-skin-review"></a>
+
+### Dual Realism LoRA SigmaShift Skin Review
+
+[![Before-and-after H3 skin-rendering comparison in a workflow presentation](<https://pbs.twimg.com/amplify_video_thumb/2111834382877245440/img/fZXzy_mXMafpzBhc.jpg>)](<https://x.com/Delroy715/status/2111839891470598152>)
+
+A same-seed H3 skin-rendering comparison combines two realism LoRAs, SigmaShift and a reported native 768p canvas.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold the seed and prompt fixed, then isolate LoRA and SigmaShift changes while reviewing skin highlights and texture.
+
+**Shared by:** [码农暖爸](<https://x.com/Delroy715>)
+
+[Original post on X](<https://x.com/Delroy715/status/2111839891470598152>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dual-realism-lora-sigmashift-skin-review>)
+
+<a id="comfyui-h3-latent-outpaint-video-tutorial"></a>
+
+### ComfyUI H3 Latent Outpaint Video Tutorial
+
+[![Tutorial cover showing an illustrated character and ComfyUI MiniMax H3 latent outpaint text](<https://pbs.twimg.com/media/HUaY4YKbcAAGmaB.jpg>)](<https://x.com/jun_kongo/status/2112302784582406175>)
+
+A creator publishes a ComfyUI H3 latent-outpainting tutorial with an illustrated example and a linked video.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with a stable subject and compare the retained region with the expanded frame; consult the source tutorial for node settings.
+
+**Shared by:** [kongo jun / 混合 順](<https://x.com/jun_kongo>)
+
+[Original post on X](<https://x.com/jun_kongo/status/2112302784582406175>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfyui-h3-latent-outpaint-video-tutorial>)
+
+<a id="fasth3-qad-v2-nvfp4-decoder-demo"></a>
+
+### FastH3 QAD V2 NVFP4 Decoder Demo
+
+[![Street-market footage in the team’s QAD-v2 demonstration, labeled 36-layer NVFP4 decoder](<https://pbs.twimg.com/amplify_video_thumb/2112303247734312960/img/h9PZ4o0kBPf4CdKT.jpg>)](<https://x.com/haoailab/status/2112305087225983427>)
+
+A two-DGX-Spark 768p demo accompanies QAD-v2, eight-step audio/video sampling and two NVFP4 decoder options.
+
+**Model:** MiniMax H3 / FastH3 QAD-v2
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare end-to-end sampling and decode time separately, keeping resolution, frame count, device count and decoder choice fixed.
+
+**Shared by:** [Hao AI Lab](<https://x.com/haoailab>)
+
+[Original post on X](<https://x.com/haoailab/status/2112305087225983427>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-qad-v2-nvfp4-decoder-demo>)
+
+<a id="single-face-orbit-to-vrm-pipeline"></a>
+
+### Single Face Orbit to VRM Pipeline
+
+[![Downstream humanoid avatar displayed in a browser VRM viewer](<https://pbs.twimg.com/amplify_video_thumb/2112318888189005824/img/dbbMxnoZwpJy2phf.jpg>)](<https://x.com/megyo9/status/2112319529179337059>)
+
+An H3 head-orbit video feeds MediaPipe triangulation, MakeHuman deformation, texture baking and VRM export.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Capture consistent head views, triangulate landmarks and fit a base mesh; evaluate likeness and texture sharpness separately.
+
+**Shared by:** [Ueda](<https://x.com/megyo9>)
+
+[Original post on X](<https://x.com/megyo9/status/2112319529179337059>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#single-face-orbit-to-vrm-pipeline>)
+
+<a id="comfy-h3-claude-caption-iteration-film"></a>
+
+### Comfy H3 Claude Caption Iteration Film
+
+[![Dimly lit piano and warm light in the shared short-film preview](<https://pbs.twimg.com/amplify_video_thumb/2112349556876906496/img/FeijOSepilvMGksU.jpg>)](<https://x.com/Marmot0519/status/2112349912910504013>)
+
+A 111-second shared film combines Comfy H3 video with several rounds of Claude-assisted caption refinement.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Review captions against final speech and picture timing, keeping text revision separate from video generation.
+
+**Shared by:** [John](<https://x.com/Marmot0519>)
+
+[Original post on X](<https://x.com/Marmot0519/status/2112349912910504013>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#comfy-h3-claude-caption-iteration-film>)
+
+<a id="r2v-refer-lora-model-compatibility-switch"></a>
+
+### R2V Refer LoRA Model Compatibility Switch
+
+An H3 R2V workflow update adds a Refer-LoRA toggle and advises disabling it for pure Ref2VA or hybrid models.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Check the model family first and disable Refer-LoRA where the author specifies; compare results with all other settings fixed.
+
+**Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
+
+[Original post on X](<https://x.com/javawock7618/status/2112367955434701053>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#r2v-refer-lora-model-compatibility-switch>)
 
 ## Suggest a prompt
 
