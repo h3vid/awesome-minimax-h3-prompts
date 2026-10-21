@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **593 verified examples**, with sources reviewed through **2026-10-20**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **620 verified examples**, with sources reviewed through **2026-10-21**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (79)
-- [Storyboards & sequences](<#category-storyboard>) (84)
-- [Anime & animation](<#category-anime-animation>) (49)
-- [References & consistency](<#category-reference-character>) (71)
-- [Music videos & dance](<#category-music-dance>) (65)
-- [Dialogue & audio](<#category-dialogue-audio>) (37)
-- [Motion graphics & titles](<#category-motion-graphics>) (30)
-- [ComfyUI & workflows](<#category-workflows>) (178)
+- [Cinematic & camera](<#category-cinematic-camera>) (82)
+- [Storyboards & sequences](<#category-storyboard>) (88)
+- [Anime & animation](<#category-anime-animation>) (50)
+- [References & consistency](<#category-reference-character>) (76)
+- [Music videos & dance](<#category-music-dance>) (69)
+- [Dialogue & audio](<#category-dialogue-audio>) (39)
+- [Motion graphics & titles](<#category-motion-graphics>) (33)
+- [ComfyUI & workflows](<#category-workflows>) (183)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2382,6 +2382,72 @@ Give identity, retained state and shot layout distinct reference roles; state th
 **Shared by:** [方知微](<https://x.com/superfang119>)
 
 [Original post on X](<https://x.com/superfang119/status/2112352474355180010>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#harbor-hover-chase-three-reference-coverage>)
+
+<a id="roadster-cloud-fall-desert-landing"></a>
+
+### Roadster Cloud Fall and Desert Landing
+
+[![Low-angle view beneath a falling car above the clouds](<https://pbs.twimg.com/amplify_video_thumb/2112147660157382656/img/4xOry8oHGCD3JTpW.jpg>)](<https://x.com/universehuman82/status/2112148375458172956>)
+
+A seven-second H3 attempt pairs a public action prompt with a creator-reported failure to reproduce the requested Tesla Roadster.
+
+**Model:** MiniMax H3
+
+```text
+An intense high-action shot of a red Tesla Roadster falling rapidly through the clouds, stabilizing mid-air, and executing a powerful landing on a desert highway. Shockwaves and smoke disperse upon touchdown, suspension absorbing the impact seamlessly. Wide cinematic angle, fast shutter speed, epic atmosphere, sunset golden hour lighting, cinematic film grain, photorealistic.
+```
+
+#### How to adapt it
+
+Separate the falling, stabilization and landing beats, then inspect vehicle identity, suspension response and contact with the road.
+
+**Shared by:** [Winner of Life](<https://x.com/universehuman82>)
+
+[Original post on X](<https://x.com/universehuman82/status/2112148375458172956>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#roadster-cloud-fall-desert-landing>)
+
+<a id="white-ink-ghost-locked-glass-shot"></a>
+
+### White Ink Ghost in a Locked Glass Shot
+
+[![White ink drop begins to descend into a glass of dark liquid](<https://pbs.twimg.com/amplify_video_thumb/2112324067386609664/img/40vJM4RZRqRZXlwa.jpg>)](<https://x.com/GlennHasABeard/status/2112325403582832865>)
+
+A fixed-camera H3 experiment revises white ink in dark water so a sinking drop stretches into a ghost before spreading.
+
+**Model:** MiniMax H3
+
+#### Author’s published prompt excerpt · `en`
+
+```text
+as it sinks it stretches into the clear shape of a small white ghost
+```
+
+#### How to adapt it
+
+Define the transformation during the descent and delay diffusion; hold camera height and framing constant when comparing iterations.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2112325403582832865>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#white-ink-ghost-locked-glass-shot>)
+
+<a id="red-cape-city-sky-aerial-camera"></a>
+
+### Red Cape City-Sky Aerial Camera Test
+
+[![Red-caped figure sweeps past urban buildings against a bright blue sky](<https://pbs.twimg.com/amplify_video_thumb/2112583487597551617/img/agGJ3v5K2OEV0gES.jpg>)](<https://x.com/mito_ai_la/status/2112679001294794947>)
+
+An H3 city-sky action study tests gliding movement and camera paths among urban buildings.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan a clear route through the skyline and pair one subject movement with one camera path before adding more complex action.
+
+**Shared by:** [みと Visuals×AI](<https://x.com/mito_ai_la>)
+
+[Original post on X](<https://x.com/mito_ai_la/status/2112679001294794947>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#red-cape-city-sky-aerial-camera>)
 
 <a id="category-storyboard"></a>
 
@@ -4932,6 +4998,86 @@ Replace the joke and character while retaining separate asset, voice and assembl
 
 [Original post on X](<https://x.com/HexxRL/status/2112348729357344813>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vidmuse-fomo-wojak-cartoon-production-brief>)
 
+<a id="gray-previs-to-seedance-live-action-blocking"></a>
+
+### Gray Previs to Live-Action Blocking
+
+[![Gray H3 previs appears above a finished Seedance live-action scene](<https://pbs.twimg.com/amplify_video_thumb/2112536437791117312/img/1M9MKEXkb9ta4O6-.jpg>)](<https://x.com/tkz_aiart/status/2112536635435049408>)
+
+A side-by-side workflow uses H3 gray-character previs to guide blocking and timing in a Seedance 2.5 live-action finish.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Set camera placement, cuts and action timing in simple previs before using it as a reference for the finishing model.
+
+**Shared by:** [たくぞー｜AI動画ツール実測レビュー](<https://x.com/tkz_aiart>)
+
+[Original post on X](<https://x.com/tkz_aiart/status/2112536635435049408>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#gray-previs-to-seedance-live-action-blocking>)
+
+<a id="fasth3-omni-agent-transmedia-short"></a>
+
+### FastH3 Omni Agent-Made Transmedia Short
+
+[![Red heart on a white background in the FastH3 Omni short-film preview](<https://pbs.twimg.com/amplify_video_thumb/2112688209612423168/img/OZvRVa4JgXXMNrpN.jpg>)](<https://x.com/jd_markovchain/status/2112689394549494153>)
+
+A Nuva Lab creator presents a shot-by-shot short made with FastH3 Omni and a creative agent over two afternoons.
+
+**Model:** FastH3 Omni (MiniMax H3 derivative)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate and review the story shot by shot with an agent, retaining scene continuity and revising failures before assembly.
+
+**Shared by:** [Jiao Dong](<https://x.com/jd_markovchain>)
+
+[Original post on X](<https://x.com/jd_markovchain/status/2112689394549494153>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-omni-agent-transmedia-short>)
+
+<a id="claude-local-staged-conversation-experiment"></a>
+
+### Claude-Built Local Conversation Experiment
+
+[![Two seated people in an interior conversation preview](<https://pbs.twimg.com/amplify_video_thumb/2112724449824751616/img/ii-IsGNd2OD4vXRK.jpg>)](<https://x.com/adrfazenda/status/2112724693518078268>)
+
+A local H3 experiment uses a Claude-created workflow for an extended staged conversation clip.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test short dialogue sections first and review performance, framing and continuity before assembling an extended scene.
+
+**Shared by:** [Alessandro Fazenda](<https://x.com/adrfazenda>)
+
+[Original post on X](<https://x.com/adrfazenda/status/2112724693518078268>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#claude-local-staged-conversation-experiment>)
+
+<a id="restroom-comedy-segmented-long-video"></a>
+
+### Restroom Comedy in Segmented Video
+
+[![Man on a city sidewalk beneath yellow Chinese lettering in the comedy preview](<https://pbs.twimg.com/amplify_video_thumb/2112739029557084160/img/sGrJVHVNJ-e0Bv3G.jpg>)](<https://x.com/PhotoX86/status/2112739827380805663>)
+
+A roughly 30-second H3 segmented-video attempt builds a comedy premise around finding a restroom.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Split the premise into setup, escalation and payoff, then review character, location and dialogue continuity at every join.
+
+**Shared by:** [PhotoX86](<https://x.com/PhotoX86>)
+
+[Original post on X](<https://x.com/PhotoX86/status/2112739827380805663>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#restroom-comedy-segmented-long-video>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -6211,6 +6357,26 @@ Reduce the number of environments and moving elements, then preserve the main pa
 **Shared by:** [有鸡骑猫](<https://x.com/mspd4100>)
 
 [Original post on X](<https://x.com/mspd4100/status/2112362976233840677>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#chicken-cat-ai-world-flythrough-simplification>)
+
+<a id="moonlit-fox-spirit-red-lanterns"></a>
+
+### Moonlit Fox Spirit and Red Lanterns
+
+[![Fox-spirit character amid red lanterns beneath moonlight](<https://pbs.twimg.com/amplify_video_thumb/2112587039141216256/img/hTbVeq2RJMWOhEp-.jpg>)](<https://x.com/sorastg524/status/2112587219198418982>)
+
+An H3 Max Turbo fantasy clip pairs a moonlit fox-spirit character with deep red lantern light.
+
+**Model:** MiniMax H3 Max Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Build a compact palette around moonlight and lantern red, then preserve the character silhouette through restrained movement.
+
+**Shared by:** [sorastg524](<https://x.com/sorastg524>)
+
+[Original post on X](<https://x.com/sorastg524/status/2112587219198418982>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#moonlit-fox-spirit-red-lanterns>)
 
 <a id="category-reference-character"></a>
 
@@ -7772,6 +7938,104 @@ Assign identity only to its dedicated board and costume/location only to the sce
 
 [Original post on X](<https://x.com/superfang119/status/2112370486671994892>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lakeside-dance-identity-wardrobe-reference-split>)
 
+<a id="orbit-to-gaussian-vrm-colab-pipeline"></a>
+
+### Orbit Video to Gaussian VRM Pipeline
+
+[![Character reference and avatar-preview layout from the orbit-to-Gaussian workflow](<https://pbs.twimg.com/amplify_video_thumb/2111330590356361216/img/cI5kyiDwGzwzhJJx.jpg>)](<https://x.com/megyo9/status/2111332732055986217>)
+
+A Colab workflow reconstructs H3 orbit frames with PyCOLMAP and gsplat, then rigs a Gaussian avatar for Three.js playback.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate an A-pose orbit, mask and reconstruct the views, then map the splats to a skeleton and inspect near and distant motion.
+
+**Shared by:** [Ueda](<https://x.com/megyo9>)
+
+[Original post on X](<https://x.com/megyo9/status/2111332732055986217>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#orbit-to-gaussian-vrm-colab-pipeline>)
+
+<a id="reference-resolution-dance-detail-tradeoff"></a>
+
+### Reference Resolution and Dance Detail Tradeoff
+
+[![ComfyUI graph with a character reference and dance preview](<https://pbs.twimg.com/amplify_video_thumb/2112589215779446784/img/xT1SoIzUm0axvwW-.jpg>)](<https://x.com/MireilleDartois/status/2112589947148648649>)
+
+A video-reference test recommends lower-resolution dance guides for speed, while retaining detail for facial expressions and fingers.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Downscale a motion-only guide gradually and compare body timing, finger articulation and expressions before selecting a reference size.
+
+**Shared by:** [ダルトワ★TV](<https://x.com/MireilleDartois>)
+
+[Original post on X](<https://x.com/MireilleDartois/status/2112589947148648649>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#reference-resolution-dance-detail-tradeoff>)
+
+<a id="character-swap-trim-downscale-prep-app"></a>
+
+### Trim and Downscale for Character Swaps
+
+A creator builds a small app to trim long reference videos to selected sections under 15 seconds and reduce their resolution.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Select only the useful motion segment, trim it to the task’s accepted duration, and downscale while keeping identity-relevant movement readable.
+
+**Shared by:** [まぷて](<https://x.com/mapte_fireball>)
+
+[Original post on X](<https://x.com/mapte_fireball/status/2112672714620354735>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#character-swap-trim-downscale-prep-app>)
+
+<a id="anya-identity-lora-no-reference-demo"></a>
+
+### Identity LoRA Without Reference Images
+
+[![Blonde character portrait in the identity-LoRA video preview](<https://pbs.twimg.com/amplify_video_thumb/2112701869575618560/img/FWiy5vW16OD_KWY3.jpg>)](<https://x.com/0x0SojalSec/status/2112702246421192719>)
+
+A local H3 clip demonstrates an Anya Taylor-Joy likeness using a published 155MB LoRA and no reference images.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Evaluate identity stability with a consistent camera and simple action before testing stronger pose or lighting changes.
+
+**Shared by:** [Md Ismail Šojal 🕷️](<https://x.com/0x0SojalSec>)
+
+[Original post on X](<https://x.com/0x0SojalSec/status/2112702246421192719>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anya-identity-lora-no-reference-demo>)
+
+<a id="solarrenderer-structure-pass-stylization"></a>
+
+### SolarRenderer Structure-Pass Stylization
+
+[![Circular styled character view overlays an untextured game-engine character](<https://pbs.twimg.com/amplify_video_thumb/2112725264144982017/img/Fkk-uO4Mmcwwd8hu.jpg>)](<https://x.com/Enderfga/status/2112725474950717463>)
+
+SolarRenderer uses H3-based control and distilled LoRAs to restyle engine structure passes with a reference first frame.
+
+**Model:** SolarRenderer (MiniMax H3 derivative)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the structure video’s geometry and timing fixed, set appearance in the first-frame reference, then inspect alignment during movement.
+
+**Shared by:** [Guian Fang](<https://x.com/Enderfga>)
+
+[Original post on X](<https://x.com/Enderfga/status/2112725474950717463>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#solarrenderer-structure-pass-stylization>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -9143,6 +9407,86 @@ Define a coherent cosmic-disco visual palette and review how short generated sho
 **Shared by:** [Smitty.Create](<https://x.com/Smitty_PNW>)
 
 [Original post on X](<https://x.com/Smitty_PNW/status/2112354747533648208>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#starlit-brainwave-grok-h3-music-video>)
+
+<a id="colab-standing-portrait-beat-dance"></a>
+
+### Standing Portrait to Beat-Synced Colab Dance
+
+[![Title card reading HOW IT’S MADE in the creator’s vertical dance-workflow video](<https://pbs.twimg.com/amplify_video_thumb/2110283339433476096/img/j1CTrs4PR7UGlRfb.jpg>)](<https://x.com/_sagyoai/status/2110283702995750939>)
+
+A creator explains a Claude and Colab workflow for H3 dance videos using a standing portrait and context instead of a dance reference.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with a consistent full-body portrait and describe beat accents and movement in context before generating short dance sections.
+
+**Shared by:** [さ🥺](<https://x.com/_sagyoai>)
+
+[Original post on X](<https://x.com/_sagyoai/status/2110283702995750939>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#colab-standing-portrait-beat-dance>)
+
+<a id="gestalt-suno-h3-claude-music-video"></a>
+
+### Gestalt Mixed-Tool Music Video
+
+[![Illustrated figure with a red heart in the Gestalt music-video preview](<https://pbs.twimg.com/amplify_video_thumb/2111586005824462848/img/hGZQU05dMJQvf62c.jpg>)](<https://x.com/coban3137/status/2111586068785250372>)
+
+Gestalt credits Suno music, Midjourney and GPT Image 2 artwork, H3 video, Claude editing and JIZURA subtitles.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep song, artwork, animated clips, editing and subtitles in separate stages so each shot can be revised without rebuilding the soundtrack.
+
+**Shared by:** [coban](<https://x.com/coban3137>)
+
+[Original post on X](<https://x.com/coban3137/status/2111586068785250372>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#gestalt-suno-h3-claude-music-video>)
+
+<a id="fated-crescendo-vertical-game-promo"></a>
+
+### Fated Crescendo Vertical Game-Style Promo
+
+[![Close-up of an illustrated character in the Fated Crescendo vertical promo](<https://pbs.twimg.com/amplify_video_thumb/2112591463632814080/img/KtuqnwbtSCEbxWjR.jpg>)](<https://x.com/taitimusic/status/2112604980863697176>)
+
+A vertical music promo uses H3 animation with Opus 5.5 and JIZURA text motion for a mobile-game presentation.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Organize portrait shots around musical beats, then add the animated promotional lettering in a separate editing pass.
+
+**Shared by:** [taiti](<https://x.com/taitimusic>)
+
+[Original post on X](<https://x.com/taitimusic/status/2112604980863697176>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fated-crescendo-vertical-game-promo>)
+
+<a id="suno-h3-dewdrop-music-video"></a>
+
+### Suno and H3 Dewdrop Music Video
+
+[![Dewdrop on a green blade of grass in the music-video preview](<https://pbs.twimg.com/amplify_video_thumb/2112737068841332736/img/K76mYD89q3WHbCCl.jpg>)](<https://x.com/zevoo/status/2112737235435241658>)
+
+A creator combines a Suno song with H3 visuals in an extended music video whose preview features a dewdrop on grass.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Choose a recurring visual motif and assemble short H3 shots against a separate song timeline.
+
+**Shared by:** [zev](<https://x.com/zevoo>)
+
+[Original post on X](<https://x.com/zevoo/status/2112737235435241658>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#suno-h3-dewdrop-music-video>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -10774,6 +11118,46 @@ Build a short dialogue around one language misunderstanding and a clear visual p
 
 [Original post on X](<https://x.com/_GAi92/status/2111078804445929725>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mandarin-fish-order-dialogue-comedy>)
 
+<a id="ocean-network-cherry-asmr-pov"></a>
+
+### Ocean Network Cherry ASMR POV Test
+
+[![A cherry hovers above a glass with red liquid in the ASMR video preview](<https://pbs.twimg.com/amplify_video_thumb/2112513412873990144/img/eiM2TtSs9909Lvj5.jpg>)](<https://x.com/Fairu_90/status/2112513451679682940>)
+
+An Ocean Network template test uses H3 text-to-video and synced audio for an unusual ASMR concept with a difficult viewpoint.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Specify the object interaction, viewpoint and sound timing, then revise one constraint at a time when the first result misses.
+
+**Shared by:** [Fairu 🕵️‍♂️](<https://x.com/Fairu_90>)
+
+[Original post on X](<https://x.com/Fairu_90/status/2112513451679682940>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#ocean-network-cherry-asmr-pov>)
+
+<a id="speaking-video-avatar-lipsync-upgrade"></a>
+
+### Speaking-Video Avatar Lip-Sync Upgrade
+
+[![Speaking creator avatar labeled MiniMax H3 Optimized](<https://pbs.twimg.com/amplify_video_thumb/2112722378031767552/img/bmEvbvq8Fv_4Iv6V.jpg>)](<https://x.com/StarSourceH/status/2112723338712043546>)
+
+A creator adds a self-speaking video reference to H3 and reports less exaggerated mouth motion at a higher 1.2MP setting.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a self-speaking reference and compare mouth width, timing and facial stability before raising resolution or committing to longer takes.
+
+**Shared by:** [StarSource](<https://x.com/StarSourceH>)
+
+[Original post on X](<https://x.com/StarSourceH/status/2112723338712043546>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#speaking-video-avatar-lipsync-upgrade>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -11502,6 +11886,62 @@ Choose distinct starting and ending portraits, then test the melt and smoke tran
 **Shared by:** [OTHERWORLDLY](<https://x.com/OtherworldlyNYC>)
 
 [Original post on X](<https://x.com/OtherworldlyNYC/status/2112370518510666046>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#melting-flame-smoke-photo-transition-demo>)
+
+<a id="lucky-fruit-juice-layout-model-comparison"></a>
+
+### Lucky Fruit Juice Layout Comparison
+
+A creator compares one fruit-juice ad generation per model and highlights H3’s fruit arrangement, packaging and LUCKY text.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare text placement, package scale and fruit hierarchy using the same brief, and keep every output labeled by model.
+
+**Shared by:** [Tyler Wayne](<https://x.com/tylerrwayne>)
+
+[Original post on X](<https://x.com/tylerrwayne/status/2112166037487820830>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#lucky-fruit-juice-layout-model-comparison>)
+
+<a id="sora-cola-single-line-label-comparison"></a>
+
+### Sora Cola Single-Line Label Comparison
+
+A fictional cola ad comparison reports H3 as the only tested model to spell SORA COLA correctly on one line.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a short fictional package label and verify spelling and line breaks frame by frame across repeated generations.
+
+**Shared by:** [「take7｜AI動画ラボ」](<https://x.com/KRhxLIrwOLxIjfU>)
+
+[Original post on X](<https://x.com/KRhxLIrwOLxIjfU/status/2112379168562520255>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#sora-cola-single-line-label-comparison>)
+
+<a id="transformers-space-title-card"></a>
+
+### Transformers Space Title Card
+
+[![Planet and drifting space debris in the title-card video preview](<https://pbs.twimg.com/amplify_video_thumb/2112729175899713536/img/1fKBdvKwaIBquTme.jpg>)](<https://x.com/Amurinoble/status/2112730226317004948>)
+
+An eight-second H3 Max title-card example uses a Transformers space setting for an animated franchise-style reveal.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Set the space environment, reveal timing and a short original title, then inspect readability at the final hold.
+
+**Shared by:** [Kōrerotronix](<https://x.com/Amurinoble>)
+
+[Original post on X](<https://x.com/Amurinoble/status/2112730226317004948>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#transformers-space-title-card>)
 
 <a id="category-workflows"></a>
 
@@ -15107,6 +15547,106 @@ Check the model family first and disable Refer-LoRA where the author specifies; 
 **Shared by:** [ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース](<https://x.com/javawock7618>)
 
 [Original post on X](<https://x.com/javawock7618/status/2112367955434701053>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#r2v-refer-lora-model-compatibility-switch>)
+
+<a id="webui-1440p-flashgen-six-step-test"></a>
+
+### WebUI 1440p FlashGen Six-Step Test
+
+[![Rainy city-crossing preview from the author’s high-resolution WebUI test](<https://pbs.twimg.com/amplify_video_thumb/2111037866667327488/img/VobPpMJycxhHXMD3.jpg>)](<https://x.com/core_tan/status/2111041217517752494>)
+
+A WebUI dev1.7 test reports 2560×1440, 243 frames and six steps with FlashGen FL2V LoRA, taking 432.8 seconds.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Record output resolution, frame count, LoRA weight and wall time together when testing higher-resolution FL2V generation.
+
+**Shared by:** [CALMDUST aka ちゃんこあ](<https://x.com/core_tan>)
+
+[Original post on X](<https://x.com/core_tan/status/2111041217517752494>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#webui-1440p-flashgen-six-step-test>)
+
+<a id="eight-second-latent-handoff-lighting-failure"></a>
+
+### Eight-Second Latent Handoff Failure Audit
+
+[![Anime presenter sits at a studio desk in the latent-handoff experiment](<https://pbs.twimg.com/amplify_video_thumb/2111067631465988096/img/vgktmofKFQgbgsdp.jpg>)](<https://x.com/MireilleDartois/status/2111070371944522021>)
+
+A chained H3 test uses 22-frame latent handoffs and reports unwanted cuts and lights switching off between short segments.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare the frames around every latent handoff for camera and lighting continuity before assembling longer sequences.
+
+**Shared by:** [ダルトワ★TV](<https://x.com/MireilleDartois>)
+
+[Original post on X](<https://x.com/MireilleDartois/status/2111070371944522021>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#eight-second-latent-handoff-lighting-failure>)
+
+<a id="dgx-spark-post-generation-idle-power"></a>
+
+### DGX Spark Post-Generation Idle Power
+
+[![Composite image with a power-monitoring trace in the DGX Spark post](<https://pbs.twimg.com/media/HVE7x5FaIAAlBSN.jpg>)](<https://x.com/Ai_Quse/status/2112535724621021328>)
+
+A creator reports roughly 60W idle draw after an H3 run and closing ComfyUI, compared with about 40W after power-on.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Log power before generation, during a run and after closing the UI, while recording browser load, memory use and sleep state.
+
+**Shared by:** [きゅうす のAIとつれづれ](<https://x.com/Ai_Quse>)
+
+[Original post on X](<https://x.com/Ai_Quse/status/2112535724621021328>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-post-generation-idle-power>)
+
+<a id="dgx-spark-qad-v2-tokyo-detail-tradeoff"></a>
+
+### DGX Spark QAD-v2 Tokyo Detail Tradeoff
+
+[![Neon-lit Tokyo alley preview from the author’s DGX Spark QAD-v2 run](<https://pbs.twimg.com/amplify_video_thumb/2112594141418835969/img/R-p44e06pByvT6nk.jpg>)](<https://x.com/atasrb/status/2112595095404925216>)
+
+A same-seed Tokyo test reports 18.6 versus 8.1 minutes on DGX Spark, with reduced small-text and facial detail in QAD-v2.
+
+**Model:** FastH3-QAD-v2 (MiniMax H3 derivative)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep prompt, seed, duration and resolution fixed, then compare both total and denoising time alongside small text and facial fidelity.
+
+**Shared by:** [ata](<https://x.com/atasrb>)
+
+[Original post on X](<https://x.com/atasrb/status/2112595095404925216>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dgx-spark-qad-v2-tokyo-detail-tradeoff>)
+
+<a id="rescascade-low-resolution-hires-fix"></a>
+
+### ResCascade Low-Resolution Hires Fix
+
+[![Anime shopping-arcade scene from the ResCascade demonstration](<https://pbs.twimg.com/amplify_video_thumb/2112708969857011712/img/RfgeazWAYTUUsa_M.jpg>)](<https://x.com/tazmannner/status/2112709319364137152>)
+
+A creator’s H3 hires-fix node renders near 1MP before upscaling to 1080p, reporting 492 to 237 seconds versus native 2MP.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare a native high-resolution take against low-resolution generation plus the hires pass, checking acting, audio and fine detail.
+
+**Shared by:** [tazmannner](<https://x.com/tazmannner>)
+
+[Original post on X](<https://x.com/tazmannner/status/2112709319364137152>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rescascade-low-resolution-hires-fix>)
 
 ## Suggest a prompt
 
