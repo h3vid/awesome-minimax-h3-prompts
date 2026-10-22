@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **620 verified examples**, with sources reviewed through **2026-10-21**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **641 verified examples**, with sources reviewed through **2026-10-22**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (82)
-- [Storyboards & sequences](<#category-storyboard>) (88)
-- [Anime & animation](<#category-anime-animation>) (50)
-- [References & consistency](<#category-reference-character>) (76)
-- [Music videos & dance](<#category-music-dance>) (69)
-- [Dialogue & audio](<#category-dialogue-audio>) (39)
-- [Motion graphics & titles](<#category-motion-graphics>) (33)
-- [ComfyUI & workflows](<#category-workflows>) (183)
+- [Cinematic & camera](<#category-cinematic-camera>) (84)
+- [Storyboards & sequences](<#category-storyboard>) (89)
+- [Anime & animation](<#category-anime-animation>) (51)
+- [References & consistency](<#category-reference-character>) (77)
+- [Music videos & dance](<#category-music-dance>) (72)
+- [Dialogue & audio](<#category-dialogue-audio>) (40)
+- [Motion graphics & titles](<#category-motion-graphics>) (35)
+- [ComfyUI & workflows](<#category-workflows>) (193)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2448,6 +2448,54 @@ Plan a clear route through the skyline and pair one subject movement with one ca
 **Shared by:** [みと Visuals×AI](<https://x.com/mito_ai_la>)
 
 [Original post on X](<https://x.com/mito_ai_la/status/2112679001294794947>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#red-cape-city-sky-aerial-camera>)
+
+<a id="corn-row-invisible-bootprint-direction"></a>
+
+### Invisible Walker Bootprint Direction
+
+[![Low fixed view down an empty dirt path between corn rows](<https://pbs.twimg.com/amplify_video_thumb/2111875629159243776/img/-pZcNrY18KuWdJJT.jpg>)](<https://x.com/GlennHasABeard/status/2111877428666884189>)
+
+A fixed low camera frames a corn row while a short prompt isolates invisible bootprints; the creator describes correcting their direction.
+
+**Model:** MiniMax H3
+
+#### Published prompt fragment · `en`
+
+```text
+all you see is its boot prints pressing into the dirt
+```
+
+#### How to adapt it
+
+Lock the camera and constrain the visible effect, then check alternating left/right marks and toe direction before adding complexity.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2111877428666884189>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#corn-row-invisible-bootprint-direction>)
+
+<a id="frost-clear-handprint-negative-space"></a>
+
+### Frost Growth Around a Clear Handprint
+
+[![Dark window and candlelight before the frost-and-handprint reveal](<https://pbs.twimg.com/amplify_video_thumb/2112567465427324928/img/vYFDemsBPglOUOUr.jpg>)](<https://x.com/GlennHasABeard/status/2112567616585769099>)
+
+A locked window shot defines a handprint as untouched glass while frost spreads from one corner in one direction.
+
+**Model:** MiniMax H3
+
+#### Published prompt fragment · `en`
+
+```text
+it stops around one clear handprint that stays bare in the middle of the glass
+```
+
+#### How to adapt it
+
+Describe the preserved clear shape and give the growing material one origin and direction, using a fixed camera to judge continuity.
+
+**Shared by:** [Glenn Williams](<https://x.com/GlennHasABeard>)
+
+[Original post on X](<https://x.com/GlennHasABeard/status/2112567616585769099>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#frost-clear-handprint-negative-space>)
 
 <a id="category-storyboard"></a>
 
@@ -5078,6 +5126,38 @@ Split the premise into setup, escalation and payoff, then review character, loca
 
 [Original post on X](<https://x.com/PhotoX86/status/2112739827380805663>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#restroom-comedy-segmented-long-video>)
 
+<a id="snowline-letter-five-shot-suspense"></a>
+
+### Snowline Letter Five-Shot Suspense
+
+[![Courier approaching a warmly lit railway signal station in snowy blue dawn](<https://pbs.twimg.com/amplify_video_thumb/2113097607769882624/img/VQI6qTeAsE8Bxxso.jpg>)](<https://x.com/newdvn2025/status/2113097767350575157>)
+
+A complete Chinese prompt stages a courier, a cracked wax seal and a distant light across five timed shots at a snowy signal station.
+
+**Model:** MiniMax H3
+
+#### Full five-shot video prompt · `zh`
+
+```text
+15 秒，16:9，写实悬疑电影短片《雪线来信》。同一位约 35 岁的东亚女信使，短黑发，右眉有一道淡疤，深绿色旧防寒服，橙色帆布邮袋，黑色手套；全片保持相同脸部、衣服和邮袋。蓝调黎明，雪原上的废弃铁路信号站，唯一暖光来自站内钨丝灯。低饱和冷蓝与暖黄，轻微胶片颗粒，真实皮肤与积雪质感。
+
+[镜头1，0–3秒] 远景，约35mm视角。摄影机缓慢横移，一位信使沿埋在雪里的铁轨走近信号站。邮袋轻撞胯侧，脚印从画外连续延伸到她脚下。她看到窗内灯光，放慢脚步。
+[镜头2，3–5.5秒] 切至手部特写，约85mm视角。她从邮袋抽出一封被融雪浸湿的信，信封上的红色蜡封已经裂开；纸面没有可读文字。风把信封边角掀起，她用拇指压住。切镜由抽信动作衔接。
+[镜头3，5.5–8.5秒] 中近景，侧面跟拍。她推开结霜的门，先探肩，再迈步进入。摄影机随她穿过门框，光线从冷蓝自然变为暖黄。她停住，目光落向画外的桌面。
+[镜头4，8.5–11.5秒] 越肩中景。桌上摆着一只铜制信号灯，灯旁有一枚与她信封相同的破裂红蜡封。摄影机缓慢推进；她把信放在蜡封旁，手指停顿，随后转头看窗外。
+[镜头5，11.5–15秒] 切至她的侧脸近景，缓慢侧移显露结霜窗外。远处山脊上一盏微小暖光闪亮一次。她轻吸一口气，握紧邮袋背带，向门口迈出一步。在动作尚未结束时收尾。
+
+保持空间方向、人物身份和道具外观连贯。风吹碎发，呼吸白雾、衣料和灯焰持续自然运动。声音：雪地脚步、纸张摩擦、旧门轴、远处一声金属铃响。无对白、无配乐、无字幕、无标识或水印。不要静止摆拍，不要把各镜头混成叠化。
+```
+
+#### How to adapt it
+
+Keep the courier and envelope fixed, reuse the cracked seal as a visual clue, and preserve the cold-to-warm doorway transition between shots.
+
+**Shared by:** [Hong.Aigc](<https://x.com/newdvn2025>)
+
+[Original post on X](<https://x.com/newdvn2025/status/2113097767350575157>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#snowline-letter-five-shot-suspense>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -6377,6 +6457,26 @@ Build a compact palette around moonlight and lantern red, then preserve the char
 **Shared by:** [sorastg524](<https://x.com/sorastg524>)
 
 [Original post on X](<https://x.com/sorastg524/status/2112587219198418982>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#moonlit-fox-spirit-red-lanterns>)
+
+<a id="purple-ink-sliding-anime-motion"></a>
+
+### Purple Ink Sliding Motion Study
+
+[![Anime character surrounded by vivid purple ink splashes](<https://pbs.twimg.com/amplify_video_thumb/2112950238000619520/img/6k3sViDHu5Na0T9n.jpg>)](<https://x.com/mito_ai_la/status/2112960607171526743>)
+
+An H3 anime action study experiments with a character sliding through purple ink and questions how color relates to pose.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define one ink trail and movement path, then vary palette separately to test whether pose changes persist across seeds.
+
+**Shared by:** [みと Visuals×AI](<https://x.com/mito_ai_la>)
+
+[Original post on X](<https://x.com/mito_ai_la/status/2112960607171526743>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#purple-ink-sliding-anime-motion>)
 
 <a id="category-reference-character"></a>
 
@@ -8036,6 +8136,26 @@ Keep the structure video’s geometry and timing fixed, set appearance in the fi
 
 [Original post on X](<https://x.com/Enderfga/status/2112725474950717463>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#solarrenderer-structure-pass-stylization>)
 
+<a id="pruna-reference-surfer-consistency"></a>
+
+### Reference Surfer Across Camera Angles
+
+[![Surfer riding a sunset-lit wave in the Pruna reference demonstration](<https://pbs.twimg.com/amplify_video_thumb/2110768358979182592/img/NNhdTrCp_Rcl6wWb.jpg>)](<https://x.com/robrtcode/status/2110768395046076513>)
+
+A surfer demonstration uses Pruna’s H3-based reference model to keep the subject and board consistent across changing angles.
+
+**Model:** P-Video-2-Pro Reference (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Assign separate identity, board and motion references, then check the same subject across wide and close views.
+
+**Shared by:** [robert.](<https://x.com/robrtcode>)
+
+[Original post on X](<https://x.com/robrtcode/status/2110768395046076513>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pruna-reference-surfer-consistency>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -9487,6 +9607,66 @@ Choose a recurring visual motif and assemble short H3 shots against a separate s
 **Shared by:** [zev](<https://x.com/zevoo>)
 
 [Original post on X](<https://x.com/zevoo/status/2112737235435241658>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#suno-h3-dewdrop-music-video>)
+
+<a id="3060ti-fasth3-omni-dance-regression"></a>
+
+### FastH3 Omni Dance Quality Regression
+
+[![Cat-eared maid character on green in the second attachment, identified as FastH3 Omni](<https://pbs.twimg.com/amplify_video_thumb/2112978462621499392/img/u8iLGsEPfJvVKtCS.jpg>)](<https://x.com/IsekaiBardGuild/status/2112978872803409966>)
+
+A creator compares FastH3 I2V and Omni dance clips, reporting a 15-to-12-minute speedup but less fluent dancing on Omni.
+
+**Model:** FastH3 I2V / FastH3 Omni (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare full-body dance timing and intermediate poses as well as render time; retain the earlier sampler if movement quality regresses.
+
+**Shared by:** [AI Bard Guild](<https://x.com/IsekaiBardGuild>)
+
+[Original post on X](<https://x.com/IsekaiBardGuild/status/2112978872803409966>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#3060ti-fasth3-omni-dance-regression>)
+
+<a id="two-person-dance-spatial-role-failure"></a>
+
+### Two-Person Dance Spatial Role Failure
+
+[![Two uniformed performers standing side by side outdoors before the dance](<https://pbs.twimg.com/amplify_video_thumb/2113088209332912128/img/pEg3ubpmpHIRFQtL.jpg>)](<https://x.com/MireilleDartois/status/2113088241117327803>)
+
+A two-person H3 dance test documents the creator’s concern that the performers ignore their front-to-back spatial relationship.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Specify each performer’s position and interaction separately, then check depth order and whether each action fits that role through the clip.
+
+**Shared by:** [ダルトワ★TV](<https://x.com/MireilleDartois>)
+
+[Original post on X](<https://x.com/MireilleDartois/status/2113088241117327803>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#two-person-dance-spatial-role-failure>)
+
+<a id="halloween-duo-mannequin-previs-dance"></a>
+
+### Halloween Duo Mannequin Previs Dance
+
+[![Two costumed dancers above a labeled two-mannequin motion reference](<https://pbs.twimg.com/amplify_video_thumb/2113101681634451456/img/YP5iteDc0yGOXIDg.jpg>)](<https://x.com/Ayu_AI_0912/status/2113102326248698310>)
+
+A labeled DomoAI H3 example pairs two Halloween dancers with a two-mannequin previs used for omni-reference generation at 768p.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Block both dancers with simple bodies first, then evaluate whether character styling preserves their relative spacing and choreography.
+
+**Shared by:** [アユネオ](<https://x.com/Ayu_AI_0912>)
+
+[Original post on X](<https://x.com/Ayu_AI_0912/status/2113102326248698310>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#halloween-duo-mannequin-previs-dance>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -11158,6 +11338,26 @@ Use a self-speaking reference and compare mouth width, timing and facial stabili
 
 [Original post on X](<https://x.com/StarSourceH/status/2112723338712043546>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#speaking-video-avatar-lipsync-upgrade>)
 
+<a id="omni-short-drama-voice-wardrobe-tradeoff"></a>
+
+### Omni Drama Voice and Wardrobe Trade-Off
+
+[![Dark title-card preview of the FastH3 Omni short-drama comparison](<https://pbs.twimg.com/amplify_video_thumb/2112770959505862656/img/UijvxIqFpGUps7ov.jpg>)](<https://x.com/easychen/status/2112771274833621408>)
+
+A creator’s 22-shot short-drama study reports improved voice similarity and faster-motion clarity, with wardrobe leakage onto extras.
+
+**Model:** FastH3 Omni (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Evaluate reference voice and identity across multiple dialogue shots, then inspect extras for unintended clothing transfer.
+
+**Shared by:** [EasyChen](<https://x.com/easychen>)
+
+[Original post on X](<https://x.com/easychen/status/2112771274833621408>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#omni-short-drama-voice-wardrobe-tradeoff>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -11942,6 +12142,46 @@ Set the space environment, reveal timing and a short original title, then inspec
 **Shared by:** [Kōrerotronix](<https://x.com/Amurinoble>)
 
 [Original post on X](<https://x.com/Amurinoble/status/2112730226317004948>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#transformers-space-title-card>)
+
+<a id="retro-collage-slop-type-comparison"></a>
+
+### Retro Collage Typography Comparison
+
+[![Three labeled collage panels: Seedance above, MiniMax H3 in the middle and Kling below](<https://pbs.twimg.com/amplify_video_thumb/2112181801460654081/img/z7b4o0FiqJOWXdDg.jpg>)](<https://x.com/AliceInfoAi/status/2112181881265696866>)
+
+A labeled three-model collage comparison contrasts oversized letters, cutouts and eyes, with MiniMax H3 in the middle panel.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare text readability, cutout layering and visual rhythm under one shared brief, keeping each model output labeled.
+
+**Shared by:** [Alice The Ai Expert](<https://x.com/AliceInfoAi>)
+
+[Original post on X](<https://x.com/AliceInfoAi/status/2112181881265696866>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#retro-collage-slop-type-comparison>)
+
+<a id="rotating-feather-wings-motion-design-comparison"></a>
+
+### Rotating Feather Wings Design Comparison
+
+[![Labeled wings comparison with MiniMax H3 above and Claude Opus 5.5 below](<https://pbs.twimg.com/amplify_video_thumb/2112233150919356416/img/S-T2Fz9pFTtLxKUV.jpg>)](<https://x.com/higgsfield_ai/status/2112233537453904320>)
+
+A labeled split-screen compares rotating feathered wings in H3 and Claude Opus 5.5, focusing on detail, lighting and depth.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the wing silhouette and rotation brief fixed, then inspect feather breakup, highlights and depth through the turn.
+
+**Shared by:** [Higgsfield AI 🧩](<https://x.com/higgsfield_ai>)
+
+[Original post on X](<https://x.com/higgsfield_ai/status/2112233537453904320>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rotating-feather-wings-motion-design-comparison>)
 
 <a id="category-workflows"></a>
 
@@ -15647,6 +15887,206 @@ Compare a native high-resolution take against low-resolution generation plus the
 **Shared by:** [tazmannner](<https://x.com/tazmannner>)
 
 [Original post on X](<https://x.com/tazmannner/status/2112709319364137152>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rescascade-low-resolution-hires-fix>)
+
+<a id="textgenerate-h3-system-prompt-workflow"></a>
+
+### TextGenerate System Prompt to H3 Video
+
+[![Two anime witches on a broom in the clip accompanying the TextGenerate workflow](<https://pbs.twimg.com/amplify_video_thumb/2112495978230284288/img/YES6YA1qn6oNjAMY.jpg>)](<https://x.com/malariadx/status/2112517940129976398>)
+
+A ComfyUI example uses a TextGenerate node with an H3-oriented system prompt and pairs its workflow screenshot with an anime clip.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the prompt-writing system instructions in the text-generation node, then review its generated H3 brief before rendering.
+
+**Shared by:** [びおめた](<https://x.com/malariadx>)
+
+[Original post on X](<https://x.com/malariadx/status/2112517940129976398>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#textgenerate-h3-system-prompt-workflow>)
+
+<a id="fasth3-omni-action-motion-audio-limits"></a>
+
+### FastH3 Omni Motion and Audio Limit Study
+
+[![Anime swordswoman in a city street from the FastH3 Omni test](<https://pbs.twimg.com/amplify_video_thumb/2112754647543021568/img/8XN6WUMQ0MShxep-.jpg>)](<https://x.com/mix_buchi_/status/2112754779978182718>)
+
+An anime-action test documents the creator’s concerns about limited motion and stereo width in an eight-step FastH3 Omni result.
+
+**Model:** FastH3 Omni (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test camera displacement, limb motion and stereo separation on the same short action brief before adopting a faster sampler.
+
+**Shared by:** [buchi\_](<https://x.com/mix_buchi_>)
+
+[Original post on X](<https://x.com/mix_buchi_/status/2112754779978182718>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-omni-action-motion-audio-limits>)
+
+<a id="fasth3-omni-lightx2v-matched-eight-step"></a>
+
+### Matched Eight-Step Omni and Turbo Test
+
+[![Two labeled running clips comparing FastH3 Omni and H3 with LightX2V Turbo](<https://pbs.twimg.com/amplify_video_thumb/2112764777009446913/img/buOctrNhkJlFBUAf.jpg>)](<https://x.com/mapte_fireball/status/2112764815613825185>)
+
+A shared-reference, prompt and seed comparison reports 301s for Omni and 313s for LightX2V Ref2V Turbo at 1024×576.
+
+**Model:** FastH3 Omni / MiniMax H3 + LightX2V Ref2V Turbo
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold reference, prompt, seed, duration and dimensions fixed, then compare both total time and motion at the same step count.
+
+**Shared by:** [まぷて](<https://x.com/mapte_fireball>)
+
+[Original post on X](<https://x.com/mapte_fireball/status/2112764815613825185>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-omni-lightx2v-matched-eight-step>)
+
+<a id="5090-omni-kitchen-vsa-ablation"></a>
+
+### RTX 5090 Omni Kitchen and VSA Ablation
+
+[![Labeled Base and Omni plus Kitchen portraits with a reference collage](<https://pbs.twimg.com/amplify_video_thumb/2112768614654992384/img/9UYYAKfxNCBc5rD3.jpg>)](<https://x.com/DeepForest_Inc/status/2112770785970413929>)
+
+A five-second R2V test compares base H3, Omni, Kitchen and VSA, reporting faster renders alongside facial artifacts.
+
+**Model:** MiniMax H3 / FastH3 Omni
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Benchmark the plain distilled model first, then add acceleration components one at a time and inspect face texture and nose artifacts.
+
+**Shared by:** [🟢DeepForest\_Studio\_AI🟢](<https://x.com/DeepForest_Inc>)
+
+[Original post on X](<https://x.com/DeepForest_Inc/status/2112770785970413929>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-omni-kitchen-vsa-ablation>)
+
+<a id="orbit-vrm-hybrid-gaussian-hair"></a>
+
+### Orbit Frames to VRM with Gaussian Hair
+
+[![Rendered female avatar in the downstream hybrid VRM and Gaussian-hair viewer](<https://pbs.twimg.com/amplify_video_thumb/2112899908156153857/img/LLXW0MSB5mjlvjBt.jpg>)](<https://x.com/megyo9/status/2112904841232327135>)
+
+A head-orbit pipeline fits a MakeHuman mesh and bakes skin textures while reconstructing only the hair as Gaussian splats.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use orbit frames for face landmarks and skin baking, isolate hair splats with a matte, then align the mesh and hair in one browser viewer.
+
+**Shared by:** [Ueda](<https://x.com/megyo9>)
+
+[Original post on X](<https://x.com/megyo9/status/2112904841232327135>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#orbit-vrm-hybrid-gaussian-hair>)
+
+<a id="4090-omni-eight-step-cafe-test"></a>
+
+### RTX 4090 Eight-Step Omni Cafe Test
+
+[![Glasses-wearing anime character holding a cup in a warm cafe](<https://pbs.twimg.com/amplify_video_thumb/2112929726943944704/img/7WgF3wGYQokVhpXc.jpg>)](<https://x.com/Alone1Moon/status/2112930098013946059>)
+
+A cafe character clip tests eight-step FastH3 Omni at 832×1248, with a reported four-minute render for fifteen seconds on an RTX 4090.
+
+**Model:** FastH3 Omni (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Use a short portrait-format performance to check facial continuity and audio before scaling up duration or resolution.
+
+**Shared by:** [Alone1M](<https://x.com/Alone1Moon>)
+
+[Original post on X](<https://x.com/Alone1Moon/status/2112930098013946059>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#4090-omni-eight-step-cafe-test>)
+
+<a id="fasth3-omni-local-spark-gallery"></a>
+
+### DGX Spark Eight-Step NVFP4 Gallery
+
+[![First-person library scene with a line-drawn tool, labeled Two Sparks and 768p](<https://pbs.twimg.com/amplify_video_thumb/2112986489202343936/img/4a8vpdvlPUQ_9Zb6.jpg>)](<https://x.com/haoailab/status/2112988929112826177>)
+
+FastVideo’s team presents clips generated on DGX Spark with an eight-step NVFP4 checkpoint and reports one- and two-Spark timings.
+
+**Model:** FastH3 Omni (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start from a short reference-and-prompt workload, record memory and complete render time, and label each gallery clip’s own resolution.
+
+**Shared by:** [Hao AI Lab](<https://x.com/haoailab>)
+
+[Original post on X](<https://x.com/haoailab/status/2112988929112826177>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-omni-local-spark-gallery>)
+
+<a id="apple-base-fasth3-sparse-attention-comparison"></a>
+
+### Apple H3 FastH3 Sparse Attention Comparison
+
+[![Four labeled portrait panels comparing H3 and FastH3 Omni with optional acceleration](<https://pbs.twimg.com/amplify_video_thumb/2113074937241972736/img/ezi1UKsgL7hQueWC.jpg>)](<https://x.com/ddalcu/status/2113077572586074297>)
+
+A labeled four-panel test contrasts base H3 and FastH3 Omni with and without extra acceleration at 832×480 and 243 frames.
+
+**Model:** MiniMax H3 / FastH3 Omni
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Label each step count and attention configuration, then compare the complete runtime and facial motion for the same output dimensions.
+
+**Shared by:** [David Dalcu](<https://x.com/ddalcu>)
+
+[Original post on X](<https://x.com/ddalcu/status/2113077572586074297>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#apple-base-fasth3-sparse-attention-comparison>)
+
+<a id="fasth3-unpruned-int8-alien-diner"></a>
+
+### Unpruned INT8 FastH3 Diner Test
+
+[![Two aliens seated across a red diner booth in the INT8 FastH3 example](<https://pbs.twimg.com/amplify_video_thumb/2113078141979664385/img/jxXUIGT13azz27lt.jpg>)](<https://x.com/realrebelai/status/2113080741034918380>)
+
+A quantization creator shares an alien-diner clip from an unpruned INT8 FastH3 build linked to the Omni GGUF repository.
+
+**Model:** FastH3 INT8 (MiniMax H3-based)
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test an unpruned quantized checkpoint on the same short scene before adjusting resolution or pruning, and log the full environment.
+
+**Shared by:** [Rebel AI](<https://x.com/realrebelai>)
+
+[Original post on X](<https://x.com/realrebelai/status/2113080741034918380>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fasth3-unpruned-int8-alien-diner>)
+
+<a id="base-dasiwa-singularity-v2-action-triptych"></a>
+
+### Base DaSiWa and Singularity V2 Action Test
+
+[![Three labeled warehouse-fighter panels: official INT8, DaSiWa Hybrid v2 and Singularity V2](<https://pbs.twimg.com/amplify_video_thumb/2113101291090214912/img/U8d0FA_cPs0uBNJ0.jpg>)](<https://x.com/mapte_fireball/status/2113101602601246785>)
+
+A labeled fifteen-second action triptych compares base H3, DaSiWa v2 and Singularity V2 for motion, dust, lighting and camera energy.
+
+**Model:** MiniMax H3 / DaSiWa v2 / Singularity V2
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the action brief and output size fixed, label every checkpoint, and inspect motion and environmental effects independently of color grading.
+
+**Shared by:** [まぷて](<https://x.com/mapte_fireball>)
+
+[Original post on X](<https://x.com/mapte_fireball/status/2113101602601246785>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#base-dasiwa-singularity-v2-action-triptych>)
 
 ## Suggest a prompt
 
