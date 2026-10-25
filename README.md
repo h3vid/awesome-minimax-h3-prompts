@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **706 verified examples**, with sources reviewed through **2026-10-24**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **728 verified examples**, with sources reviewed through **2026-10-25**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
-- [Cinematic & camera](<#category-cinematic-camera>) (93)
-- [Storyboards & sequences](<#category-storyboard>) (95)
+- [Cinematic & camera](<#category-cinematic-camera>) (99)
+- [Storyboards & sequences](<#category-storyboard>) (99)
 - [Anime & animation](<#category-anime-animation>) (55)
-- [References & consistency](<#category-reference-character>) (83)
-- [Music videos & dance](<#category-music-dance>) (81)
-- [Dialogue & audio](<#category-dialogue-audio>) (45)
+- [References & consistency](<#category-reference-character>) (86)
+- [Music videos & dance](<#category-music-dance>) (82)
+- [Dialogue & audio](<#category-dialogue-audio>) (47)
 - [Motion graphics & titles](<#category-motion-graphics>) (40)
-- [ComfyUI & workflows](<#category-workflows>) (214)
+- [ComfyUI & workflows](<#category-workflows>) (220)
 
 <a id="category-cinematic-camera"></a>
 
@@ -2680,6 +2680,134 @@ Lock the action order and obstacle spacing in previs, then compare the local H3 
 **Shared by:** [じくにーさん@AI動画の人](<https://x.com/jjjContinue>)
 
 [Original post on X](<https://x.com/jjjContinue/status/2113827821336584637>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#parkour-previs-run-jump-roll-box-vault>)
+
+<a id="vsa-upper-right-camera-drift"></a>
+
+### VSA Upper Right Camera Drift
+
+[![Two riders on a roller coaster, with one holding a MiniMax H3 sign](<https://pbs.twimg.com/amplify_video_thumb/2111873921234665472/img/XmB9JNCSKHkGuu51.jpg>)](<https://x.com/MireilleDartois/status/2111874551999283710>)
+
+An H3 VSA test reports an unwanted upper-right zoom that loses the subject across about twenty attempts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare VSA on and off with a fixed framing request; track the subject position throughout the clip.
+
+**Shared by:** [ダルトワ★TV](<https://x.com/MireilleDartois>)
+
+[Original post on X](<https://x.com/MireilleDartois/status/2111874551999283710>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#vsa-upper-right-camera-drift>)
+
+<a id="frozen-character-motionless-prompt-fragment"></a>
+
+### Frozen Character Motionless Prompt Revision
+
+[![Illustrated character suspended in a translucent ice block](<https://pbs.twimg.com/amplify_video_thumb/2113999401719050241/img/T0omYnv0wLOUcJc6.jpg>)](<https://x.com/mtArakawa/status/2113999459931783418>)
+
+A frozen-in-ice H3 study reports unwanted character movement and shares a short motion-suppression phrase suggested by Gemini.
+
+**Model:** MiniMax H3
+
+#### Published motion-suppression fragment · `en`
+
+```text
+completely motionless
+```
+
+#### How to adapt it
+
+Describe the subject as completely motionless while assigning movement only to the intended camera or environment.
+
+**Shared by:** [元荒川ちゃん❤](<https://x.com/mtArakawa>)
+
+[Original post on X](<https://x.com/mtArakawa/status/2113999459931783418>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#frozen-character-motionless-prompt-fragment>)
+
+<a id="underwater-train-whale-endless-extension"></a>
+
+### Underwater Train Whale and Station Extension
+
+[![Underwater view through train carriage windows in the completed twenty-five-second sequence](<https://pbs.twimg.com/amplify_video_thumb/2114001750541860864/img/jsL1r6WrQPJ9gl_l.jpg>)](<https://x.com/itotaiga_/status/2114031916181778603>)
+
+A twenty-five-second underwater train sequence uses five-second H3/Endless extensions, a passing whale and a final station stop.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep the carriage viewpoint consistent and introduce one parallel-moving animal in the extension; inspect the transition.
+
+**Shared by:** [伊藤大河](<https://x.com/itotaiga_>)
+
+[Original post on X](<https://x.com/itotaiga_/status/2114031916181778603>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#underwater-train-whale-endless-extension>)
+
+<a id="mars-happy-valley-flyby-input-comparison"></a>
+
+### Mars Happy Valley Flyby Input Comparison
+
+[![Happy Valley upper panel and Imagination lower panel show domed settlements in a red canyon](<https://pbs.twimg.com/amplify_video_thumb/2114161895359836160/img/zRpE1wKICINnSylF.jpg>)](<https://x.com/dkfiander/status/2114161963727257817>)
+
+Two fifteen-second Mars flybys compare Wan from a Flux still with FastH3 from a new still on an RTX PRO 6000.
+
+**Model:** FastH3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Compare a continuous flyby for terrain coherence and speed while recording the initial image separately for each model.
+
+**Shared by:** [Donnie](<https://x.com/dkfiander>)
+
+[Original post on X](<https://x.com/dkfiander/status/2114161963727257817>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mars-happy-valley-flyby-input-comparison>)
+
+<a id="rainy-neon-paper-boat-slow-push-in"></a>
+
+### Rainy Neon Paper Boat Slow Push In
+
+[![Woman in a yellow raincoat watches a paper boat on a rain-soaked neon street](<https://pbs.twimg.com/amplify_video_thumb/2114140569257525248/img/RiSX72-9GG5yFB9w.jpg>)](<https://x.com/PixelDojoAI/status/2114140603789549961>)
+
+A portrait Turbo scene animates a paper boat, rainfall, neon reflections and a raincoat-clad observer with one slow push-in.
+
+**Model:** MiniMax H3 Turbo
+
+#### Author video prompt from reply 2114140808333128127 · `en`
+
+```text
+The paper boat drifts slowly forward on the rippling water, rain falling, neon reflections shimmering, the girl in the yellow raincoat leans out of the doorway and smiles as she watches it, slow cinematic push-in
+```
+
+#### How to adapt it
+
+Assign distinct small actions to the boat, water and observer while keeping the camera move slow and singular.
+
+**Shared by:** [PixelDojo](<https://x.com/PixelDojoAI>)
+
+[Original post on X](<https://x.com/PixelDojoAI/status/2114140603789549961>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rainy-neon-paper-boat-slow-push-in>)
+
+<a id="red-ball-projectile-trajectory-study"></a>
+
+### Red Ball Projectile Trajectory Study
+
+[![Red ball on a short ledge against a plain concrete wall and floor](<https://pbs.twimg.com/amplify_video_thumb/2101640626035130368/img/Wi8h80Ayj9pjir_z.jpg>)](<https://x.com/tony_worldmodel/status/2114186434030805257>)
+
+An I2V red-ball test asks for rise, apex and fall, while reserving quantitative physics claims until image tracking is complete.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Isolate one ball against a plain background, then track its center over time before judging whether the arc follows the intended physics.
+
+**Shared by:** [Tony | World Model Lab](<https://x.com/tony_worldmodel>)
+
+[Original post on X](<https://x.com/tony_worldmodel/status/2114186434030805257>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#red-ball-projectile-trajectory-study>)
 
 <a id="category-storyboard"></a>
 
@@ -5491,6 +5619,130 @@ Repeat the same character and cafe description at each shot start, changing only
 **Shared by:** [柱子 AGI](<https://x.com/wuzhu_>)
 
 [Original post on X](<https://x.com/wuzhu_/status/2113816793982828555>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#cafe-split-bill-five-shot-character-lock>)
+
+<a id="bilingual-start-end-frame-continuity-test"></a>
+
+### Bilingual Start and End Frame Continuity Test
+
+[![Two anime characters at an outdoor cafe in the first continuity sample](<https://pbs.twimg.com/amplify_video_thumb/2113940960828932096/img/4B090v91hXIl8HWW.jpg>)](<https://x.com/dofi_combo/status/2113941122565435645>)
+
+Two thirty-second samples test Chinese and Japanese story continuity using GPT Image 2 scripts and endpoint frames with H3.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare adjacent shots around shared endpoint images, then compare identity and scene continuity separately in each language.
+
+**Shared by:** [豆腐COMBO](<https://x.com/dofi_combo>)
+
+[Original post on X](<https://x.com/dofi_combo/status/2113941122565435645>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bilingual-start-end-frame-continuity-test>)
+
+<a id="anime-evening-seven-shot-star-direction"></a>
+
+### Anime Evening Seven Shot Star Direction
+
+[![Labeled Hailuo H3 upper panel and Kling 4.0 lower panel show close-ups of a pink-haired anime character](<https://pbs.twimg.com/amplify_video_thumb/2113988431428923392/img/wj6vpoiQDQE6OyIM.jpg>)](<https://x.com/Iancu_ai/status/2113988692570456163>)
+
+A labeled H3 and Kling comparison shares a seven-shot anime prompt, ending with an explicit head tilt toward the first star.
+
+**Model:** MiniMax H3
+
+#### Full author prompt from reply 2113988696479547703 · `en`
+
+```text
+STYLE FIRST: a real Japanese TV anime, like a scene from a seasonal anime opening. Hand-drawn character animation on twos and threes, hand-inked lines that change weight, flat cel color with one hard-edged shadow tone, painted anime background art with soft brush texture. Anime compositing only: gentle backlight bloom, light leaks at sunset, depth-of-field blur on painted layers, rain drawn as thin streaks. No 3D, no CG, no glossy skin or hair, no AI polish. This applies to every shot.
+
+CHARACTER: use @[image1] as the character design sheet and match its hand-drawn look. Keep her face, violet eyes, very long straight pink hair with blunt bangs, white cropped high-neck top with black collar, oversized off-shoulder white techwear jacket with orange panels, black harness belt with white hip pouch, orange baggy cargo pants, one orange fingerless glove, white and orange sneakers. Her face stays on-model in every shot.
+
+MAIN GOAL: a 30-second calm slice-of-life showcase, no fighting. One evening in a Japanese city from golden hour to the first star. 7 shots, each about 4 seconds, each a different classic anime shot type with one slow camera move. Hard cuts. Let every shot breathe, no rushing. Her hair and jacket always move in the wind.
+
+(0–4.5s) SHOT 1, extreme wide: a city rooftop at golden hour, she sits on the railing edge, skyline and long orange sky behind her, wind lifting her hair. Slow push-in from far away.
+(4.5–8.5s) SHOT 2, extreme close-up of her violet eyes, the sunset reflected in them, a strand of pink hair crossing her face. Rack focus from the hair strand to her eyes, then she blinks once.
+(8.5–13s) SHOT 3, inside a commuter train: she stands by the window holding a strap, orange sunlight strobing across her face through passing poles. The camera tracks sideways with the train.
+(13–17s) SHOT 4, insert close-up: her gloved hand on the train window as the first raindrops hit the glass, city lights blurring behind. Slow push-in on the hand.
+(17–21.5s) SHOT 5, medium wide at a rainy bus stop at dusk: she is large in frame under the shelter beside a glowing vending machine, rain falling past the streetlight. She shakes rain off her sleeve and looks down the street. Slow pan toward her.
+(21.5–25.5s) SHOT 6, low side angle from the ground: her reflection in a puddle, her sneaker steps in and sends ripples. The camera tilts up from the side and stops on her face.
+(25.5–30s) SHOT 7, the rain stops. Side profile: she slowly tilts her head back and looks up, her chin lifting, as the clouds part and the first star appears in a deep blue sky. Slow crane up from her face to the sky and hold on the single star until the end.
+
+Sound: city ambience only, wind, train, rain, the rain fading to quiet in the last shot. No music, no voice, no text, no subtitles, no watermark, no other characters.
+```
+
+#### How to adapt it
+
+Preserve the style and character sheet while spelling out the final head tilt and camera rise; allocate enough time for every shot.
+
+**Shared by:** [Mr.Iancu](<https://x.com/Iancu_ai>)
+
+[Original post on X](<https://x.com/Iancu_ai/status/2113988692570456163>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anime-evening-seven-shot-star-direction>)
+
+<a id="arctic-pink-pebble-six-shot-dialogue"></a>
+
+### Arctic Pink Pebble Six Shot Dialogue
+
+[![Pink-pebble shoreline and glacier with a character partly visible at the left edge](<https://pbs.twimg.com/amplify_video_thumb/2114059202192891904/img/ROYr3GdIJYggLfVb.jpg>)](<https://x.com/AnkitKumar65837/status/2114060085039399095>)
+
+A fifteen-second Singularity film publishes six timed shots around a pink-pebble beach, a stone and two spoken reactions.
+
+**Model:** MiniMax H3 Singularity v1.3
+
+#### Full published six-shot prompt · `en`
+
+```text
+Cinematic, hyper-realistic 15-second film, 16:9, 24fps, shot on ARRI Alexa with 35mm and 85mm anamorphic lenses, natural film grain, shallow depth of field, smooth professional camera work.
+
+CHARACTER (keep identical to reference, do not change the face): young woman, early 20s, fair skin with natural freckles across nose and cheeks, soft grey-green eyes, auburn copper-red hair in a loose low ponytail with wavy strands framing her face, forest-green cable-knit crew-neck sweater, dark charcoal straight-leg jeans, brown leather belt with brass buckle, tall knee-high brown leather riding boots. Same face, same facial structure, same freckles, same hairstyle and same outfit in every shot. Natural skin texture, no makeup look.
+
+ENVIRONMENT (match scene reference): a magical arctic shoreline covered in smooth polished pink, rose, cream and white pebbles, a small clear tide pool in the pebbles, crystal turquoise water with gentle foaming waves, a huge blue-white glacier wall across the bay, snow-covered jagged mountains, dark rock spires draped in golden kelp, small floating icebergs. Soft champagne-gold sunlight, warm golden-hour glow mixed with cool glacier blue, high clouds glowing champagne color, a beautiful blend of pink, turquoise, gold and white, sparkling light on water and wet stones, light sea breeze moving her hair. Vibrant, colorful, dreamy but fully photorealistic.
+
+SHOT 1 (0–4s) — Wide establishing shot, [Tracking shot, slow push in]: she walks in from the left side of frame onto the pink pebble beach with relaxed, natural steps, pebbles shifting and clicking under her boots, hair gently moving in the breeze. She slows down and stops, slowly turns her head from the mountains to the glacier, eyes wide with wonder, lips parting into a soft amazed smile.
+
+SHOT 2 (4–5.5s) — Cut to medium close-up from the front, [Static]: golden light on her freckled face, she exhales in amazement and says clearly with natural lip sync: "Wow, it's very beautiful."
+
+SHOT 3 (5.5–8s) — Cut to medium shot, side angle, [Slight tilt down]: she walks two steps to the edge of the tide pool, bends her knees and crouches down naturally, balancing on her boots. She reaches out and gently touches a glossy wet pink stone with her fingertips, then carefully picks it up and looks at it with curiosity.
+
+SHOT 4 (8–10s) — Cut to extreme close-up, [Slow push in]: the smooth wet pink stone resting in her freckled fingers, tiny water droplets sliding off, marble-like rose and cream veins, champagne sunlight glinting on its polished surface. Her thumb slowly rubs across the stone. Background softly blurred into turquoise and gold bokeh.
+
+SHOT 5 (10–12.5s) — Cut to medium-wide shot from behind at a three-quarter angle, [Tracking shot]: she stands up holding the stone, walks toward the sea and steps slowly into the shallow crystal-clear water up to her ankles, small ripples and gentle splashes around her boots, ponytail swaying, glacier glowing ahead, sunlight sparkling across the water.
+
+SHOT 6 (12.5–15s) — Cut to medium close-up from the front, [Slow pull out]: standing in the shimmering water with the glacier and snowy mountains behind her, holding the pink stone close to her chest, she looks up at the view with a joyful, emotional smile and says with natural lip sync: "Wow, I really love this place." The camera keeps pulling back to show her small in the vast colorful landscape.
+
+Realistic human movement, natural weight shifts, correct balance when crouching and standing, realistic hand and finger anatomy, realistic water physics, smooth cinematic cuts, consistent lighting and the same character in every shot.
+```
+
+#### How to adapt it
+
+Keep identity and wardrobe fixed while alternating wide action, dialogue close-ups and a tactile stone insert.
+
+**Shared by:** [Ankit Kumar](<https://x.com/AnkitKumar65837>)
+
+[Original post on X](<https://x.com/AnkitKumar65837/status/2114060085039399095>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#arctic-pink-pebble-six-shot-dialogue>)
+
+<a id="halloween-ghost-train-boarding-prompt"></a>
+
+### Halloween Ghost Train Boarding Prompt
+
+[![Anime character waiting on a dim railway platform at dusk](<https://pbs.twimg.com/amplify_video_thumb/2114107075122872320/img/IFhAi7Ac5tiE6vTP.jpg>)](<https://x.com/maell55/status/2114107763567849871>)
+
+A short Turbo prompt stages an empty station, arriving ghost train, skeleton conductor and departure into fog.
+
+**Model:** MiniMax H3 Turbo
+
+#### Published video prompt after the model label · `en`
+
+```text
+Anime girl waits at an empty station. A ghostly train arrives, doors open. Conductor (skeleton in uniform) tips his hat. She steps in — the train vanishes into fog. 14 seconds exactly.
+```
+
+#### How to adapt it
+
+Keep the event order explicit and give boarding enough time before the final disappearance.
+
+**Shared by:** [maell55 freedom speech true right side of history](<https://x.com/maell55>)
+
+[Original post on X](<https://x.com/maell55/status/2114107763567849871>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#halloween-ghost-train-boarding-prompt>)
 
 <a id="category-anime-animation"></a>
 
@@ -8690,6 +8942,66 @@ Isolate the costume change from the identity reference and check each assembled 
 
 [Original post on X](<https://x.com/TheRealOmgItsGB/status/2113787254141497564>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mass-effect-outfit-transfer-work-in-progress>)
 
+<a id="dance-reference-accessory-leakage-comparison"></a>
+
+### Dance Reference Accessory Leakage Comparison
+
+[![Seedance 2.5 above MiniMax H3 in a labeled dancer comparison](<https://pbs.twimg.com/amplify_video_thumb/2113246684457336832/img/46qtYCA0Y226_vt0.jpg>)](<https://x.com/adamwwen/status/2113249705807507657>)
+
+Local quantized H3 and hosted Seedance reuse one dancer reference, exposing timing differences and unwanted accessory transfer.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Separate identity, costume and motion requirements, then check for reference-video accessories that should not transfer.
+
+**Shared by:** [adam](<https://x.com/adamwwen>)
+
+[Original post on X](<https://x.com/adamwwen/status/2113249705807507657>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#dance-reference-accessory-leakage-comparison>)
+
+<a id="distant-face-bf16-int8-refinement-test"></a>
+
+### Distant Face BF16 and INT8 Refinement Test
+
+[![Before face refine and after face refine panels show a woman carrying a red can at a night gas station](<https://pbs.twimg.com/amplify_video_thumb/2113331235028107264/img/8bUD3PyjGU_Vv0Us.jpg>)](<https://x.com/Nyxelarm/status/2113331990434869555>)
+
+A gas-station walk tests distant-face distortion with BF16, INT8 and a separate Singularity turbo refinement workflow.
+
+**Model:** MiniMax H3 FeiHou Remix / Singularity
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test face identity at the opening distance as well as close up; keep seed and camera path fixed when comparing variants.
+
+**Shared by:** [Nyxelarm](<https://x.com/Nyxelarm>)
+
+[Original post on X](<https://x.com/Nyxelarm/status/2113331990434869555>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#distant-face-bf16-int8-refinement-test>)
+
+<a id="physical-disguise-neck-failure-low-resolution"></a>
+
+### Physical Disguise Neck Failure at Lower Resolution
+
+[![Purple-haired anime character in dark armor at the opening of the disguise clip](<https://pbs.twimg.com/amplify_video_thumb/2113904634238799873/img/xTO6KDDWVIXMy0Is.jpg>)](<https://x.com/uraha_namikaze/status/2113905470935285946>)
+
+An anime disguise test keeps a visible neck failure and lowers the target from 0.8 to roughly 0.4 megapixels for more iterations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Inspect the neck and costume boundary during a physical disguise action before spending more time on higher resolution.
+
+**Shared by:** [波風 裏葉](<https://x.com/uraha_namikaze>)
+
+[Original post on X](<https://x.com/uraha_namikaze/status/2113905470935285946>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#physical-disguise-neck-failure-low-resolution>)
+
 <a id="category-music-dance"></a>
 
 ## MiniMax H3 Music Video & Dance Prompts
@@ -10385,6 +10697,26 @@ Keep a medium shot and moderate face/body motion while switching backgrounds on 
 **Shared by:** [启明破晓](<https://x.com/hiwise_aigc>)
 
 [Original post on X](<https://x.com/hiwise_aigc/status/2113790072785133933>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#rtx5060-eight-background-dance-step-tradeoff>)
+
+<a id="fifteen-years-pet-memorial-music-film"></a>
+
+### Fifteen Years Pet Memorial Music Film
+
+[![Dark coastal town and sea at sunset in the memorial film opening](<https://pbs.twimg.com/amplify_video_thumb/2114136432118034432/img/jb0WpWcaRptNDSYu.jpg>)](<https://x.com/SeiraHisada/status/2114136962332590365>)
+
+A three-minute-plus memorial film combines native Ref2VA at eight steps with Suno music and Python/FFmpeg editing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Organize a memorial around recurring locations and absence, then assemble short Ref2VA scenes around a separately produced song.
+
+**Shared by:** [久田誠良(Seira Hisada)](<https://x.com/SeiraHisada>)
+
+[Original post on X](<https://x.com/SeiraHisada/status/2114136962332590365>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fifteen-years-pet-memorial-music-film>)
 
 <a id="category-dialogue-audio"></a>
 
@@ -12175,6 +12507,48 @@ Supply scene intent, reference art and dialogue to the agent, correcting speech 
 **Shared by:** [こんにゃく妹子(karaage53)](<https://x.com/konnyakuimoko12>)
 
 [Original post on X](<https://x.com/konnyakuimoko12/status/2113799346416456037>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#antigravity-band-dialogue-background-drift>)
+
+<a id="japanese-dialogue-rephrase-pronunciation-repair"></a>
+
+### Japanese Dialogue Rephrasing for Pronunciation
+
+A local H3 dialogue workflow replaces a troublesome Japanese verb after kanji and kana spellings both produce reported errors.
+
+**Model:** MiniMax H3
+
+#### Reported successful dialogue fragment · `ja`
+
+```text
+〇〇の前を走らないようにしてます
+```
+
+#### How to adapt it
+
+Test kanji and kana before rewriting a line; confirm the revised meaning is still acceptable and listen to the entire sentence.
+
+**Shared by:** [akiraxx](<https://x.com/theeakiraxx>)
+
+[Original post on X](<https://x.com/theeakiraxx/status/2113925967974367698>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#japanese-dialogue-rephrase-pronunciation-repair>)
+
+<a id="omniref-anime-fish-audio-whisper-stack"></a>
+
+### OmniRef Anime Fish Audio and Whisper Stack
+
+[![Blonde anime character speaking with an English subtitle in the preview](<https://pbs.twimg.com/amplify_video_thumb/2114153611366203392/img/NeeHsliiB7XoaB-d.jpg>)](<https://x.com/varien/status/2114155500971360743>)
+
+An anime dialogue sample separates FastH3 OmniRef video, SeedVR2 finishing, Fish Audio Drama 3 and Whisper subtitles.
+
+**Model:** FastH3 OmniRef
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Document video generation, upscaling, dialogue audio and subtitles as separate stages when building a talking-character pipeline.
+
+**Shared by:** [VARIEN](<https://x.com/varien>)
+
+[Original post on X](<https://x.com/varien/status/2114155500971360743>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#omniref-anime-fish-audio-whisper-stack>)
 
 <a id="category-motion-graphics"></a>
 
@@ -17165,7 +17539,7 @@ A custom ComfyUI node expands a short Japanese brief with Claude into an English
 
 #### How to adapt it
 
-Compare a short brief and an expanded brief with the same seed, tracking shot order and camera behavior rather than assuming longer is better.
+Compare rewrites with the same seed, and pass reference images to the prompt writer as well as the video generator.
 
 **Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
 
@@ -17506,6 +17880,124 @@ Compare output frames at twenty, thirty and forty steps, recording hardware and 
 **Shared by:** [オーディオ目玉親父](<https://x.com/Messa_Audio>)
 
 [Original post on X](<https://x.com/Messa_Audio/status/2113804203378573412>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bf16-twenty-thirty-forty-step-still-study>)
+
+<a id="5090-omni-face-refiner-upscale-budget"></a>
+
+### RTX 5090 Omni Face Refiner and Upscale Budget
+
+[![Woman in a denim outfit on a sofa in the Omni test preview](<https://pbs.twimg.com/amplify_video_thumb/2113871582938701824/img/GtF-Boc4TAKaVfVZ.jpg>)](<https://x.com/ai_haruki3/status/2113875942825198036>)
+
+An eight-second Omni test separates roughly three minutes of generation, three of face refinement and twelve of 4K upscaling.
+
+**Model:** FastH3 Omni
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Measure generation, face refinement and final upscaling separately; skip costly finishing stages when a close shot already works.
+
+**Shared by:** [HARUKI KAWAI｜AI美女クリエーター](<https://x.com/ai_haruki3>)
+
+[Original post on X](<https://x.com/ai_haruki3/status/2113875942825198036>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-omni-face-refiner-upscale-budget>)
+
+<a id="h3-veo-shared-frame-four-frame-dissolve"></a>
+
+### H3 to Veo Shared Frame and Four Frame Dissolve
+
+[![Before comparison card above two anime character crops at the H3 to Veo handoff](<https://pbs.twimg.com/amplify_video_thumb/2113985525057245184/img/tqArtRLihoP6vn5W.jpg>)](<https://x.com/kb0plv/status/2113985546032959732>)
+
+A shared turn-around frame joins H3 to Veo, with scale and color matching followed by a four-frame dissolve.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Reuse a common endpoint image, align scale and brightness, then apply a short dissolve and inspect the junction at normal speed.
+
+**Shared by:** [ヤロウ](<https://x.com/kb0plv>)
+
+[Original post on X](<https://x.com/kb0plv/status/2113985546032959732>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-veo-shared-frame-four-frame-dissolve>)
+
+<a id="radeon-9060xt-sdcpp-vulkan-limitations"></a>
+
+### Radeon RX 9060 XT sd.cpp Vulkan Limitations
+
+[![sd.cpp interface and paired anime previews in a desktop screenshot](<https://pbs.twimg.com/media/HVZ46aXaIAAklxw.jpg>)](<https://x.com/MetantanPower/status/2114013100332773571>)
+
+A Radeon RX 9060 XT test reports H3 video generation through sd.cpp Vulkan with size, duration, speed and blur limitations.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with a short low-resolution sample on Vulkan and record actual dimensions, duration and runtime before scaling up.
+
+**Shared by:** [みーたんたん＠taitanpower](<https://x.com/MetantanPower>)
+
+[Original post on X](<https://x.com/MetantanPower/status/2114013100332773571>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#radeon-9060xt-sdcpp-vulkan-limitations>)
+
+<a id="four-spark-llm-comfyui-memory-sharing"></a>
+
+### Four Spark LLM and ComfyUI Memory Sharing
+
+[![Concept graphic labeled one LLM plus four studios above four DGX Sparks](<https://pbs.twimg.com/media/HVbgjSVWsAA6w4v.jpg>)](<https://x.com/Tech2Wild/status/2114124105297318074>)
+
+A creator cohosts a TP4 DeepSeek model and four Qwen Image/H3 ComfyUI studios across four DGX Sparks.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Budget shared memory across text, image and video services and confirm which model remains resident during each job.
+
+**Shared by:** [Tech2Wild](<https://x.com/Tech2Wild>)
+
+[Original post on X](<https://x.com/Tech2Wild/status/2114124105297318074>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#four-spark-llm-comfyui-memory-sharing>)
+
+<a id="bf16-int8-no-lora-render-time-tradeoff"></a>
+
+### BF16 and INT8 No LoRA Render Time Tradeoff
+
+[![Labeled BF16 left and Singularity 8-bit right panels show the same seated woman](<https://pbs.twimg.com/amplify_video_thumb/2114167430733762560/img/Tbvn9zzMpWpq4Ina.jpg>)](<https://x.com/EndFolding79421/status/2114167757633724701>)
+
+A matched-seed fifteen-second I2V test reports BF16 taking 39m08s versus Singularity INT8 at 27m49s, without LoRAs.
+
+**Model:** MiniMax H3 BF16 / Singularity INT8
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold prompt, seed, first frame and step count constant, then compare skin detail at matching timestamps against total runtime.
+
+**Shared by:** [FoldingEnd A.I.](<https://x.com/EndFolding79421>)
+
+[Original post on X](<https://x.com/EndFolding79421/status/2114167757633724701>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#bf16-int8-no-lora-render-time-tradeoff>)
+
+<a id="video-frame-feedback-scoped-prompt-repair"></a>
+
+### Video Frame Feedback for Scoped Prompt Repair
+
+A creator feeds H3 frames and one correction to Claude Code, accepting scoped prompt edits to stop a golf ball from rolling.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Give the editor representative output frames, a single observed failure and an explicit edit boundary; inspect the diff before rerendering.
+
+**Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
+
+[Original post on X](<https://x.com/Phantom_202601/status/2114190210661826672>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#video-frame-feedback-scoped-prompt-repair>)
 
 ## Suggest a prompt
 
