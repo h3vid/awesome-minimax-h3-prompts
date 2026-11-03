@@ -5,18 +5,18 @@ A curated collection of MiniMax H3 video prompts and notable creator examples, w
 
 **[Browse the visual gallery](<https://h3vid.app/minimax-h3-prompts>)** · [Open the MiniMax H3 Prompt Generator](<https://h3vid.app/minimax-h3-prompt-generator>)
 
-The collection currently contains **728 verified examples**, with sources reviewed through **2026-10-25**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
+The collection currently contains **740 verified examples**, with sources reviewed through **2026-11-03**. Examples are grouped by creative task, with supporting workflows at the end. Each group keeps its editorial order. Some creators publish full prompts, while others share fragments or workflow examples.
 
 ## Browse by category
 
 - [Cinematic & camera](<#category-cinematic-camera>) (99)
-- [Storyboards & sequences](<#category-storyboard>) (99)
-- [Anime & animation](<#category-anime-animation>) (55)
+- [Storyboards & sequences](<#category-storyboard>) (100)
+- [Anime & animation](<#category-anime-animation>) (56)
 - [References & consistency](<#category-reference-character>) (86)
-- [Music videos & dance](<#category-music-dance>) (82)
-- [Dialogue & audio](<#category-dialogue-audio>) (47)
-- [Motion graphics & titles](<#category-motion-graphics>) (40)
-- [ComfyUI & workflows](<#category-workflows>) (220)
+- [Music videos & dance](<#category-music-dance>) (83)
+- [Dialogue & audio](<#category-dialogue-audio>) (48)
+- [Motion graphics & titles](<#category-motion-graphics>) (41)
+- [ComfyUI & workflows](<#category-workflows>) (227)
 
 <a id="category-cinematic-camera"></a>
 
@@ -5744,6 +5744,26 @@ Keep the event order explicit and give boarding enough time before the final dis
 
 [Original post on X](<https://x.com/maell55/status/2114107763567849871>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#halloween-ghost-train-boarding-prompt>)
 
+<a id="clips-of-theseus-background-shot-replacement"></a>
+
+### Clips of Theseus Background Shot Replacement
+
+[![The Clips of Theseus interface with an ancient boat, five shot thumbnails and a 100 percent original indicator](<https://pbs.twimg.com/amplify_video_thumb/2117325385272815616/img/pHj-HiJf5t9ZMjBx.jpg>)](<https://x.com/gcduncombe/status/2117328200296776179>)
+
+A looping film regenerates each played shot from the same prompt and character references while preserving a visible history of old takes.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Keep a stable shot list and character references; queue replacements during playback, swap in completed clips and retain prior versions for continuity review.
+
+**Shared by:** [Gabi C. Duncombe](<https://x.com/gcduncombe>)
+
+[Original post on X](<https://x.com/gcduncombe/status/2117328200296776179>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#clips-of-theseus-background-shot-replacement>)
+
 <a id="category-anime-animation"></a>
 
 ## MiniMax H3 Anime & Character Animation Prompts
@@ -7143,6 +7163,26 @@ Describe the desired emotional strength and escape mechanism separately, then co
 **Shared by:** [フースイ@AIイラスト](<https://x.com/ai_t2i_231>)
 
 [Original post on X](<https://x.com/ai_t2i_231/status/2113601336117731568>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#noah-escape-twist-versus-shove-iteration>)
+
+<a id="pixel-grid-32-color-twelve-fps-postprocess"></a>
+
+### Pixel Grid Thirty Two Color and Twelve FPS Repair
+
+[![Labeled comparison of unchanged H3 pixel art on the left and grid, 32-color, 12-fps postprocessing on the right, with enlarged edge details](<https://pbs.twimg.com/amplify_video_thumb/2114916135728787456/img/gp__5-LzgXbxrOkq.jpg>)](<https://x.com/airi_ai_navi/status/2114916317459599387>)
+
+A local FastH3 pixel-art comparison restores the grid, limits the palette to 32 colors and reduces playback from 24 to 12 fps.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Inspect enlarged pixel edges, then apply grid alignment, palette reduction and a deliberate low frame cadence after generation; compare the same animation before and after.
+
+**Shared by:** [あいり🤖AI実用](<https://x.com/airi_ai_navi>)
+
+[Original post on X](<https://x.com/airi_ai_navi/status/2114916317459599387>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#pixel-grid-32-color-twelve-fps-postprocess>)
 
 <a id="category-reference-character"></a>
 
@@ -8606,7 +8646,7 @@ He performs exactly the same body movement, posture, head turns, gestures, timin
 
 #### How to adapt it
 
-Match output duration to the motion reference and add identity coverage; inspect the final action and face consistency across the clip.
+Match output duration to the motion reference and inspect face drift. The author later reports better identity with more photos on a different subject; test reference coverage with the subject held fixed.
 
 **Shared by:** [ΞLB𝐔𝐌𝐏𝐘](<https://x.com/ELBUMPY>)
 
@@ -10718,6 +10758,26 @@ Organize a memorial around recurring locations and absence, then assemble short 
 
 [Original post on X](<https://x.com/SeiraHisada/status/2114136962332590365>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#fifteen-years-pet-memorial-music-film>)
 
+<a id="compost-city-rebuilt-aspect-ratio-mv"></a>
+
+### Compost City Rebuilt Widescreen and Vertical MV
+
+[![COMPOST CITY interface preview showing widescreen and vertical cartoon factory frames above the edit timeline](<https://pbs.twimg.com/amplify_video_thumb/2114750491108495360/img/zRqp2pavVkCC6ogN.jpg>)](<https://x.com/EchoxStudio/status/2114751628515692637>)
+
+A music-video workflow rebuilds shot images and H3 clips for widescreen while retaining the vertical version’s song edit timing.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Start with stems and timed lyrics, reuse character and location sheets, rebuild each shot image for the new frame and regenerate clips against the same cut times.
+
+**Shared by:** [EchoxStudio](<https://x.com/EchoxStudio>)
+
+[Original post on X](<https://x.com/EchoxStudio/status/2114751628515692637>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#compost-city-rebuilt-aspect-ratio-mv>)
+
 <a id="category-dialogue-audio"></a>
 
 ## MiniMax H3 Dialogue, Lip Sync & Audio Prompts
@@ -12550,6 +12610,26 @@ Document video generation, upscaling, dialogue audio and subtitles as separate s
 
 [Original post on X](<https://x.com/varien/status/2114155500971360743>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#omniref-anime-fish-audio-whisper-stack>)
 
+<a id="apple-economics-dialogue-prep-j-cut"></a>
+
+### Apple Economics Dialogue Prep and J Cut
+
+[![Apple Economics J-cut explainer title card with an anime man and Japanese text saying voice first and appearance later](<https://pbs.twimg.com/media/HVoYzCoa0AE9IwL.jpg>)](<https://x.com/sairin_hamumu/status/2115030269963198594>)
+
+An anime maker prepares Irodori-TTS dialogue for H3 lip sync, then uses ducking and J-cuts to carry speech across visual inserts.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Normalize character dialogue before using it with a start image and H3 audio reference; render the complete speaking shot, then overlay inserts while retaining the speech lead-in.
+
+**Shared by:** [さいり🥚AI Creator](<https://x.com/sairin_hamumu>)
+
+[Original post on X](<https://x.com/sairin_hamumu/status/2115030269963198594>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#apple-economics-dialogue-prep-j-cut>)
+
 <a id="category-motion-graphics"></a>
 
 ## MiniMax H3 Motion Graphics & Title Examples
@@ -13561,6 +13641,26 @@ Use a short brand word and clear material/color references, then check letter sh
 **Shared by:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
 
 [Original post on X](<https://x.com/Naonekozamurai/status/2113820272537325895>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#mcp-glossy-minimax-letterform-animation>)
+
+<a id="python-letterbox-as-physical-scene"></a>
+
+### Python Letterbox as a Physical Scene
+
+[![Letterboxed train-and-bridge frame from the edited H3 and Python black-bar experiment](<https://pbs.twimg.com/amplify_video_thumb/2115778579506294784/img/GbzBzWHbLlP8GSA0.jpg>)](<https://x.com/aicreataro/status/2115779275832136052>)
+
+An H3 and Python experiment turns black letterbox bars into surfaces that a character crosses, lands on, grinds along and breaks.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Plan the character’s occlusion against the frame bars, then coordinate the Python bar animation with landing, grind and break beats in the H3 footage.
+
+**Shared by:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original post on X](<https://x.com/aicreataro/status/2115779275832136052>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#python-letterbox-as-physical-scene>)
 
 <a id="category-workflows"></a>
 
@@ -17985,7 +18085,7 @@ Hold prompt, seed, first frame and step count constant, then compare skin detail
 
 ### Video Frame Feedback for Scoped Prompt Repair
 
-A creator feeds H3 frames and one correction to Claude Code, accepting scoped prompt edits to stop a golf ball from rolling.
+A creator uses frame feedback, scoped prompt edits and same-seed H3 reruns to correct composition, flags, extra balls and foreground trees.
 
 **Model:** MiniMax H3
 
@@ -17993,11 +18093,147 @@ A creator feeds H3 frames and one correction to Claude Code, accepting scoped pr
 
 #### How to adapt it
 
-Give the editor representative output frames, a single observed failure and an explicit edit boundary; inspect the diff before rerendering.
+Give the editor output frames, one correction and an explicit edit boundary. Inspect the prompt diff and rerun with the same seed before changing the next issue.
 
 **Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
 
 [Original post on X](<https://x.com/Phantom_202601/status/2114190210661826672>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#video-frame-feedback-scoped-prompt-repair>)
+
+<a id="flowhmr-agent-mocap-render-refinement"></a>
+
+### FlowHMR Agent Mocap to H3 Refinement
+
+An agent reconstructs a scene, extracts FlowHMR motion, retargets and renders it, then uses H3 for photorealistic refinement.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Recover motion from source footage, inspect the retargeted 3D render and camera first, then use H3 for the appearance pass while checking contact and timing.
+
+**Shared by:** [Zhanke Wang](<https://x.com/zkwang07>)
+
+[Original post on X](<https://x.com/zkwang07/status/2114407106132758658>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#flowhmr-agent-mocap-render-refinement>)
+
+<a id="5090-five-speedups-warm-median-study"></a>
+
+### RTX 5090 Five Speedups Warm Median Study
+
+[![Stock H3 diner lane in a labeled RTX 5090 comparison, showing 129 seconds and the median of four warm runs](<https://pbs.twimg.com/amplify_video_thumb/2114481682078208000/img/gAdurb10AmG1J-uZ.jpg>)](<https://x.com/BennyDaBall_OG/status/2114482374448980275>)
+
+A five-second diner study compares stock H3 and acceleration stacks using warm-run medians, with separate motion and scoring caveats.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Hold scene, seeds and resolution fixed; exclude warm-up, time four runs per lane and inspect motion and speech separately from still-frame VLM scores.
+
+**Shared by:** [BennyDaBall](<https://x.com/BennyDaBall_OG>)
+
+[Original post on X](<https://x.com/BennyDaBall_OG/status/2114482374448980275>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-five-speedups-warm-median-study>)
+
+<a id="h3-street-camera-solve-vrm-composite"></a>
+
+### H3 Street Camera Solve and VRM Composite
+
+[![Edited Halloween workflow preview with a VRM-style dancer, blue-and-orange street and HEY lettering](<https://pbs.twimg.com/amplify_video_thumb/2114566829171744768/img/KyCUMxSTvIr4raja.jpg>)](<https://x.com/balaena01/status/2114628598149616080>)
+
+A Halloween dance composites a VRM character onto six H3 street shots, using road lines for camera recovery and Blender shadows.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Generate the background plates, solve camera perspective from road lines and composite a separate VRM performance with matched shadows and wet-ground reflections.
+
+**Shared by:** [Kujirachan/くじら](<https://x.com/balaena01>)
+
+[Original post on X](<https://x.com/balaena01/status/2114628598149616080>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#h3-street-camera-solve-vrm-composite>)
+
+<a id="hyperflow-infinity-memory-directed-film"></a>
+
+### HyperFlow Infinity Memory Directed Film
+
+[![Alice reads beside a river with a small rabbit in the HyperFlow Infinity film preview](<https://pbs.twimg.com/amplify_video_thumb/2114330231914070016/img/-id25l5Nwnn0QNQW.jpg>)](<https://x.com/video_rebirth/status/2114331341806592422>)
+
+HyperFlow Infinity generates a shot, reviews it, updates scene memory and directs the next, demonstrated with an hour-long Alice film.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Define an opening situation and character identity, then inspect the scene memory and each generated segment before continuing the recursive story.
+
+**Shared by:** [VIDEO REBIRTH](<https://x.com/video_rebirth>)
+
+[Original post on X](<https://x.com/video_rebirth/status/2114331341806592422>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#hyperflow-infinity-memory-directed-film>)
+
+<a id="anymove-h3-dual-view-dinov2-joints"></a>
+
+### Anymove H3 Dual View and DINOv2 Joints
+
+[![Anymove demonstration montage with dragon, spider, wolf and winged demon rig renders on gray backgrounds](<https://pbs.twimg.com/amplify_video_thumb/2115003287779061760/img/cXktxbj59hwCjpRK.jpg>)](<https://x.com/rehan_shei/status/2115003471015588021>)
+
+Anymove uses H3 Max front-and-side motion video and a fine-tuned DINOv2 tracker to animate nonhuman rigged assets.
+
+**Model:** MiniMax H3 Max
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Prepare a rigged nonhuman asset and train its joint detector, generate synchronized front and side motion views, then inspect recovered joints and final rig contact.
+
+**Shared by:** [Rehan Sheikh](<https://x.com/rehan_shei>)
+
+[Original post on X](<https://x.com/rehan_shei/status/2115003471015588021>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#anymove-h3-dual-view-dinov2-joints>)
+
+<a id="5090-frozen-latent-vae-seven-run-study"></a>
+
+### RTX 5090 Frozen Latent VAE Seven Run Study
+
+[![Labeled H3 decoder comparison preview showing a diner scene, stock FP16, frozen latents and seven warm runs](<https://pbs.twimg.com/amplify_video_thumb/2115874001968902145/img/9AY6739BTu57ybTM.jpg>)](<https://x.com/BennyDaBall_OG/status/2115874694427512982>)
+
+A frozen-latent H3 study compares decoder-only warm medians, visual differences and memory costs across stock, Sol and LightVAE.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Freeze the video latents, change only the decoder and record seven warm decode runs; compare fast-motion artifacts and VRAM separately from total generation time.
+
+**Shared by:** [BennyDaBall](<https://x.com/BennyDaBall_OG>)
+
+[Original post on X](<https://x.com/BennyDaBall_OG/status/2115874694427512982>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#5090-frozen-latent-vae-seven-run-study>)
+
+<a id="tessera-two-gpu-regeneration-boundary-report"></a>
+
+### Tessera Two GPU Regeneration Boundary Report
+
+A three-second Tessera test completes after moving the text encoder to a second GPU, with smoother texture but altered face and hands.
+
+**Model:** MiniMax H3
+
+*The creator did not publish the full prompt for this example.*
+
+#### How to adapt it
+
+Test a short source first, record host RAM as well as VRAM and separate the text encoder if needed; compare regenerated faces and hands against ordinary upscalers.
+
+**Shared by:** [Phantom｜錬金学総論](<https://x.com/Phantom_202601>)
+
+[Original post on X](<https://x.com/Phantom_202601/status/2117378957322641671>) · [View in the H3Vid gallery](<https://h3vid.app/minimax-h3-prompts#tessera-two-gpu-regeneration-boundary-report>)
 
 ## Suggest a prompt
 
